@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>操作系统课程设计</title>
+<link rel="icon" type="image/x-icon" href="img/linuxicon.png"/>
+<link rel="stylesheet" href="index.css" type="text/css" />
+<link rel="stylesheet" href="tooltip.css" type="text/css" />
+<link rel="stylesheet" href="RightWindowDropDown.css" type="text/css" />
+<link rel="stylesheet" href="myfiletree.css" type="text/css" />
+<script src="jquery-3.3.1.js"></script>
+
+</head>
+<body>
+	<header>
+		<div class="myMenuTitle">
+			linux0.11运行可视化
+		</div>
+		<div class="myRightMenu">
+			<a class="myHeaderNav">Nav1</a>
+			<a class="myHeaderNav">Nav2</a>
+		</div>
+	
+	</header>
+	<div id="myMainBody">
+		<div id="myFileAndMemory">
+			<div id="myFile">
+				<div id="linuxSrcFolderDiv" class="myFileFolders" style="width:50px; float:left;">
+					<div class="myFolderType" id="linuxSrcFolder">
+						<img src="img/linux.png"/>
+						<div class="myFolderName">
+							<span>linux<br/>0.11</span>
+						</div>
+					</div>
+				</div>
+				<div id="linuxSrcFolderDiv" class="myFileFolders" style="width:80px; margin-left:50px;">
+					<div class="myFolderType">
+						<img src="img/folder.png"/>
+						<div class="myFolderName">
+							<span>boot</span>
+						</div>
+					</div>
+					<div class="myFolderType">
+						<img src="img/folder.png"/>
+						<div class="myFolderName">
+							<span>fs</span>
+						</div>
+					</div>
+					<div class="myFolderType">
+						<img src="img/folder.png"/>
+						<div class="myFolderName">
+							<span>include</span>
+						</div>
+					</div>
+					<div class="myFolderType">
+						<img src="img/folder.png"/>
+						<div class="myFolderName">
+							<span>init</span>
+						</div>
+					</div>
+					<div class="myFolderType">
+						<img src="img/folder.png"/>
+						<div class="myFolderName">
+							<span>kernel</span>
+						</div>
+					</div>
+					<div class="myFolderType">
+						<img src="img/folder.png"/>
+						<div class="myFolderName">
+							<span>lib</span>
+						</div>
+					</div>
+					<div class="myFolderType">
+						<img src="img/folder.png"/>
+						<div class="myFolderName">
+							<span>mm</span>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+			<div id="myMemory">
+				<header>
+					<a>内存使用状态</a>
+					<span style="float:right;">
+						<a>正在执行地址: <span>0x0000000</span></a>
+						<a>内存读写地址: <span>0x0000000</span></a>
+					</span>
+					
+				</header>
+				<p style="font-size: 40px;">内存使用状态</p>
+			</div>
+		</div>
+		<div id="myExecute">
+			<div id="myLogWindow">
+				<header id="myLogHeader">
+					<img class="myIcon" src="img/logheader.png" alt="Log"/>
+					Debug Log
+					<div class="myRightMenu">
+						<div class="dropdown">
+							<div class="dropbtn">选项</div>
+							<div class="dropdown-content">
+								<a>选项1</a>
+								<a>选项2</a>
+								<a>选项3</a>
+							</div>
+						</div>
+					</div>
+				</header>
+				<div id="myLogButtonBar">
+					<div class="tooltip">
+						<img class="myIcon" style="margin-left:5px;" src="img/starticon.png" alt="start">
+						<span class="tooltiptext">开始</span>
+					</div>
+					<div class="tooltip">
+						<img class="myIcon" style="margin-left:5px;" src="img/pauseicon.png" alt="pause">
+						<span class="tooltiptext">暂停</span>
+					</div>
+					<div class="tooltip">
+						<img class="myIcon" style="margin-left:5px;" src="img/stopicon.png" alt="stop">
+						<span class="tooltiptext">停止</span>
+					</div>
+					<div class="tooltip">
+						<img class="myIcon" style="margin-left:5px;" src="img/rewinddown.png" alt="rewind">
+						<span class="tooltiptext">后退</span>
+					</div>
+					<div class="tooltip">
+						<img class="myIcon" style="margin-left:5px;" src="img/speedicon.png" alt="speed">
+						<span class="tooltiptext">前进</span>
+					</div>
+				</div>
+				<div id="myLogWindowOutput">
+				
+					<div class="myLogItem">
+						Debug Log Message.
+					</div>
+					<div class="myLogItem">
+						Debug Log Message.
+					</div>
+					<div class="myLogItem">
+						Debug Log Message.
+					</div> 
+					<div class="myLogItem">
+						Debug Log Message.
+					</div> 
+					<div class="myLogItem">
+						Debug Log Message.
+					</div> 
+					<div class="myLogItem">
+						Debug Log Message.
+					</div>
+					<div class="myLogItem">
+						Debug Log Message.
+					</div>
+					<div class="myLogItem">
+						Debug Log Message.
+					</div>
+				</div>
+			</div>
+			<div id="myScreenWindow" class="myRightWindow">
+				<header id="myScreenWindowHeader">
+					<img class="myIcon" src="img/console.png" alt="Con"/>
+					Console Output
+					<div class="myRightMenu">
+						<a>清空</a>
+						<a>输出</a>
+					</div>
+				</header>
+				<div id="myScreenWindowOutput">
+					<ul>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+						<li class="myConsoleItem">This is a Console output.</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer>
+		myfooter
+	</footer>
+</body>
+</html>

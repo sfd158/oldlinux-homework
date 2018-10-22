@@ -1,0 +1,118 @@
+body{
+	
+}
+
+body header{
+	background-color: #F4F4F4;
+	user-select: none;
+}
+
+.myMenuTitle{
+	display: inline;
+	text-align: middle;
+}
+
+.myRightMenu{
+	display: inline;
+	float: right;
+}
+
+
+body div#myMainBody{
+	text-align:center;
+	margin: 0 auto;
+}
+
+body div#myMainBody div#myFileAndMemory{
+	float: left;
+	background-color: orange;
+	width: 600px;
+	height: 600px;
+}
+
+body div#myMainBody div#myFileAndMemory div#myFile{
+	background-color: #BFEFFF;
+	height: 400px;
+}
+
+div.myFileFolders{
+	height:400px;
+}
+
+div.myFolderType img{
+	height: 35px;
+	width: 35px;
+}
+
+div.myFolderType div.myFolderName{
+	margin-top: -10px;
+	user-select: none;
+}
+
+body div#myMainBody div#myFileAndMemory div#myMemory{
+	background-color: white;
+	height: 200px;
+}
+
+body div#myMainBody div#myExecute{
+	margin-left: 610px;
+	width: 400px;
+	height: 600px;
+}
+
+body div#myMainBody div#myExecute div#myLogWindow{
+	height: 300px;
+}
+
+body div#myMainBody div#myExecute div#myLogWindow div#myLogButtonBar{
+	height: 20px;
+	border-top: 0.5px solid black;
+	background-color: #F4F4F4;
+	border-bottom: 0.5px solid black;
+}
+
+body div#myMainBody div#myExecute div#myLogWindow div#myLogWindowOutput{
+	background-color: #F4F4F4;
+	overflow-y: auto;
+	height: 255px;
+}
+
+body div#myMainBody div#myExecute div#myLogWindow div#myLogWindowOutput div.myLogItem{
+	background-color: #FAFAD2;
+	box-shadow: 2px 2px 5px #bbb;
+	height: 35px;
+	margin-top: 2px;
+	margin-left: 5px;
+}
+
+.myIcon{
+	width: 20px;
+	height: 20px;
+	float: left;
+}
+
+body div#myMainBody div#myExecute div#myScreenWindow{
+	height: 300px;
+	border: 2px solid black;
+}
+
+body div#myMainBody div#myExecute div header{
+	background-color: #F0FFFF;
+	user-select: none;
+	height: 20px;
+}
+
+body div#myMainBody div#myExecute div#myScreenWindow div#myScreenWindowOutput{
+	overflow-y: auto;
+	background-color: black;
+	height: 280px;
+	width: 400px;
+	border: 2px solid white;
+}
+
+body div#myMainBody div#myExecute div#myScreenWindow div#myScreenWindowOutput ul li.myConsoleItem{
+	list-style-type:none;  
+	margin:0px;
+	float: left;
+	color: white;
+}
