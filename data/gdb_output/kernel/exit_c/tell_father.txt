@@ -1,0 +1,14 @@
+Breakpoint 5, tell_father (pid=1) at exit.c:84
+84	{
+$2 = "backtrace:"
+#0  tell_father (pid=1) at exit.c:84
+#1  0x0000a48f in do_exit (code=0) at exit.c:131
+
+
+Breakpoint 5, tell_father (pid=4) at exit.c:84
+84	{
+$5 = "backtrace:"
+#0  tell_father (pid=4) at exit.c:84
+#1  0x0000a48f in do_exit (code=0) at exit.c:131
+
+

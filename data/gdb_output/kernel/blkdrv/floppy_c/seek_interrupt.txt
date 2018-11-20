@@ -1,0 +1,413 @@
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$2 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$5 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$8 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$11 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$14 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$17 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$20 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$23 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$26 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$29 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$32 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$35 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$38 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$41 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$44 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$47 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$50 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$53 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$56 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$59 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$62 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$65 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$68 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$71 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$74 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$77 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$80 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$83 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$86 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$89 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$92 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$95 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$98 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$101 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$104 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$107 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$110 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$113 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$116 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$119 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$122 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$125 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$128 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$131 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$134 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$137 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$140 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$143 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$146 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$149 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$152 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$155 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$158 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$161 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$164 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$167 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$170 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$173 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, seek_interrupt () at floppy.c:292
+292	{
+$176 = "backtrace:"
+#0  seek_interrupt () at floppy.c:292
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+

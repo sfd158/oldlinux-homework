@@ -1,0 +1,7168 @@
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$5 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$8 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$11 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$14 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$17 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$20 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$23 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$26 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$29 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$32 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$35 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$38 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$41 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$44 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$47 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$50 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$53 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$56 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$59 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$62 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$65 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$68 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$71 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$74 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$77 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$80 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$83 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$86 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$89 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$92 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$95 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$98 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$101 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$104 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$107 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$110 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$113 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$116 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$119 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$122 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$125 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$128 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$131 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$134 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$137 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$140 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$143 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$146 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$149 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$152 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$155 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$158 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$161 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$164 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$167 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$170 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$173 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$176 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$179 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$182 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$185 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$188 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$191 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$194 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$197 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$200 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$203 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$206 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$209 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$212 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$215 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$218 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$221 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$224 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$227 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$230 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$233 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$236 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$239 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$242 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$245 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$248 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$251 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$254 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$257 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$260 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$263 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$266 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$269 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$272 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$275 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$278 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$281 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$284 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$287 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$290 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$293 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$296 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$299 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$302 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$305 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$308 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$311 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$314 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$317 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$320 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$323 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$326 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$329 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$332 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$335 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$338 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$341 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$344 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$347 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$350 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$353 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$356 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$359 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$362 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$365 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$368 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$371 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$374 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$377 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$380 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$383 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$386 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$389 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$392 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$395 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$398 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$401 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$404 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$407 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$410 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$413 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$416 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$419 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$422 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$425 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$428 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$431 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$434 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$437 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$440 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$443 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$446 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$449 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$452 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$455 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$458 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$461 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$464 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$467 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$470 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$473 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$476 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$479 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$482 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$485 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$488 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$491 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$494 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$497 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$500 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$503 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$506 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$509 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$512 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$515 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$518 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$521 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$524 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$527 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$530 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$533 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$536 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$539 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$542 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$545 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$548 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$551 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$554 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$557 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$560 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$563 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$566 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$569 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$572 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$575 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$578 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$581 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$584 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$587 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$590 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$593 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$596 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$599 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$602 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$605 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$608 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$611 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$614 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$617 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$620 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$623 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$626 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$629 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$632 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$635 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$638 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$641 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$644 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$647 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$650 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$653 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$656 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$659 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$662 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$665 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$668 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$671 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$674 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$677 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$680 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$683 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$686 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$689 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$692 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$695 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$698 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$701 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$704 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$707 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$710 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$713 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$716 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$719 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$722 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$725 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$728 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$731 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$734 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$737 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$740 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$743 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$746 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$749 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$752 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$755 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$758 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$761 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$764 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$767 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$770 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$773 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$776 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$779 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$782 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$785 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$788 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$791 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$794 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$797 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$800 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$803 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$806 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$809 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$812 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$815 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$818 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$821 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$824 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$827 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$830 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$833 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$836 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$839 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$842 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$845 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$848 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$851 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$854 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$857 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$860 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$863 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$866 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$869 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$872 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$875 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$878 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$881 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$884 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$887 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$890 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$893 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$896 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$899 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$902 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$905 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$908 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$911 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$914 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$917 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$920 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$923 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$926 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$929 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$932 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$935 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$938 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$941 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$944 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$947 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$950 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$953 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$956 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$959 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$962 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$965 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$968 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$971 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$974 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$977 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$980 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$983 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$986 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$989 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$992 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$995 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$998 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1001 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1004 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1007 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1010 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1013 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1016 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1019 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1022 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1025 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1028 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1031 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1034 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1037 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1040 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1043 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1046 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1049 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1052 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1055 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1058 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1061 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1064 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1067 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1070 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1073 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1076 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1079 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1082 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1085 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1088 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1091 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1094 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1097 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1100 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1103 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1106 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1109 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1112 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1115 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1118 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1121 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1124 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1127 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1130 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1133 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1136 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1139 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1142 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1145 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1148 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1151 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1154 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1157 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1160 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1163 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1166 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1169 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1172 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1175 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1178 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1181 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1184 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1187 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1190 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1193 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1196 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1199 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1202 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1205 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1208 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1211 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1214 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1217 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1220 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1223 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1226 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1229 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1232 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1235 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1238 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1241 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1244 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1247 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1250 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1253 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1256 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1259 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1262 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1265 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1268 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1271 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1274 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1277 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1280 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1283 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1286 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1289 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1292 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1295 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1298 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1301 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1304 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1307 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1310 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1313 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1316 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1319 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1322 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1325 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1328 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1331 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1334 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1337 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1340 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1343 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1346 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1349 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1352 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1355 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1358 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1361 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1364 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1367 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1370 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1373 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1376 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1379 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1382 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1385 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1388 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1391 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1394 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1397 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1400 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1403 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1406 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1409 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1412 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1415 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1418 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1421 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1424 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1427 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1430 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1433 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1436 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1439 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1442 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1445 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1448 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1451 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1454 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1457 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1460 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1463 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1466 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1469 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1472 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1475 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1478 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1481 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1484 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1487 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1490 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1493 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1496 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1499 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1502 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1505 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1508 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1511 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1514 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1517 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1520 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1523 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1526 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1529 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1532 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1535 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1538 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1541 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1544 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1547 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1550 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1553 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1556 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1559 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1562 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1565 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1568 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1571 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1574 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1577 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1580 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1583 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1586 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1589 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1592 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1595 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1598 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1601 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1604 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1607 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1610 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1613 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1616 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1619 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1622 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1625 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1628 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1631 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1634 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1637 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1640 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1643 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1646 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1649 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1652 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1655 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1658 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1661 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1664 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1667 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1670 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1673 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1676 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1679 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1682 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1685 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1688 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1691 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1694 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1697 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1700 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1703 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1706 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1709 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1712 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1715 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1718 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1721 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1724 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1727 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1730 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1733 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1736 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1739 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1742 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1745 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1748 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1751 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1754 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1757 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1760 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1763 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1766 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1769 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1772 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1775 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1778 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1781 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1784 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1787 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1790 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1793 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1796 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1799 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1802 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1805 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1808 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1811 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1814 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1817 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1820 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1823 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1826 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1829 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1832 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1835 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1838 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1841 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1844 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1847 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1850 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1853 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1856 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1859 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1862 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1865 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1868 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1871 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1874 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1877 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1880 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1883 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1886 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1889 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1892 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1895 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1898 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1901 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1904 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1907 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1910 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1913 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1916 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1919 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1922 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1925 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1928 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1931 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1934 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1937 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1940 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1943 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1946 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1949 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1952 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1955 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1958 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1961 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1964 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1967 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1970 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1973 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1976 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1979 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1982 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1985 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1988 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1991 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1994 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$1997 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2000 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2003 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2006 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2009 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2012 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2015 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2018 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2021 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2024 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2027 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2030 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2033 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2036 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2039 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2042 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2045 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2048 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2051 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2054 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2057 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2060 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2063 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2066 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2069 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2072 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2075 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2078 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2081 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2084 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2087 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2090 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2093 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2096 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2099 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2102 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2105 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2108 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2111 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2114 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2117 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2120 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2123 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2126 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2129 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2132 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2135 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2138 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2141 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2144 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2147 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2150 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2153 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2156 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2159 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2162 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2165 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2168 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2171 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2174 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2177 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2180 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2183 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2186 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2189 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2192 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2195 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2198 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2201 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2204 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2207 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2210 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2213 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2216 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2219 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2222 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2225 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2228 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2231 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2234 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2237 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2240 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2243 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2246 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2249 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2252 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2255 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2258 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2261 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2264 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2267 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2270 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2273 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2276 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2279 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2282 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2285 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2288 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2291 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2294 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2297 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2300 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2303 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2306 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2309 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2312 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2315 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2318 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2321 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2324 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2327 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2330 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2333 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2336 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2339 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2342 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2345 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2348 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2351 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2354 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2357 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2360 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2363 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2366 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2369 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2372 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2375 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2378 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2381 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2384 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2387 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2390 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2393 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2396 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2399 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2402 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2405 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2408 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2411 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2414 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2417 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2420 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2423 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2426 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2429 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2432 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2435 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2438 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2441 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2444 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2447 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2450 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2453 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2456 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2459 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2462 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2465 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2468 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2471 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2474 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2477 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2480 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2483 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2486 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2489 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2492 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2495 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2498 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2501 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2504 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2507 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2510 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2513 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2516 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2519 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2522 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2525 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2528 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2531 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2534 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2537 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2540 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2543 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2546 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2549 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2552 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2555 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2558 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2561 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2564 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2567 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2570 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2573 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2576 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2579 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2582 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2585 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2588 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2591 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2594 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2597 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2600 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2603 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2606 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2609 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2612 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2615 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2618 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2621 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2624 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2627 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2630 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2633 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2636 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2639 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2642 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2645 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2648 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2651 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2654 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2657 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2660 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2663 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2666 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2669 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2672 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2675 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2678 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2681 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2684 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2687 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2690 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2693 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2696 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2699 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2702 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2705 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2708 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2711 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2714 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2717 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2720 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2723 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2726 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2729 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2732 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2735 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2738 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2741 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2744 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2747 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2750 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2753 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2756 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2759 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2762 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2765 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2768 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2771 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2774 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2777 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2780 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2783 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2786 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2789 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2792 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2795 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2798 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2801 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2804 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2807 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2810 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2813 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2816 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2819 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2822 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2825 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2828 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2831 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2834 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2837 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2840 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2843 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2846 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2849 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2852 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2855 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2858 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2861 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2864 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2867 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2870 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2873 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2876 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2879 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2882 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2885 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2888 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2891 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2894 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2897 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2900 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2903 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2906 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2909 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2912 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2915 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2918 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2921 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2924 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2927 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2930 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2933 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2936 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2939 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2942 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2945 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2948 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2951 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2954 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2957 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2960 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2963 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2966 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2969 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2972 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2975 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2978 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2981 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2984 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2987 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2990 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2993 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2996 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$2999 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3002 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3005 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3008 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3011 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3014 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3017 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3020 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3023 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3026 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3029 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3032 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3035 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3038 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3041 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3044 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3047 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3050 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3053 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3056 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3059 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3062 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3065 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3068 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+
+Breakpoint 5, transfer () at floppy.c:310
+310	{
+$3071 = "backtrace:"
+#0  transfer () at floppy.c:310
+#1  0x00014df2 in floppy_on_interrupt () at floppy.c:415
+
+

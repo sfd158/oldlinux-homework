@@ -1,0 +1,42 @@
+Breakpoint 5, find_empty_process () at fork.c:141
+141	{
+$2 = "backtrace:"
+#0  find_empty_process () at fork.c:141
+#1  0x00007a65 in sys_fork () at system_call.s:209
+
+
+Breakpoint 5, find_empty_process () at fork.c:141
+141	{
+$5 = "backtrace:"
+#0  find_empty_process () at fork.c:141
+#1  0x00007a65 in sys_fork () at system_call.s:209
+
+
+Breakpoint 5, find_empty_process () at fork.c:141
+141	{
+$8 = "backtrace:"
+#0  find_empty_process () at fork.c:141
+#1  0x00007a65 in sys_fork () at system_call.s:209
+
+
+Breakpoint 5, find_empty_process () at fork.c:141
+141	{
+$11 = "backtrace:"
+#0  find_empty_process () at fork.c:141
+#1  0x00007a65 in sys_fork () at system_call.s:209
+
+
+Breakpoint 5, find_empty_process () at fork.c:141
+141	{
+$14 = "backtrace:"
+#0  find_empty_process () at fork.c:141
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, find_empty_process () at fork.c:141
+141	{
+$17 = "backtrace:"
+#0  find_empty_process () at fork.c:141
+#1  0x00007a65 in sys_fork () at system_call.s:209
+
+

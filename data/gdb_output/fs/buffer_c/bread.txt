@@ -1,0 +1,4516 @@
+Breakpoint 5, bread (dev=540, block=1278) at buffer.c:271
+271	{
+$2 = "backtrace:"
+#0  bread (dev=540, block=1278) at buffer.c:271
+#1  0x000164a7 in rd_load () at ramdisk.c:115
+
+
+Breakpoint 5, bread (dev=540, block=1279) at buffer.c:271
+271	{
+$5 = "backtrace:"
+#0  bread (dev=540, block=1279) at buffer.c:271
+#1  0x000164a7 in rd_load () at ramdisk.c:115
+
+
+Breakpoint 5, bread (dev=257, block=1) at buffer.c:271
+271	{
+$8 = "backtrace:"
+#0  bread (dev=257, block=1) at buffer.c:271
+#1  0x0000e537 in read_super (dev=257) at super.c:124
+
+
+Breakpoint 5, bread (dev=257, block=2) at buffer.c:271
+271	{
+$11 = "backtrace:"
+#0  bread (dev=257, block=2) at buffer.c:271
+#1  0x0000e63f in read_super (dev=257) at super.c:143
+
+
+Breakpoint 5, bread (dev=257, block=3) at buffer.c:271
+271	{
+$14 = "backtrace:"
+#0  bread (dev=257, block=3) at buffer.c:271
+#1  0x0000e69e in read_super (dev=257) at super.c:148
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$17 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x275f8 <inode_table+56>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$20 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffef08, name=0x19dc4 "dev/tty0", 
+    namelen=3, res_dir=0xffef04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$23 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27630 <inode_table+112>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=1019) at buffer.c:271
+271	{
+$26 = "backtrace:"
+#0  bread (dev=257, block=1019) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffef78, name=0x19dc8 "tty0", namelen=4, 
+    res_dir=0xffef74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$29 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27668 <inode_table+168>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$32 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf08, name=0x19e0b "etc/rc", namelen=3, 
+    res_dir=0xffaf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$35 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x276a0 <inode_table+224>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=518) at buffer.c:271
+271	{
+$38 = "backtrace:"
+#0  bread (dev=257, block=518) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf78, name=0x19e0f "rc", namelen=2, 
+    res_dir=0xffaf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$41 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x276d8 <inode_table+280>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$44 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaa10, name=0x19d9d "bin/sh", namelen=3, 
+    res_dir=0xffaa0c) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$47 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27710 <inode_table+336>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=16) at buffer.c:271
+271	{
+$50 = "backtrace:"
+#0  bread (dev=257, block=16) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaa84, name=0x19da1 "sh", namelen=2, 
+    res_dir=0xffaa80) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$53 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27748 <inode_table+392>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=17) at buffer.c:271
+271	{
+$56 = "backtrace:"
+#0  bread (dev=257, block=17) at buffer.c:271
+#1  0x000101c3 in do_execve (eip=0xffafec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22020 <argv_rc>, envp=0x22028 <envp_rc>)
+    at exec.c:221
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$59 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=254, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$62 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=255, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$65 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=256, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$68 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=257, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$71 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=238, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$74 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=239, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$77 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=240, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$80 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=241, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$83 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=22, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$86 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=23, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$89 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=24, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$92 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=25, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$95 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=222, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$98 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=223, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$101 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=224, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$104 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=225, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$107 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=98, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$110 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=99, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$113 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=100, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$116 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=101, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$119 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=266, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$122 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=267, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$125 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=268, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$128 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=269, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$131 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=0, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$134 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=1, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$137 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=234, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$140 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=235, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$143 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=236, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$146 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=237, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$149 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=246, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$152 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=247, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$155 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=248, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$158 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=249, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$161 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=114, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$164 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=115, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$167 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=116, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$170 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=117, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$173 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=226, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$176 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=227, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$179 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=228, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$182 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=229, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$185 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=126, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$188 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=127, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$191 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=128, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$194 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=129, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$197 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=122, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$200 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=123, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$203 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=124, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$206 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=125, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$209 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=94, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$212 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=95, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$215 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=96, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$218 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=97, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$221 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=230, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$224 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=231, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$227 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=232, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$230 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=233, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$233 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=58, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$236 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=59, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$239 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=60, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$242 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=61, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$245 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=102, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$248 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=103, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$251 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=104, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$254 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=105, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$257 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf08, name=0x3d6d3 "", namelen=3, 
+    res_dir=0xffaf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=518) at buffer.c:271
+271	{
+$260 = "backtrace:"
+#0  bread (dev=257, block=518) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf78, name=0x3d6d7 "", namelen=6, 
+    res_dir=0xffaf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$263 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x277b8 <inode_table+504>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$266 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=250, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$269 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=251, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$272 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=252, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$275 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=253, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=533) at buffer.c:271
+271	{
+$278 = "backtrace:"
+#0  bread (dev=257, block=533) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x277b8 <inode_table+504>, 
+    filp=0x29760 <file_table+32>, buf=0x461e8 "\250a\004", count=266)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$281 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=26, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$284 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=27, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$287 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=28, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$290 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=29, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$293 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=262, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$296 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=263, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$299 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=264, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$302 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=265, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$305 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=46, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$308 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=47, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$311 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=48, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$314 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=49, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$317 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=78, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$320 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=79, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$323 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=80, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$326 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=81, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$329 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf7c, 
+    name=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", namelen=1, 
+    res_dir=0xffaf78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$332 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=50, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$335 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=51, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$338 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=52, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$341 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=53, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$344 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=82, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$347 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=83, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$350 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=84, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$353 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=85, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$356 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=42, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$359 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=43, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$362 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=44, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$365 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=45, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$368 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf08, name=0x4b40d "", namelen=3, 
+    res_dir=0xffaf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=16) at buffer.c:271
+271	{
+$371 = "backtrace:"
+#0  bread (dev=257, block=16) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf7c, name=0x4b411 "", namelen=2, 
+    res_dir=0xffaf78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$374 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=214, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$377 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=215, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$380 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=216, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$383 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=217, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$386 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=54, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$389 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=55, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$392 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=56, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$395 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=57, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$398 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=66, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$401 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=67, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$404 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=68, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$407 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=69, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$410 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=206, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$413 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=207, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$416 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=208, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$419 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=209, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$422 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=258, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$425 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=259, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$428 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=260, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$431 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=261, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$434 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=202, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$437 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=203, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$440 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=204, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$443 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=205, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$446 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=118, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$449 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=119, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$452 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=120, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$455 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=121, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$458 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf08, 
+    name=0x10c0f <read_pipe+318> "D$\f\215P\377\211T$\f\205\300\177\275\203|$(", namelen=3, res_dir=0xffaf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=1019) at buffer.c:271
+271	{
+$461 = "backtrace:"
+#0  bread (dev=257, block=1019) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf78, 
+    name=0x10c13 <read_pipe+322> "P\377\211T$\f\205\300\177\275\203|$(", 
+    namelen=3, res_dir=0xffaf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$464 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x278d0 <inode_table+784>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$467 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=10, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$470 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=11, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$473 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=12, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$476 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=13, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$479 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=30, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$482 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=31, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$485 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=32, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$488 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=33, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$491 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=6, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$494 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=7, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$497 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=8, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$500 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=9, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$503 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=2, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$506 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=3, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$509 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=4, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$512 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=5, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$515 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=14, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$518 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=15, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$521 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=16, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$524 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=17, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$527 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$530 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$533 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$536 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$539 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$542 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$545 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$548 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$551 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$554 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$557 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$560 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$563 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$566 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$569 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=18, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$572 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=19, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$575 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=20, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$578 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=21, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$581 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=34, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$584 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=35, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$587 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=36, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$590 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=37, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$593 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=38, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$596 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=39, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$599 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=40, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$602 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=41, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$605 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=70, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$608 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=71, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$611 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=72, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$614 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=73, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$617 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=74, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$620 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=75, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$623 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=76, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$626 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=77, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$629 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=62, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$632 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=63, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$635 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=64, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$638 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=65, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$641 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=218, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$644 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=219, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$647 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=220, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$650 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=221, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$653 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf08, name=0x4ba2d "", namelen=3, 
+    res_dir=0xffaf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=1019) at buffer.c:271
+271	{
+$656 = "backtrace:"
+#0  bread (dev=257, block=1019) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffaf78, name=0x4ba31 "", namelen=4, 
+    res_dir=0xffaf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$659 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27940 <inode_table+896>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$662 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$665 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$668 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$671 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$674 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$677 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$680 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$683 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$686 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$689 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$692 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$695 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$698 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$701 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$704 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=519) at buffer.c:271
+271	{
+$707 = "backtrace:"
+#0  bread (dev=257, block=519) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x276d8 <inode_table+280>, 
+    filp=0x29750 <file_table+16>, buf=0x3fff5f0 "\a\002", count=1)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$710 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=150, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$713 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=151, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$716 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=152, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$719 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=153, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$722 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=154, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$725 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=155, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$728 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=156, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$731 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=157, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$734 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfbea10, name=0x4bb8d "", namelen=3, 
+    res_dir=0xfbea0c) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=518) at buffer.c:271
+271	{
+$737 = "backtrace:"
+#0  bread (dev=257, block=518) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfbea84, name=0x4bb91 "", namelen=6, 
+    res_dir=0xfbea80) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$740 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x279b0 <inode_table+1008>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=520) at buffer.c:271
+271	{
+$743 = "backtrace:"
+#0  bread (dev=257, block=520) at buffer.c:271
+#1  0x000101c3 in do_execve (eip=0xfbefec, tmp=31079, filename=0x4bb8c "", 
+    argv=0x4bb6c, envp=0x4b0cc) at exec.c:221
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$746 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x27748 <inode_table+392>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=527) at buffer.c:271
+271	{
+$749 = "backtrace:"
+#0  bread (dev=257, block=527) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x279b0 <inode_table+1008>, block=0, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=527) at buffer.c:271
+271	{
+$752 = "backtrace:"
+#0  bread (dev=257, block=527) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x279b0 <inode_table+1008>, block=1, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$755 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x275f8 <inode_table+56>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$758 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x279b0 <inode_table+1008>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$761 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x19dc4 "dev/tty0", 
+    namelen=3, res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=1019) at buffer.c:271
+271	{
+$764 = "backtrace:"
+#0  bread (dev=257, block=1019) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, name=0x19dc8 "tty0", namelen=4, 
+    res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$767 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffca10, name=0x19d9d "bin/sh", namelen=3, 
+    res_dir=0xffca0c) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=16) at buffer.c:271
+271	{
+$770 = "backtrace:"
+#0  bread (dev=257, block=16) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffca84, name=0x19da1 "sh", namelen=2, 
+    res_dir=0xffca80) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=17) at buffer.c:271
+271	{
+$773 = "backtrace:"
+#0  bread (dev=257, block=17) at buffer.c:271
+#1  0x000101c3 in do_execve (eip=0xffcfec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22030 <argv>, envp=0x22038 <envp>)
+    at exec.c:221
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$776 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=254, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$779 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=255, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$782 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=256, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$785 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=257, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$788 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=238, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$791 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=239, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$794 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=240, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$797 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=241, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$800 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=22, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$803 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=23, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$806 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=24, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$809 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=25, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$812 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=222, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$815 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=223, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$818 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=224, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$821 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=225, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$824 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=98, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$827 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=99, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$830 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=100, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$833 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=101, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$836 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=266, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$839 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=267, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$842 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=268, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$845 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=269, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$848 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=0, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$851 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=1, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$854 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=234, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$857 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=235, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$860 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=236, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$863 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=237, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$866 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=246, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$869 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=247, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$872 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=248, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$875 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=249, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$878 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=114, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$881 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=115, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$884 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=116, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$887 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=117, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$890 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=226, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$893 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=227, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$896 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=228, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$899 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=229, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$902 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=126, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$905 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=127, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$908 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=128, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$911 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=129, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$914 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=122, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$917 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=123, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$920 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=124, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$923 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=125, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$926 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=94, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$929 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=95, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$932 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=96, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$935 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=97, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$938 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=230, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$941 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=231, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$944 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=232, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$947 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=233, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$950 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=58, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$953 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=59, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$956 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=60, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$959 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=61, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$962 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=102, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$965 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=103, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$968 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=104, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$971 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=105, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$974 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x3d6d3 "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=518) at buffer.c:271
+271	{
+$977 = "backtrace:"
+#0  bread (dev=257, block=518) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, name=0x3d6d7 "", namelen=6, 
+    res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$980 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=250, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$983 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=251, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$986 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=252, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$989 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=253, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=533) at buffer.c:271
+271	{
+$992 = "backtrace:"
+#0  bread (dev=257, block=533) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x277b8 <inode_table+504>, 
+    filp=0x29760 <file_table+32>, buf=0x461e8 "\250a\004", count=266)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$995 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=26, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$998 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=27, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1001 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=28, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1004 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=29, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1007 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=262, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1010 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=263, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1013 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=264, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1016 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=265, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1019 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=46, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1022 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=47, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1025 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=48, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1028 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=49, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1031 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=78, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1034 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=79, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1037 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=80, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1040 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=81, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1043 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf7c, 
+    name=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", namelen=1, 
+    res_dir=0xffcf78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1046 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=50, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1049 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=51, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1052 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=52, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1055 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=53, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1058 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=82, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1061 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=83, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1064 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=84, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1067 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=85, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1070 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=42, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1073 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=43, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1076 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=44, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1079 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=45, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1082 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b40d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=16) at buffer.c:271
+271	{
+$1085 = "backtrace:"
+#0  bread (dev=257, block=16) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf7c, name=0x4b411 "", namelen=2, 
+    res_dir=0xffcf78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1088 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=214, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1091 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=215, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1094 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=216, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1097 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=217, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1100 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=54, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1103 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=55, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1106 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=56, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1109 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=57, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1112 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=66, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1115 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=67, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1118 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=68, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1121 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=69, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1124 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=206, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1127 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=207, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1130 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=208, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1133 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=209, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1136 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=258, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1139 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=259, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1142 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=260, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1145 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=261, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1148 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=202, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1151 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=203, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1154 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=204, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1157 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=205, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1160 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=118, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1163 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=119, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1166 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=120, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1169 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=121, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1172 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, 
+    name=0x10c0f <read_pipe+318> "D$\f\215P\377\211T$\f\205\300\177\275\203|$(", namelen=3, res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=1019) at buffer.c:271
+271	{
+$1175 = "backtrace:"
+#0  bread (dev=257, block=1019) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, 
+    name=0x10c13 <read_pipe+322> "P\377\211T$\f\205\300\177\275\203|$(", 
+    namelen=3, res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1178 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=10, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1181 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=11, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1184 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=12, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1187 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=13, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1190 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4afcd "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=518) at buffer.c:271
+271	{
+$1193 = "backtrace:"
+#0  bread (dev=257, block=518) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, name=0x4afd1 "", namelen=7, 
+    res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1196 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27c88 <inode_table+1736>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=548) at buffer.c:271
+271	{
+$1199 = "backtrace:"
+#0  bread (dev=257, block=548) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x27c88 <inode_table+1736>, 
+    filp=0x29760 <file_table+32>, buf=0x4750c "\020u\004", count=147)
+    at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1202 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=6, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1205 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=7, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1208 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=8, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1211 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=9, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1214 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=2, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1217 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=3, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1220 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=4, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1223 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=5, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1226 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=14, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1229 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=15, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1232 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=16, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1235 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=17, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1238 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=18, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1241 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=19, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1244 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=20, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1247 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=21, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1250 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=30, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1253 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=31, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1256 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=32, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1259 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=33, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1262 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=34, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1265 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=35, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1268 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=36, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1271 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=37, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1274 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=38, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1277 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=39, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1280 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=40, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1283 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=41, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1286 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=62, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1289 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=63, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1292 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=64, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1295 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=65, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1298 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=70, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1301 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=71, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1304 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=72, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1307 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=73, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1310 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=74, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1313 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=75, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1316 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=76, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1319 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=77, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1322 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=218, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1325 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=219, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1328 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=220, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1331 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=221, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1334 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=110, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1337 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=111, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1340 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=112, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1343 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=113, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1346 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4d60d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1349 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x275c0 <inode_table>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1352 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf7c, name=0x4d611 "", namelen=4, 
+    res_dir=0xffcf78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1355 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27630 <inode_table+112>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1358 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=146, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1361 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=147, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1364 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=148, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1367 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=149, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1370 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=150, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1373 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=151, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1376 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=152, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1379 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=153, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1382 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=158, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1385 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=159, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1388 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=160, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1391 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=161, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1394 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=162, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1397 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=163, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1400 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=164, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1403 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=165, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1406 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=166, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1409 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=167, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1412 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=168, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1415 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=169, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1418 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x46c8d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1421 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x46c91 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1424 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, name=0x46c96 "", namelen=13, 
+    res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1427 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x46c8d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1430 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x46c91 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1433 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, name=0x46c96 "", namelen=11, 
+    res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1436 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4afcd "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1439 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4afd1 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1442 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, name=0x4afd6 "", namelen=8, 
+    res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1445 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b94d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1448 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b951 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1451 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b00d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1454 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b011 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1457 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf7c, name=0x4b016 "", namelen=13, 
+    res_dir=0xffcf78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$1460 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x278d0 <inode_table+784>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$1463 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x278d0 <inode_table+784>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1466 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b00d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1469 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b011 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1472 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, name=0x4b016 "", namelen=13, 
+    res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=827) at buffer.c:271
+271	{
+$1475 = "backtrace:"
+#0  bread (dev=257, block=827) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x278d0 <inode_table+784>, 
+    filp=0x29760 <file_table+32>, buf=0x46c8c "", count=73) at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1478 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4adcd "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1481 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4add1 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1484 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf7c, name=0x4add6 "", namelen=13, 
+    res_dir=0xffcf78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$1487 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x278d0 <inode_table+784>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1490 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b00d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1493 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b011 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1496 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, name=0x4b016 "", namelen=13, 
+    res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1499 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b00d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1502 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b011 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1505 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf7c, name=0x4b016 "", namelen=13, 
+    res_dir=0xffcf78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=827) at buffer.c:271
+271	{
+$1508 = "backtrace:"
+#0  bread (dev=257, block=827) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x278d0 <inode_table+784>, 
+    filp=0x29760 <file_table+32>, buf=0x46c8c "", count=73) at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$1511 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x278d0 <inode_table+784>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1514 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, 
+    name=0x10c0f <read_pipe+318> "D$\f\215P\377\211T$\f\205\300\177\275\203|$(", namelen=3, res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$1517 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27be0 <inode_table+1568>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=1019) at buffer.c:271
+271	{
+$1520 = "backtrace:"
+#0  bread (dev=257, block=1019) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, 
+    name=0x10c13 <read_pipe+322> "P\377\211T$\f\205\300\177\275\203|$(", 
+    namelen=3, res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=5) at buffer.c:271
+271	{
+$1523 = "backtrace:"
+#0  bread (dev=257, block=5) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27c18 <inode_table+1624>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1526 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f7c, 
+    name=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", namelen=1, 
+    res_dir=0xfb1f78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1529 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f7c, 
+    name=0x1b334 " \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", namelen=2, 
+    res_dir=0xfb1f78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1532 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x275c0 <inode_table>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1535 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f7c, 
+    name=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", namelen=1, 
+    res_dir=0xfb1f78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1538 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f78, 
+    name=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", namelen=1, 
+    res_dir=0xfb1f74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1541 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x275c0 <inode_table>, 
+    filp=0x29780 <file_table+64>, buf=0x5040c "", count=80) at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1544 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f7c, name=0x465f6 "", namelen=4, 
+    res_dir=0xfb1f78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1547 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f7c, 
+    name=0x1b334 " \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", namelen=2, 
+    res_dir=0xfb1f78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1550 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x275c0 <inode_table>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1553 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f7c, 
+    name=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", namelen=1, 
+    res_dir=0xfb1f78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1556 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f78, 
+    name=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", namelen=1, 
+    res_dir=0xfb1f74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1559 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x275f8 <inode_table+56>, 
+    filp=0x29780 <file_table+64>, buf=0x5040c "", count=144) at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1562 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f7c, name=0x465f6 "", namelen=3, 
+    res_dir=0xfb1f78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1565 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x275c0 <inode_table>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1568 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f08, name=0x3ffef6b "\302\021\001", 
+    namelen=3, res_dir=0xfb1f04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1571 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xfb1f7c, name=0x3ffef6f "\221\030\001", 
+    namelen=4, res_dir=0xfb1f78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1574 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, 
+    name=0x10c0f <read_pipe+318> "D$\f\215P\377\211T$\f\205\300\177\275\203|$(", namelen=3, res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=1019) at buffer.c:271
+271	{
+$1577 = "backtrace:"
+#0  bread (dev=257, block=1019) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, 
+    name=0x10c13 <read_pipe+322> "P\377\211T$\f\205\300\177\275\203|$(", 
+    namelen=3, res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1580 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=190, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1583 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=191, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1586 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=192, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1589 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=193, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1592 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=210, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1595 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=211, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1598 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=212, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1601 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=213, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1604 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=170, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1607 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=171, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1610 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=172, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1613 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=173, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1616 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=174, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1619 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=175, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1622 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=176, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1625 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=177, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1628 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x37ba5 "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1631 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27940 <inode_table+896>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=518) at buffer.c:271
+271	{
+$1634 = "backtrace:"
+#0  bread (dev=257, block=518) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf78, name=0x37ba9 "", namelen=7, 
+    res_dir=0xffcf74) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1637 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d388 in read_inode (inode=0x27978 <inode_table+952>) at inode.c:305
+
+
+Breakpoint 5, bread (dev=257, block=531) at buffer.c:271
+271	{
+$1640 = "backtrace:"
+#0  bread (dev=257, block=531) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x27978 <inode_table+952>, 
+    filp=0x29760 <file_table+32>, buf=0x5140c "", count=1034) at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=532) at buffer.c:271
+271	{
+$1643 = "backtrace:"
+#0  bread (dev=257, block=532) at buffer.c:271
+#1  0x0000f3a9 in file_read (inode=0x27978 <inode_table+952>, 
+    filp=0x29760 <file_table+32>, buf=0x5180c "", count=1034) at file_dev.c:26
+
+
+Breakpoint 5, bread (dev=257, block=15) at buffer.c:271
+271	{
+$1646 = "backtrace:"
+#0  bread (dev=257, block=15) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b04d "", namelen=3, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=552) at buffer.c:271
+271	{
+$1649 = "backtrace:"
+#0  bread (dev=257, block=552) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf08, name=0x4b051 "", namelen=4, 
+    res_dir=0xffcf04) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=633) at buffer.c:271
+271	{
+$1652 = "backtrace:"
+#0  bread (dev=257, block=633) at buffer.c:271
+#1  0x000112ff in find_entry (dir=0xffcf7c, name=0x4b056 "", namelen=8, 
+    res_dir=0xffcf78) at namei.c:129
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1655 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=182, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1658 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=183, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1661 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=184, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1664 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=185, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1667 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=185, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1670 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=194, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1673 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=195, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1676 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=196, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=24) at buffer.c:271
+271	{
+$1679 = "backtrace:"
+#0  bread (dev=257, block=24) at buffer.c:271
+#1  0x0000ca59 in _bmap (inode=0x27748 <inode_table+392>, block=197, create=0)
+    at inode.c:98
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1682 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x275f8 <inode_table+56>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1685 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x27630 <inode_table+112>) at inode.c:329
+
+
+Breakpoint 5, bread (dev=257, block=4) at buffer.c:271
+271	{
+$1688 = "backtrace:"
+#0  bread (dev=257, block=4) at buffer.c:271
+#1  0x0000d4e5 in write_inode (inode=0x27748 <inode_table+392>) at inode.c:329
+
+

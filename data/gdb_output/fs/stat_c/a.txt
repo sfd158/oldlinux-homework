@@ -1,0 +1,305 @@
+    statbuf=0x3fffc48) at stat.c:37
+37	{
+$2 = "backtrace:"
+#0  sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3fffc48) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$5 = "backtrace:"
+#0  cp_stat (inode=0x275f8 <inode_table+56>, statbuf=0x3fffc48) at stat.c:16
+#1  0x0000f857 in sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3fffc48) at stat.c:42
+
+
+    statbuf=0x3fffc48) at stat.c:37
+37	{
+$8 = "backtrace:"
+#0  sys_stat (
+    filename=0x1b332 "H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3fffc48) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$11 = "backtrace:"
+#0  cp_stat (inode=0x275f8 <inode_table+56>, statbuf=0x3fffc48) at stat.c:16
+#1  0x0000f857 in sys_stat (
+    filename=0x1b332 "H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3fffc48) at stat.c:42
+
+
+Breakpoint 6, sys_stat (filename=0x4b40c "", statbuf=0x3fffd04) at stat.c:37
+37	{
+$14 = "backtrace:"
+#0  sys_stat (filename=0x4b40c "", statbuf=0x3fffd04) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$17 = "backtrace:"
+#0  cp_stat (inode=0x27748 <inode_table+392>, statbuf=0x3fffd04) at stat.c:16
+#1  0x0000f857 in sys_stat (filename=0x4b40c "", statbuf=0x3fffd04)
+    at stat.c:42
+
+
+    statbuf=0x3fffc40) at stat.c:37
+37	{
+$20 = "backtrace:"
+#0  sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3fffc40) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$23 = "backtrace:"
+#0  cp_stat (inode=0x275f8 <inode_table+56>, statbuf=0x3fffc40) at stat.c:16
+#1  0x0000f857 in sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3fffc40) at stat.c:42
+
+
+    statbuf=0x3fffc40) at stat.c:37
+37	{
+$26 = "backtrace:"
+#0  sys_stat (
+    filename=0x1b332 "H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3fffc40) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$29 = "backtrace:"
+#0  cp_stat (inode=0x275f8 <inode_table+56>, statbuf=0x3fffc40) at stat.c:16
+#1  0x0000f857 in sys_stat (
+    filename=0x1b332 "H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3fffc40) at stat.c:42
+
+
+Breakpoint 6, sys_stat (filename=0x4b40c "", statbuf=0x3fffcf4) at stat.c:37
+37	{
+$32 = "backtrace:"
+#0  sys_stat (filename=0x4b40c "", statbuf=0x3fffcf4) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$35 = "backtrace:"
+#0  cp_stat (inode=0x27748 <inode_table+392>, statbuf=0x3fffcf4) at stat.c:16
+#1  0x0000f857 in sys_stat (filename=0x4b40c "", statbuf=0x3fffcf4)
+    at stat.c:42
+
+
+Breakpoint 7, sys_fstat (fd=3, statbuf=0x3fffe90) at stat.c:48
+48	{
+$38 = "backtrace:"
+#0  sys_fstat (fd=3, statbuf=0x3fffe90) at stat.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$41 = "backtrace:"
+#0  cp_stat (inode=0x27c88 <inode_table+1736>, statbuf=0x3fffe90) at stat.c:16
+#1  0x0000f8d0 in sys_fstat (fd=3, statbuf=0x3fffe90) at stat.c:54
+
+
+Breakpoint 6, sys_stat (filename=0x4b94c "", statbuf=0x3fffecc) at stat.c:37
+37	{
+$44 = "backtrace:"
+#0  sys_stat (filename=0x4b94c "", statbuf=0x3fffecc) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 6, sys_stat (filename=0x4b00c "", statbuf=0x3fffe68) at stat.c:37
+37	{
+$47 = "backtrace:"
+#0  sys_stat (filename=0x4b00c "", statbuf=0x3fffe68) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$50 = "backtrace:"
+#0  cp_stat (inode=0x278d0 <inode_table+784>, statbuf=0x3fffe68) at stat.c:16
+#1  0x0000f857 in sys_stat (filename=0x4b00c "", statbuf=0x3fffe68)
+    at stat.c:42
+
+
+Breakpoint 6, sys_stat (filename=0x4adcc "", statbuf=0x3fffee4) at stat.c:37
+37	{
+$53 = "backtrace:"
+#0  sys_stat (filename=0x4adcc "", statbuf=0x3fffee4) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$56 = "backtrace:"
+#0  cp_stat (inode=0x278d0 <inode_table+784>, statbuf=0x3fffee4) at stat.c:16
+#1  0x0000f857 in sys_stat (filename=0x4adcc "", statbuf=0x3fffee4)
+    at stat.c:42
+
+
+Breakpoint 6, sys_stat (filename=0x4b00c "", statbuf=0x3fffe94) at stat.c:37
+37	{
+$59 = "backtrace:"
+#0  sys_stat (filename=0x4b00c "", statbuf=0x3fffe94) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$62 = "backtrace:"
+#0  cp_stat (inode=0x278d0 <inode_table+784>, statbuf=0x3fffe94) at stat.c:16
+#1  0x0000f857 in sys_stat (filename=0x4b00c "", statbuf=0x3fffe94)
+    at stat.c:42
+
+
+    statbuf=0x3ffee54) at stat.c:37
+37	{
+$65 = "backtrace:"
+#0  sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3ffee54) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$68 = "backtrace:"
+#0  cp_stat (inode=0x27630 <inode_table+112>, statbuf=0x3ffee54) at stat.c:16
+#1  0x0000f857 in sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3ffee54) at stat.c:42
+
+
+    statbuf=0x3ffee54) at stat.c:37
+37	{
+$71 = "backtrace:"
+#0  sys_stat (
+    filename=0x1b332 "H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3ffee54) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$74 = "backtrace:"
+#0  cp_stat (inode=0x275f8 <inode_table+56>, statbuf=0x3ffee54) at stat.c:16
+#1  0x0000f857 in sys_stat (
+    filename=0x1b332 "H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3ffee54) at stat.c:42
+
+
+    statbuf=0x3ffee54) at stat.c:37
+37	{
+$77 = "backtrace:"
+#0  sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3ffee54) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$80 = "backtrace:"
+#0  cp_stat (inode=0x275c0 <inode_table>, statbuf=0x3ffee54) at stat.c:16
+#1  0x0000f857 in sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3ffee54) at stat.c:42
+
+
+Breakpoint 7, sys_fstat (fd=3, statbuf=0x3ffede4) at stat.c:48
+48	{
+$83 = "backtrace:"
+#0  sys_fstat (fd=3, statbuf=0x3ffede4) at stat.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$86 = "backtrace:"
+#0  cp_stat (inode=0x275c0 <inode_table>, statbuf=0x3ffede4) at stat.c:16
+#1  0x0000f8d0 in sys_fstat (fd=3, statbuf=0x3ffede4) at stat.c:54
+
+
+Breakpoint 6, sys_stat (filename=0x465f6 "", statbuf=0x3ffee54) at stat.c:37
+37	{
+$89 = "backtrace:"
+#0  sys_stat (filename=0x465f6 "", statbuf=0x3ffee54) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$92 = "backtrace:"
+#0  cp_stat (inode=0x27630 <inode_table+112>, statbuf=0x3ffee54) at stat.c:16
+#1  0x0000f857 in sys_stat (filename=0x465f6 "", statbuf=0x3ffee54)
+    at stat.c:42
+
+
+    statbuf=0x3ffee54) at stat.c:37
+37	{
+$95 = "backtrace:"
+#0  sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3ffee54) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$98 = "backtrace:"
+#0  cp_stat (inode=0x275f8 <inode_table+56>, statbuf=0x3ffee54) at stat.c:16
+#1  0x0000f857 in sys_stat (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", 
+    statbuf=0x3ffee54) at stat.c:42
+
+
+Breakpoint 7, sys_fstat (fd=3, statbuf=0x3ffede4) at stat.c:48
+48	{
+$101 = "backtrace:"
+#0  sys_fstat (fd=3, statbuf=0x3ffede4) at stat.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$104 = "backtrace:"
+#0  cp_stat (inode=0x275f8 <inode_table+56>, statbuf=0x3ffede4) at stat.c:16
+#1  0x0000f8d0 in sys_fstat (fd=3, statbuf=0x3ffede4) at stat.c:54
+
+
+Breakpoint 6, sys_stat (filename=0x465f6 "", statbuf=0x3ffee54) at stat.c:37
+37	{
+$107 = "backtrace:"
+#0  sys_stat (filename=0x465f6 "", statbuf=0x3ffee54) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    at stat.c:16
+16	{
+$110 = "backtrace:"
+#0  cp_stat (inode=0x275c0 <inode_table>, statbuf=0x3ffee54) at stat.c:16
+#1  0x0000f857 in sys_stat (filename=0x465f6 "", statbuf=0x3ffee54)
+    at stat.c:42
+
+
+Breakpoint 6, sys_stat (filename=0x4b04c "", statbuf=0x3fff594) at stat.c:37
+37	{
+$113 = "backtrace:"
+#0  sys_stat (filename=0x4b04c "", statbuf=0x3fff594) at stat.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+

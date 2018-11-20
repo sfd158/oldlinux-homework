@@ -1,0 +1,7161 @@
+Breakpoint 5, breada (dev=540, first=257) at buffer.c:326
+326	{
+$2 = "backtrace:"
+#0  breada (dev=540, first=257) at buffer.c:326
+#1  0x00016372 in rd_load () at ramdisk.c:92
+
+
+Breakpoint 5, breada (dev=540, first=256) at buffer.c:326
+326	{
+$5 = "backtrace:"
+#0  breada (dev=540, first=256) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=257) at buffer.c:326
+326	{
+$8 = "backtrace:"
+#0  breada (dev=540, first=257) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=258) at buffer.c:326
+326	{
+$11 = "backtrace:"
+#0  breada (dev=540, first=258) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=259) at buffer.c:326
+326	{
+$14 = "backtrace:"
+#0  breada (dev=540, first=259) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=260) at buffer.c:326
+326	{
+$17 = "backtrace:"
+#0  breada (dev=540, first=260) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=261) at buffer.c:326
+326	{
+$20 = "backtrace:"
+#0  breada (dev=540, first=261) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=262) at buffer.c:326
+326	{
+$23 = "backtrace:"
+#0  breada (dev=540, first=262) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=263) at buffer.c:326
+326	{
+$26 = "backtrace:"
+#0  breada (dev=540, first=263) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=264) at buffer.c:326
+326	{
+$29 = "backtrace:"
+#0  breada (dev=540, first=264) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=265) at buffer.c:326
+326	{
+$32 = "backtrace:"
+#0  breada (dev=540, first=265) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=266) at buffer.c:326
+326	{
+$35 = "backtrace:"
+#0  breada (dev=540, first=266) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=267) at buffer.c:326
+326	{
+$38 = "backtrace:"
+#0  breada (dev=540, first=267) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=268) at buffer.c:326
+326	{
+$41 = "backtrace:"
+#0  breada (dev=540, first=268) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=269) at buffer.c:326
+326	{
+$44 = "backtrace:"
+#0  breada (dev=540, first=269) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=270) at buffer.c:326
+326	{
+$47 = "backtrace:"
+#0  breada (dev=540, first=270) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=271) at buffer.c:326
+326	{
+$50 = "backtrace:"
+#0  breada (dev=540, first=271) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=272) at buffer.c:326
+326	{
+$53 = "backtrace:"
+#0  breada (dev=540, first=272) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=273) at buffer.c:326
+326	{
+$56 = "backtrace:"
+#0  breada (dev=540, first=273) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=274) at buffer.c:326
+326	{
+$59 = "backtrace:"
+#0  breada (dev=540, first=274) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=275) at buffer.c:326
+326	{
+$62 = "backtrace:"
+#0  breada (dev=540, first=275) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=276) at buffer.c:326
+326	{
+$65 = "backtrace:"
+#0  breada (dev=540, first=276) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=277) at buffer.c:326
+326	{
+$68 = "backtrace:"
+#0  breada (dev=540, first=277) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=278) at buffer.c:326
+326	{
+$71 = "backtrace:"
+#0  breada (dev=540, first=278) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=279) at buffer.c:326
+326	{
+$74 = "backtrace:"
+#0  breada (dev=540, first=279) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=280) at buffer.c:326
+326	{
+$77 = "backtrace:"
+#0  breada (dev=540, first=280) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=281) at buffer.c:326
+326	{
+$80 = "backtrace:"
+#0  breada (dev=540, first=281) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=282) at buffer.c:326
+326	{
+$83 = "backtrace:"
+#0  breada (dev=540, first=282) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=283) at buffer.c:326
+326	{
+$86 = "backtrace:"
+#0  breada (dev=540, first=283) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=284) at buffer.c:326
+326	{
+$89 = "backtrace:"
+#0  breada (dev=540, first=284) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=285) at buffer.c:326
+326	{
+$92 = "backtrace:"
+#0  breada (dev=540, first=285) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=286) at buffer.c:326
+326	{
+$95 = "backtrace:"
+#0  breada (dev=540, first=286) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=287) at buffer.c:326
+326	{
+$98 = "backtrace:"
+#0  breada (dev=540, first=287) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=288) at buffer.c:326
+326	{
+$101 = "backtrace:"
+#0  breada (dev=540, first=288) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=289) at buffer.c:326
+326	{
+$104 = "backtrace:"
+#0  breada (dev=540, first=289) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=290) at buffer.c:326
+326	{
+$107 = "backtrace:"
+#0  breada (dev=540, first=290) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=291) at buffer.c:326
+326	{
+$110 = "backtrace:"
+#0  breada (dev=540, first=291) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=292) at buffer.c:326
+326	{
+$113 = "backtrace:"
+#0  breada (dev=540, first=292) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=293) at buffer.c:326
+326	{
+$116 = "backtrace:"
+#0  breada (dev=540, first=293) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=294) at buffer.c:326
+326	{
+$119 = "backtrace:"
+#0  breada (dev=540, first=294) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=295) at buffer.c:326
+326	{
+$122 = "backtrace:"
+#0  breada (dev=540, first=295) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=296) at buffer.c:326
+326	{
+$125 = "backtrace:"
+#0  breada (dev=540, first=296) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=297) at buffer.c:326
+326	{
+$128 = "backtrace:"
+#0  breada (dev=540, first=297) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=298) at buffer.c:326
+326	{
+$131 = "backtrace:"
+#0  breada (dev=540, first=298) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=299) at buffer.c:326
+326	{
+$134 = "backtrace:"
+#0  breada (dev=540, first=299) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=300) at buffer.c:326
+326	{
+$137 = "backtrace:"
+#0  breada (dev=540, first=300) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=301) at buffer.c:326
+326	{
+$140 = "backtrace:"
+#0  breada (dev=540, first=301) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=302) at buffer.c:326
+326	{
+$143 = "backtrace:"
+#0  breada (dev=540, first=302) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=303) at buffer.c:326
+326	{
+$146 = "backtrace:"
+#0  breada (dev=540, first=303) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=304) at buffer.c:326
+326	{
+$149 = "backtrace:"
+#0  breada (dev=540, first=304) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=305) at buffer.c:326
+326	{
+$152 = "backtrace:"
+#0  breada (dev=540, first=305) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=306) at buffer.c:326
+326	{
+$155 = "backtrace:"
+#0  breada (dev=540, first=306) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=307) at buffer.c:326
+326	{
+$158 = "backtrace:"
+#0  breada (dev=540, first=307) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=308) at buffer.c:326
+326	{
+$161 = "backtrace:"
+#0  breada (dev=540, first=308) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=309) at buffer.c:326
+326	{
+$164 = "backtrace:"
+#0  breada (dev=540, first=309) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=310) at buffer.c:326
+326	{
+$167 = "backtrace:"
+#0  breada (dev=540, first=310) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=311) at buffer.c:326
+326	{
+$170 = "backtrace:"
+#0  breada (dev=540, first=311) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=312) at buffer.c:326
+326	{
+$173 = "backtrace:"
+#0  breada (dev=540, first=312) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=313) at buffer.c:326
+326	{
+$176 = "backtrace:"
+#0  breada (dev=540, first=313) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=314) at buffer.c:326
+326	{
+$179 = "backtrace:"
+#0  breada (dev=540, first=314) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=315) at buffer.c:326
+326	{
+$182 = "backtrace:"
+#0  breada (dev=540, first=315) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=316) at buffer.c:326
+326	{
+$185 = "backtrace:"
+#0  breada (dev=540, first=316) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=317) at buffer.c:326
+326	{
+$188 = "backtrace:"
+#0  breada (dev=540, first=317) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=318) at buffer.c:326
+326	{
+$191 = "backtrace:"
+#0  breada (dev=540, first=318) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=319) at buffer.c:326
+326	{
+$194 = "backtrace:"
+#0  breada (dev=540, first=319) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=320) at buffer.c:326
+326	{
+$197 = "backtrace:"
+#0  breada (dev=540, first=320) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=321) at buffer.c:326
+326	{
+$200 = "backtrace:"
+#0  breada (dev=540, first=321) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=322) at buffer.c:326
+326	{
+$203 = "backtrace:"
+#0  breada (dev=540, first=322) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=323) at buffer.c:326
+326	{
+$206 = "backtrace:"
+#0  breada (dev=540, first=323) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=324) at buffer.c:326
+326	{
+$209 = "backtrace:"
+#0  breada (dev=540, first=324) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=325) at buffer.c:326
+326	{
+$212 = "backtrace:"
+#0  breada (dev=540, first=325) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=326) at buffer.c:326
+326	{
+$215 = "backtrace:"
+#0  breada (dev=540, first=326) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=327) at buffer.c:326
+326	{
+$218 = "backtrace:"
+#0  breada (dev=540, first=327) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=328) at buffer.c:326
+326	{
+$221 = "backtrace:"
+#0  breada (dev=540, first=328) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=329) at buffer.c:326
+326	{
+$224 = "backtrace:"
+#0  breada (dev=540, first=329) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=330) at buffer.c:326
+326	{
+$227 = "backtrace:"
+#0  breada (dev=540, first=330) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=331) at buffer.c:326
+326	{
+$230 = "backtrace:"
+#0  breada (dev=540, first=331) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=332) at buffer.c:326
+326	{
+$233 = "backtrace:"
+#0  breada (dev=540, first=332) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=333) at buffer.c:326
+326	{
+$236 = "backtrace:"
+#0  breada (dev=540, first=333) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=334) at buffer.c:326
+326	{
+$239 = "backtrace:"
+#0  breada (dev=540, first=334) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=335) at buffer.c:326
+326	{
+$242 = "backtrace:"
+#0  breada (dev=540, first=335) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=336) at buffer.c:326
+326	{
+$245 = "backtrace:"
+#0  breada (dev=540, first=336) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=337) at buffer.c:326
+326	{
+$248 = "backtrace:"
+#0  breada (dev=540, first=337) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=338) at buffer.c:326
+326	{
+$251 = "backtrace:"
+#0  breada (dev=540, first=338) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=339) at buffer.c:326
+326	{
+$254 = "backtrace:"
+#0  breada (dev=540, first=339) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=340) at buffer.c:326
+326	{
+$257 = "backtrace:"
+#0  breada (dev=540, first=340) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=341) at buffer.c:326
+326	{
+$260 = "backtrace:"
+#0  breada (dev=540, first=341) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=342) at buffer.c:326
+326	{
+$263 = "backtrace:"
+#0  breada (dev=540, first=342) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=343) at buffer.c:326
+326	{
+$266 = "backtrace:"
+#0  breada (dev=540, first=343) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=344) at buffer.c:326
+326	{
+$269 = "backtrace:"
+#0  breada (dev=540, first=344) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=345) at buffer.c:326
+326	{
+$272 = "backtrace:"
+#0  breada (dev=540, first=345) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=346) at buffer.c:326
+326	{
+$275 = "backtrace:"
+#0  breada (dev=540, first=346) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=347) at buffer.c:326
+326	{
+$278 = "backtrace:"
+#0  breada (dev=540, first=347) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=348) at buffer.c:326
+326	{
+$281 = "backtrace:"
+#0  breada (dev=540, first=348) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=349) at buffer.c:326
+326	{
+$284 = "backtrace:"
+#0  breada (dev=540, first=349) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=350) at buffer.c:326
+326	{
+$287 = "backtrace:"
+#0  breada (dev=540, first=350) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=351) at buffer.c:326
+326	{
+$290 = "backtrace:"
+#0  breada (dev=540, first=351) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=352) at buffer.c:326
+326	{
+$293 = "backtrace:"
+#0  breada (dev=540, first=352) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=353) at buffer.c:326
+326	{
+$296 = "backtrace:"
+#0  breada (dev=540, first=353) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=354) at buffer.c:326
+326	{
+$299 = "backtrace:"
+#0  breada (dev=540, first=354) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=355) at buffer.c:326
+326	{
+$302 = "backtrace:"
+#0  breada (dev=540, first=355) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=356) at buffer.c:326
+326	{
+$305 = "backtrace:"
+#0  breada (dev=540, first=356) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=357) at buffer.c:326
+326	{
+$308 = "backtrace:"
+#0  breada (dev=540, first=357) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=358) at buffer.c:326
+326	{
+$311 = "backtrace:"
+#0  breada (dev=540, first=358) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=359) at buffer.c:326
+326	{
+$314 = "backtrace:"
+#0  breada (dev=540, first=359) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=360) at buffer.c:326
+326	{
+$317 = "backtrace:"
+#0  breada (dev=540, first=360) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=361) at buffer.c:326
+326	{
+$320 = "backtrace:"
+#0  breada (dev=540, first=361) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=362) at buffer.c:326
+326	{
+$323 = "backtrace:"
+#0  breada (dev=540, first=362) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=363) at buffer.c:326
+326	{
+$326 = "backtrace:"
+#0  breada (dev=540, first=363) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=364) at buffer.c:326
+326	{
+$329 = "backtrace:"
+#0  breada (dev=540, first=364) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=365) at buffer.c:326
+326	{
+$332 = "backtrace:"
+#0  breada (dev=540, first=365) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=366) at buffer.c:326
+326	{
+$335 = "backtrace:"
+#0  breada (dev=540, first=366) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=367) at buffer.c:326
+326	{
+$338 = "backtrace:"
+#0  breada (dev=540, first=367) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=368) at buffer.c:326
+326	{
+$341 = "backtrace:"
+#0  breada (dev=540, first=368) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=369) at buffer.c:326
+326	{
+$344 = "backtrace:"
+#0  breada (dev=540, first=369) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=370) at buffer.c:326
+326	{
+$347 = "backtrace:"
+#0  breada (dev=540, first=370) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=371) at buffer.c:326
+326	{
+$350 = "backtrace:"
+#0  breada (dev=540, first=371) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=372) at buffer.c:326
+326	{
+$353 = "backtrace:"
+#0  breada (dev=540, first=372) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=373) at buffer.c:326
+326	{
+$356 = "backtrace:"
+#0  breada (dev=540, first=373) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=374) at buffer.c:326
+326	{
+$359 = "backtrace:"
+#0  breada (dev=540, first=374) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=375) at buffer.c:326
+326	{
+$362 = "backtrace:"
+#0  breada (dev=540, first=375) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=376) at buffer.c:326
+326	{
+$365 = "backtrace:"
+#0  breada (dev=540, first=376) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=377) at buffer.c:326
+326	{
+$368 = "backtrace:"
+#0  breada (dev=540, first=377) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=378) at buffer.c:326
+326	{
+$371 = "backtrace:"
+#0  breada (dev=540, first=378) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=379) at buffer.c:326
+326	{
+$374 = "backtrace:"
+#0  breada (dev=540, first=379) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=380) at buffer.c:326
+326	{
+$377 = "backtrace:"
+#0  breada (dev=540, first=380) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=381) at buffer.c:326
+326	{
+$380 = "backtrace:"
+#0  breada (dev=540, first=381) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=382) at buffer.c:326
+326	{
+$383 = "backtrace:"
+#0  breada (dev=540, first=382) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=383) at buffer.c:326
+326	{
+$386 = "backtrace:"
+#0  breada (dev=540, first=383) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=384) at buffer.c:326
+326	{
+$389 = "backtrace:"
+#0  breada (dev=540, first=384) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=385) at buffer.c:326
+326	{
+$392 = "backtrace:"
+#0  breada (dev=540, first=385) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=386) at buffer.c:326
+326	{
+$395 = "backtrace:"
+#0  breada (dev=540, first=386) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=387) at buffer.c:326
+326	{
+$398 = "backtrace:"
+#0  breada (dev=540, first=387) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=388) at buffer.c:326
+326	{
+$401 = "backtrace:"
+#0  breada (dev=540, first=388) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=389) at buffer.c:326
+326	{
+$404 = "backtrace:"
+#0  breada (dev=540, first=389) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=390) at buffer.c:326
+326	{
+$407 = "backtrace:"
+#0  breada (dev=540, first=390) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=391) at buffer.c:326
+326	{
+$410 = "backtrace:"
+#0  breada (dev=540, first=391) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=392) at buffer.c:326
+326	{
+$413 = "backtrace:"
+#0  breada (dev=540, first=392) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=393) at buffer.c:326
+326	{
+$416 = "backtrace:"
+#0  breada (dev=540, first=393) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=394) at buffer.c:326
+326	{
+$419 = "backtrace:"
+#0  breada (dev=540, first=394) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=395) at buffer.c:326
+326	{
+$422 = "backtrace:"
+#0  breada (dev=540, first=395) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=396) at buffer.c:326
+326	{
+$425 = "backtrace:"
+#0  breada (dev=540, first=396) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=397) at buffer.c:326
+326	{
+$428 = "backtrace:"
+#0  breada (dev=540, first=397) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=398) at buffer.c:326
+326	{
+$431 = "backtrace:"
+#0  breada (dev=540, first=398) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=399) at buffer.c:326
+326	{
+$434 = "backtrace:"
+#0  breada (dev=540, first=399) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=400) at buffer.c:326
+326	{
+$437 = "backtrace:"
+#0  breada (dev=540, first=400) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=401) at buffer.c:326
+326	{
+$440 = "backtrace:"
+#0  breada (dev=540, first=401) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=402) at buffer.c:326
+326	{
+$443 = "backtrace:"
+#0  breada (dev=540, first=402) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=403) at buffer.c:326
+326	{
+$446 = "backtrace:"
+#0  breada (dev=540, first=403) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=404) at buffer.c:326
+326	{
+$449 = "backtrace:"
+#0  breada (dev=540, first=404) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=405) at buffer.c:326
+326	{
+$452 = "backtrace:"
+#0  breada (dev=540, first=405) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=406) at buffer.c:326
+326	{
+$455 = "backtrace:"
+#0  breada (dev=540, first=406) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=407) at buffer.c:326
+326	{
+$458 = "backtrace:"
+#0  breada (dev=540, first=407) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=408) at buffer.c:326
+326	{
+$461 = "backtrace:"
+#0  breada (dev=540, first=408) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=409) at buffer.c:326
+326	{
+$464 = "backtrace:"
+#0  breada (dev=540, first=409) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=410) at buffer.c:326
+326	{
+$467 = "backtrace:"
+#0  breada (dev=540, first=410) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=411) at buffer.c:326
+326	{
+$470 = "backtrace:"
+#0  breada (dev=540, first=411) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=412) at buffer.c:326
+326	{
+$473 = "backtrace:"
+#0  breada (dev=540, first=412) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=413) at buffer.c:326
+326	{
+$476 = "backtrace:"
+#0  breada (dev=540, first=413) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=414) at buffer.c:326
+326	{
+$479 = "backtrace:"
+#0  breada (dev=540, first=414) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=415) at buffer.c:326
+326	{
+$482 = "backtrace:"
+#0  breada (dev=540, first=415) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=416) at buffer.c:326
+326	{
+$485 = "backtrace:"
+#0  breada (dev=540, first=416) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=417) at buffer.c:326
+326	{
+$488 = "backtrace:"
+#0  breada (dev=540, first=417) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=418) at buffer.c:326
+326	{
+$491 = "backtrace:"
+#0  breada (dev=540, first=418) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=419) at buffer.c:326
+326	{
+$494 = "backtrace:"
+#0  breada (dev=540, first=419) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=420) at buffer.c:326
+326	{
+$497 = "backtrace:"
+#0  breada (dev=540, first=420) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=421) at buffer.c:326
+326	{
+$500 = "backtrace:"
+#0  breada (dev=540, first=421) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=422) at buffer.c:326
+326	{
+$503 = "backtrace:"
+#0  breada (dev=540, first=422) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=423) at buffer.c:326
+326	{
+$506 = "backtrace:"
+#0  breada (dev=540, first=423) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=424) at buffer.c:326
+326	{
+$509 = "backtrace:"
+#0  breada (dev=540, first=424) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=425) at buffer.c:326
+326	{
+$512 = "backtrace:"
+#0  breada (dev=540, first=425) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=426) at buffer.c:326
+326	{
+$515 = "backtrace:"
+#0  breada (dev=540, first=426) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=427) at buffer.c:326
+326	{
+$518 = "backtrace:"
+#0  breada (dev=540, first=427) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=428) at buffer.c:326
+326	{
+$521 = "backtrace:"
+#0  breada (dev=540, first=428) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=429) at buffer.c:326
+326	{
+$524 = "backtrace:"
+#0  breada (dev=540, first=429) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=430) at buffer.c:326
+326	{
+$527 = "backtrace:"
+#0  breada (dev=540, first=430) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=431) at buffer.c:326
+326	{
+$530 = "backtrace:"
+#0  breada (dev=540, first=431) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=432) at buffer.c:326
+326	{
+$533 = "backtrace:"
+#0  breada (dev=540, first=432) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=433) at buffer.c:326
+326	{
+$536 = "backtrace:"
+#0  breada (dev=540, first=433) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=434) at buffer.c:326
+326	{
+$539 = "backtrace:"
+#0  breada (dev=540, first=434) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=435) at buffer.c:326
+326	{
+$542 = "backtrace:"
+#0  breada (dev=540, first=435) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=436) at buffer.c:326
+326	{
+$545 = "backtrace:"
+#0  breada (dev=540, first=436) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=437) at buffer.c:326
+326	{
+$548 = "backtrace:"
+#0  breada (dev=540, first=437) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=438) at buffer.c:326
+326	{
+$551 = "backtrace:"
+#0  breada (dev=540, first=438) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=439) at buffer.c:326
+326	{
+$554 = "backtrace:"
+#0  breada (dev=540, first=439) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=440) at buffer.c:326
+326	{
+$557 = "backtrace:"
+#0  breada (dev=540, first=440) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=441) at buffer.c:326
+326	{
+$560 = "backtrace:"
+#0  breada (dev=540, first=441) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=442) at buffer.c:326
+326	{
+$563 = "backtrace:"
+#0  breada (dev=540, first=442) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=443) at buffer.c:326
+326	{
+$566 = "backtrace:"
+#0  breada (dev=540, first=443) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=444) at buffer.c:326
+326	{
+$569 = "backtrace:"
+#0  breada (dev=540, first=444) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=445) at buffer.c:326
+326	{
+$572 = "backtrace:"
+#0  breada (dev=540, first=445) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=446) at buffer.c:326
+326	{
+$575 = "backtrace:"
+#0  breada (dev=540, first=446) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=447) at buffer.c:326
+326	{
+$578 = "backtrace:"
+#0  breada (dev=540, first=447) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=448) at buffer.c:326
+326	{
+$581 = "backtrace:"
+#0  breada (dev=540, first=448) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=449) at buffer.c:326
+326	{
+$584 = "backtrace:"
+#0  breada (dev=540, first=449) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=450) at buffer.c:326
+326	{
+$587 = "backtrace:"
+#0  breada (dev=540, first=450) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=451) at buffer.c:326
+326	{
+$590 = "backtrace:"
+#0  breada (dev=540, first=451) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=452) at buffer.c:326
+326	{
+$593 = "backtrace:"
+#0  breada (dev=540, first=452) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=453) at buffer.c:326
+326	{
+$596 = "backtrace:"
+#0  breada (dev=540, first=453) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=454) at buffer.c:326
+326	{
+$599 = "backtrace:"
+#0  breada (dev=540, first=454) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=455) at buffer.c:326
+326	{
+$602 = "backtrace:"
+#0  breada (dev=540, first=455) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=456) at buffer.c:326
+326	{
+$605 = "backtrace:"
+#0  breada (dev=540, first=456) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=457) at buffer.c:326
+326	{
+$608 = "backtrace:"
+#0  breada (dev=540, first=457) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=458) at buffer.c:326
+326	{
+$611 = "backtrace:"
+#0  breada (dev=540, first=458) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=459) at buffer.c:326
+326	{
+$614 = "backtrace:"
+#0  breada (dev=540, first=459) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=460) at buffer.c:326
+326	{
+$617 = "backtrace:"
+#0  breada (dev=540, first=460) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=461) at buffer.c:326
+326	{
+$620 = "backtrace:"
+#0  breada (dev=540, first=461) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=462) at buffer.c:326
+326	{
+$623 = "backtrace:"
+#0  breada (dev=540, first=462) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=463) at buffer.c:326
+326	{
+$626 = "backtrace:"
+#0  breada (dev=540, first=463) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=464) at buffer.c:326
+326	{
+$629 = "backtrace:"
+#0  breada (dev=540, first=464) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=465) at buffer.c:326
+326	{
+$632 = "backtrace:"
+#0  breada (dev=540, first=465) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=466) at buffer.c:326
+326	{
+$635 = "backtrace:"
+#0  breada (dev=540, first=466) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=467) at buffer.c:326
+326	{
+$638 = "backtrace:"
+#0  breada (dev=540, first=467) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=468) at buffer.c:326
+326	{
+$641 = "backtrace:"
+#0  breada (dev=540, first=468) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=469) at buffer.c:326
+326	{
+$644 = "backtrace:"
+#0  breada (dev=540, first=469) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=470) at buffer.c:326
+326	{
+$647 = "backtrace:"
+#0  breada (dev=540, first=470) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=471) at buffer.c:326
+326	{
+$650 = "backtrace:"
+#0  breada (dev=540, first=471) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=472) at buffer.c:326
+326	{
+$653 = "backtrace:"
+#0  breada (dev=540, first=472) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=473) at buffer.c:326
+326	{
+$656 = "backtrace:"
+#0  breada (dev=540, first=473) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=474) at buffer.c:326
+326	{
+$659 = "backtrace:"
+#0  breada (dev=540, first=474) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=475) at buffer.c:326
+326	{
+$662 = "backtrace:"
+#0  breada (dev=540, first=475) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=476) at buffer.c:326
+326	{
+$665 = "backtrace:"
+#0  breada (dev=540, first=476) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=477) at buffer.c:326
+326	{
+$668 = "backtrace:"
+#0  breada (dev=540, first=477) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=478) at buffer.c:326
+326	{
+$671 = "backtrace:"
+#0  breada (dev=540, first=478) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=479) at buffer.c:326
+326	{
+$674 = "backtrace:"
+#0  breada (dev=540, first=479) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=480) at buffer.c:326
+326	{
+$677 = "backtrace:"
+#0  breada (dev=540, first=480) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=481) at buffer.c:326
+326	{
+$680 = "backtrace:"
+#0  breada (dev=540, first=481) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=482) at buffer.c:326
+326	{
+$683 = "backtrace:"
+#0  breada (dev=540, first=482) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=483) at buffer.c:326
+326	{
+$686 = "backtrace:"
+#0  breada (dev=540, first=483) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=484) at buffer.c:326
+326	{
+$689 = "backtrace:"
+#0  breada (dev=540, first=484) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=485) at buffer.c:326
+326	{
+$692 = "backtrace:"
+#0  breada (dev=540, first=485) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=486) at buffer.c:326
+326	{
+$695 = "backtrace:"
+#0  breada (dev=540, first=486) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=487) at buffer.c:326
+326	{
+$698 = "backtrace:"
+#0  breada (dev=540, first=487) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=488) at buffer.c:326
+326	{
+$701 = "backtrace:"
+#0  breada (dev=540, first=488) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=489) at buffer.c:326
+326	{
+$704 = "backtrace:"
+#0  breada (dev=540, first=489) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=490) at buffer.c:326
+326	{
+$707 = "backtrace:"
+#0  breada (dev=540, first=490) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=491) at buffer.c:326
+326	{
+$710 = "backtrace:"
+#0  breada (dev=540, first=491) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=492) at buffer.c:326
+326	{
+$713 = "backtrace:"
+#0  breada (dev=540, first=492) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=493) at buffer.c:326
+326	{
+$716 = "backtrace:"
+#0  breada (dev=540, first=493) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=494) at buffer.c:326
+326	{
+$719 = "backtrace:"
+#0  breada (dev=540, first=494) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=495) at buffer.c:326
+326	{
+$722 = "backtrace:"
+#0  breada (dev=540, first=495) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=496) at buffer.c:326
+326	{
+$725 = "backtrace:"
+#0  breada (dev=540, first=496) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=497) at buffer.c:326
+326	{
+$728 = "backtrace:"
+#0  breada (dev=540, first=497) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=498) at buffer.c:326
+326	{
+$731 = "backtrace:"
+#0  breada (dev=540, first=498) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=499) at buffer.c:326
+326	{
+$734 = "backtrace:"
+#0  breada (dev=540, first=499) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=500) at buffer.c:326
+326	{
+$737 = "backtrace:"
+#0  breada (dev=540, first=500) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=501) at buffer.c:326
+326	{
+$740 = "backtrace:"
+#0  breada (dev=540, first=501) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=502) at buffer.c:326
+326	{
+$743 = "backtrace:"
+#0  breada (dev=540, first=502) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=503) at buffer.c:326
+326	{
+$746 = "backtrace:"
+#0  breada (dev=540, first=503) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=504) at buffer.c:326
+326	{
+$749 = "backtrace:"
+#0  breada (dev=540, first=504) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=505) at buffer.c:326
+326	{
+$752 = "backtrace:"
+#0  breada (dev=540, first=505) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=506) at buffer.c:326
+326	{
+$755 = "backtrace:"
+#0  breada (dev=540, first=506) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=507) at buffer.c:326
+326	{
+$758 = "backtrace:"
+#0  breada (dev=540, first=507) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=508) at buffer.c:326
+326	{
+$761 = "backtrace:"
+#0  breada (dev=540, first=508) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=509) at buffer.c:326
+326	{
+$764 = "backtrace:"
+#0  breada (dev=540, first=509) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=510) at buffer.c:326
+326	{
+$767 = "backtrace:"
+#0  breada (dev=540, first=510) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=511) at buffer.c:326
+326	{
+$770 = "backtrace:"
+#0  breada (dev=540, first=511) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=512) at buffer.c:326
+326	{
+$773 = "backtrace:"
+#0  breada (dev=540, first=512) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=513) at buffer.c:326
+326	{
+$776 = "backtrace:"
+#0  breada (dev=540, first=513) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=514) at buffer.c:326
+326	{
+$779 = "backtrace:"
+#0  breada (dev=540, first=514) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=515) at buffer.c:326
+326	{
+$782 = "backtrace:"
+#0  breada (dev=540, first=515) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=516) at buffer.c:326
+326	{
+$785 = "backtrace:"
+#0  breada (dev=540, first=516) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=517) at buffer.c:326
+326	{
+$788 = "backtrace:"
+#0  breada (dev=540, first=517) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=518) at buffer.c:326
+326	{
+$791 = "backtrace:"
+#0  breada (dev=540, first=518) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=519) at buffer.c:326
+326	{
+$794 = "backtrace:"
+#0  breada (dev=540, first=519) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=520) at buffer.c:326
+326	{
+$797 = "backtrace:"
+#0  breada (dev=540, first=520) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=521) at buffer.c:326
+326	{
+$800 = "backtrace:"
+#0  breada (dev=540, first=521) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=522) at buffer.c:326
+326	{
+$803 = "backtrace:"
+#0  breada (dev=540, first=522) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=523) at buffer.c:326
+326	{
+$806 = "backtrace:"
+#0  breada (dev=540, first=523) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=524) at buffer.c:326
+326	{
+$809 = "backtrace:"
+#0  breada (dev=540, first=524) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=525) at buffer.c:326
+326	{
+$812 = "backtrace:"
+#0  breada (dev=540, first=525) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=526) at buffer.c:326
+326	{
+$815 = "backtrace:"
+#0  breada (dev=540, first=526) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=527) at buffer.c:326
+326	{
+$818 = "backtrace:"
+#0  breada (dev=540, first=527) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=528) at buffer.c:326
+326	{
+$821 = "backtrace:"
+#0  breada (dev=540, first=528) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=529) at buffer.c:326
+326	{
+$824 = "backtrace:"
+#0  breada (dev=540, first=529) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=530) at buffer.c:326
+326	{
+$827 = "backtrace:"
+#0  breada (dev=540, first=530) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=531) at buffer.c:326
+326	{
+$830 = "backtrace:"
+#0  breada (dev=540, first=531) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=532) at buffer.c:326
+326	{
+$833 = "backtrace:"
+#0  breada (dev=540, first=532) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=533) at buffer.c:326
+326	{
+$836 = "backtrace:"
+#0  breada (dev=540, first=533) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=534) at buffer.c:326
+326	{
+$839 = "backtrace:"
+#0  breada (dev=540, first=534) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=535) at buffer.c:326
+326	{
+$842 = "backtrace:"
+#0  breada (dev=540, first=535) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=536) at buffer.c:326
+326	{
+$845 = "backtrace:"
+#0  breada (dev=540, first=536) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=537) at buffer.c:326
+326	{
+$848 = "backtrace:"
+#0  breada (dev=540, first=537) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=538) at buffer.c:326
+326	{
+$851 = "backtrace:"
+#0  breada (dev=540, first=538) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=539) at buffer.c:326
+326	{
+$854 = "backtrace:"
+#0  breada (dev=540, first=539) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=540) at buffer.c:326
+326	{
+$857 = "backtrace:"
+#0  breada (dev=540, first=540) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=541) at buffer.c:326
+326	{
+$860 = "backtrace:"
+#0  breada (dev=540, first=541) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=542) at buffer.c:326
+326	{
+$863 = "backtrace:"
+#0  breada (dev=540, first=542) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=543) at buffer.c:326
+326	{
+$866 = "backtrace:"
+#0  breada (dev=540, first=543) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=544) at buffer.c:326
+326	{
+$869 = "backtrace:"
+#0  breada (dev=540, first=544) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=545) at buffer.c:326
+326	{
+$872 = "backtrace:"
+#0  breada (dev=540, first=545) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=546) at buffer.c:326
+326	{
+$875 = "backtrace:"
+#0  breada (dev=540, first=546) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=547) at buffer.c:326
+326	{
+$878 = "backtrace:"
+#0  breada (dev=540, first=547) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=548) at buffer.c:326
+326	{
+$881 = "backtrace:"
+#0  breada (dev=540, first=548) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=549) at buffer.c:326
+326	{
+$884 = "backtrace:"
+#0  breada (dev=540, first=549) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=550) at buffer.c:326
+326	{
+$887 = "backtrace:"
+#0  breada (dev=540, first=550) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=551) at buffer.c:326
+326	{
+$890 = "backtrace:"
+#0  breada (dev=540, first=551) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=552) at buffer.c:326
+326	{
+$893 = "backtrace:"
+#0  breada (dev=540, first=552) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=553) at buffer.c:326
+326	{
+$896 = "backtrace:"
+#0  breada (dev=540, first=553) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=554) at buffer.c:326
+326	{
+$899 = "backtrace:"
+#0  breada (dev=540, first=554) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=555) at buffer.c:326
+326	{
+$902 = "backtrace:"
+#0  breada (dev=540, first=555) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=556) at buffer.c:326
+326	{
+$905 = "backtrace:"
+#0  breada (dev=540, first=556) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=557) at buffer.c:326
+326	{
+$908 = "backtrace:"
+#0  breada (dev=540, first=557) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=558) at buffer.c:326
+326	{
+$911 = "backtrace:"
+#0  breada (dev=540, first=558) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=559) at buffer.c:326
+326	{
+$914 = "backtrace:"
+#0  breada (dev=540, first=559) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=560) at buffer.c:326
+326	{
+$917 = "backtrace:"
+#0  breada (dev=540, first=560) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=561) at buffer.c:326
+326	{
+$920 = "backtrace:"
+#0  breada (dev=540, first=561) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=562) at buffer.c:326
+326	{
+$923 = "backtrace:"
+#0  breada (dev=540, first=562) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=563) at buffer.c:326
+326	{
+$926 = "backtrace:"
+#0  breada (dev=540, first=563) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=564) at buffer.c:326
+326	{
+$929 = "backtrace:"
+#0  breada (dev=540, first=564) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=565) at buffer.c:326
+326	{
+$932 = "backtrace:"
+#0  breada (dev=540, first=565) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=566) at buffer.c:326
+326	{
+$935 = "backtrace:"
+#0  breada (dev=540, first=566) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=567) at buffer.c:326
+326	{
+$938 = "backtrace:"
+#0  breada (dev=540, first=567) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=568) at buffer.c:326
+326	{
+$941 = "backtrace:"
+#0  breada (dev=540, first=568) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=569) at buffer.c:326
+326	{
+$944 = "backtrace:"
+#0  breada (dev=540, first=569) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=570) at buffer.c:326
+326	{
+$947 = "backtrace:"
+#0  breada (dev=540, first=570) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=571) at buffer.c:326
+326	{
+$950 = "backtrace:"
+#0  breada (dev=540, first=571) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=572) at buffer.c:326
+326	{
+$953 = "backtrace:"
+#0  breada (dev=540, first=572) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=573) at buffer.c:326
+326	{
+$956 = "backtrace:"
+#0  breada (dev=540, first=573) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=574) at buffer.c:326
+326	{
+$959 = "backtrace:"
+#0  breada (dev=540, first=574) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=575) at buffer.c:326
+326	{
+$962 = "backtrace:"
+#0  breada (dev=540, first=575) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=576) at buffer.c:326
+326	{
+$965 = "backtrace:"
+#0  breada (dev=540, first=576) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=577) at buffer.c:326
+326	{
+$968 = "backtrace:"
+#0  breada (dev=540, first=577) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=578) at buffer.c:326
+326	{
+$971 = "backtrace:"
+#0  breada (dev=540, first=578) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=579) at buffer.c:326
+326	{
+$974 = "backtrace:"
+#0  breada (dev=540, first=579) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=580) at buffer.c:326
+326	{
+$977 = "backtrace:"
+#0  breada (dev=540, first=580) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=581) at buffer.c:326
+326	{
+$980 = "backtrace:"
+#0  breada (dev=540, first=581) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=582) at buffer.c:326
+326	{
+$983 = "backtrace:"
+#0  breada (dev=540, first=582) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=583) at buffer.c:326
+326	{
+$986 = "backtrace:"
+#0  breada (dev=540, first=583) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=584) at buffer.c:326
+326	{
+$989 = "backtrace:"
+#0  breada (dev=540, first=584) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=585) at buffer.c:326
+326	{
+$992 = "backtrace:"
+#0  breada (dev=540, first=585) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=586) at buffer.c:326
+326	{
+$995 = "backtrace:"
+#0  breada (dev=540, first=586) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=587) at buffer.c:326
+326	{
+$998 = "backtrace:"
+#0  breada (dev=540, first=587) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=588) at buffer.c:326
+326	{
+$1001 = "backtrace:"
+#0  breada (dev=540, first=588) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=589) at buffer.c:326
+326	{
+$1004 = "backtrace:"
+#0  breada (dev=540, first=589) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=590) at buffer.c:326
+326	{
+$1007 = "backtrace:"
+#0  breada (dev=540, first=590) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=591) at buffer.c:326
+326	{
+$1010 = "backtrace:"
+#0  breada (dev=540, first=591) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=592) at buffer.c:326
+326	{
+$1013 = "backtrace:"
+#0  breada (dev=540, first=592) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=593) at buffer.c:326
+326	{
+$1016 = "backtrace:"
+#0  breada (dev=540, first=593) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=594) at buffer.c:326
+326	{
+$1019 = "backtrace:"
+#0  breada (dev=540, first=594) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=595) at buffer.c:326
+326	{
+$1022 = "backtrace:"
+#0  breada (dev=540, first=595) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=596) at buffer.c:326
+326	{
+$1025 = "backtrace:"
+#0  breada (dev=540, first=596) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=597) at buffer.c:326
+326	{
+$1028 = "backtrace:"
+#0  breada (dev=540, first=597) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=598) at buffer.c:326
+326	{
+$1031 = "backtrace:"
+#0  breada (dev=540, first=598) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=599) at buffer.c:326
+326	{
+$1034 = "backtrace:"
+#0  breada (dev=540, first=599) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=600) at buffer.c:326
+326	{
+$1037 = "backtrace:"
+#0  breada (dev=540, first=600) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=601) at buffer.c:326
+326	{
+$1040 = "backtrace:"
+#0  breada (dev=540, first=601) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=602) at buffer.c:326
+326	{
+$1043 = "backtrace:"
+#0  breada (dev=540, first=602) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=603) at buffer.c:326
+326	{
+$1046 = "backtrace:"
+#0  breada (dev=540, first=603) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=604) at buffer.c:326
+326	{
+$1049 = "backtrace:"
+#0  breada (dev=540, first=604) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=605) at buffer.c:326
+326	{
+$1052 = "backtrace:"
+#0  breada (dev=540, first=605) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=606) at buffer.c:326
+326	{
+$1055 = "backtrace:"
+#0  breada (dev=540, first=606) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=607) at buffer.c:326
+326	{
+$1058 = "backtrace:"
+#0  breada (dev=540, first=607) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=608) at buffer.c:326
+326	{
+$1061 = "backtrace:"
+#0  breada (dev=540, first=608) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=609) at buffer.c:326
+326	{
+$1064 = "backtrace:"
+#0  breada (dev=540, first=609) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=610) at buffer.c:326
+326	{
+$1067 = "backtrace:"
+#0  breada (dev=540, first=610) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=611) at buffer.c:326
+326	{
+$1070 = "backtrace:"
+#0  breada (dev=540, first=611) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=612) at buffer.c:326
+326	{
+$1073 = "backtrace:"
+#0  breada (dev=540, first=612) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=613) at buffer.c:326
+326	{
+$1076 = "backtrace:"
+#0  breada (dev=540, first=613) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=614) at buffer.c:326
+326	{
+$1079 = "backtrace:"
+#0  breada (dev=540, first=614) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=615) at buffer.c:326
+326	{
+$1082 = "backtrace:"
+#0  breada (dev=540, first=615) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=616) at buffer.c:326
+326	{
+$1085 = "backtrace:"
+#0  breada (dev=540, first=616) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=617) at buffer.c:326
+326	{
+$1088 = "backtrace:"
+#0  breada (dev=540, first=617) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=618) at buffer.c:326
+326	{
+$1091 = "backtrace:"
+#0  breada (dev=540, first=618) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=619) at buffer.c:326
+326	{
+$1094 = "backtrace:"
+#0  breada (dev=540, first=619) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=620) at buffer.c:326
+326	{
+$1097 = "backtrace:"
+#0  breada (dev=540, first=620) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=621) at buffer.c:326
+326	{
+$1100 = "backtrace:"
+#0  breada (dev=540, first=621) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=622) at buffer.c:326
+326	{
+$1103 = "backtrace:"
+#0  breada (dev=540, first=622) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=623) at buffer.c:326
+326	{
+$1106 = "backtrace:"
+#0  breada (dev=540, first=623) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=624) at buffer.c:326
+326	{
+$1109 = "backtrace:"
+#0  breada (dev=540, first=624) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=625) at buffer.c:326
+326	{
+$1112 = "backtrace:"
+#0  breada (dev=540, first=625) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=626) at buffer.c:326
+326	{
+$1115 = "backtrace:"
+#0  breada (dev=540, first=626) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=627) at buffer.c:326
+326	{
+$1118 = "backtrace:"
+#0  breada (dev=540, first=627) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=628) at buffer.c:326
+326	{
+$1121 = "backtrace:"
+#0  breada (dev=540, first=628) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=629) at buffer.c:326
+326	{
+$1124 = "backtrace:"
+#0  breada (dev=540, first=629) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=630) at buffer.c:326
+326	{
+$1127 = "backtrace:"
+#0  breada (dev=540, first=630) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=631) at buffer.c:326
+326	{
+$1130 = "backtrace:"
+#0  breada (dev=540, first=631) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=632) at buffer.c:326
+326	{
+$1133 = "backtrace:"
+#0  breada (dev=540, first=632) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=633) at buffer.c:326
+326	{
+$1136 = "backtrace:"
+#0  breada (dev=540, first=633) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=634) at buffer.c:326
+326	{
+$1139 = "backtrace:"
+#0  breada (dev=540, first=634) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=635) at buffer.c:326
+326	{
+$1142 = "backtrace:"
+#0  breada (dev=540, first=635) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=636) at buffer.c:326
+326	{
+$1145 = "backtrace:"
+#0  breada (dev=540, first=636) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=637) at buffer.c:326
+326	{
+$1148 = "backtrace:"
+#0  breada (dev=540, first=637) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=638) at buffer.c:326
+326	{
+$1151 = "backtrace:"
+#0  breada (dev=540, first=638) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=639) at buffer.c:326
+326	{
+$1154 = "backtrace:"
+#0  breada (dev=540, first=639) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=640) at buffer.c:326
+326	{
+$1157 = "backtrace:"
+#0  breada (dev=540, first=640) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=641) at buffer.c:326
+326	{
+$1160 = "backtrace:"
+#0  breada (dev=540, first=641) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=642) at buffer.c:326
+326	{
+$1163 = "backtrace:"
+#0  breada (dev=540, first=642) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=643) at buffer.c:326
+326	{
+$1166 = "backtrace:"
+#0  breada (dev=540, first=643) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=644) at buffer.c:326
+326	{
+$1169 = "backtrace:"
+#0  breada (dev=540, first=644) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=645) at buffer.c:326
+326	{
+$1172 = "backtrace:"
+#0  breada (dev=540, first=645) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=646) at buffer.c:326
+326	{
+$1175 = "backtrace:"
+#0  breada (dev=540, first=646) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=647) at buffer.c:326
+326	{
+$1178 = "backtrace:"
+#0  breada (dev=540, first=647) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=648) at buffer.c:326
+326	{
+$1181 = "backtrace:"
+#0  breada (dev=540, first=648) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=649) at buffer.c:326
+326	{
+$1184 = "backtrace:"
+#0  breada (dev=540, first=649) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=650) at buffer.c:326
+326	{
+$1187 = "backtrace:"
+#0  breada (dev=540, first=650) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=651) at buffer.c:326
+326	{
+$1190 = "backtrace:"
+#0  breada (dev=540, first=651) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=652) at buffer.c:326
+326	{
+$1193 = "backtrace:"
+#0  breada (dev=540, first=652) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=653) at buffer.c:326
+326	{
+$1196 = "backtrace:"
+#0  breada (dev=540, first=653) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=654) at buffer.c:326
+326	{
+$1199 = "backtrace:"
+#0  breada (dev=540, first=654) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=655) at buffer.c:326
+326	{
+$1202 = "backtrace:"
+#0  breada (dev=540, first=655) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=656) at buffer.c:326
+326	{
+$1205 = "backtrace:"
+#0  breada (dev=540, first=656) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=657) at buffer.c:326
+326	{
+$1208 = "backtrace:"
+#0  breada (dev=540, first=657) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=658) at buffer.c:326
+326	{
+$1211 = "backtrace:"
+#0  breada (dev=540, first=658) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=659) at buffer.c:326
+326	{
+$1214 = "backtrace:"
+#0  breada (dev=540, first=659) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=660) at buffer.c:326
+326	{
+$1217 = "backtrace:"
+#0  breada (dev=540, first=660) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=661) at buffer.c:326
+326	{
+$1220 = "backtrace:"
+#0  breada (dev=540, first=661) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=662) at buffer.c:326
+326	{
+$1223 = "backtrace:"
+#0  breada (dev=540, first=662) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=663) at buffer.c:326
+326	{
+$1226 = "backtrace:"
+#0  breada (dev=540, first=663) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=664) at buffer.c:326
+326	{
+$1229 = "backtrace:"
+#0  breada (dev=540, first=664) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=665) at buffer.c:326
+326	{
+$1232 = "backtrace:"
+#0  breada (dev=540, first=665) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=666) at buffer.c:326
+326	{
+$1235 = "backtrace:"
+#0  breada (dev=540, first=666) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=667) at buffer.c:326
+326	{
+$1238 = "backtrace:"
+#0  breada (dev=540, first=667) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=668) at buffer.c:326
+326	{
+$1241 = "backtrace:"
+#0  breada (dev=540, first=668) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=669) at buffer.c:326
+326	{
+$1244 = "backtrace:"
+#0  breada (dev=540, first=669) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=670) at buffer.c:326
+326	{
+$1247 = "backtrace:"
+#0  breada (dev=540, first=670) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=671) at buffer.c:326
+326	{
+$1250 = "backtrace:"
+#0  breada (dev=540, first=671) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=672) at buffer.c:326
+326	{
+$1253 = "backtrace:"
+#0  breada (dev=540, first=672) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=673) at buffer.c:326
+326	{
+$1256 = "backtrace:"
+#0  breada (dev=540, first=673) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=674) at buffer.c:326
+326	{
+$1259 = "backtrace:"
+#0  breada (dev=540, first=674) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=675) at buffer.c:326
+326	{
+$1262 = "backtrace:"
+#0  breada (dev=540, first=675) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=676) at buffer.c:326
+326	{
+$1265 = "backtrace:"
+#0  breada (dev=540, first=676) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=677) at buffer.c:326
+326	{
+$1268 = "backtrace:"
+#0  breada (dev=540, first=677) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=678) at buffer.c:326
+326	{
+$1271 = "backtrace:"
+#0  breada (dev=540, first=678) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=679) at buffer.c:326
+326	{
+$1274 = "backtrace:"
+#0  breada (dev=540, first=679) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=680) at buffer.c:326
+326	{
+$1277 = "backtrace:"
+#0  breada (dev=540, first=680) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=681) at buffer.c:326
+326	{
+$1280 = "backtrace:"
+#0  breada (dev=540, first=681) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=682) at buffer.c:326
+326	{
+$1283 = "backtrace:"
+#0  breada (dev=540, first=682) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=683) at buffer.c:326
+326	{
+$1286 = "backtrace:"
+#0  breada (dev=540, first=683) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=684) at buffer.c:326
+326	{
+$1289 = "backtrace:"
+#0  breada (dev=540, first=684) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=685) at buffer.c:326
+326	{
+$1292 = "backtrace:"
+#0  breada (dev=540, first=685) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=686) at buffer.c:326
+326	{
+$1295 = "backtrace:"
+#0  breada (dev=540, first=686) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=687) at buffer.c:326
+326	{
+$1298 = "backtrace:"
+#0  breada (dev=540, first=687) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=688) at buffer.c:326
+326	{
+$1301 = "backtrace:"
+#0  breada (dev=540, first=688) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=689) at buffer.c:326
+326	{
+$1304 = "backtrace:"
+#0  breada (dev=540, first=689) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=690) at buffer.c:326
+326	{
+$1307 = "backtrace:"
+#0  breada (dev=540, first=690) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=691) at buffer.c:326
+326	{
+$1310 = "backtrace:"
+#0  breada (dev=540, first=691) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=692) at buffer.c:326
+326	{
+$1313 = "backtrace:"
+#0  breada (dev=540, first=692) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=693) at buffer.c:326
+326	{
+$1316 = "backtrace:"
+#0  breada (dev=540, first=693) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=694) at buffer.c:326
+326	{
+$1319 = "backtrace:"
+#0  breada (dev=540, first=694) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=695) at buffer.c:326
+326	{
+$1322 = "backtrace:"
+#0  breada (dev=540, first=695) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=696) at buffer.c:326
+326	{
+$1325 = "backtrace:"
+#0  breada (dev=540, first=696) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=697) at buffer.c:326
+326	{
+$1328 = "backtrace:"
+#0  breada (dev=540, first=697) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=698) at buffer.c:326
+326	{
+$1331 = "backtrace:"
+#0  breada (dev=540, first=698) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=699) at buffer.c:326
+326	{
+$1334 = "backtrace:"
+#0  breada (dev=540, first=699) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=700) at buffer.c:326
+326	{
+$1337 = "backtrace:"
+#0  breada (dev=540, first=700) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=701) at buffer.c:326
+326	{
+$1340 = "backtrace:"
+#0  breada (dev=540, first=701) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=702) at buffer.c:326
+326	{
+$1343 = "backtrace:"
+#0  breada (dev=540, first=702) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=703) at buffer.c:326
+326	{
+$1346 = "backtrace:"
+#0  breada (dev=540, first=703) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=704) at buffer.c:326
+326	{
+$1349 = "backtrace:"
+#0  breada (dev=540, first=704) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=705) at buffer.c:326
+326	{
+$1352 = "backtrace:"
+#0  breada (dev=540, first=705) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=706) at buffer.c:326
+326	{
+$1355 = "backtrace:"
+#0  breada (dev=540, first=706) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=707) at buffer.c:326
+326	{
+$1358 = "backtrace:"
+#0  breada (dev=540, first=707) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=708) at buffer.c:326
+326	{
+$1361 = "backtrace:"
+#0  breada (dev=540, first=708) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=709) at buffer.c:326
+326	{
+$1364 = "backtrace:"
+#0  breada (dev=540, first=709) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=710) at buffer.c:326
+326	{
+$1367 = "backtrace:"
+#0  breada (dev=540, first=710) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=711) at buffer.c:326
+326	{
+$1370 = "backtrace:"
+#0  breada (dev=540, first=711) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=712) at buffer.c:326
+326	{
+$1373 = "backtrace:"
+#0  breada (dev=540, first=712) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=713) at buffer.c:326
+326	{
+$1376 = "backtrace:"
+#0  breada (dev=540, first=713) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=714) at buffer.c:326
+326	{
+$1379 = "backtrace:"
+#0  breada (dev=540, first=714) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=715) at buffer.c:326
+326	{
+$1382 = "backtrace:"
+#0  breada (dev=540, first=715) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=716) at buffer.c:326
+326	{
+$1385 = "backtrace:"
+#0  breada (dev=540, first=716) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=717) at buffer.c:326
+326	{
+$1388 = "backtrace:"
+#0  breada (dev=540, first=717) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=718) at buffer.c:326
+326	{
+$1391 = "backtrace:"
+#0  breada (dev=540, first=718) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=719) at buffer.c:326
+326	{
+$1394 = "backtrace:"
+#0  breada (dev=540, first=719) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=720) at buffer.c:326
+326	{
+$1397 = "backtrace:"
+#0  breada (dev=540, first=720) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=721) at buffer.c:326
+326	{
+$1400 = "backtrace:"
+#0  breada (dev=540, first=721) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=722) at buffer.c:326
+326	{
+$1403 = "backtrace:"
+#0  breada (dev=540, first=722) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=723) at buffer.c:326
+326	{
+$1406 = "backtrace:"
+#0  breada (dev=540, first=723) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=724) at buffer.c:326
+326	{
+$1409 = "backtrace:"
+#0  breada (dev=540, first=724) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=725) at buffer.c:326
+326	{
+$1412 = "backtrace:"
+#0  breada (dev=540, first=725) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=726) at buffer.c:326
+326	{
+$1415 = "backtrace:"
+#0  breada (dev=540, first=726) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=727) at buffer.c:326
+326	{
+$1418 = "backtrace:"
+#0  breada (dev=540, first=727) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=728) at buffer.c:326
+326	{
+$1421 = "backtrace:"
+#0  breada (dev=540, first=728) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=729) at buffer.c:326
+326	{
+$1424 = "backtrace:"
+#0  breada (dev=540, first=729) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=730) at buffer.c:326
+326	{
+$1427 = "backtrace:"
+#0  breada (dev=540, first=730) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=731) at buffer.c:326
+326	{
+$1430 = "backtrace:"
+#0  breada (dev=540, first=731) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=732) at buffer.c:326
+326	{
+$1433 = "backtrace:"
+#0  breada (dev=540, first=732) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=733) at buffer.c:326
+326	{
+$1436 = "backtrace:"
+#0  breada (dev=540, first=733) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=734) at buffer.c:326
+326	{
+$1439 = "backtrace:"
+#0  breada (dev=540, first=734) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=735) at buffer.c:326
+326	{
+$1442 = "backtrace:"
+#0  breada (dev=540, first=735) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=736) at buffer.c:326
+326	{
+$1445 = "backtrace:"
+#0  breada (dev=540, first=736) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=737) at buffer.c:326
+326	{
+$1448 = "backtrace:"
+#0  breada (dev=540, first=737) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=738) at buffer.c:326
+326	{
+$1451 = "backtrace:"
+#0  breada (dev=540, first=738) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=739) at buffer.c:326
+326	{
+$1454 = "backtrace:"
+#0  breada (dev=540, first=739) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=740) at buffer.c:326
+326	{
+$1457 = "backtrace:"
+#0  breada (dev=540, first=740) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=741) at buffer.c:326
+326	{
+$1460 = "backtrace:"
+#0  breada (dev=540, first=741) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=742) at buffer.c:326
+326	{
+$1463 = "backtrace:"
+#0  breada (dev=540, first=742) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=743) at buffer.c:326
+326	{
+$1466 = "backtrace:"
+#0  breada (dev=540, first=743) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=744) at buffer.c:326
+326	{
+$1469 = "backtrace:"
+#0  breada (dev=540, first=744) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=745) at buffer.c:326
+326	{
+$1472 = "backtrace:"
+#0  breada (dev=540, first=745) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=746) at buffer.c:326
+326	{
+$1475 = "backtrace:"
+#0  breada (dev=540, first=746) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=747) at buffer.c:326
+326	{
+$1478 = "backtrace:"
+#0  breada (dev=540, first=747) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=748) at buffer.c:326
+326	{
+$1481 = "backtrace:"
+#0  breada (dev=540, first=748) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=749) at buffer.c:326
+326	{
+$1484 = "backtrace:"
+#0  breada (dev=540, first=749) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=750) at buffer.c:326
+326	{
+$1487 = "backtrace:"
+#0  breada (dev=540, first=750) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=751) at buffer.c:326
+326	{
+$1490 = "backtrace:"
+#0  breada (dev=540, first=751) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=752) at buffer.c:326
+326	{
+$1493 = "backtrace:"
+#0  breada (dev=540, first=752) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=753) at buffer.c:326
+326	{
+$1496 = "backtrace:"
+#0  breada (dev=540, first=753) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=754) at buffer.c:326
+326	{
+$1499 = "backtrace:"
+#0  breada (dev=540, first=754) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=755) at buffer.c:326
+326	{
+$1502 = "backtrace:"
+#0  breada (dev=540, first=755) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=756) at buffer.c:326
+326	{
+$1505 = "backtrace:"
+#0  breada (dev=540, first=756) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=757) at buffer.c:326
+326	{
+$1508 = "backtrace:"
+#0  breada (dev=540, first=757) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=758) at buffer.c:326
+326	{
+$1511 = "backtrace:"
+#0  breada (dev=540, first=758) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=759) at buffer.c:326
+326	{
+$1514 = "backtrace:"
+#0  breada (dev=540, first=759) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=760) at buffer.c:326
+326	{
+$1517 = "backtrace:"
+#0  breada (dev=540, first=760) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=761) at buffer.c:326
+326	{
+$1520 = "backtrace:"
+#0  breada (dev=540, first=761) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=762) at buffer.c:326
+326	{
+$1523 = "backtrace:"
+#0  breada (dev=540, first=762) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=763) at buffer.c:326
+326	{
+$1526 = "backtrace:"
+#0  breada (dev=540, first=763) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=764) at buffer.c:326
+326	{
+$1529 = "backtrace:"
+#0  breada (dev=540, first=764) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=765) at buffer.c:326
+326	{
+$1532 = "backtrace:"
+#0  breada (dev=540, first=765) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=766) at buffer.c:326
+326	{
+$1535 = "backtrace:"
+#0  breada (dev=540, first=766) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=767) at buffer.c:326
+326	{
+$1538 = "backtrace:"
+#0  breada (dev=540, first=767) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=768) at buffer.c:326
+326	{
+$1541 = "backtrace:"
+#0  breada (dev=540, first=768) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=769) at buffer.c:326
+326	{
+$1544 = "backtrace:"
+#0  breada (dev=540, first=769) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=770) at buffer.c:326
+326	{
+$1547 = "backtrace:"
+#0  breada (dev=540, first=770) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=771) at buffer.c:326
+326	{
+$1550 = "backtrace:"
+#0  breada (dev=540, first=771) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=772) at buffer.c:326
+326	{
+$1553 = "backtrace:"
+#0  breada (dev=540, first=772) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=773) at buffer.c:326
+326	{
+$1556 = "backtrace:"
+#0  breada (dev=540, first=773) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=774) at buffer.c:326
+326	{
+$1559 = "backtrace:"
+#0  breada (dev=540, first=774) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=775) at buffer.c:326
+326	{
+$1562 = "backtrace:"
+#0  breada (dev=540, first=775) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=776) at buffer.c:326
+326	{
+$1565 = "backtrace:"
+#0  breada (dev=540, first=776) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=777) at buffer.c:326
+326	{
+$1568 = "backtrace:"
+#0  breada (dev=540, first=777) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=778) at buffer.c:326
+326	{
+$1571 = "backtrace:"
+#0  breada (dev=540, first=778) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=779) at buffer.c:326
+326	{
+$1574 = "backtrace:"
+#0  breada (dev=540, first=779) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=780) at buffer.c:326
+326	{
+$1577 = "backtrace:"
+#0  breada (dev=540, first=780) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=781) at buffer.c:326
+326	{
+$1580 = "backtrace:"
+#0  breada (dev=540, first=781) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=782) at buffer.c:326
+326	{
+$1583 = "backtrace:"
+#0  breada (dev=540, first=782) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=783) at buffer.c:326
+326	{
+$1586 = "backtrace:"
+#0  breada (dev=540, first=783) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=784) at buffer.c:326
+326	{
+$1589 = "backtrace:"
+#0  breada (dev=540, first=784) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=785) at buffer.c:326
+326	{
+$1592 = "backtrace:"
+#0  breada (dev=540, first=785) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=786) at buffer.c:326
+326	{
+$1595 = "backtrace:"
+#0  breada (dev=540, first=786) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=787) at buffer.c:326
+326	{
+$1598 = "backtrace:"
+#0  breada (dev=540, first=787) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=788) at buffer.c:326
+326	{
+$1601 = "backtrace:"
+#0  breada (dev=540, first=788) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=789) at buffer.c:326
+326	{
+$1604 = "backtrace:"
+#0  breada (dev=540, first=789) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=790) at buffer.c:326
+326	{
+$1607 = "backtrace:"
+#0  breada (dev=540, first=790) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=791) at buffer.c:326
+326	{
+$1610 = "backtrace:"
+#0  breada (dev=540, first=791) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=792) at buffer.c:326
+326	{
+$1613 = "backtrace:"
+#0  breada (dev=540, first=792) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=793) at buffer.c:326
+326	{
+$1616 = "backtrace:"
+#0  breada (dev=540, first=793) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=794) at buffer.c:326
+326	{
+$1619 = "backtrace:"
+#0  breada (dev=540, first=794) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=795) at buffer.c:326
+326	{
+$1622 = "backtrace:"
+#0  breada (dev=540, first=795) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=796) at buffer.c:326
+326	{
+$1625 = "backtrace:"
+#0  breada (dev=540, first=796) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=797) at buffer.c:326
+326	{
+$1628 = "backtrace:"
+#0  breada (dev=540, first=797) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=798) at buffer.c:326
+326	{
+$1631 = "backtrace:"
+#0  breada (dev=540, first=798) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=799) at buffer.c:326
+326	{
+$1634 = "backtrace:"
+#0  breada (dev=540, first=799) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=800) at buffer.c:326
+326	{
+$1637 = "backtrace:"
+#0  breada (dev=540, first=800) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=801) at buffer.c:326
+326	{
+$1640 = "backtrace:"
+#0  breada (dev=540, first=801) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=802) at buffer.c:326
+326	{
+$1643 = "backtrace:"
+#0  breada (dev=540, first=802) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=803) at buffer.c:326
+326	{
+$1646 = "backtrace:"
+#0  breada (dev=540, first=803) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=804) at buffer.c:326
+326	{
+$1649 = "backtrace:"
+#0  breada (dev=540, first=804) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=805) at buffer.c:326
+326	{
+$1652 = "backtrace:"
+#0  breada (dev=540, first=805) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=806) at buffer.c:326
+326	{
+$1655 = "backtrace:"
+#0  breada (dev=540, first=806) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=807) at buffer.c:326
+326	{
+$1658 = "backtrace:"
+#0  breada (dev=540, first=807) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=808) at buffer.c:326
+326	{
+$1661 = "backtrace:"
+#0  breada (dev=540, first=808) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=809) at buffer.c:326
+326	{
+$1664 = "backtrace:"
+#0  breada (dev=540, first=809) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=810) at buffer.c:326
+326	{
+$1667 = "backtrace:"
+#0  breada (dev=540, first=810) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=811) at buffer.c:326
+326	{
+$1670 = "backtrace:"
+#0  breada (dev=540, first=811) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=812) at buffer.c:326
+326	{
+$1673 = "backtrace:"
+#0  breada (dev=540, first=812) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=813) at buffer.c:326
+326	{
+$1676 = "backtrace:"
+#0  breada (dev=540, first=813) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=814) at buffer.c:326
+326	{
+$1679 = "backtrace:"
+#0  breada (dev=540, first=814) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=815) at buffer.c:326
+326	{
+$1682 = "backtrace:"
+#0  breada (dev=540, first=815) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=816) at buffer.c:326
+326	{
+$1685 = "backtrace:"
+#0  breada (dev=540, first=816) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=817) at buffer.c:326
+326	{
+$1688 = "backtrace:"
+#0  breada (dev=540, first=817) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=818) at buffer.c:326
+326	{
+$1691 = "backtrace:"
+#0  breada (dev=540, first=818) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=819) at buffer.c:326
+326	{
+$1694 = "backtrace:"
+#0  breada (dev=540, first=819) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=820) at buffer.c:326
+326	{
+$1697 = "backtrace:"
+#0  breada (dev=540, first=820) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=821) at buffer.c:326
+326	{
+$1700 = "backtrace:"
+#0  breada (dev=540, first=821) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=822) at buffer.c:326
+326	{
+$1703 = "backtrace:"
+#0  breada (dev=540, first=822) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=823) at buffer.c:326
+326	{
+$1706 = "backtrace:"
+#0  breada (dev=540, first=823) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=824) at buffer.c:326
+326	{
+$1709 = "backtrace:"
+#0  breada (dev=540, first=824) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=825) at buffer.c:326
+326	{
+$1712 = "backtrace:"
+#0  breada (dev=540, first=825) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=826) at buffer.c:326
+326	{
+$1715 = "backtrace:"
+#0  breada (dev=540, first=826) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=827) at buffer.c:326
+326	{
+$1718 = "backtrace:"
+#0  breada (dev=540, first=827) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=828) at buffer.c:326
+326	{
+$1721 = "backtrace:"
+#0  breada (dev=540, first=828) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=829) at buffer.c:326
+326	{
+$1724 = "backtrace:"
+#0  breada (dev=540, first=829) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=830) at buffer.c:326
+326	{
+$1727 = "backtrace:"
+#0  breada (dev=540, first=830) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=831) at buffer.c:326
+326	{
+$1730 = "backtrace:"
+#0  breada (dev=540, first=831) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=832) at buffer.c:326
+326	{
+$1733 = "backtrace:"
+#0  breada (dev=540, first=832) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=833) at buffer.c:326
+326	{
+$1736 = "backtrace:"
+#0  breada (dev=540, first=833) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=834) at buffer.c:326
+326	{
+$1739 = "backtrace:"
+#0  breada (dev=540, first=834) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=835) at buffer.c:326
+326	{
+$1742 = "backtrace:"
+#0  breada (dev=540, first=835) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=836) at buffer.c:326
+326	{
+$1745 = "backtrace:"
+#0  breada (dev=540, first=836) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=837) at buffer.c:326
+326	{
+$1748 = "backtrace:"
+#0  breada (dev=540, first=837) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=838) at buffer.c:326
+326	{
+$1751 = "backtrace:"
+#0  breada (dev=540, first=838) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=839) at buffer.c:326
+326	{
+$1754 = "backtrace:"
+#0  breada (dev=540, first=839) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=840) at buffer.c:326
+326	{
+$1757 = "backtrace:"
+#0  breada (dev=540, first=840) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=841) at buffer.c:326
+326	{
+$1760 = "backtrace:"
+#0  breada (dev=540, first=841) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=842) at buffer.c:326
+326	{
+$1763 = "backtrace:"
+#0  breada (dev=540, first=842) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=843) at buffer.c:326
+326	{
+$1766 = "backtrace:"
+#0  breada (dev=540, first=843) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=844) at buffer.c:326
+326	{
+$1769 = "backtrace:"
+#0  breada (dev=540, first=844) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=845) at buffer.c:326
+326	{
+$1772 = "backtrace:"
+#0  breada (dev=540, first=845) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=846) at buffer.c:326
+326	{
+$1775 = "backtrace:"
+#0  breada (dev=540, first=846) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=847) at buffer.c:326
+326	{
+$1778 = "backtrace:"
+#0  breada (dev=540, first=847) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=848) at buffer.c:326
+326	{
+$1781 = "backtrace:"
+#0  breada (dev=540, first=848) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=849) at buffer.c:326
+326	{
+$1784 = "backtrace:"
+#0  breada (dev=540, first=849) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=850) at buffer.c:326
+326	{
+$1787 = "backtrace:"
+#0  breada (dev=540, first=850) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=851) at buffer.c:326
+326	{
+$1790 = "backtrace:"
+#0  breada (dev=540, first=851) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=852) at buffer.c:326
+326	{
+$1793 = "backtrace:"
+#0  breada (dev=540, first=852) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=853) at buffer.c:326
+326	{
+$1796 = "backtrace:"
+#0  breada (dev=540, first=853) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=854) at buffer.c:326
+326	{
+$1799 = "backtrace:"
+#0  breada (dev=540, first=854) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=855) at buffer.c:326
+326	{
+$1802 = "backtrace:"
+#0  breada (dev=540, first=855) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=856) at buffer.c:326
+326	{
+$1805 = "backtrace:"
+#0  breada (dev=540, first=856) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=857) at buffer.c:326
+326	{
+$1808 = "backtrace:"
+#0  breada (dev=540, first=857) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=858) at buffer.c:326
+326	{
+$1811 = "backtrace:"
+#0  breada (dev=540, first=858) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=859) at buffer.c:326
+326	{
+$1814 = "backtrace:"
+#0  breada (dev=540, first=859) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=860) at buffer.c:326
+326	{
+$1817 = "backtrace:"
+#0  breada (dev=540, first=860) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=861) at buffer.c:326
+326	{
+$1820 = "backtrace:"
+#0  breada (dev=540, first=861) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=862) at buffer.c:326
+326	{
+$1823 = "backtrace:"
+#0  breada (dev=540, first=862) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=863) at buffer.c:326
+326	{
+$1826 = "backtrace:"
+#0  breada (dev=540, first=863) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=864) at buffer.c:326
+326	{
+$1829 = "backtrace:"
+#0  breada (dev=540, first=864) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=865) at buffer.c:326
+326	{
+$1832 = "backtrace:"
+#0  breada (dev=540, first=865) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=866) at buffer.c:326
+326	{
+$1835 = "backtrace:"
+#0  breada (dev=540, first=866) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=867) at buffer.c:326
+326	{
+$1838 = "backtrace:"
+#0  breada (dev=540, first=867) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=868) at buffer.c:326
+326	{
+$1841 = "backtrace:"
+#0  breada (dev=540, first=868) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=869) at buffer.c:326
+326	{
+$1844 = "backtrace:"
+#0  breada (dev=540, first=869) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=870) at buffer.c:326
+326	{
+$1847 = "backtrace:"
+#0  breada (dev=540, first=870) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=871) at buffer.c:326
+326	{
+$1850 = "backtrace:"
+#0  breada (dev=540, first=871) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=872) at buffer.c:326
+326	{
+$1853 = "backtrace:"
+#0  breada (dev=540, first=872) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=873) at buffer.c:326
+326	{
+$1856 = "backtrace:"
+#0  breada (dev=540, first=873) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=874) at buffer.c:326
+326	{
+$1859 = "backtrace:"
+#0  breada (dev=540, first=874) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=875) at buffer.c:326
+326	{
+$1862 = "backtrace:"
+#0  breada (dev=540, first=875) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=876) at buffer.c:326
+326	{
+$1865 = "backtrace:"
+#0  breada (dev=540, first=876) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=877) at buffer.c:326
+326	{
+$1868 = "backtrace:"
+#0  breada (dev=540, first=877) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=878) at buffer.c:326
+326	{
+$1871 = "backtrace:"
+#0  breada (dev=540, first=878) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=879) at buffer.c:326
+326	{
+$1874 = "backtrace:"
+#0  breada (dev=540, first=879) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=880) at buffer.c:326
+326	{
+$1877 = "backtrace:"
+#0  breada (dev=540, first=880) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=881) at buffer.c:326
+326	{
+$1880 = "backtrace:"
+#0  breada (dev=540, first=881) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=882) at buffer.c:326
+326	{
+$1883 = "backtrace:"
+#0  breada (dev=540, first=882) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=883) at buffer.c:326
+326	{
+$1886 = "backtrace:"
+#0  breada (dev=540, first=883) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=884) at buffer.c:326
+326	{
+$1889 = "backtrace:"
+#0  breada (dev=540, first=884) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=885) at buffer.c:326
+326	{
+$1892 = "backtrace:"
+#0  breada (dev=540, first=885) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=886) at buffer.c:326
+326	{
+$1895 = "backtrace:"
+#0  breada (dev=540, first=886) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=887) at buffer.c:326
+326	{
+$1898 = "backtrace:"
+#0  breada (dev=540, first=887) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=888) at buffer.c:326
+326	{
+$1901 = "backtrace:"
+#0  breada (dev=540, first=888) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=889) at buffer.c:326
+326	{
+$1904 = "backtrace:"
+#0  breada (dev=540, first=889) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=890) at buffer.c:326
+326	{
+$1907 = "backtrace:"
+#0  breada (dev=540, first=890) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=891) at buffer.c:326
+326	{
+$1910 = "backtrace:"
+#0  breada (dev=540, first=891) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=892) at buffer.c:326
+326	{
+$1913 = "backtrace:"
+#0  breada (dev=540, first=892) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=893) at buffer.c:326
+326	{
+$1916 = "backtrace:"
+#0  breada (dev=540, first=893) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=894) at buffer.c:326
+326	{
+$1919 = "backtrace:"
+#0  breada (dev=540, first=894) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=895) at buffer.c:326
+326	{
+$1922 = "backtrace:"
+#0  breada (dev=540, first=895) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=896) at buffer.c:326
+326	{
+$1925 = "backtrace:"
+#0  breada (dev=540, first=896) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=897) at buffer.c:326
+326	{
+$1928 = "backtrace:"
+#0  breada (dev=540, first=897) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=898) at buffer.c:326
+326	{
+$1931 = "backtrace:"
+#0  breada (dev=540, first=898) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=899) at buffer.c:326
+326	{
+$1934 = "backtrace:"
+#0  breada (dev=540, first=899) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=900) at buffer.c:326
+326	{
+$1937 = "backtrace:"
+#0  breada (dev=540, first=900) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=901) at buffer.c:326
+326	{
+$1940 = "backtrace:"
+#0  breada (dev=540, first=901) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=902) at buffer.c:326
+326	{
+$1943 = "backtrace:"
+#0  breada (dev=540, first=902) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=903) at buffer.c:326
+326	{
+$1946 = "backtrace:"
+#0  breada (dev=540, first=903) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=904) at buffer.c:326
+326	{
+$1949 = "backtrace:"
+#0  breada (dev=540, first=904) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=905) at buffer.c:326
+326	{
+$1952 = "backtrace:"
+#0  breada (dev=540, first=905) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=906) at buffer.c:326
+326	{
+$1955 = "backtrace:"
+#0  breada (dev=540, first=906) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=907) at buffer.c:326
+326	{
+$1958 = "backtrace:"
+#0  breada (dev=540, first=907) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=908) at buffer.c:326
+326	{
+$1961 = "backtrace:"
+#0  breada (dev=540, first=908) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=909) at buffer.c:326
+326	{
+$1964 = "backtrace:"
+#0  breada (dev=540, first=909) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=910) at buffer.c:326
+326	{
+$1967 = "backtrace:"
+#0  breada (dev=540, first=910) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=911) at buffer.c:326
+326	{
+$1970 = "backtrace:"
+#0  breada (dev=540, first=911) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=912) at buffer.c:326
+326	{
+$1973 = "backtrace:"
+#0  breada (dev=540, first=912) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=913) at buffer.c:326
+326	{
+$1976 = "backtrace:"
+#0  breada (dev=540, first=913) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=914) at buffer.c:326
+326	{
+$1979 = "backtrace:"
+#0  breada (dev=540, first=914) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=915) at buffer.c:326
+326	{
+$1982 = "backtrace:"
+#0  breada (dev=540, first=915) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=916) at buffer.c:326
+326	{
+$1985 = "backtrace:"
+#0  breada (dev=540, first=916) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=917) at buffer.c:326
+326	{
+$1988 = "backtrace:"
+#0  breada (dev=540, first=917) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=918) at buffer.c:326
+326	{
+$1991 = "backtrace:"
+#0  breada (dev=540, first=918) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=919) at buffer.c:326
+326	{
+$1994 = "backtrace:"
+#0  breada (dev=540, first=919) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=920) at buffer.c:326
+326	{
+$1997 = "backtrace:"
+#0  breada (dev=540, first=920) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=921) at buffer.c:326
+326	{
+$2000 = "backtrace:"
+#0  breada (dev=540, first=921) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=922) at buffer.c:326
+326	{
+$2003 = "backtrace:"
+#0  breada (dev=540, first=922) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=923) at buffer.c:326
+326	{
+$2006 = "backtrace:"
+#0  breada (dev=540, first=923) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=924) at buffer.c:326
+326	{
+$2009 = "backtrace:"
+#0  breada (dev=540, first=924) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=925) at buffer.c:326
+326	{
+$2012 = "backtrace:"
+#0  breada (dev=540, first=925) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=926) at buffer.c:326
+326	{
+$2015 = "backtrace:"
+#0  breada (dev=540, first=926) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=927) at buffer.c:326
+326	{
+$2018 = "backtrace:"
+#0  breada (dev=540, first=927) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=928) at buffer.c:326
+326	{
+$2021 = "backtrace:"
+#0  breada (dev=540, first=928) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=929) at buffer.c:326
+326	{
+$2024 = "backtrace:"
+#0  breada (dev=540, first=929) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=930) at buffer.c:326
+326	{
+$2027 = "backtrace:"
+#0  breada (dev=540, first=930) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=931) at buffer.c:326
+326	{
+$2030 = "backtrace:"
+#0  breada (dev=540, first=931) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=932) at buffer.c:326
+326	{
+$2033 = "backtrace:"
+#0  breada (dev=540, first=932) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=933) at buffer.c:326
+326	{
+$2036 = "backtrace:"
+#0  breada (dev=540, first=933) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=934) at buffer.c:326
+326	{
+$2039 = "backtrace:"
+#0  breada (dev=540, first=934) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=935) at buffer.c:326
+326	{
+$2042 = "backtrace:"
+#0  breada (dev=540, first=935) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=936) at buffer.c:326
+326	{
+$2045 = "backtrace:"
+#0  breada (dev=540, first=936) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=937) at buffer.c:326
+326	{
+$2048 = "backtrace:"
+#0  breada (dev=540, first=937) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=938) at buffer.c:326
+326	{
+$2051 = "backtrace:"
+#0  breada (dev=540, first=938) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=939) at buffer.c:326
+326	{
+$2054 = "backtrace:"
+#0  breada (dev=540, first=939) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=940) at buffer.c:326
+326	{
+$2057 = "backtrace:"
+#0  breada (dev=540, first=940) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=941) at buffer.c:326
+326	{
+$2060 = "backtrace:"
+#0  breada (dev=540, first=941) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=942) at buffer.c:326
+326	{
+$2063 = "backtrace:"
+#0  breada (dev=540, first=942) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=943) at buffer.c:326
+326	{
+$2066 = "backtrace:"
+#0  breada (dev=540, first=943) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=944) at buffer.c:326
+326	{
+$2069 = "backtrace:"
+#0  breada (dev=540, first=944) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=945) at buffer.c:326
+326	{
+$2072 = "backtrace:"
+#0  breada (dev=540, first=945) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=946) at buffer.c:326
+326	{
+$2075 = "backtrace:"
+#0  breada (dev=540, first=946) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=947) at buffer.c:326
+326	{
+$2078 = "backtrace:"
+#0  breada (dev=540, first=947) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=948) at buffer.c:326
+326	{
+$2081 = "backtrace:"
+#0  breada (dev=540, first=948) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=949) at buffer.c:326
+326	{
+$2084 = "backtrace:"
+#0  breada (dev=540, first=949) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=950) at buffer.c:326
+326	{
+$2087 = "backtrace:"
+#0  breada (dev=540, first=950) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=951) at buffer.c:326
+326	{
+$2090 = "backtrace:"
+#0  breada (dev=540, first=951) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=952) at buffer.c:326
+326	{
+$2093 = "backtrace:"
+#0  breada (dev=540, first=952) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=953) at buffer.c:326
+326	{
+$2096 = "backtrace:"
+#0  breada (dev=540, first=953) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=954) at buffer.c:326
+326	{
+$2099 = "backtrace:"
+#0  breada (dev=540, first=954) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=955) at buffer.c:326
+326	{
+$2102 = "backtrace:"
+#0  breada (dev=540, first=955) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=956) at buffer.c:326
+326	{
+$2105 = "backtrace:"
+#0  breada (dev=540, first=956) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=957) at buffer.c:326
+326	{
+$2108 = "backtrace:"
+#0  breada (dev=540, first=957) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=958) at buffer.c:326
+326	{
+$2111 = "backtrace:"
+#0  breada (dev=540, first=958) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=959) at buffer.c:326
+326	{
+$2114 = "backtrace:"
+#0  breada (dev=540, first=959) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=960) at buffer.c:326
+326	{
+$2117 = "backtrace:"
+#0  breada (dev=540, first=960) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=961) at buffer.c:326
+326	{
+$2120 = "backtrace:"
+#0  breada (dev=540, first=961) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=962) at buffer.c:326
+326	{
+$2123 = "backtrace:"
+#0  breada (dev=540, first=962) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=963) at buffer.c:326
+326	{
+$2126 = "backtrace:"
+#0  breada (dev=540, first=963) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=964) at buffer.c:326
+326	{
+$2129 = "backtrace:"
+#0  breada (dev=540, first=964) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=965) at buffer.c:326
+326	{
+$2132 = "backtrace:"
+#0  breada (dev=540, first=965) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=966) at buffer.c:326
+326	{
+$2135 = "backtrace:"
+#0  breada (dev=540, first=966) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=967) at buffer.c:326
+326	{
+$2138 = "backtrace:"
+#0  breada (dev=540, first=967) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=968) at buffer.c:326
+326	{
+$2141 = "backtrace:"
+#0  breada (dev=540, first=968) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=969) at buffer.c:326
+326	{
+$2144 = "backtrace:"
+#0  breada (dev=540, first=969) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=970) at buffer.c:326
+326	{
+$2147 = "backtrace:"
+#0  breada (dev=540, first=970) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=971) at buffer.c:326
+326	{
+$2150 = "backtrace:"
+#0  breada (dev=540, first=971) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=972) at buffer.c:326
+326	{
+$2153 = "backtrace:"
+#0  breada (dev=540, first=972) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=973) at buffer.c:326
+326	{
+$2156 = "backtrace:"
+#0  breada (dev=540, first=973) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=974) at buffer.c:326
+326	{
+$2159 = "backtrace:"
+#0  breada (dev=540, first=974) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=975) at buffer.c:326
+326	{
+$2162 = "backtrace:"
+#0  breada (dev=540, first=975) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=976) at buffer.c:326
+326	{
+$2165 = "backtrace:"
+#0  breada (dev=540, first=976) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=977) at buffer.c:326
+326	{
+$2168 = "backtrace:"
+#0  breada (dev=540, first=977) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=978) at buffer.c:326
+326	{
+$2171 = "backtrace:"
+#0  breada (dev=540, first=978) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=979) at buffer.c:326
+326	{
+$2174 = "backtrace:"
+#0  breada (dev=540, first=979) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=980) at buffer.c:326
+326	{
+$2177 = "backtrace:"
+#0  breada (dev=540, first=980) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=981) at buffer.c:326
+326	{
+$2180 = "backtrace:"
+#0  breada (dev=540, first=981) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=982) at buffer.c:326
+326	{
+$2183 = "backtrace:"
+#0  breada (dev=540, first=982) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=983) at buffer.c:326
+326	{
+$2186 = "backtrace:"
+#0  breada (dev=540, first=983) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=984) at buffer.c:326
+326	{
+$2189 = "backtrace:"
+#0  breada (dev=540, first=984) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=985) at buffer.c:326
+326	{
+$2192 = "backtrace:"
+#0  breada (dev=540, first=985) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=986) at buffer.c:326
+326	{
+$2195 = "backtrace:"
+#0  breada (dev=540, first=986) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=987) at buffer.c:326
+326	{
+$2198 = "backtrace:"
+#0  breada (dev=540, first=987) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=988) at buffer.c:326
+326	{
+$2201 = "backtrace:"
+#0  breada (dev=540, first=988) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=989) at buffer.c:326
+326	{
+$2204 = "backtrace:"
+#0  breada (dev=540, first=989) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=990) at buffer.c:326
+326	{
+$2207 = "backtrace:"
+#0  breada (dev=540, first=990) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=991) at buffer.c:326
+326	{
+$2210 = "backtrace:"
+#0  breada (dev=540, first=991) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=992) at buffer.c:326
+326	{
+$2213 = "backtrace:"
+#0  breada (dev=540, first=992) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=993) at buffer.c:326
+326	{
+$2216 = "backtrace:"
+#0  breada (dev=540, first=993) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=994) at buffer.c:326
+326	{
+$2219 = "backtrace:"
+#0  breada (dev=540, first=994) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=995) at buffer.c:326
+326	{
+$2222 = "backtrace:"
+#0  breada (dev=540, first=995) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=996) at buffer.c:326
+326	{
+$2225 = "backtrace:"
+#0  breada (dev=540, first=996) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=997) at buffer.c:326
+326	{
+$2228 = "backtrace:"
+#0  breada (dev=540, first=997) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=998) at buffer.c:326
+326	{
+$2231 = "backtrace:"
+#0  breada (dev=540, first=998) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=999) at buffer.c:326
+326	{
+$2234 = "backtrace:"
+#0  breada (dev=540, first=999) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1000) at buffer.c:326
+326	{
+$2237 = "backtrace:"
+#0  breada (dev=540, first=1000) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1001) at buffer.c:326
+326	{
+$2240 = "backtrace:"
+#0  breada (dev=540, first=1001) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1002) at buffer.c:326
+326	{
+$2243 = "backtrace:"
+#0  breada (dev=540, first=1002) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1003) at buffer.c:326
+326	{
+$2246 = "backtrace:"
+#0  breada (dev=540, first=1003) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1004) at buffer.c:326
+326	{
+$2249 = "backtrace:"
+#0  breada (dev=540, first=1004) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1005) at buffer.c:326
+326	{
+$2252 = "backtrace:"
+#0  breada (dev=540, first=1005) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1006) at buffer.c:326
+326	{
+$2255 = "backtrace:"
+#0  breada (dev=540, first=1006) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1007) at buffer.c:326
+326	{
+$2258 = "backtrace:"
+#0  breada (dev=540, first=1007) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1008) at buffer.c:326
+326	{
+$2261 = "backtrace:"
+#0  breada (dev=540, first=1008) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1009) at buffer.c:326
+326	{
+$2264 = "backtrace:"
+#0  breada (dev=540, first=1009) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1010) at buffer.c:326
+326	{
+$2267 = "backtrace:"
+#0  breada (dev=540, first=1010) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1011) at buffer.c:326
+326	{
+$2270 = "backtrace:"
+#0  breada (dev=540, first=1011) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1012) at buffer.c:326
+326	{
+$2273 = "backtrace:"
+#0  breada (dev=540, first=1012) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1013) at buffer.c:326
+326	{
+$2276 = "backtrace:"
+#0  breada (dev=540, first=1013) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1014) at buffer.c:326
+326	{
+$2279 = "backtrace:"
+#0  breada (dev=540, first=1014) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1015) at buffer.c:326
+326	{
+$2282 = "backtrace:"
+#0  breada (dev=540, first=1015) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1016) at buffer.c:326
+326	{
+$2285 = "backtrace:"
+#0  breada (dev=540, first=1016) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1017) at buffer.c:326
+326	{
+$2288 = "backtrace:"
+#0  breada (dev=540, first=1017) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1018) at buffer.c:326
+326	{
+$2291 = "backtrace:"
+#0  breada (dev=540, first=1018) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1019) at buffer.c:326
+326	{
+$2294 = "backtrace:"
+#0  breada (dev=540, first=1019) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1020) at buffer.c:326
+326	{
+$2297 = "backtrace:"
+#0  breada (dev=540, first=1020) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1021) at buffer.c:326
+326	{
+$2300 = "backtrace:"
+#0  breada (dev=540, first=1021) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1022) at buffer.c:326
+326	{
+$2303 = "backtrace:"
+#0  breada (dev=540, first=1022) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1023) at buffer.c:326
+326	{
+$2306 = "backtrace:"
+#0  breada (dev=540, first=1023) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1024) at buffer.c:326
+326	{
+$2309 = "backtrace:"
+#0  breada (dev=540, first=1024) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1025) at buffer.c:326
+326	{
+$2312 = "backtrace:"
+#0  breada (dev=540, first=1025) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1026) at buffer.c:326
+326	{
+$2315 = "backtrace:"
+#0  breada (dev=540, first=1026) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1027) at buffer.c:326
+326	{
+$2318 = "backtrace:"
+#0  breada (dev=540, first=1027) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1028) at buffer.c:326
+326	{
+$2321 = "backtrace:"
+#0  breada (dev=540, first=1028) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1029) at buffer.c:326
+326	{
+$2324 = "backtrace:"
+#0  breada (dev=540, first=1029) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1030) at buffer.c:326
+326	{
+$2327 = "backtrace:"
+#0  breada (dev=540, first=1030) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1031) at buffer.c:326
+326	{
+$2330 = "backtrace:"
+#0  breada (dev=540, first=1031) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1032) at buffer.c:326
+326	{
+$2333 = "backtrace:"
+#0  breada (dev=540, first=1032) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1033) at buffer.c:326
+326	{
+$2336 = "backtrace:"
+#0  breada (dev=540, first=1033) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1034) at buffer.c:326
+326	{
+$2339 = "backtrace:"
+#0  breada (dev=540, first=1034) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1035) at buffer.c:326
+326	{
+$2342 = "backtrace:"
+#0  breada (dev=540, first=1035) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1036) at buffer.c:326
+326	{
+$2345 = "backtrace:"
+#0  breada (dev=540, first=1036) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1037) at buffer.c:326
+326	{
+$2348 = "backtrace:"
+#0  breada (dev=540, first=1037) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1038) at buffer.c:326
+326	{
+$2351 = "backtrace:"
+#0  breada (dev=540, first=1038) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1039) at buffer.c:326
+326	{
+$2354 = "backtrace:"
+#0  breada (dev=540, first=1039) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1040) at buffer.c:326
+326	{
+$2357 = "backtrace:"
+#0  breada (dev=540, first=1040) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1041) at buffer.c:326
+326	{
+$2360 = "backtrace:"
+#0  breada (dev=540, first=1041) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1042) at buffer.c:326
+326	{
+$2363 = "backtrace:"
+#0  breada (dev=540, first=1042) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1043) at buffer.c:326
+326	{
+$2366 = "backtrace:"
+#0  breada (dev=540, first=1043) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1044) at buffer.c:326
+326	{
+$2369 = "backtrace:"
+#0  breada (dev=540, first=1044) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1045) at buffer.c:326
+326	{
+$2372 = "backtrace:"
+#0  breada (dev=540, first=1045) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1046) at buffer.c:326
+326	{
+$2375 = "backtrace:"
+#0  breada (dev=540, first=1046) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1047) at buffer.c:326
+326	{
+$2378 = "backtrace:"
+#0  breada (dev=540, first=1047) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1048) at buffer.c:326
+326	{
+$2381 = "backtrace:"
+#0  breada (dev=540, first=1048) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1049) at buffer.c:326
+326	{
+$2384 = "backtrace:"
+#0  breada (dev=540, first=1049) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1050) at buffer.c:326
+326	{
+$2387 = "backtrace:"
+#0  breada (dev=540, first=1050) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1051) at buffer.c:326
+326	{
+$2390 = "backtrace:"
+#0  breada (dev=540, first=1051) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1052) at buffer.c:326
+326	{
+$2393 = "backtrace:"
+#0  breada (dev=540, first=1052) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1053) at buffer.c:326
+326	{
+$2396 = "backtrace:"
+#0  breada (dev=540, first=1053) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1054) at buffer.c:326
+326	{
+$2399 = "backtrace:"
+#0  breada (dev=540, first=1054) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1055) at buffer.c:326
+326	{
+$2402 = "backtrace:"
+#0  breada (dev=540, first=1055) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1056) at buffer.c:326
+326	{
+$2405 = "backtrace:"
+#0  breada (dev=540, first=1056) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1057) at buffer.c:326
+326	{
+$2408 = "backtrace:"
+#0  breada (dev=540, first=1057) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1058) at buffer.c:326
+326	{
+$2411 = "backtrace:"
+#0  breada (dev=540, first=1058) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1059) at buffer.c:326
+326	{
+$2414 = "backtrace:"
+#0  breada (dev=540, first=1059) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1060) at buffer.c:326
+326	{
+$2417 = "backtrace:"
+#0  breada (dev=540, first=1060) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1061) at buffer.c:326
+326	{
+$2420 = "backtrace:"
+#0  breada (dev=540, first=1061) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1062) at buffer.c:326
+326	{
+$2423 = "backtrace:"
+#0  breada (dev=540, first=1062) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1063) at buffer.c:326
+326	{
+$2426 = "backtrace:"
+#0  breada (dev=540, first=1063) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1064) at buffer.c:326
+326	{
+$2429 = "backtrace:"
+#0  breada (dev=540, first=1064) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1065) at buffer.c:326
+326	{
+$2432 = "backtrace:"
+#0  breada (dev=540, first=1065) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1066) at buffer.c:326
+326	{
+$2435 = "backtrace:"
+#0  breada (dev=540, first=1066) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1067) at buffer.c:326
+326	{
+$2438 = "backtrace:"
+#0  breada (dev=540, first=1067) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1068) at buffer.c:326
+326	{
+$2441 = "backtrace:"
+#0  breada (dev=540, first=1068) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1069) at buffer.c:326
+326	{
+$2444 = "backtrace:"
+#0  breada (dev=540, first=1069) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1070) at buffer.c:326
+326	{
+$2447 = "backtrace:"
+#0  breada (dev=540, first=1070) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1071) at buffer.c:326
+326	{
+$2450 = "backtrace:"
+#0  breada (dev=540, first=1071) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1072) at buffer.c:326
+326	{
+$2453 = "backtrace:"
+#0  breada (dev=540, first=1072) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1073) at buffer.c:326
+326	{
+$2456 = "backtrace:"
+#0  breada (dev=540, first=1073) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1074) at buffer.c:326
+326	{
+$2459 = "backtrace:"
+#0  breada (dev=540, first=1074) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1075) at buffer.c:326
+326	{
+$2462 = "backtrace:"
+#0  breada (dev=540, first=1075) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1076) at buffer.c:326
+326	{
+$2465 = "backtrace:"
+#0  breada (dev=540, first=1076) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1077) at buffer.c:326
+326	{
+$2468 = "backtrace:"
+#0  breada (dev=540, first=1077) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1078) at buffer.c:326
+326	{
+$2471 = "backtrace:"
+#0  breada (dev=540, first=1078) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1079) at buffer.c:326
+326	{
+$2474 = "backtrace:"
+#0  breada (dev=540, first=1079) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1080) at buffer.c:326
+326	{
+$2477 = "backtrace:"
+#0  breada (dev=540, first=1080) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1081) at buffer.c:326
+326	{
+$2480 = "backtrace:"
+#0  breada (dev=540, first=1081) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1082) at buffer.c:326
+326	{
+$2483 = "backtrace:"
+#0  breada (dev=540, first=1082) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1083) at buffer.c:326
+326	{
+$2486 = "backtrace:"
+#0  breada (dev=540, first=1083) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1084) at buffer.c:326
+326	{
+$2489 = "backtrace:"
+#0  breada (dev=540, first=1084) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1085) at buffer.c:326
+326	{
+$2492 = "backtrace:"
+#0  breada (dev=540, first=1085) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1086) at buffer.c:326
+326	{
+$2495 = "backtrace:"
+#0  breada (dev=540, first=1086) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1087) at buffer.c:326
+326	{
+$2498 = "backtrace:"
+#0  breada (dev=540, first=1087) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1088) at buffer.c:326
+326	{
+$2501 = "backtrace:"
+#0  breada (dev=540, first=1088) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1089) at buffer.c:326
+326	{
+$2504 = "backtrace:"
+#0  breada (dev=540, first=1089) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1090) at buffer.c:326
+326	{
+$2507 = "backtrace:"
+#0  breada (dev=540, first=1090) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1091) at buffer.c:326
+326	{
+$2510 = "backtrace:"
+#0  breada (dev=540, first=1091) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1092) at buffer.c:326
+326	{
+$2513 = "backtrace:"
+#0  breada (dev=540, first=1092) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1093) at buffer.c:326
+326	{
+$2516 = "backtrace:"
+#0  breada (dev=540, first=1093) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1094) at buffer.c:326
+326	{
+$2519 = "backtrace:"
+#0  breada (dev=540, first=1094) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1095) at buffer.c:326
+326	{
+$2522 = "backtrace:"
+#0  breada (dev=540, first=1095) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1096) at buffer.c:326
+326	{
+$2525 = "backtrace:"
+#0  breada (dev=540, first=1096) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1097) at buffer.c:326
+326	{
+$2528 = "backtrace:"
+#0  breada (dev=540, first=1097) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1098) at buffer.c:326
+326	{
+$2531 = "backtrace:"
+#0  breada (dev=540, first=1098) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1099) at buffer.c:326
+326	{
+$2534 = "backtrace:"
+#0  breada (dev=540, first=1099) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1100) at buffer.c:326
+326	{
+$2537 = "backtrace:"
+#0  breada (dev=540, first=1100) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1101) at buffer.c:326
+326	{
+$2540 = "backtrace:"
+#0  breada (dev=540, first=1101) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1102) at buffer.c:326
+326	{
+$2543 = "backtrace:"
+#0  breada (dev=540, first=1102) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1103) at buffer.c:326
+326	{
+$2546 = "backtrace:"
+#0  breada (dev=540, first=1103) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1104) at buffer.c:326
+326	{
+$2549 = "backtrace:"
+#0  breada (dev=540, first=1104) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1105) at buffer.c:326
+326	{
+$2552 = "backtrace:"
+#0  breada (dev=540, first=1105) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1106) at buffer.c:326
+326	{
+$2555 = "backtrace:"
+#0  breada (dev=540, first=1106) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1107) at buffer.c:326
+326	{
+$2558 = "backtrace:"
+#0  breada (dev=540, first=1107) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1108) at buffer.c:326
+326	{
+$2561 = "backtrace:"
+#0  breada (dev=540, first=1108) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1109) at buffer.c:326
+326	{
+$2564 = "backtrace:"
+#0  breada (dev=540, first=1109) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1110) at buffer.c:326
+326	{
+$2567 = "backtrace:"
+#0  breada (dev=540, first=1110) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1111) at buffer.c:326
+326	{
+$2570 = "backtrace:"
+#0  breada (dev=540, first=1111) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1112) at buffer.c:326
+326	{
+$2573 = "backtrace:"
+#0  breada (dev=540, first=1112) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1113) at buffer.c:326
+326	{
+$2576 = "backtrace:"
+#0  breada (dev=540, first=1113) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1114) at buffer.c:326
+326	{
+$2579 = "backtrace:"
+#0  breada (dev=540, first=1114) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1115) at buffer.c:326
+326	{
+$2582 = "backtrace:"
+#0  breada (dev=540, first=1115) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1116) at buffer.c:326
+326	{
+$2585 = "backtrace:"
+#0  breada (dev=540, first=1116) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1117) at buffer.c:326
+326	{
+$2588 = "backtrace:"
+#0  breada (dev=540, first=1117) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1118) at buffer.c:326
+326	{
+$2591 = "backtrace:"
+#0  breada (dev=540, first=1118) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1119) at buffer.c:326
+326	{
+$2594 = "backtrace:"
+#0  breada (dev=540, first=1119) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1120) at buffer.c:326
+326	{
+$2597 = "backtrace:"
+#0  breada (dev=540, first=1120) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1121) at buffer.c:326
+326	{
+$2600 = "backtrace:"
+#0  breada (dev=540, first=1121) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1122) at buffer.c:326
+326	{
+$2603 = "backtrace:"
+#0  breada (dev=540, first=1122) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1123) at buffer.c:326
+326	{
+$2606 = "backtrace:"
+#0  breada (dev=540, first=1123) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1124) at buffer.c:326
+326	{
+$2609 = "backtrace:"
+#0  breada (dev=540, first=1124) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1125) at buffer.c:326
+326	{
+$2612 = "backtrace:"
+#0  breada (dev=540, first=1125) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1126) at buffer.c:326
+326	{
+$2615 = "backtrace:"
+#0  breada (dev=540, first=1126) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1127) at buffer.c:326
+326	{
+$2618 = "backtrace:"
+#0  breada (dev=540, first=1127) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1128) at buffer.c:326
+326	{
+$2621 = "backtrace:"
+#0  breada (dev=540, first=1128) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1129) at buffer.c:326
+326	{
+$2624 = "backtrace:"
+#0  breada (dev=540, first=1129) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1130) at buffer.c:326
+326	{
+$2627 = "backtrace:"
+#0  breada (dev=540, first=1130) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1131) at buffer.c:326
+326	{
+$2630 = "backtrace:"
+#0  breada (dev=540, first=1131) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1132) at buffer.c:326
+326	{
+$2633 = "backtrace:"
+#0  breada (dev=540, first=1132) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1133) at buffer.c:326
+326	{
+$2636 = "backtrace:"
+#0  breada (dev=540, first=1133) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1134) at buffer.c:326
+326	{
+$2639 = "backtrace:"
+#0  breada (dev=540, first=1134) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1135) at buffer.c:326
+326	{
+$2642 = "backtrace:"
+#0  breada (dev=540, first=1135) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1136) at buffer.c:326
+326	{
+$2645 = "backtrace:"
+#0  breada (dev=540, first=1136) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1137) at buffer.c:326
+326	{
+$2648 = "backtrace:"
+#0  breada (dev=540, first=1137) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1138) at buffer.c:326
+326	{
+$2651 = "backtrace:"
+#0  breada (dev=540, first=1138) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1139) at buffer.c:326
+326	{
+$2654 = "backtrace:"
+#0  breada (dev=540, first=1139) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1140) at buffer.c:326
+326	{
+$2657 = "backtrace:"
+#0  breada (dev=540, first=1140) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1141) at buffer.c:326
+326	{
+$2660 = "backtrace:"
+#0  breada (dev=540, first=1141) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1142) at buffer.c:326
+326	{
+$2663 = "backtrace:"
+#0  breada (dev=540, first=1142) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1143) at buffer.c:326
+326	{
+$2666 = "backtrace:"
+#0  breada (dev=540, first=1143) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1144) at buffer.c:326
+326	{
+$2669 = "backtrace:"
+#0  breada (dev=540, first=1144) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1145) at buffer.c:326
+326	{
+$2672 = "backtrace:"
+#0  breada (dev=540, first=1145) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1146) at buffer.c:326
+326	{
+$2675 = "backtrace:"
+#0  breada (dev=540, first=1146) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1147) at buffer.c:326
+326	{
+$2678 = "backtrace:"
+#0  breada (dev=540, first=1147) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1148) at buffer.c:326
+326	{
+$2681 = "backtrace:"
+#0  breada (dev=540, first=1148) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1149) at buffer.c:326
+326	{
+$2684 = "backtrace:"
+#0  breada (dev=540, first=1149) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1150) at buffer.c:326
+326	{
+$2687 = "backtrace:"
+#0  breada (dev=540, first=1150) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1151) at buffer.c:326
+326	{
+$2690 = "backtrace:"
+#0  breada (dev=540, first=1151) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1152) at buffer.c:326
+326	{
+$2693 = "backtrace:"
+#0  breada (dev=540, first=1152) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1153) at buffer.c:326
+326	{
+$2696 = "backtrace:"
+#0  breada (dev=540, first=1153) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1154) at buffer.c:326
+326	{
+$2699 = "backtrace:"
+#0  breada (dev=540, first=1154) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1155) at buffer.c:326
+326	{
+$2702 = "backtrace:"
+#0  breada (dev=540, first=1155) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1156) at buffer.c:326
+326	{
+$2705 = "backtrace:"
+#0  breada (dev=540, first=1156) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1157) at buffer.c:326
+326	{
+$2708 = "backtrace:"
+#0  breada (dev=540, first=1157) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1158) at buffer.c:326
+326	{
+$2711 = "backtrace:"
+#0  breada (dev=540, first=1158) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1159) at buffer.c:326
+326	{
+$2714 = "backtrace:"
+#0  breada (dev=540, first=1159) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1160) at buffer.c:326
+326	{
+$2717 = "backtrace:"
+#0  breada (dev=540, first=1160) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1161) at buffer.c:326
+326	{
+$2720 = "backtrace:"
+#0  breada (dev=540, first=1161) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1162) at buffer.c:326
+326	{
+$2723 = "backtrace:"
+#0  breada (dev=540, first=1162) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1163) at buffer.c:326
+326	{
+$2726 = "backtrace:"
+#0  breada (dev=540, first=1163) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1164) at buffer.c:326
+326	{
+$2729 = "backtrace:"
+#0  breada (dev=540, first=1164) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1165) at buffer.c:326
+326	{
+$2732 = "backtrace:"
+#0  breada (dev=540, first=1165) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1166) at buffer.c:326
+326	{
+$2735 = "backtrace:"
+#0  breada (dev=540, first=1166) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1167) at buffer.c:326
+326	{
+$2738 = "backtrace:"
+#0  breada (dev=540, first=1167) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1168) at buffer.c:326
+326	{
+$2741 = "backtrace:"
+#0  breada (dev=540, first=1168) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1169) at buffer.c:326
+326	{
+$2744 = "backtrace:"
+#0  breada (dev=540, first=1169) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1170) at buffer.c:326
+326	{
+$2747 = "backtrace:"
+#0  breada (dev=540, first=1170) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1171) at buffer.c:326
+326	{
+$2750 = "backtrace:"
+#0  breada (dev=540, first=1171) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1172) at buffer.c:326
+326	{
+$2753 = "backtrace:"
+#0  breada (dev=540, first=1172) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1173) at buffer.c:326
+326	{
+$2756 = "backtrace:"
+#0  breada (dev=540, first=1173) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1174) at buffer.c:326
+326	{
+$2759 = "backtrace:"
+#0  breada (dev=540, first=1174) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1175) at buffer.c:326
+326	{
+$2762 = "backtrace:"
+#0  breada (dev=540, first=1175) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1176) at buffer.c:326
+326	{
+$2765 = "backtrace:"
+#0  breada (dev=540, first=1176) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1177) at buffer.c:326
+326	{
+$2768 = "backtrace:"
+#0  breada (dev=540, first=1177) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1178) at buffer.c:326
+326	{
+$2771 = "backtrace:"
+#0  breada (dev=540, first=1178) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1179) at buffer.c:326
+326	{
+$2774 = "backtrace:"
+#0  breada (dev=540, first=1179) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1180) at buffer.c:326
+326	{
+$2777 = "backtrace:"
+#0  breada (dev=540, first=1180) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1181) at buffer.c:326
+326	{
+$2780 = "backtrace:"
+#0  breada (dev=540, first=1181) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1182) at buffer.c:326
+326	{
+$2783 = "backtrace:"
+#0  breada (dev=540, first=1182) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1183) at buffer.c:326
+326	{
+$2786 = "backtrace:"
+#0  breada (dev=540, first=1183) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1184) at buffer.c:326
+326	{
+$2789 = "backtrace:"
+#0  breada (dev=540, first=1184) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1185) at buffer.c:326
+326	{
+$2792 = "backtrace:"
+#0  breada (dev=540, first=1185) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1186) at buffer.c:326
+326	{
+$2795 = "backtrace:"
+#0  breada (dev=540, first=1186) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1187) at buffer.c:326
+326	{
+$2798 = "backtrace:"
+#0  breada (dev=540, first=1187) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1188) at buffer.c:326
+326	{
+$2801 = "backtrace:"
+#0  breada (dev=540, first=1188) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1189) at buffer.c:326
+326	{
+$2804 = "backtrace:"
+#0  breada (dev=540, first=1189) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1190) at buffer.c:326
+326	{
+$2807 = "backtrace:"
+#0  breada (dev=540, first=1190) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1191) at buffer.c:326
+326	{
+$2810 = "backtrace:"
+#0  breada (dev=540, first=1191) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1192) at buffer.c:326
+326	{
+$2813 = "backtrace:"
+#0  breada (dev=540, first=1192) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1193) at buffer.c:326
+326	{
+$2816 = "backtrace:"
+#0  breada (dev=540, first=1193) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1194) at buffer.c:326
+326	{
+$2819 = "backtrace:"
+#0  breada (dev=540, first=1194) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1195) at buffer.c:326
+326	{
+$2822 = "backtrace:"
+#0  breada (dev=540, first=1195) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1196) at buffer.c:326
+326	{
+$2825 = "backtrace:"
+#0  breada (dev=540, first=1196) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1197) at buffer.c:326
+326	{
+$2828 = "backtrace:"
+#0  breada (dev=540, first=1197) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1198) at buffer.c:326
+326	{
+$2831 = "backtrace:"
+#0  breada (dev=540, first=1198) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1199) at buffer.c:326
+326	{
+$2834 = "backtrace:"
+#0  breada (dev=540, first=1199) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1200) at buffer.c:326
+326	{
+$2837 = "backtrace:"
+#0  breada (dev=540, first=1200) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1201) at buffer.c:326
+326	{
+$2840 = "backtrace:"
+#0  breada (dev=540, first=1201) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1202) at buffer.c:326
+326	{
+$2843 = "backtrace:"
+#0  breada (dev=540, first=1202) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1203) at buffer.c:326
+326	{
+$2846 = "backtrace:"
+#0  breada (dev=540, first=1203) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1204) at buffer.c:326
+326	{
+$2849 = "backtrace:"
+#0  breada (dev=540, first=1204) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1205) at buffer.c:326
+326	{
+$2852 = "backtrace:"
+#0  breada (dev=540, first=1205) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1206) at buffer.c:326
+326	{
+$2855 = "backtrace:"
+#0  breada (dev=540, first=1206) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1207) at buffer.c:326
+326	{
+$2858 = "backtrace:"
+#0  breada (dev=540, first=1207) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1208) at buffer.c:326
+326	{
+$2861 = "backtrace:"
+#0  breada (dev=540, first=1208) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1209) at buffer.c:326
+326	{
+$2864 = "backtrace:"
+#0  breada (dev=540, first=1209) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1210) at buffer.c:326
+326	{
+$2867 = "backtrace:"
+#0  breada (dev=540, first=1210) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1211) at buffer.c:326
+326	{
+$2870 = "backtrace:"
+#0  breada (dev=540, first=1211) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1212) at buffer.c:326
+326	{
+$2873 = "backtrace:"
+#0  breada (dev=540, first=1212) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1213) at buffer.c:326
+326	{
+$2876 = "backtrace:"
+#0  breada (dev=540, first=1213) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1214) at buffer.c:326
+326	{
+$2879 = "backtrace:"
+#0  breada (dev=540, first=1214) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1215) at buffer.c:326
+326	{
+$2882 = "backtrace:"
+#0  breada (dev=540, first=1215) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1216) at buffer.c:326
+326	{
+$2885 = "backtrace:"
+#0  breada (dev=540, first=1216) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1217) at buffer.c:326
+326	{
+$2888 = "backtrace:"
+#0  breada (dev=540, first=1217) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1218) at buffer.c:326
+326	{
+$2891 = "backtrace:"
+#0  breada (dev=540, first=1218) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1219) at buffer.c:326
+326	{
+$2894 = "backtrace:"
+#0  breada (dev=540, first=1219) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1220) at buffer.c:326
+326	{
+$2897 = "backtrace:"
+#0  breada (dev=540, first=1220) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1221) at buffer.c:326
+326	{
+$2900 = "backtrace:"
+#0  breada (dev=540, first=1221) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1222) at buffer.c:326
+326	{
+$2903 = "backtrace:"
+#0  breada (dev=540, first=1222) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1223) at buffer.c:326
+326	{
+$2906 = "backtrace:"
+#0  breada (dev=540, first=1223) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1224) at buffer.c:326
+326	{
+$2909 = "backtrace:"
+#0  breada (dev=540, first=1224) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1225) at buffer.c:326
+326	{
+$2912 = "backtrace:"
+#0  breada (dev=540, first=1225) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1226) at buffer.c:326
+326	{
+$2915 = "backtrace:"
+#0  breada (dev=540, first=1226) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1227) at buffer.c:326
+326	{
+$2918 = "backtrace:"
+#0  breada (dev=540, first=1227) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1228) at buffer.c:326
+326	{
+$2921 = "backtrace:"
+#0  breada (dev=540, first=1228) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1229) at buffer.c:326
+326	{
+$2924 = "backtrace:"
+#0  breada (dev=540, first=1229) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1230) at buffer.c:326
+326	{
+$2927 = "backtrace:"
+#0  breada (dev=540, first=1230) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1231) at buffer.c:326
+326	{
+$2930 = "backtrace:"
+#0  breada (dev=540, first=1231) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1232) at buffer.c:326
+326	{
+$2933 = "backtrace:"
+#0  breada (dev=540, first=1232) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1233) at buffer.c:326
+326	{
+$2936 = "backtrace:"
+#0  breada (dev=540, first=1233) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1234) at buffer.c:326
+326	{
+$2939 = "backtrace:"
+#0  breada (dev=540, first=1234) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1235) at buffer.c:326
+326	{
+$2942 = "backtrace:"
+#0  breada (dev=540, first=1235) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1236) at buffer.c:326
+326	{
+$2945 = "backtrace:"
+#0  breada (dev=540, first=1236) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1237) at buffer.c:326
+326	{
+$2948 = "backtrace:"
+#0  breada (dev=540, first=1237) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1238) at buffer.c:326
+326	{
+$2951 = "backtrace:"
+#0  breada (dev=540, first=1238) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1239) at buffer.c:326
+326	{
+$2954 = "backtrace:"
+#0  breada (dev=540, first=1239) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1240) at buffer.c:326
+326	{
+$2957 = "backtrace:"
+#0  breada (dev=540, first=1240) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1241) at buffer.c:326
+326	{
+$2960 = "backtrace:"
+#0  breada (dev=540, first=1241) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1242) at buffer.c:326
+326	{
+$2963 = "backtrace:"
+#0  breada (dev=540, first=1242) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1243) at buffer.c:326
+326	{
+$2966 = "backtrace:"
+#0  breada (dev=540, first=1243) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1244) at buffer.c:326
+326	{
+$2969 = "backtrace:"
+#0  breada (dev=540, first=1244) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1245) at buffer.c:326
+326	{
+$2972 = "backtrace:"
+#0  breada (dev=540, first=1245) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1246) at buffer.c:326
+326	{
+$2975 = "backtrace:"
+#0  breada (dev=540, first=1246) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1247) at buffer.c:326
+326	{
+$2978 = "backtrace:"
+#0  breada (dev=540, first=1247) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1248) at buffer.c:326
+326	{
+$2981 = "backtrace:"
+#0  breada (dev=540, first=1248) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1249) at buffer.c:326
+326	{
+$2984 = "backtrace:"
+#0  breada (dev=540, first=1249) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1250) at buffer.c:326
+326	{
+$2987 = "backtrace:"
+#0  breada (dev=540, first=1250) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1251) at buffer.c:326
+326	{
+$2990 = "backtrace:"
+#0  breada (dev=540, first=1251) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1252) at buffer.c:326
+326	{
+$2993 = "backtrace:"
+#0  breada (dev=540, first=1252) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1253) at buffer.c:326
+326	{
+$2996 = "backtrace:"
+#0  breada (dev=540, first=1253) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1254) at buffer.c:326
+326	{
+$2999 = "backtrace:"
+#0  breada (dev=540, first=1254) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1255) at buffer.c:326
+326	{
+$3002 = "backtrace:"
+#0  breada (dev=540, first=1255) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1256) at buffer.c:326
+326	{
+$3005 = "backtrace:"
+#0  breada (dev=540, first=1256) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1257) at buffer.c:326
+326	{
+$3008 = "backtrace:"
+#0  breada (dev=540, first=1257) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1258) at buffer.c:326
+326	{
+$3011 = "backtrace:"
+#0  breada (dev=540, first=1258) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1259) at buffer.c:326
+326	{
+$3014 = "backtrace:"
+#0  breada (dev=540, first=1259) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1260) at buffer.c:326
+326	{
+$3017 = "backtrace:"
+#0  breada (dev=540, first=1260) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1261) at buffer.c:326
+326	{
+$3020 = "backtrace:"
+#0  breada (dev=540, first=1261) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1262) at buffer.c:326
+326	{
+$3023 = "backtrace:"
+#0  breada (dev=540, first=1262) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1263) at buffer.c:326
+326	{
+$3026 = "backtrace:"
+#0  breada (dev=540, first=1263) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1264) at buffer.c:326
+326	{
+$3029 = "backtrace:"
+#0  breada (dev=540, first=1264) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1265) at buffer.c:326
+326	{
+$3032 = "backtrace:"
+#0  breada (dev=540, first=1265) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1266) at buffer.c:326
+326	{
+$3035 = "backtrace:"
+#0  breada (dev=540, first=1266) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1267) at buffer.c:326
+326	{
+$3038 = "backtrace:"
+#0  breada (dev=540, first=1267) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1268) at buffer.c:326
+326	{
+$3041 = "backtrace:"
+#0  breada (dev=540, first=1268) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1269) at buffer.c:326
+326	{
+$3044 = "backtrace:"
+#0  breada (dev=540, first=1269) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1270) at buffer.c:326
+326	{
+$3047 = "backtrace:"
+#0  breada (dev=540, first=1270) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1271) at buffer.c:326
+326	{
+$3050 = "backtrace:"
+#0  breada (dev=540, first=1271) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1272) at buffer.c:326
+326	{
+$3053 = "backtrace:"
+#0  breada (dev=540, first=1272) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1273) at buffer.c:326
+326	{
+$3056 = "backtrace:"
+#0  breada (dev=540, first=1273) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1274) at buffer.c:326
+326	{
+$3059 = "backtrace:"
+#0  breada (dev=540, first=1274) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1275) at buffer.c:326
+326	{
+$3062 = "backtrace:"
+#0  breada (dev=540, first=1275) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1276) at buffer.c:326
+326	{
+$3065 = "backtrace:"
+#0  breada (dev=540, first=1276) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+
+Breakpoint 5, breada (dev=540, first=1277) at buffer.c:326
+326	{
+$3068 = "backtrace:"
+#0  breada (dev=540, first=1277) at buffer.c:326
+#1  0x00016486 in rd_load () at ramdisk.c:113
+
+

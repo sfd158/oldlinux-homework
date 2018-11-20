@@ -1,0 +1,49 @@
+    at tty_ioctl.c:57
+57	{
+$2 = "backtrace:"
+#0  get_termios (tty=0x234a0 <tty_table>, termios=0x3fffee0) at tty_ioctl.c:57
+#1  0x0001976b in tty_ioctl (dev=0, cmd=21505, arg=67108576) at tty_ioctl.c:127
+
+
+    at tty_ioctl.c:57
+57	{
+$5 = "backtrace:"
+#0  get_termios (tty=0x234a0 <tty_table>, termios=0x3fffee0) at tty_ioctl.c:57
+#1  0x0001976b in tty_ioctl (dev=0, cmd=21505, arg=67108576) at tty_ioctl.c:127
+
+
+    at tty_ioctl.c:57
+57	{
+$8 = "backtrace:"
+#0  get_termios (tty=0x234a0 <tty_table>, termios=0x45138) at tty_ioctl.c:57
+#1  0x0001976b in tty_ioctl (dev=0, cmd=21505, arg=282936) at tty_ioctl.c:127
+
+
+    at tty_ioctl.c:57
+57	{
+$11 = "backtrace:"
+#0  get_termios (tty=0x234a0 <tty_table>, termios=0x45138) at tty_ioctl.c:57
+#1  0x0001976b in tty_ioctl (dev=0, cmd=21505, arg=282936) at tty_ioctl.c:127
+
+
+    at tty_ioctl.c:57
+57	{
+$14 = "backtrace:"
+#0  get_termios (tty=0x234a0 <tty_table>, termios=0x45138) at tty_ioctl.c:57
+#1  0x0001976b in tty_ioctl (dev=0, cmd=21505, arg=282936) at tty_ioctl.c:127
+
+
+    at tty_ioctl.c:57
+57	{
+$17 = "backtrace:"
+#0  get_termios (tty=0x234a0 <tty_table>, termios=0x3fff5a4) at tty_ioctl.c:57
+#1  0x0001976b in tty_ioctl (dev=0, cmd=21505, arg=67106212) at tty_ioctl.c:127
+
+
+    at tty_ioctl.c:57
+57	{
+$20 = "backtrace:"
+#0  get_termios (tty=0x234a0 <tty_table>, termios=0x3fff5b4) at tty_ioctl.c:57
+#1  0x0001976b in tty_ioctl (dev=0, cmd=21505, arg=67106228) at tty_ioctl.c:127
+
+

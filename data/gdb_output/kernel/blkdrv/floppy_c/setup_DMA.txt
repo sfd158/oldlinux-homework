@@ -1,0 +1,7168 @@
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$5 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$8 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$11 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$14 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$17 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$20 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$23 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$26 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$29 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$32 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$35 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$38 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$41 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$44 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$47 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$50 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$53 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$56 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$59 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$62 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$65 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$68 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$71 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$74 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$77 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$80 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$83 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$86 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$89 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$92 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$95 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$98 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$101 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$104 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$107 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$110 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$113 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$116 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$119 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$122 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$125 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$128 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$131 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$134 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$137 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$140 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$143 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$146 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$149 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$152 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$155 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$158 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$161 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$164 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$167 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$170 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$173 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$176 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$179 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$182 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$185 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$188 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$191 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$194 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$197 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$200 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$203 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$206 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$209 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$212 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$215 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$218 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$221 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$224 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$227 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$230 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$233 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$236 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$239 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$242 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$245 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$248 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$251 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$254 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$257 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$260 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$263 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$266 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$269 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$272 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$275 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$278 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$281 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$284 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$287 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$290 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$293 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$296 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$299 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$302 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$305 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$308 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$311 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$314 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$317 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$320 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$323 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$326 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$329 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$332 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$335 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$338 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$341 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$344 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$347 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$350 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$353 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$356 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$359 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$362 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$365 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$368 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$371 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$374 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$377 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$380 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$383 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$386 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$389 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$392 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$395 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$398 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$401 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$404 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$407 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$410 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$413 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$416 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$419 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$422 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$425 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$428 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$431 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$434 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$437 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$440 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$443 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$446 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$449 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$452 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$455 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$458 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$461 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$464 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$467 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$470 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$473 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$476 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$479 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$482 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$485 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$488 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$491 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$494 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$497 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$500 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$503 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$506 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$509 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$512 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$515 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$518 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$521 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$524 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$527 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$530 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$533 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$536 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$539 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$542 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$545 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$548 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$551 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$554 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$557 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$560 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$563 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$566 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$569 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$572 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$575 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$578 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$581 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$584 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$587 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$590 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$593 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$596 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$599 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$602 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$605 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$608 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$611 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$614 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$617 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$620 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$623 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$626 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$629 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$632 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$635 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$638 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$641 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$644 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$647 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$650 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$653 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$656 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$659 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$662 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$665 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$668 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$671 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$674 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$677 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$680 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$683 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$686 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$689 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$692 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$695 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$698 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$701 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$704 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$707 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$710 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$713 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$716 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$719 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$722 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$725 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$728 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$731 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$734 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$737 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$740 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$743 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$746 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$749 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$752 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$755 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$758 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$761 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$764 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$767 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$770 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$773 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$776 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$779 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$782 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$785 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$788 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$791 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$794 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$797 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$800 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$803 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$806 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$809 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$812 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$815 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$818 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$821 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$824 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$827 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$830 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$833 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$836 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$839 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$842 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$845 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$848 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$851 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$854 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$857 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$860 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$863 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$866 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$869 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$872 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$875 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$878 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$881 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$884 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$887 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$890 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$893 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$896 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$899 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$902 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$905 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$908 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$911 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$914 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$917 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$920 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$923 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$926 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$929 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$932 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$935 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$938 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$941 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$944 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$947 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$950 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$953 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$956 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$959 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$962 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$965 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$968 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$971 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$974 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$977 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$980 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$983 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$986 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$989 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$992 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$995 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$998 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1001 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1004 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1007 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1010 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1013 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1016 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1019 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1022 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1025 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1028 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1031 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1034 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1037 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1040 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1043 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1046 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1049 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1052 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1055 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1058 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1061 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1064 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1067 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1070 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1073 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1076 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1079 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1082 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1085 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1088 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1091 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1094 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1097 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1100 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1103 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1106 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1109 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1112 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1115 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1118 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1121 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1124 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1127 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1130 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1133 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1136 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1139 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1142 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1145 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1148 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1151 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1154 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1157 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1160 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1163 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1166 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1169 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1172 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1175 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1178 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1181 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1184 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1187 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1190 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1193 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1196 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1199 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1202 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1205 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1208 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1211 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1214 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1217 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1220 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1223 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1226 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1229 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1232 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1235 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1238 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1241 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1244 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1247 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1250 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1253 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1256 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1259 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1262 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1265 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1268 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1271 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1274 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1277 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1280 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1283 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1286 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1289 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1292 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1295 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1298 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1301 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1304 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1307 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1310 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1313 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1316 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1319 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1322 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1325 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1328 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1331 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1334 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1337 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1340 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1343 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1346 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1349 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1352 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1355 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1358 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1361 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1364 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1367 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1370 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1373 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1376 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1379 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1382 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1385 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1388 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1391 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1394 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1397 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1400 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1403 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1406 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1409 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1412 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1415 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1418 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1421 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1424 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1427 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1430 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1433 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1436 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1439 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1442 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1445 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1448 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1451 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1454 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1457 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1460 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1463 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1466 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1469 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1472 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1475 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1478 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1481 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1484 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1487 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1490 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1493 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1496 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1499 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1502 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1505 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1508 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1511 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1514 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1517 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1520 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1523 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1526 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1529 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1532 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1535 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1538 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1541 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1544 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1547 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1550 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1553 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1556 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1559 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1562 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1565 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1568 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1571 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1574 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1577 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1580 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1583 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1586 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1589 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1592 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1595 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1598 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1601 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1604 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1607 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1610 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1613 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1616 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1619 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1622 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1625 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1628 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1631 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1634 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1637 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1640 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1643 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1646 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1649 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1652 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1655 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1658 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1661 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1664 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1667 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1670 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1673 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1676 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1679 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1682 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1685 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1688 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1691 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1694 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1697 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1700 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1703 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1706 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1709 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1712 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1715 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1718 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1721 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1724 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1727 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1730 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1733 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1736 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1739 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1742 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1745 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1748 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1751 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1754 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1757 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1760 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1763 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1766 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1769 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1772 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1775 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1778 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1781 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1784 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1787 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1790 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1793 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1796 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1799 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1802 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1805 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1808 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1811 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1814 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1817 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1820 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1823 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1826 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1829 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1832 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1835 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1838 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1841 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1844 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1847 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1850 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1853 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1856 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1859 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1862 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1865 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1868 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1871 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1874 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1877 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1880 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1883 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1886 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1889 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1892 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1895 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1898 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1901 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1904 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1907 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1910 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1913 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1916 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1919 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1922 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1925 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1928 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1931 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1934 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1937 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1940 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1943 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1946 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1949 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1952 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1955 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1958 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1961 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1964 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1967 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1970 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1973 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1976 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1979 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1982 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1985 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1988 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1991 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1994 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$1997 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2000 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2003 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2006 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2009 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2012 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2015 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2018 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2021 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2024 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2027 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2030 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2033 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2036 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2039 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2042 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2045 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2048 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2051 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2054 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2057 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2060 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2063 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2066 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2069 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2072 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2075 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2078 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2081 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2084 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2087 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2090 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2093 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2096 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2099 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2102 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2105 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2108 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2111 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2114 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2117 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2120 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2123 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2126 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2129 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2132 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2135 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2138 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2141 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2144 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2147 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2150 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2153 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2156 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2159 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2162 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2165 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2168 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2171 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2174 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2177 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2180 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2183 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2186 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2189 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2192 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2195 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2198 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2201 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2204 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2207 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2210 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2213 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2216 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2219 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2222 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2225 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2228 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2231 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2234 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2237 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2240 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2243 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2246 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2249 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2252 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2255 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2258 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2261 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2264 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2267 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2270 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2273 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2276 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2279 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2282 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2285 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2288 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2291 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2294 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2297 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2300 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2303 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2306 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2309 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2312 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2315 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2318 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2321 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2324 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2327 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2330 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2333 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2336 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2339 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2342 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2345 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2348 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2351 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2354 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2357 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2360 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2363 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2366 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2369 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2372 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2375 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2378 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2381 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2384 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2387 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2390 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2393 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2396 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2399 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2402 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2405 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2408 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2411 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2414 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2417 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2420 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2423 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2426 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2429 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2432 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2435 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2438 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2441 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2444 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2447 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2450 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2453 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2456 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2459 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2462 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2465 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2468 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2471 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2474 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2477 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2480 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2483 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2486 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2489 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2492 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2495 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2498 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2501 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2504 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2507 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2510 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2513 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2516 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2519 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2522 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2525 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2528 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2531 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2534 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2537 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2540 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2543 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2546 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2549 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2552 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2555 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2558 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2561 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2564 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2567 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2570 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2573 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2576 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2579 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2582 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2585 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2588 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2591 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2594 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2597 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2600 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2603 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2606 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2609 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2612 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2615 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2618 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2621 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2624 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2627 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2630 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2633 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2636 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2639 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2642 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2645 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2648 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2651 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2654 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2657 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2660 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2663 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2666 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2669 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2672 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2675 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2678 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2681 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2684 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2687 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2690 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2693 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2696 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2699 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2702 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2705 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2708 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2711 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2714 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2717 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2720 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2723 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2726 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2729 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2732 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2735 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2738 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2741 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2744 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2747 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2750 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2753 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2756 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2759 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2762 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2765 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2768 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2771 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2774 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2777 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2780 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2783 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2786 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2789 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2792 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2795 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2798 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2801 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2804 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2807 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2810 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2813 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2816 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2819 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2822 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2825 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2828 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2831 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2834 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2837 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2840 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2843 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2846 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2849 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2852 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2855 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2858 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2861 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2864 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2867 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2870 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2873 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2876 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2879 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2882 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2885 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2888 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2891 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2894 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2897 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2900 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2903 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2906 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2909 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2912 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2915 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2918 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2921 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2924 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2927 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2930 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2933 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2936 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2939 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2942 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2945 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2948 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2951 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2954 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2957 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2960 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2963 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2966 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2969 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2972 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2975 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2978 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2981 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2984 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2987 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2990 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2993 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2996 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$2999 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3002 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3005 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3008 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3011 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3014 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3017 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3020 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3023 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3026 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3029 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3032 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3035 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3038 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3041 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3044 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3047 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3050 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3053 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3056 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3059 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3062 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3065 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3068 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+
+Breakpoint 5, setup_DMA () at floppy.c:161
+161	{
+$3071 = "backtrace:"
+#0  setup_DMA () at floppy.c:161
+#1  0x00014863 in setup_rw_floppy () at floppy.c:271
+
+

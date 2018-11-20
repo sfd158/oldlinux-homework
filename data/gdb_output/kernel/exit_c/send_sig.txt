@@ -1,0 +1,7 @@
+Breakpoint 5, send_sig (sig=-31707, p=0xd4bce850, priv=-997982209) at exit.c:36
+36	{
+$2 = "backtrace:"
+#0  send_sig (sig=-31707, p=0xd4bce850, priv=-997982209) at exit.c:36
+#1  0xa95052d2 in ?? ()
+
+

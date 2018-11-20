@@ -1,0 +1,21 @@
+Breakpoint 5, set_origin () at console.c:98
+98	{
+$2 = "backtrace:"
+#0  set_origin () at console.c:98
+#1  0x000175a0 in scrup () at console.c:139
+
+
+Breakpoint 5, set_origin () at console.c:98
+98	{
+$5 = "backtrace:"
+#0  set_origin () at console.c:98
+#1  0x000175a0 in scrup () at console.c:139
+
+
+Breakpoint 5, set_origin () at console.c:98
+98	{
+$8 = "backtrace:"
+#0  set_origin () at console.c:98
+#1  0x000175a0 in scrup () at console.c:139
+
+

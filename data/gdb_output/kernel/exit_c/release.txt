@@ -1,0 +1,93 @@
+Breakpoint 5, release (p=0x24448310) at exit.c:20
+20	{
+$2 = "backtrace:"
+#0  release (p=0x24448310) at exit.c:20
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 5, release (p=0x24448310) at exit.c:20
+20	{
+$5 = "backtrace:"
+#0  release (p=0x24448310) at exit.c:20
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 5, release (p=0xffa000) at exit.c:20
+20	{
+$8 = "backtrace:"
+#0  release (p=0xffa000) at exit.c:20
+#1  0x0000a67f in sys_waitpid (pid=-1, stat_addr=0x28eb0 <user_stack+4016>, 
+    options=0) at exit.c:175
+
+
+Breakpoint 5, release (p=0x7c81011c) at exit.c:20
+20	{
+$11 = "backtrace:"
+#0  release (p=0x7c81011c) at exit.c:20
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 5, release (p=0x7c81011c) at exit.c:20
+20	{
+$14 = "backtrace:"
+#0  release (p=0x7c81011c) at exit.c:20
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 5, release (p=0x7c81011c) at exit.c:20
+20	{
+$17 = "backtrace:"
+#0  release (p=0x7c81011c) at exit.c:20
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 5, release (p=0x7c81011c) at exit.c:20
+20	{
+$20 = "backtrace:"
+#0  release (p=0x7c81011c) at exit.c:20
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 5, release (p=0x7c81011c) at exit.c:20
+20	{
+$23 = "backtrace:"
+#0  release (p=0x7c81011c) at exit.c:20
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 5, release (p=0x7c81011c) at exit.c:20
+20	{
+$26 = "backtrace:"
+#0  release (p=0x7c81011c) at exit.c:20
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 5, release (p=0x7c81011c) at exit.c:20
+20	{
+$29 = "backtrace:"
+#0  release (p=0x7c81011c) at exit.c:20
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 5, release (p=0x7c81011c) at exit.c:20
+20	{
+$32 = "backtrace:"
+#0  release (p=0x7c81011c) at exit.c:20
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 5, release (p=0x3ff1c24) at exit.c:20
+20	{
+$35 = "backtrace:"
+#0  release (p=0x3ff1c24) at exit.c:20
+#1  0x7c81011c in ?? ()
+
+
+Breakpoint 5, release (p=0xfb1000) at exit.c:20
+20	{
+$38 = "backtrace:"
+#0  release (p=0xfb1000) at exit.c:20
+#1  0x0000a67f in sys_waitpid (pid=5, stat_addr=0x3fff0b0, options=0)
+    at exit.c:175
+
+

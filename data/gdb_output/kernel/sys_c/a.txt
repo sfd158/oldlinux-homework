@@ -1,0 +1,88 @@
+Breakpoint 18, sys_ulimit () at sys.c:98
+98	{
+$2 = "backtrace:"
+#0  sys_ulimit () at sys.c:98
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x00000003 in startup_32 () at head.s:19
+
+
+Breakpoint 19, sys_time (tloc=0x0 <startup_32>) at sys.c:103
+103	{
+$5 = "backtrace:"
+#0  sys_time (tloc=0x0 <startup_32>) at sys.c:103
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x00000000 in ?? ()
+
+
+Breakpoint 27, sys_uname (name=0x3fffdc4) at sys.c:217
+217	{
+$8 = "backtrace:"
+#0  sys_uname (name=0x3fffdc4) at sys.c:217
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x03fffdc4 in ?? ()
+
+
+Breakpoint 25, sys_getpgrp () at sys.c:202
+202	{
+$11 = "backtrace:"
+#0  sys_getpgrp () at sys.c:202
+#1  0x03ff1c24 in ?? ()
+
+
+Breakpoint 26, sys_setsid () at sys.c:207
+207	{
+$14 = "backtrace:"
+#0  sys_setsid () at sys.c:207
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x00022000 in ?? ()
+Backtrace stopped: previous frame inner to this frame (corrupt stack?)
+
+
+Breakpoint 18, sys_ulimit () at sys.c:98
+98	{
+$17 = "backtrace:"
+#0  sys_ulimit () at sys.c:98
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x00000003 in startup_32 () at head.s:19
+
+
+Breakpoint 19, sys_time (tloc=0x0 <startup_32>) at sys.c:103
+103	{
+$20 = "backtrace:"
+#0  sys_time (tloc=0x0 <startup_32>) at sys.c:103
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x00000000 in ?? ()
+
+
+Breakpoint 27, sys_uname (name=0x3fffdbc) at sys.c:217
+217	{
+$23 = "backtrace:"
+#0  sys_uname (name=0x3fffdbc) at sys.c:217
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x03fffdbc in ?? ()
+
+
+Breakpoint 28, sys_umask (mask=54) at sys.c:231
+231	{
+$26 = "backtrace:"
+#0  sys_umask (mask=54) at sys.c:231
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x00000036 in startup_32 () at head.s:35
+
+
+Breakpoint 19, sys_time (tloc=0x0 <startup_32>) at sys.c:103
+103	{
+$29 = "backtrace:"
+#0  sys_time (tloc=0x0 <startup_32>) at sys.c:103
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x00000000 in ?? ()
+
+
+Breakpoint 19, sys_time (tloc=0x0 <startup_32>) at sys.c:103
+103	{
+$32 = "backtrace:"
+#0  sys_time (tloc=0x0 <startup_32>) at sys.c:103
+#1  0x00007967 in system_call () at system_call.s:94
+#2  0x00000000 in ?? ()
+
+

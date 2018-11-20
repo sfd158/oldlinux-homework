@@ -1,0 +1,98 @@
+Breakpoint 5, sys_ioctl (fd=0, cmd=21505, arg=67108584) at ioctl.c:31
+31	{	
+$2 = "backtrace:"
+#0  sys_ioctl (fd=0, cmd=21505, arg=67108584) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=3, cmd=21505, arg=67108232) at ioctl.c:31
+31	{	
+$5 = "backtrace:"
+#0  sys_ioctl (fd=3, cmd=21505, arg=67108232) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=0, cmd=21505, arg=67108576) at ioctl.c:31
+31	{	
+$8 = "backtrace:"
+#0  sys_ioctl (fd=0, cmd=21505, arg=67108576) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=1, cmd=21505, arg=67108576) at ioctl.c:31
+31	{	
+$11 = "backtrace:"
+#0  sys_ioctl (fd=1, cmd=21505, arg=67108576) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=3, cmd=21505, arg=67108224) at ioctl.c:31
+31	{	
+$14 = "backtrace:"
+#0  sys_ioctl (fd=3, cmd=21505, arg=67108224) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=3, cmd=21505, arg=282936) at ioctl.c:31
+31	{	
+$17 = "backtrace:"
+#0  sys_ioctl (fd=3, cmd=21505, arg=282936) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=3, cmd=21505, arg=282936) at ioctl.c:31
+31	{	
+$20 = "backtrace:"
+#0  sys_ioctl (fd=3, cmd=21505, arg=282936) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=3, cmd=21505, arg=67104860) at ioctl.c:31
+31	{	
+$23 = "backtrace:"
+#0  sys_ioctl (fd=3, cmd=21505, arg=67104860) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=3, cmd=21505, arg=282936) at ioctl.c:31
+31	{	
+$26 = "backtrace:"
+#0  sys_ioctl (fd=3, cmd=21505, arg=282936) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=0, cmd=21523, arg=67106232) at ioctl.c:31
+31	{	
+$29 = "backtrace:"
+#0  sys_ioctl (fd=0, cmd=21523, arg=67106232) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=0, cmd=21505, arg=67106212) at ioctl.c:31
+31	{	
+$32 = "backtrace:"
+#0  sys_ioctl (fd=0, cmd=21505, arg=67106212) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=0, cmd=21505, arg=67106228) at ioctl.c:31
+31	{	
+$35 = "backtrace:"
+#0  sys_ioctl (fd=0, cmd=21505, arg=67106228) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=0, cmd=21507, arg=67106228) at ioctl.c:31
+31	{	
+$38 = "backtrace:"
+#0  sys_ioctl (fd=0, cmd=21507, arg=67106228) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_ioctl (fd=0, cmd=21514, arg=1) at ioctl.c:31
+31	{	
+$41 = "backtrace:"
+#0  sys_ioctl (fd=0, cmd=21514, arg=1) at ioctl.c:31
+#1  0x00007967 in system_call () at system_call.s:94
+
+

@@ -1,0 +1,49 @@
+Breakpoint 5, lf () at console.c:205
+205	{
+$2 = "backtrace:"
+#0  lf () at console.c:205
+#1  0x00017f8b in con_write (tty=0x234a0 <tty_table>) at console.c:470
+
+
+Breakpoint 5, lf () at console.c:205
+205	{
+$5 = "backtrace:"
+#0  lf () at console.c:205
+#1  0x00017f8b in con_write (tty=0x234a0 <tty_table>) at console.c:470
+
+
+Breakpoint 5, lf () at console.c:205
+205	{
+$8 = "backtrace:"
+#0  lf () at console.c:205
+#1  0x00017f8b in con_write (tty=0x234a0 <tty_table>) at console.c:470
+
+
+Breakpoint 5, lf () at console.c:205
+205	{
+$11 = "backtrace:"
+#0  lf () at console.c:205
+#1  0x00017f8b in con_write (tty=0x234a0 <tty_table>) at console.c:470
+
+
+Breakpoint 5, lf () at console.c:205
+205	{
+$14 = "backtrace:"
+#0  lf () at console.c:205
+#1  0x00017f8b in con_write (tty=0x234a0 <tty_table>) at console.c:470
+
+
+Breakpoint 5, lf () at console.c:205
+205	{
+$17 = "backtrace:"
+#0  lf () at console.c:205
+#1  0x00017f8b in con_write (tty=0x234a0 <tty_table>) at console.c:470
+
+
+Breakpoint 5, lf () at console.c:205
+205	{
+$20 = "backtrace:"
+#0  lf () at console.c:205
+#1  0x00017f8b in con_write (tty=0x234a0 <tty_table>) at console.c:470
+
+

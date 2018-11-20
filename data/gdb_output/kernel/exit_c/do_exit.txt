@@ -1,0 +1,14 @@
+Breakpoint 5, do_exit (code=0) at exit.c:103
+103	{
+$2 = "backtrace:"
+#0  do_exit (code=0) at exit.c:103
+#1  0x0000a4c2 in sys_exit (error_code=0) at exit.c:138
+
+
+Breakpoint 5, do_exit (code=0) at exit.c:103
+103	{
+$5 = "backtrace:"
+#0  do_exit (code=0) at exit.c:103
+#1  0x0000a4c2 in sys_exit (error_code=0) at exit.c:138
+
+

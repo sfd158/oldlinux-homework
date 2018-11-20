@@ -1,0 +1,7 @@
+Breakpoint 6, con_init () at console.c:618
+618	{
+$2 = "backtrace:"
+#0  con_init () at console.c:618
+#1  0x000165bc in tty_init () at tty_io.c:108
+
+

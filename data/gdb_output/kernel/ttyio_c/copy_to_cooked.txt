@@ -1,0 +1,7 @@
+Breakpoint 5, copy_to_cooked (tty=0xbaa00f06) at tty_io.c:146
+146	{
+$2 = "backtrace:"
+#0  copy_to_cooked (tty=0xbaa00f06) at tty_io.c:146
+#1  0x1e525124 in ?? ()
+
+

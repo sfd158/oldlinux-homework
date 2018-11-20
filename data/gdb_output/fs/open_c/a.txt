@@ -1,0 +1,703 @@
+    filename=0x7a49 <timer_interrupt+47> "\203\304\004\351'\377\377\377\220\215D$\034P\350\027\205", flag=0) at open.c:20
+20			"d" (va_arg(arg,int)));
+$2 = "backtrace:"
+#0  open (
+    filename=0x7a49 <timer_interrupt+47> "\203\304\004\351'\377\377\377\220\215D$\034P\350\027\205", flag=0) at open.c:20
+#1  0x00022000 in ?? ()
+
+
+    at open.c:139
+139	{
+$5 = "backtrace:"
+#0  sys_open (filename=0x19dc3 "/dev/tty0", flag=2, mode=0) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=0) at open.c:194
+194	{	
+$8 = "backtrace:"
+#0  sys_close (fd=0) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x7a49 <timer_interrupt+47> "\203\304\004\351'\377\377\377\220\215D$\034P\350\027\205", flag=0) at open.c:20
+20			"d" (va_arg(arg,int)));
+$11 = "backtrace:"
+#0  open (
+    filename=0x7a49 <timer_interrupt+47> "\203\304\004\351'\377\377\377\220\215D$\034P\350\027\205", flag=0) at open.c:20
+#1  0x00022000 in ?? ()
+
+
+    at open.c:139
+139	{
+$14 = "backtrace:"
+#0  sys_open (filename=0x19e0a "/etc/rc", flag=0, mode=0) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x3d6d2 "", flag=0, mode=438) at open.c:139
+139	{
+$17 = "backtrace:"
+#0  sys_open (filename=0x3d6d2 "", flag=0, mode=438) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$20 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x3fffd66 "-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw"...) at open.c:76
+76	{
+$23 = "backtrace:"
+#0  sys_chdir (
+    filename=0x3fffd66 "-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw"...) at open.c:76
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x10c0e <read_pipe+317> "\213D$\f\215P\377\211T$\f\205\300\177\275\203|$(", flag=0, mode=67108352) at open.c:139
+139	{
+$26 = "backtrace:"
+#0  sys_open (
+    filename=0x10c0e <read_pipe+317> "\213D$\f\215P\377\211T$\f\205\300\177\275\203|$(", flag=0, mode=67108352) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x4ba2c "", flag=0, mode=438) at open.c:139
+139	{
+$29 = "backtrace:"
+#0  sys_open (filename=0x4ba2c "", flag=0, mode=438) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=0) at open.c:194
+194	{	
+$32 = "backtrace:"
+#0  sys_close (fd=0) at open.c:194
+#1  0x000137eb in sys_dup2 (oldfd=3, newfd=0) at fcntl.c:38
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$35 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=0) at open.c:194
+194	{	
+$38 = "backtrace:"
+#0  sys_close (fd=0) at open.c:194
+#1  0x000137eb in sys_dup2 (oldfd=10, newfd=0) at fcntl.c:38
+
+
+Breakpoint 14, sys_close (fd=10) at open.c:194
+194	{	
+$41 = "backtrace:"
+#0  sys_close (fd=10) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=1) at open.c:194
+194	{	
+$44 = "backtrace:"
+#0  sys_close (fd=1) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=2) at open.c:194
+194	{	
+$47 = "backtrace:"
+#0  sys_close (fd=2) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=0) at open.c:194
+194	{	
+$50 = "backtrace:"
+#0  sys_close (fd=0) at open.c:194
+#1  0x0000a345 in do_exit (code=0) at exit.c:116
+
+
+Breakpoint 14, sys_close (fd=10) at open.c:194
+194	{	
+$53 = "backtrace:"
+#0  sys_close (fd=10) at open.c:194
+#1  0x000107f8 in do_execve (eip=0xfbefec, tmp=31079, filename=0x4bb8c "", 
+    argv=0x4bb6c, envp=0x4b0cc) at exec.c:328
+
+
+Breakpoint 14, sys_close (fd=0) at open.c:194
+194	{	
+$56 = "backtrace:"
+#0  sys_close (fd=0) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=1) at open.c:194
+194	{	
+$59 = "backtrace:"
+#0  sys_close (fd=1) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=2) at open.c:194
+194	{	
+$62 = "backtrace:"
+#0  sys_close (fd=2) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$65 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=4) at open.c:194
+194	{	
+$68 = "backtrace:"
+#0  sys_close (fd=4) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=5) at open.c:194
+194	{	
+$71 = "backtrace:"
+#0  sys_close (fd=5) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=6) at open.c:194
+194	{	
+$74 = "backtrace:"
+#0  sys_close (fd=6) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=7) at open.c:194
+194	{	
+$77 = "backtrace:"
+#0  sys_close (fd=7) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=8) at open.c:194
+194	{	
+$80 = "backtrace:"
+#0  sys_close (fd=8) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=9) at open.c:194
+194	{	
+$83 = "backtrace:"
+#0  sys_close (fd=9) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=10) at open.c:194
+194	{	
+$86 = "backtrace:"
+#0  sys_close (fd=10) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=11) at open.c:194
+194	{	
+$89 = "backtrace:"
+#0  sys_close (fd=11) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=12) at open.c:194
+194	{	
+$92 = "backtrace:"
+#0  sys_close (fd=12) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=13) at open.c:194
+194	{	
+$95 = "backtrace:"
+#0  sys_close (fd=13) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=14) at open.c:194
+194	{	
+$98 = "backtrace:"
+#0  sys_close (fd=14) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=15) at open.c:194
+194	{	
+$101 = "backtrace:"
+#0  sys_close (fd=15) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=16) at open.c:194
+194	{	
+$104 = "backtrace:"
+#0  sys_close (fd=16) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=17) at open.c:194
+194	{	
+$107 = "backtrace:"
+#0  sys_close (fd=17) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=18) at open.c:194
+194	{	
+$110 = "backtrace:"
+#0  sys_close (fd=18) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=19) at open.c:194
+194	{	
+$113 = "backtrace:"
+#0  sys_close (fd=19) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 8, sys_chdir (filename=0x35 <startup_32+53> "") at open.c:76
+76	{
+$116 = "backtrace:"
+#0  sys_chdir (filename=0x35 <startup_32+53> "") at open.c:76
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=0) at open.c:194
+194	{	
+$119 = "backtrace:"
+#0  sys_close (fd=0) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=1) at open.c:194
+194	{	
+$122 = "backtrace:"
+#0  sys_close (fd=1) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=2) at open.c:194
+194	{	
+$125 = "backtrace:"
+#0  sys_close (fd=2) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x7a49 <timer_interrupt+47> "\203\304\004\351'\377\377\377\220\215D$\034P\350\027\205", flag=0) at open.c:20
+20			"d" (va_arg(arg,int)));
+$128 = "backtrace:"
+#0  open (
+    filename=0x7a49 <timer_interrupt+47> "\203\304\004\351'\377\377\377\220\215D$\034P\350\027\205", flag=0) at open.c:20
+#1  0x00022000 in ?? ()
+
+
+    at open.c:139
+139	{
+$131 = "backtrace:"
+#0  sys_open (filename=0x19dc3 "/dev/tty0", flag=2, mode=0) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$134 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=4) at open.c:194
+194	{	
+$137 = "backtrace:"
+#0  sys_close (fd=4) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=5) at open.c:194
+194	{	
+$140 = "backtrace:"
+#0  sys_close (fd=5) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=6) at open.c:194
+194	{	
+$143 = "backtrace:"
+#0  sys_close (fd=6) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=7) at open.c:194
+194	{	
+$146 = "backtrace:"
+#0  sys_close (fd=7) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=8) at open.c:194
+194	{	
+$149 = "backtrace:"
+#0  sys_close (fd=8) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=9) at open.c:194
+194	{	
+$152 = "backtrace:"
+#0  sys_close (fd=9) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=10) at open.c:194
+194	{	
+$155 = "backtrace:"
+#0  sys_close (fd=10) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=11) at open.c:194
+194	{	
+$158 = "backtrace:"
+#0  sys_close (fd=11) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=12) at open.c:194
+194	{	
+$161 = "backtrace:"
+#0  sys_close (fd=12) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=13) at open.c:194
+194	{	
+$164 = "backtrace:"
+#0  sys_close (fd=13) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=14) at open.c:194
+194	{	
+$167 = "backtrace:"
+#0  sys_close (fd=14) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=15) at open.c:194
+194	{	
+$170 = "backtrace:"
+#0  sys_close (fd=15) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=16) at open.c:194
+194	{	
+$173 = "backtrace:"
+#0  sys_close (fd=16) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=17) at open.c:194
+194	{	
+$176 = "backtrace:"
+#0  sys_close (fd=17) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=18) at open.c:194
+194	{	
+$179 = "backtrace:"
+#0  sys_close (fd=18) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=19) at open.c:194
+194	{	
+$182 = "backtrace:"
+#0  sys_close (fd=19) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x3d6d2 "", flag=0, mode=438) at open.c:139
+139	{
+$185 = "backtrace:"
+#0  sys_open (filename=0x3d6d2 "", flag=0, mode=438) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$188 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x3fffd5e "-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw"...) at open.c:76
+76	{
+$191 = "backtrace:"
+#0  sys_chdir (
+    filename=0x3fffd5e "-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw"...) at open.c:76
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x10c0e <read_pipe+317> "\213D$\f\215P\377\211T$\f\205\300\177\275\203|$(", flag=0, mode=67108344) at open.c:139
+139	{
+$194 = "backtrace:"
+#0  sys_open (
+    filename=0x10c0e <read_pipe+317> "\213D$\f\215P\377\211T$\f\205\300\177\275\203|$(", flag=0, mode=67108344) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$197 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x4afcc "", flag=0, mode=282) at open.c:139
+139	{
+$200 = "backtrace:"
+#0  sys_open (filename=0x4afcc "", flag=0, mode=282) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$203 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 8, sys_chdir (filename=0x4d60c "") at open.c:76
+76	{
+$206 = "backtrace:"
+#0  sys_chdir (filename=0x4d60c "") at open.c:76
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x46c8c "", flag=0, mode=309) at open.c:139
+139	{
+$209 = "backtrace:"
+#0  sys_open (filename=0x46c8c "", flag=0, mode=309) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x46c8c "", flag=0, mode=323) at open.c:139
+139	{
+$212 = "backtrace:"
+#0  sys_open (filename=0x46c8c "", flag=0, mode=323) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x4afcc "", flag=0, mode=293) at open.c:139
+139	{
+$215 = "backtrace:"
+#0  sys_open (filename=0x4afcc "", flag=0, mode=293) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x4b00c "", flag=0, mode=438) at open.c:139
+139	{
+$218 = "backtrace:"
+#0  sys_open (filename=0x4b00c "", flag=0, mode=438) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$221 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x4b00c "", flag=0, mode=438) at open.c:139
+139	{
+$224 = "backtrace:"
+#0  sys_open (filename=0x4b00c "", flag=0, mode=438) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$227 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x10c0e <read_pipe+317> "\213D$\f\215P\377\211T$\f\205\300\177\275\203|$(", flag=0, mode=306636) at open.c:139
+139	{
+$230 = "backtrace:"
+#0  sys_open (
+    filename=0x10c0e <read_pipe+317> "\213D$\f\215P\377\211T$\f\205\300\177\275\203|$(", flag=0, mode=306636) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$233 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=4) at open.c:194
+194	{	
+$236 = "backtrace:"
+#0  sys_close (fd=4) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=1) at open.c:194
+194	{	
+$239 = "backtrace:"
+#0  sys_close (fd=1) at open.c:194
+#1  0x000137eb in sys_dup2 (oldfd=4, newfd=1) at fcntl.c:38
+
+
+Breakpoint 14, sys_close (fd=4) at open.c:194
+194	{	
+$242 = "backtrace:"
+#0  sys_close (fd=4) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$245 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x1b334 " \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ") at open.c:76
+76	{
+$248 = "backtrace:"
+#0  sys_chdir (
+    filename=0x1b334 " \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ") at open.c:76
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    mode=67104627) at open.c:139
+139	{
+$251 = "backtrace:"
+#0  sys_open (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", flag=0, 
+    mode=67104627) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$254 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x1b334 " \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ") at open.c:76
+76	{
+$257 = "backtrace:"
+#0  sys_chdir (
+    filename=0x1b334 " \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ") at open.c:76
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    mode=67104622) at open.c:139
+139	{
+$260 = "backtrace:"
+#0  sys_open (
+    filename=0x1b330 "\016\060H\016 \002A\016,G\016\060H\016 S\016,B\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 H\016$B\016(B\016,G\016\060H\016 C\016,B\016\060H\016 C\016,B\016\060H\016 C\016$G\016(G\016,G\016\060H\016 C\016,A\016\060H\016 C\016,E\016\060H\016 O\016$A\016(D\016,G\016\060H\016 ", flag=0, 
+    mode=67104622) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$263 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x3ffef6a "-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw"...) at open.c:76
+76	{
+$266 = "backtrace:"
+#0  sys_chdir (
+    filename=0x3ffef6a "-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw"...) at open.c:76
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=1) at open.c:194
+194	{	
+$269 = "backtrace:"
+#0  sys_close (fd=1) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=2) at open.c:194
+194	{	
+$272 = "backtrace:"
+#0  sys_close (fd=2) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=0) at open.c:194
+194	{	
+$275 = "backtrace:"
+#0  sys_close (fd=0) at open.c:194
+#1  0x0000a345 in do_exit (code=0) at exit.c:116
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$278 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$281 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+    filename=0x10c0e <read_pipe+317> "\213D$\f\215P\377\211T$\f\205\300\177\275\203|$(", flag=0, mode=5) at open.c:139
+139	{
+$284 = "backtrace:"
+#0  sys_open (
+    filename=0x10c0e <read_pipe+317> "\213D$\f\215P\377\211T$\f\205\300\177\275\203|$(", flag=0, mode=5) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$287 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 12, sys_open (filename=0x37ba4 "", flag=0, mode=0) at open.c:139
+139	{
+$290 = "backtrace:"
+#0  sys_open (filename=0x37ba4 "", flag=0, mode=0) at open.c:139
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 14, sys_close (fd=3) at open.c:194
+194	{	
+$293 = "backtrace:"
+#0  sys_close (fd=3) at open.c:194
+#1  0x00007967 in system_call () at system_call.s:94
+
+

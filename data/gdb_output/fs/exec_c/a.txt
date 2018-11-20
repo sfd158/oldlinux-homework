@@ -1,0 +1,186 @@
+    argv=0x22020 <argv_rc>, envp=0x22028 <envp_rc>) at exec.c:184
+184	{
+$2 = "backtrace:"
+#0  do_execve (eip=0xffafec, tmp=31079, filename=0x19d9c "/bin/sh", 
+    argv=0x22020 <argv_rc>, envp=0x22028 <envp_rc>) at exec.c:184
+#1  0x00007a5c in sys_execve () at system_call.s:203
+
+
+Breakpoint 6, count (argv=0x22020 <argv_rc>) at exec.c:76
+76	{
+$5 = "backtrace:"
+#0  count (argv=0x22020 <argv_rc>) at exec.c:76
+#1  0x00010032 in do_execve (eip=0xffafec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22020 <argv_rc>, envp=0x22028 <envp_rc>)
+    at exec.c:201
+
+
+Breakpoint 6, count (argv=0x22028 <envp_rc>) at exec.c:76
+76	{
+$8 = "backtrace:"
+#0  count (argv=0x22028 <envp_rc>) at exec.c:76
+#1  0x0001004b in do_execve (eip=0xffafec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22020 <argv_rc>, envp=0x22028 <envp_rc>)
+    at exec.c:202
+
+
+    p=131068, from_kmem=0) at exec.c:106
+106	{
+$11 = "backtrace:"
+#0  copy_strings (argc=1, argv=0x22028 <envp_rc>, page=0xffaed0, p=131068, 
+    from_kmem=0) at exec.c:106
+#1  0x000106ca in do_execve (eip=0xffafec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22020 <argv_rc>, envp=0x22028 <envp_rc>)
+    at exec.c:311
+
+
+    p=131061, from_kmem=0) at exec.c:106
+106	{
+$14 = "backtrace:"
+#0  copy_strings (argc=1, argv=0x22020 <argv_rc>, page=0xffaed0, p=131061, 
+    from_kmem=0) at exec.c:106
+#1  0x000106fb in do_execve (eip=0xffafec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22020 <argv_rc>, envp=0x22028 <envp_rc>)
+    at exec.c:312
+
+
+Breakpoint 8, change_ldt (text_size=266240, page=0xffaed0) at exec.c:155
+155	{
+$17 = "backtrace:"
+#0  change_ldt (text_size=266240, page=0xffaed0) at exec.c:155
+#1  0x000108e2 in do_execve (eip=0xffafec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22020 <argv_rc>, envp=0x22028 <envp_rc>)
+    at exec.c:335
+
+
+Breakpoint 5, create_tables (p=0x3ffffed "0\257", argc=1, envc=1) at exec.c:47
+47	{
+$20 = "backtrace:"
+#0  create_tables (p=0x3ffffed "0\257", argc=1, envc=1) at exec.c:47
+#1  0x0001090f in do_execve (eip=0xffafec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22020 <argv_rc>, envp=0x22028 <envp_rc>)
+    at exec.c:336
+
+
+    argv=0x4bb6c, envp=0x4b0cc) at exec.c:184
+184	{
+$23 = "backtrace:"
+#0  do_execve (eip=0xfbefec, tmp=31079, filename=0x4bb8c "", argv=0x4bb6c, 
+    envp=0x4b0cc) at exec.c:184
+#1  0x00007a5c in sys_execve () at system_call.s:203
+
+
+Breakpoint 6, count (argv=0x4bb6c) at exec.c:76
+76	{
+$26 = "backtrace:"
+#0  count (argv=0x4bb6c) at exec.c:76
+#1  0x00010032 in do_execve (eip=0xfbefec, tmp=31079, filename=0x4bb8c "", 
+    argv=0x4bb6c, envp=0x4b0cc) at exec.c:201
+
+
+Breakpoint 6, count (argv=0x4b0cc) at exec.c:76
+76	{
+$29 = "backtrace:"
+#0  count (argv=0x4b0cc) at exec.c:76
+#1  0x0001004b in do_execve (eip=0xfbefec, tmp=31079, filename=0x4bb8c "", 
+    argv=0x4bb6c, envp=0x4b0cc) at exec.c:202
+
+
+    from_kmem=0) at exec.c:106
+106	{
+$32 = "backtrace:"
+#0  copy_strings (argc=8, argv=0x4b0cc, page=0xfbeed0, p=131068, from_kmem=0)
+    at exec.c:106
+#1  0x000106ca in do_execve (eip=0xfbefec, tmp=31079, filename=0x4bb8c "", 
+    argv=0x4bb6c, envp=0x4b0cc) at exec.c:311
+
+
+    from_kmem=0) at exec.c:106
+106	{
+$35 = "backtrace:"
+#0  copy_strings (argc=1, argv=0x4bb6c, page=0xfbeed0, p=130914, from_kmem=0)
+    at exec.c:106
+#1  0x000106fb in do_execve (eip=0xfbefec, tmp=31079, filename=0x4bb8c "", 
+    argv=0x4bb6c, envp=0x4b0cc) at exec.c:312
+
+
+Breakpoint 8, change_ldt (text_size=4096, page=0xfbeed0) at exec.c:155
+155	{
+$38 = "backtrace:"
+#0  change_ldt (text_size=4096, page=0xfbeed0) at exec.c:155
+#1  0x000108e2 in do_execve (eip=0xfbefec, tmp=31079, filename=0x4bb8c "", 
+    argv=0x4bb6c, envp=0x4b0cc) at exec.c:335
+
+
+Breakpoint 5, create_tables (p=0x3ffff56 "\b\257", argc=1, envc=8) at exec.c:47
+47	{
+$41 = "backtrace:"
+#0  create_tables (p=0x3ffff56 "\b\257", argc=1, envc=8) at exec.c:47
+#1  0x0001090f in do_execve (eip=0xfbefec, tmp=31079, filename=0x4bb8c "", 
+    argv=0x4bb6c, envp=0x4b0cc) at exec.c:336
+
+
+    argv=0x22030 <argv>, envp=0x22038 <envp>) at exec.c:184
+184	{
+$44 = "backtrace:"
+#0  do_execve (eip=0xffcfec, tmp=31079, filename=0x19d9c "/bin/sh", 
+    argv=0x22030 <argv>, envp=0x22038 <envp>) at exec.c:184
+#1  0x00007a5c in sys_execve () at system_call.s:203
+
+
+Breakpoint 6, count (argv=0x22030 <argv>) at exec.c:76
+76	{
+$47 = "backtrace:"
+#0  count (argv=0x22030 <argv>) at exec.c:76
+#1  0x00010032 in do_execve (eip=0xffcfec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22030 <argv>, envp=0x22038 <envp>)
+    at exec.c:201
+
+
+Breakpoint 6, count (argv=0x22038 <envp>) at exec.c:76
+76	{
+$50 = "backtrace:"
+#0  count (argv=0x22038 <envp>) at exec.c:76
+#1  0x0001004b in do_execve (eip=0xffcfec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22030 <argv>, envp=0x22038 <envp>)
+    at exec.c:202
+
+
+    p=131068, from_kmem=0) at exec.c:106
+106	{
+$53 = "backtrace:"
+#0  copy_strings (argc=1, argv=0x22038 <envp>, page=0xffced0, p=131068, 
+    from_kmem=0) at exec.c:106
+#1  0x000106ca in do_execve (eip=0xffcfec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22030 <argv>, envp=0x22038 <envp>)
+    at exec.c:311
+
+
+    p=131053, from_kmem=0) at exec.c:106
+106	{
+$56 = "backtrace:"
+#0  copy_strings (argc=1, argv=0x22030 <argv>, page=0xffced0, p=131053, 
+    from_kmem=0) at exec.c:106
+#1  0x000106fb in do_execve (eip=0xffcfec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22030 <argv>, envp=0x22038 <envp>)
+    at exec.c:312
+
+
+Breakpoint 8, change_ldt (text_size=266240, page=0xffced0) at exec.c:155
+155	{
+$59 = "backtrace:"
+#0  change_ldt (text_size=266240, page=0xffced0) at exec.c:155
+#1  0x000108e2 in do_execve (eip=0xffcfec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22030 <argv>, envp=0x22038 <envp>)
+    at exec.c:335
+
+
+Breakpoint 5, create_tables (p=0x3ffffe4 "\r\257", argc=1, envc=1) at exec.c:47
+47	{
+$62 = "backtrace:"
+#0  create_tables (p=0x3ffffe4 "\r\257", argc=1, envc=1) at exec.c:47
+#1  0x0001090f in do_execve (eip=0xffcfec, tmp=31079, 
+    filename=0x19d9c "/bin/sh", argv=0x22030 <argv>, envp=0x22038 <envp>)
+    at exec.c:336
+
+

@@ -1,0 +1,154 @@
+Breakpoint 7, sys_dup (fildes=0) at fcntl.c:43
+43	{
+$2 = "backtrace:"
+#0  sys_dup (fildes=0) at fcntl.c:43
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, dupfd (fd=0, arg=0) at fcntl.c:19
+19	{
+$5 = "backtrace:"
+#0  dupfd (fd=0, arg=0) at fcntl.c:19
+#1  0x0001381b in sys_dup (fildes=0) at fcntl.c:44
+
+
+Breakpoint 7, sys_dup (fildes=0) at fcntl.c:43
+43	{
+$8 = "backtrace:"
+#0  sys_dup (fildes=0) at fcntl.c:43
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, dupfd (fd=0, arg=0) at fcntl.c:19
+19	{
+$11 = "backtrace:"
+#0  dupfd (fd=0, arg=0) at fcntl.c:19
+#1  0x0001381b in sys_dup (fildes=0) at fcntl.c:44
+
+
+Breakpoint 8, sys_fcntl (fd=0, cmd=3, arg=0) at fcntl.c:48
+48	{	
+$14 = "backtrace:"
+#0  sys_fcntl (fd=0, cmd=3, arg=0) at fcntl.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 8, sys_fcntl (fd=0, cmd=1, arg=0) at fcntl.c:48
+48	{	
+$17 = "backtrace:"
+#0  sys_fcntl (fd=0, cmd=1, arg=0) at fcntl.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 8, sys_fcntl (fd=0, cmd=0, arg=10) at fcntl.c:48
+48	{	
+$20 = "backtrace:"
+#0  sys_fcntl (fd=0, cmd=0, arg=10) at fcntl.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, dupfd (fd=0, arg=10) at fcntl.c:19
+19	{
+$23 = "backtrace:"
+#0  dupfd (fd=0, arg=10) at fcntl.c:19
+#1  0x00013889 in sys_fcntl (fd=0, cmd=0, arg=10) at fcntl.c:55
+
+
+Breakpoint 8, sys_fcntl (fd=0, cmd=1, arg=0) at fcntl.c:48
+48	{	
+$26 = "backtrace:"
+#0  sys_fcntl (fd=0, cmd=1, arg=0) at fcntl.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 8, sys_fcntl (fd=10, cmd=2, arg=1) at fcntl.c:48
+48	{	
+$29 = "backtrace:"
+#0  sys_fcntl (fd=10, cmd=2, arg=1) at fcntl.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 6, sys_dup2 (oldfd=3, newfd=0) at fcntl.c:37
+37	{
+$32 = "backtrace:"
+#0  sys_dup2 (oldfd=3, newfd=0) at fcntl.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, dupfd (fd=3, arg=0) at fcntl.c:19
+19	{
+$35 = "backtrace:"
+#0  dupfd (fd=3, arg=0) at fcntl.c:19
+#1  0x000137fe in sys_dup2 (oldfd=3, newfd=0) at fcntl.c:39
+
+
+Breakpoint 6, sys_dup2 (oldfd=10, newfd=0) at fcntl.c:37
+37	{
+$38 = "backtrace:"
+#0  sys_dup2 (oldfd=10, newfd=0) at fcntl.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, dupfd (fd=10, arg=0) at fcntl.c:19
+19	{
+$41 = "backtrace:"
+#0  dupfd (fd=10, arg=0) at fcntl.c:19
+#1  0x000137fe in sys_dup2 (oldfd=10, newfd=0) at fcntl.c:39
+
+
+Breakpoint 8, sys_fcntl (fd=10, cmd=1, arg=0) at fcntl.c:48
+48	{	
+$44 = "backtrace:"
+#0  sys_fcntl (fd=10, cmd=1, arg=0) at fcntl.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 7, sys_dup (fildes=0) at fcntl.c:43
+43	{
+$47 = "backtrace:"
+#0  sys_dup (fildes=0) at fcntl.c:43
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, dupfd (fd=0, arg=0) at fcntl.c:19
+19	{
+$50 = "backtrace:"
+#0  dupfd (fd=0, arg=0) at fcntl.c:19
+#1  0x0001381b in sys_dup (fildes=0) at fcntl.c:44
+
+
+Breakpoint 7, sys_dup (fildes=0) at fcntl.c:43
+43	{
+$53 = "backtrace:"
+#0  sys_dup (fildes=0) at fcntl.c:43
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, dupfd (fd=0, arg=0) at fcntl.c:19
+19	{
+$56 = "backtrace:"
+#0  dupfd (fd=0, arg=0) at fcntl.c:19
+#1  0x0001381b in sys_dup (fildes=0) at fcntl.c:44
+
+
+Breakpoint 8, sys_fcntl (fd=0, cmd=3, arg=0) at fcntl.c:48
+48	{	
+$59 = "backtrace:"
+#0  sys_fcntl (fd=0, cmd=3, arg=0) at fcntl.c:48
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 6, sys_dup2 (oldfd=4, newfd=1) at fcntl.c:37
+37	{
+$62 = "backtrace:"
+#0  sys_dup2 (oldfd=4, newfd=1) at fcntl.c:37
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, dupfd (fd=4, arg=1) at fcntl.c:19
+19	{
+$65 = "backtrace:"
+#0  dupfd (fd=4, arg=1) at fcntl.c:19
+#1  0x000137fe in sys_dup2 (oldfd=4, newfd=1) at fcntl.c:39
+
+

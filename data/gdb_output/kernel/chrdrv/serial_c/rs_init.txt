@@ -1,0 +1,21 @@
+Breakpoint 5, rs_init () at serial.c:38
+38	{
+$2 = "backtrace:"
+#0  rs_init () at serial.c:38
+#1  0x000165b7 in tty_init () at tty_io.c:107
+
+
+Breakpoint 5, rs_init () at serial.c:38
+38	{
+$5 = "backtrace:"
+#0  rs_init () at serial.c:38
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_init () at serial.c:38
+38	{
+$8 = "backtrace:"
+#0  rs_init () at serial.c:38
+#1  0x200fe28e in ?? ()
+
+

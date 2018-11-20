@@ -1,0 +1,7 @@
+Breakpoint 7, trap_init () at traps.c:182
+182	{
+$2 = "backtrace:"
+#0  trap_init () at traps.c:182
+#1  0x000068aa in main () at main.c:130
+
+
