@@ -30,6 +30,17 @@ public class StatReader
 		}
 	}
 	
+	static int forReadleft(char[] buf, int i, final char cl, final char cr)
+	{
+		int left=1, right=0;
+		while(i<buf.length && left > right)
+		{
+			if(buf[i] == cl)left++;
+			else if(buf[i] == cr)right++;
+			i++;
+		}
+		return i;
+	}
 	public static void ReadSourceFile(File f)
 	{
 		//读取原代码的信息
@@ -48,69 +59,74 @@ public class StatReader
 			int last = 0;
 			while(i<buf.length)
 			{
-				if(i+1<buf.length && buf[i] == '/' && buf[i+1] == '*')
+				switch(buf[i])
 				{
-					while(i+1<=buf.length && (buf[i] != '*' || buf[i+1] !='/'))
-					{
-						i++;
-					}
-					i += 2;
+				case '#':
+					while(i<buf.length && buf[i] != '\n')i++;
+					last = i+1;
+					break;
+				case '{':	
+					p2 = i++;
+					i=forReadleft(buf,i,'{','}');
+					for(p1=p2; p1>=last && buf[p1]!=';'; p1--);
+					for(;buf[p1]<'a' || buf[p1]>'z';p1++);
+					for(int j=p1;j<p2;j++)
+						System.out.print(buf[j]);
 					last = i;
-				}
-				else
-				{
-					switch(buf[i])
+					break;
+				case 'u':
+					//union
+					if(i+4<buf.length)
 					{
-					case '#':
-						while(i<buf.length && buf[i] != '\n')
+						if(buf[i+1]=='n' && buf[i+2]=='i' && buf[i+3]=='o' && buf[i+4]=='n')
 						{
-							i++;
+							while(i<buf.length && buf[i]!='{')i++;
+							i=forReadleft(buf,i+1,'{','}');
+							last = ++i;
 						}
-						last = i++;
-						break;
-					case '{':
-						left = 1;
-						p2 = i++;
-						while(i<buf.length && left > right)
-						{
-							if(buf[i] == '{')left++;
-							else if(buf[i] == '}')right++;
-							i++;
-						}
-						for(p1=p2; p1>=last && buf[p1]!=';'; p1--);
-						for(int j=p1+1;j<p2;j++)
-						{
-							System.out.print(buf[j]);
-						}
-						//System.out.print("p1" + buf[p1] + (buf[p1] == '\n'));
-						last = i;
-						
-						//{"int","static","void","struct","char","extern"};
-					default:
-						i++;
-						break;
+						else break;
 					}
-					//System.out.print(buf[i++]);
+					else break;
+				case 's':
+					if(i+5<buf.length)
+					{
+						if(buf[i+1]=='t' && buf[i+2]=='r' && buf[i+3]=='u' && buf[i+4]=='c' && buf[i+5]=='t')
+						{
+							while(i<buf.length && buf[i]!='{')i++;
+							i=forReadleft(buf,i+1,'{','}');
+							last = ++i;
+						}
+						else break;
+					}
+					else break;
+				case '(':
+					i=forReadleft(buf,i+1,'(',')');
+					break;
+				case 'e':
+					if(i+5<buf.length)
+					{
+						if(buf[i+1]=='x' && buf[i+2]=='t' && buf[i+3]=='e' && buf[i+4]=='r' && buf[i+5]=='n')
+						{
+							while(i<buf.length && buf[i]!=';')i++;
+							last = i+1;
+						}
+						else break;
+					}
+					break;
+				case '/':
+					if(i+1<buf.length && buf[i] == '/' && buf[i+1] == '*')
+					{
+						while(i+1<=buf.length && (buf[i] != '*' || buf[i+1] !='/'))i++;
+						i ++;
+						last = i+1;
+					}
+					break;
+				default:
+					break;
 				}
+				i++;
+				
 			}
-			//System.out.println(f.length());
-			//System.out.println(buf);
-			//String s = buf.toString()
-			/*String tp;
-			String[] cs = {"int","static","void","struct","char"};
-			
-			while((tp=br.readLine().trim()) != null)
-			{
-				if(tp.length() == 0)continue;
-				if(tp.charAt(0) == '#')continue;
-				for(String i:cs)
-				{
-					if(tp.startsWith(i))
-					{
-						
-					}
-				}
-			}*/
 			br.close();
 		}
 		catch(IOException e)
