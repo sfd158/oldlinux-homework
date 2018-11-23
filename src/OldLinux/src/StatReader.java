@@ -41,21 +41,22 @@ public class StatReader
 		}
 		return i;
 	}
-	public static void ReadSourceFile(File f)
+	
+	public static ArrayList<intPair> ReadSourceFile(File f)
 	{
 		//读取原代码的信息
 		//源代码是用{}配对的, 所以,,可以考虑逐个读入字符, 然后比较{}是否配对
-		if(f.getName().toLowerCase().equals("makefile"))
+		if(!f.getName().endsWith(".c"))
 		{
-			return;
+			return null;
 		}
+		ArrayList<intPair> arr = new ArrayList<>();
 		try
 		{
 			BufferedReader br = new BufferedReader(new FileReader(f));
 			char[] buf = new char[(int) f.length()];
 			br.read(buf);
 			int i = 0, p1 = 0, p2 = 0;
-			int left = 0, right = 0;
 			int last = 0;
 			while(i<buf.length)
 			{
@@ -68,49 +69,16 @@ public class StatReader
 				case '{':	
 					p2 = i++;
 					i=forReadleft(buf,i,'{','}');
-					for(p1=p2; p1>=last && buf[p1]!=';'; p1--);
-					for(;buf[p1]<'a' || buf[p1]>'z';p1++);
-					for(int j=p1;j<p2;j++)
-						System.out.print(buf[j]);
-					last = i;
-					break;
-				case 'u':
-					//union
-					if(i+4<buf.length)
+					while(i<buf.length && (buf[i]==' ' || buf[i] == '\r' || buf[i]=='\n' || buf[i]=='\t'))i++;
+					if(i>=buf.length)i=buf.length-1;
+					if(buf[i]!=';')
 					{
-						if(buf[i+1]=='n' && buf[i+2]=='i' && buf[i+3]=='o' && buf[i+4]=='n')
-						{
-							while(i<buf.length && buf[i]!='{')i++;
-							i=forReadleft(buf,i+1,'{','}');
-							last = ++i;
-						}
-						else break;
-					}
-					else break;
-				case 's':
-					if(i+5<buf.length)
-					{
-						if(buf[i+1]=='t' && buf[i+2]=='r' && buf[i+3]=='u' && buf[i+4]=='c' && buf[i+5]=='t')
-						{
-							while(i<buf.length && buf[i]!='{')i++;
-							i=forReadleft(buf,i+1,'{','}');
-							last = ++i;
-						}
-						else break;
-					}
-					else break;
-				case '(':
-					i=forReadleft(buf,i+1,'(',')');
-					break;
-				case 'e':
-					if(i+5<buf.length)
-					{
-						if(buf[i+1]=='x' && buf[i+2]=='t' && buf[i+3]=='e' && buf[i+4]=='r' && buf[i+5]=='n')
-						{
-							while(i<buf.length && buf[i]!=';')i++;
-							last = i+1;
-						}
-						else break;
+						for(p1=p2; p1>=last && buf[p1]!=';'; p1--);
+						for(;buf[p1]<'a' || buf[p1]>'z';p1++);
+						for(int j=p1;j<p2;j++)
+							System.out.print(buf[j]);
+						arr.add(new intPair(p1,p2));
+						last = --i;
 					}
 					break;
 				case '/':
@@ -125,14 +93,14 @@ public class StatReader
 					break;
 				}
 				i++;
-				
 			}
 			br.close();
 		}
 		catch(IOException e)
 		{
-			
+			e.printStackTrace();
 		}
+		return arr;
 	}
 	public static ArrayList<ArrayList<callMessage>> ReadLogFile(File f)
 	{
