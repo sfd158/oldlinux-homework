@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh">
 <head>
 <meta charset="UTF-8">
 <title>操作系统课程设计</title>
@@ -9,7 +9,36 @@
 <link rel="stylesheet" href="RightWindowDropDown.css" type="text/css" />
 <link rel="stylesheet" href="myfiletree.css" type="text/css" />
 <script src="jquery-3.3.1.js"></script>
+<script>
+	var src = {};
+	$(document).ready(
+		function()
+		{
+			$("div#bootWord").click(
+			function()
+			{
+				$("div#bootComponent").toggle();
+			}
+			);
 
+			$("div#fsWord").click(
+			function ()
+			{
+				$("div#fsComponent").toggle();
+			}
+			);
+
+			$("div#includeWord").click(
+			function ()
+			{
+				$("div#includeComponent").toggle();
+			}
+			);
+
+
+		}
+	);
+</script>
 </head>
 <body>
 	<header>
@@ -25,59 +54,252 @@
 	<div id="myMainBody">
 		<div id="myFileAndMemory">
 			<div id="myFile">
-				<div id="linuxSrcFolderDiv" class="myFileFolders" style="width:50px; float:left;">
-					<div class="myFolderType" id="linuxSrcFolder">
-						<img src="img/linux.png"/>
-						<div class="myFolderName">
-							<span>linux<br/>0.11</span>
+				<div id="fileList">
+					<div id="srcList">
+						<div class="ListFolder" id="linux0.11">
+							<div id="linux0.11Word" class="List0">
+								<img src="img/linuxicon.png" class="ListPng" alt="Linux:"/>
+								<a class="fileName">linux 0.11</a>
+							</div>
+							<div id="linux0.11Component" class="ListComponent0">
+								<div class="ListFolder" id="boot">
+									<div id="bootWord" class="List1">
+										<img src="img/folder.png" class="ListPng" alt="folder:"/>
+										<a class="fileName">boot</a>
+									</div>
+									<div id="bootComponent" class="ListComponent1">
+										<div class="List2 ListS" id="bootsect.s">
+											<img src="img/assmble.png" class="ListPng" alt="asm:"/>
+											<a class="fileName">bootsect.s</a>
+										</div>
+										<div class="List2" id="head.s">
+											<img src="img/assmble.png" class="ListPng" alt="asm:"/>
+											<a class="fileName">head.s</a>
+										</div>
+										<div class="List2" id="setup.s">
+											<img src="img/assmble.png" class="ListPng" alt="asm:"/>
+											<a class="fileName">setup.s</a>
+										</div>
+									</div>
+								</div>
+								<div class="ListFolder" id="fs">
+									<div class="List1" id="fsWord">
+										<img src="img/folder.png" class="ListPng" alt="asm:"/>
+										<a class="fileName">fs</a>
+									</div>
+									<div id="fsComponent" class="ListComponent1">
+										<div class="List2 ListC" id="bitmap.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">bitmap.c</a>
+										</div>
+										<div class="List2 ListC" id="block_dev.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">block_dev.c</a>
+										</div>
+										<div class="List2 ListC" id="buffer.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">buffer.c</a>
+										</div>
+										<div class="List2 ListC" id="char_dev.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">char_dev.c</a>
+										</div>
+										<div class="List2 ListC" id="exec.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">exec.c</a>
+										</div>
+										<div class="List2 ListC" id="fcntl.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">fcntl.c</a>
+										</div>
+										<div class="List2 ListC" id="file_dev.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">file_dev.c</a>
+										</div>
+										<div class="List2 ListC" id="file_table.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">file_table.c</a>
+										</div>
+										<div class="List2 ListC" id="inode.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">inode.c</a>
+										</div>
+										<div class="List2 ListC" id="namei.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">namei.c</a>
+										</div>
+										<div class="List2 ListC" id="open.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">open.c</a>
+										</div>
+										<div class="List2 ListC" id="pipe.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">pipe.c</a>
+										</div>
+										<div class="List2 ListC" id="read_write.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">read_write.c</a>
+										</div>
+										<div class="List2 ListC" id="stat.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">stat.c</a>
+										</div>
+										<div class="List2 ListC" id="super.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">super.c</a>
+										</div>
+										<div class="List2 ListC" id="truncate.c">
+											<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
+											<a class="fileName">truncate.c</a>
+										</div>
+									</div>
+								</div>
+								<div class="ListFolder" id="include">
+									<div id="includeWord" class="List1">
+										<img src="img/folder.png" class="ListPng" alt="folder:"/>
+										<a class="fileName">include</a>
+									</div>
+									<div id="includeComponent" class="ListComponent1">
+										<div id="asm" class="ListFolder">
+											<div id="asmWord" class="List2 ListFolder">
+												<img src="img/folder.png" class="ListPng" alt="hfile:"/>
+												<a class="fileName">asm</a>
+											</div>
+											<div id="asmComponent" class="ListComponent2">
+												<div id="io.h" class="List3 ListH">
+													<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
+													<a class="fileName">io.h</a>
+												</div>
+												<div id="memory.h" class="List3 ListH">
+													<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
+													<a class="fileName">memory.h</a>
+												</div>
+												<div id="segment.h" class="List3 ListH">
+													<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
+													<a class="fileName">segment.h</a>
+												</div>
+												<div id="system.h" class="List3 ListH">
+													<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
+													<a class="fileName">system.h</a>
+												</div>
+											</div>
+										</div>
+										<div id="linux" class="ListFolder">
+											<div id="linuxWord" class="List2 ListFolder">
+												<a class="fileName">linux</a>
+											</div>
+											<div id="linuxComponent" class="ListComponent2">
+												<div id="config.h" class="List3 ListH">
+													<a>config.h</a>
+												</div>
+												<div id="fdreg.h" class="List3 ListH">
+													<a>fdreg.h</a>
+												</div>
+												<div id="fs.h" class="List3 ListH">
+													<a>fs.h</a>
+												</div>
+												<div id="hdreg.h" class="List3 ListH">
+													<a>hdreg.h</a>
+												</div>
+												<div id="head.h" class="List3 ListH">
+													<a>head.h</a>
+												</div>
+												<div id="kernel.h" class="List3 ListH">
+													<a>kernel.h</a>
+												</div>
+												<div id="mm.h" class="List3 ListH">
+													<a>mm.h</a>
+												</div>
+												<div id="sched.h" class="List3 ListH">
+													<a>sched.h</a>
+												</div>
+												<div id="sys.h" class="List3 ListH">
+													<a>sys.h</a>
+												</div>
+												<div id="tty.h" class="List3 ListH">
+													<a>tty.h</a>
+												</div>
+											</div>
+										</div>
+										<div id="sys" class="ListFolder">
+											<div class="List2" id="sysWord">
+												<a>sys</a>
+											</div>
+											<div id="sysComponent" class="ListComponent2">
+												<div id="stat.h" class="List3 ListH">
+													<a>stat.h</a>
+												</div>
+												<div id="times.h" class="List3 ListH">
+													<a>times.h</a>
+												</div>
+												<div id="types.h" class="List3 ListH">
+													<a>types.h</a>
+												</div>
+												<div id="utsname.h" class="List3 ListH">
+													<a>utsname.h</a>
+												</div>
+												<div id="wait.h" class="List3 ListH">
+													<a>wait.h</a>
+												</div>
+											</div>
+										</div>
+										<div id="a.out.h" class="List2 ListH">
+											<a>a.out.h</a>
+										</div>
+										<div id="const.h" class="List2 ListH">
+											<a>const.h</a>
+										</div>
+										<div id="ctype.h" class="List2 ListH">
+											<a>ctype.h</a>
+										</div>
+										<div id="errno.h" class="List2 ListH">
+											<a>errno.h</a>
+										</div>
+										<div id="fcntl.h" class="List2 ListH">
+											<a>fcntl.h</a>
+										</div>
+										<div id="signal.h" class="List2 ListH">
+											<a>signal.h</a>
+										</div>
+										<div id="stdarg.h" class="List2 ListH">
+											<a>stdarg.h</a>
+										</div>
+										<div id="stddef.h" class="List2 ListH">
+											<a>stddef.h</a>
+										</div>
+										<div id="string.h" class="List2 ListH">
+											<a>string.h</a>
+										</div>
+										<div id="termios.h" class="List2 ListH">
+											<a>termios.h</a>
+										</div>
+										<div id="time.h" class="List2 ListH">
+											<a>time.h</a>
+										</div>
+										<div id="unistd.h" class="List2 ListH">
+											<a>unistd.h</a>
+										</div>
+										<div id="utime.h" class="List2 ListH">
+											<a>utime.h</a>
+										</div>
+									</div>
+								</div>
+								<div class="ListFolder" id="init">
+									<div class="List1" id="initName">
+										<a>init</a>
+									</div>
+									<div id="initComponent" class="ListComponent1">
+
+									</div>
+								</div>
+							</div>
 						</div>
+					</div>
+
+					<div id="srcSubstance">
+
 					</div>
 				</div>
-				<div id="linuxSrcFolderDiv" class="myFileFolders" style="width:80px; margin-left:50px;">
-					<div class="myFolderType">
-						<img src="img/folder.png"/>
-						<div class="myFolderName">
-							<span>boot</span>
-						</div>
-					</div>
-					<div class="myFolderType">
-						<img src="img/folder.png"/>
-						<div class="myFolderName">
-							<span>fs</span>
-						</div>
-					</div>
-					<div class="myFolderType">
-						<img src="img/folder.png"/>
-						<div class="myFolderName">
-							<span>include</span>
-						</div>
-					</div>
-					<div class="myFolderType">
-						<img src="img/folder.png"/>
-						<div class="myFolderName">
-							<span>init</span>
-						</div>
-					</div>
-					<div class="myFolderType">
-						<img src="img/folder.png"/>
-						<div class="myFolderName">
-							<span>kernel</span>
-						</div>
-					</div>
-					<div class="myFolderType">
-						<img src="img/folder.png"/>
-						<div class="myFolderName">
-							<span>lib</span>
-						</div>
-					</div>
-					<div class="myFolderType">
-						<img src="img/folder.png"/>
-						<div class="myFolderName">
-							<span>mm</span>
-						</div>
-					</div>
-				</div>
-				
 			</div>
 			<div id="myMemory">
 				<header>
@@ -167,24 +389,21 @@
 					</div>
 				</header>
 				<div id="myScreenWindowOutput">
-					<ul>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-						<li class="myConsoleItem">This is a Console output.</li>
-					</ul>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
+					<p class="myConsoleItem">This is a console output.</p>
 				</div>
 			</div>
 		</div>
