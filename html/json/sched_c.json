@@ -1,0 +1,27 @@
+{
+  "file":"sched.c",
+  "function":[{"type":"void","name":"show_task","startline":25,"spanline":9,"para":[{"paraType":"int", "paraName":"nr"}, {"paraType":"struct task_struct *", "paraName":"p"}]},
+    {"type":"void","name":"show_stat","startline":36,"spanline":7,"para":[]},
+    {"type":"void","name":"math_state_restore","startline":76,"spanline":15,"para":[]},
+    {"type":"void","name":"schedule","startline":103,"spanline":38,"para":[]},
+    {"type":"int","name":"sys_pause","startline":143,"spanline":5,"para":[]},
+    {"type":"void","name":"sleep_on","startline":150,"spanline":15,"para":[{"paraType":"struct task_struct **", "paraName":"p"}]},
+    {"type":"void","name":"interruptible_sleep_on","startline":167,"spanline":19,"para":[{"paraType":"struct task_struct **", "paraName":"p"}]},
+    {"type":"void","name":"wake_up","startline":188,"spanline":6,"para":[{"paraType":"struct task_struct **", "paraName":"p"}]},
+    {"type":"int","name":"ticks_to_floppy_on","startline":206,"spanline":24,"para":[{"paraType":"unsigned int", "paraName":"nr"}]},
+    {"type":"void","name":"floppy_on","startline":232,"spanline":6,"para":[{"paraType":"unsigned int", "paraName":"nr"}]},
+    {"type":"void","name":"floppy_off","startline":240,"spanline":3,"para":[{"paraType":"unsigned int", "paraName":"nr"}]},
+    {"type":"void","name":"do_floppy_timer","startline":245,"spanline":17,"para":[]},
+    {"type":"void","name":"add_timer","startline":272,"spanline":31,"para":[{"paraType":"long", "paraName":"jiffies"}, {"paraType":"function pointer", "paraName":"fn"}]},
+    {"type":"void","name":"do_timer","startline":305,"spanline":31,"para":[{"paraType":"long", "paraName":"cpl"}]},
+    {"type":"int","name":"sys_alarm","startline":338,"spanline":8,"para":[{"paraType":"long", "paraName":"seconds"}]},
+    {"type":"int","name":"sys_getpid","startline":348,"spanline":3,"para":[]},
+    {"type":"int","name":"sys_getppid","startline":353,"spanline":3,"para":[]},
+    {"type":"int","name":"sys_getuid","startline":358,"spanline":3,"para":[]},
+    {"type":"int","name":"sys_geteuid","startline":363,"spanline":3,"para":[]},
+    {"type":"int","name":"sys_getgid","startline":368,"spanline":3,"para":[]},
+    {"type":"int","name":"sys_getegid","startline":373,"spanline":3,"para":[]},
+    {"type":"int","name":"sys_nice","startline":378,"spanline":5,"para":[{"paraType":"long", "paraName":"increment"}]},
+    {"type":"void","name":"sched_init","startline":385,"spanline":27,"para":[]}
+  ]
+}

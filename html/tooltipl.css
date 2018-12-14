@@ -1,41 +1,43 @@
-.tooltip {
+.tooltipl {
     position: relative;
     display: inline-block;
-	float: left;
+    font-size: 12px;
 }
 
-.tooltip .tooltiptext {
+.tooltipl .tooltiptextl {
     visibility: hidden;
-    width: 120px;
-    background-color: black;
+    width: 150px;
+    background-color: lightyellow;
+    border: 0.5px black solid;
     color: #fff;
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;
-    
+
     /* 定位 */
     position: absolute;
     z-index: 1;
     top: 100%;
     left: 50%;
     margin-left: -60px;
+
 }
 
-.tooltip:hover .tooltiptext {
+.tooltipl:hover .tooltiptextl {
     visibility: visible;
 }
 
 
-.tooltipFile {
+.tooltipFilel {
     position: relative;
 }
 
-.tooltipFile .tooltiptextFile {
+.tooltipFilel .tooltiptextFilel {
     visibility: hidden;
     border: 1px orange solid;
     background-color: white;
 }
 
-.tooltipFile:hover .tooltiptextFile {
+.tooltipFilel:hover .tooltiptextFilel {
     visibility: visible;
 }

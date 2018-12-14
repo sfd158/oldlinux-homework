@@ -111,8 +111,10 @@ div#myScreenWindowOutput{
 }
 
 .myConsoleItem{
-	margin-left: -185px;
-	margin-top: -15px;
+	/*margin-left: -295px;*/
+	/*margin-top: -15px;*/
+	float:left;
+	text-align: left;
 	color: white;
 }
 
@@ -124,6 +126,7 @@ div#srcList{
 	font-size: 12px;
 	-webkit-user-select: none;
 	user-select: none;
+	float: left;
 }
 
 div.ListComponent0{
@@ -178,4 +181,46 @@ img.ListPng{
 	float: left;
 	margin-left: 2px;
 	margin-top: 1px;
+}
+
+div#memoryBar{
+	width: 400px;
+	height: 70px;
+	border: 1px black solid;
+	margin-top: 30px;
+	margin-left: 50px;
+	font-size: 15px;
+	-webkit-user-select: none;
+}
+
+span.funcType{
+	color: red;
+	margin-left: 8px;
+}
+
+span.funcName{
+	color: blue;
+	margin-left: 5px;
+}
+
+span.paraType{
+	color: red;
+}
+
+span.paraName{
+	color: blue;
+	margin-left: 2px;
+}
+
+div.srcFuncDef{
+	text-align: left;
+	border: 0.5px black solid;
+	margin-top: 1px;
+}
+
+div.srcCodePart{
+	text-align: left;
+	font-size: 12px;
+	/*border: 0.5px black solid;
+	margin-top: 1px;*/
 }
