@@ -1,0 +1,6 @@
+{
+  "file":"main.c",
+  "function":[{"type":" void","name":"time_init","startline":77,"spanline":20,"para":[]},
+    {"type":"int","name":"printf","startline":153,"spanline":9,"para":[{"paraType":"const char *", "paraName":"fmt"}, {"paraType":"", "paraName":"..."}]},
+    {"type":"void","name":"init","startline":170,"spanline":41,"para":[]}
+  ]}

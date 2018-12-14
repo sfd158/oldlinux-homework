@@ -1,0 +1,5 @@
+{
+  "file":"block_dev.c",
+  "function":[{"type":"int","name":"block_write","startline":13,"spanline":31,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"long *", "paraName":"pos"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}]},
+    {"type":"int","name":"block_read","startline":46,"spanline":26,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"unsigned long *", "paraName":"pos"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}]}
+  ]}

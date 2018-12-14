@@ -1,0 +1,21 @@
+{
+  "file":"traps.c",
+  "function":[{"type":" void","name":"die","startline":62,"spanline":22,"para":[{"paraType":"char *", "paraName":"str"}, {"paraType":"long", "paraName":"esp_ptr"}, {"paraType":"long", "paraName":"nr"}]},
+    {"type":"void","name":"do_double_fault","startline":86,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+    {"type":"void","name":"do_general_protection","startline":91,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+    {"type":"void","name":"do_divide_error","startline":96,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+    {"type":"void","name":"do_int3","startline":101,"spanline":15,"para":[{"paraType":"long *", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}, {"paraType":"long", "paraName":"fs"}, {"paraType":"long", "paraName":"es"}, {"paraType":"long", "paraName":"ds"}, {"paraType":"long", "paraName":"ebp"}, {"paraType":"long", "paraName":"esi"}, {"paraType":"long", "paraName":"edi"}, {"paraType":"long", "paraName":"edx"}, {"paraType":"long", "paraName":"ecx"}, {"paraType":"long", "paraName":"ebx"}, {"paraType":"long", "paraName":"eax"}]},
+      {"type":"void","name":"do_nmi","startline":118,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_debug","startline":123,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_overflow","startline":128,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_bounds","startline":133,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_invalid_op","startline":138,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_device_not_available","startline":143,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_coprocessor_segment_overrun","startline":148,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_invalid_TSS","startline":153,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_segment_not_present","startline":158,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_stack_segment","startline":163,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_coprocessor_error","startline":168,"spanline":5,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"do_reserved","startline":175,"spanline":3,"para":[{"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"error_code"}]},
+      {"type":"void","name":"trap_init","startline":180,"spanline":27,"para":[]}
+    ]}

@@ -1,0 +1,21 @@
+{
+  "file":"floppy.c",
+  "function":[{"type":"void","name":"floppy_deselect","startline":124,"spanline":6,"para":[{"paraType":"unsigned int", "paraName":"nr"}]},
+    {"type":"int","name":"floppy_change","startline":138,"spanline":14,"para":[{"paraType":"unsigned int", "paraName":"nr"}]},
+    {"type":"void","name":"setup_DMA","startline":159,"spanline":32,"para":[]},
+    {"type":" void","name":"output_byte","startline":193,"spanline":16,"para":[{"paraType":"char", "paraName":"byte"}]},
+    {"type":" int","name":"result","startline":211,"spanline":19,"para":[]},
+    {"type":" void","name":"bad_flp_intr","startline":232,"spanline":11,"para":[]},
+    {"type":" void","name":"rw_interrupt","startline":249,"spanline":17,"para":[]},
+    {"type":" inline void","name":"setup_rw_floppy","startline":268,"spanline":15,"para":[]},
+    {"type":" void","name":"seek_interrupt","startline":290,"spanline":11,"para":[]},
+    {"type":" void","name":"transfer","startline":308,"spanline":29,"para":[]},
+    {"type":" void","name":"recal_interrupt","startline":342,"spanline":8,"para":[]},
+    {"type":"void","name":"unexpected_floppy_interrupt","startline":352,"spanline":7,"para":[]},
+    {"type":" void","name":"recalibrate_floppy","startline":361,"spanline":10,"para":[]},
+    {"type":" void","name":"reset_interrupt","startline":373,"spanline":8,"para":[]},
+    {"type":" void","name":"reset_floppy","startline":386,"spanline":16,"para":[]},
+    {"type":" void","name":"floppy_on_interrupt","startline":404,"spanline":11,"para":[]},
+    {"type":"void","name":"do_fd_request","startline":417,"spanline":38,"para":[]},
+    {"type":"void","name":"floppy_init","startline":457,"spanline":5,"para":[]}
+  ]}

@@ -1,0 +1,6 @@
+{
+  "file":"read_write.c",
+  "function":[{"type":"int","name":"sys_lseek","startline":24,"spanline":28,"para":[{"paraType":"unsigned int", "paraName":"fd"}, {"paraType":"off_t", "paraName":"offset"}, {"paraType":"int", "paraName":"origin"}]},
+    {"type":"int","name":"sys_read","startline":54,"spanline":26,"para":[{"paraType":"unsigned int", "paraName":"fd"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}]},
+    {"type":"int","name":"sys_write","startline":82,"spanline":20,"para":[{"paraType":"unsigned int", "paraName":"fd"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}]}
+  ]}

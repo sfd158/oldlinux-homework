@@ -1,0 +1,9 @@
+{
+  "file":"ll_rw_blk.c",
+  "function":[{"type":" inline void","name":"lock_buffer","startline":41,"spanline":7,"para":[{"paraType":"struct buffer_head *", "paraName":"bh"}]},
+    {"type":" inline void","name":"unlock_buffer","startline":50,"spanline":6,"para":[{"paraType":"struct buffer_head *", "paraName":"bh"}]},
+    {"type":" void","name":"add_request","startline":63,"spanline":22,"para":[{"paraType":"struct blk_dev_struct *", "paraName":"dev"}, {"paraType":"struct request *", "paraName":"req"}]},
+    {"type":" void","name":"make_request","startline":87,"spanline":55,"para":[{"paraType":"int", "paraName":"major"}, {"paraType":"int", "paraName":"rw"}, {"paraType":"struct buffer_head *", "paraName":"bh"}]},
+    {"type":"void","name":"ll_rw_block","startline":144,"spanline":10,"para":[{"paraType":"int", "paraName":"rw"}, {"paraType":"struct buffer_head *", "paraName":"bh"}]},
+    {"type":"void","name":"blk_dev_init","startline":156,"spanline":8,"para":[]}
+  ]}

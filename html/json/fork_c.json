@@ -1,0 +1,7 @@
+{
+  "file":"fork.c",
+  "function":[{"type":"void","name":"verify_area","startline":24,"spanline":13,"para":[{"paraType":"void *", "paraName":"addr"}, {"paraType":"int", "paraName":"size"}]},
+    {"type":"int","name":"copy_mem","startline":39,"spanline":23,"para":[{"paraType":"int", "paraName":"nr"}, {"paraType":"struct task_struct *", "paraName":"p"}]},
+    {"type":"int","name":"copy_process","startline":69,"spanline":68,"para":[{"paraType":"int", "paraName":"nr"}, {"paraType":"long", "paraName":"ebp"}, {"paraType":"long", "paraName":"edi"}, {"paraType":"long", "paraName":"esi"}, {"paraType":"long", "paraName":"gs"}, {"paraType":"long", "paraName":"none"}, {"paraType":"long", "paraName":"ebx"}, {"paraType":"long", "paraName":"ecx"}, {"paraType":"long", "paraName":"edx"}, {"paraType":"long", "paraName":"fs"}, {"paraType":"long", "paraName":"es"}, {"paraType":"long", "paraName":"ds"}, {"paraType":"long", "paraName":"eip"}, {"paraType":"long", "paraName":"cs"}, {"paraType":"long", "paraName":"eflags"}, {"paraType":"long", "paraName":"esp"}, {"paraType":"long", "paraName":"ss"}]},
+      {"type":"int","name":"find_empty_process","startline":139,"spanline":12,"para":[]}
+    ]}

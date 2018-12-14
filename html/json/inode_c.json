@@ -1,0 +1,17 @@
+{
+  "file":"inode.c",
+  "function":[{"type":" inline void","name":"wait_on_inode","startline":19,"spanline":6,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}]},
+    {"type":"inline void","name":"lock_inode","startline":27,"spanline":7,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}]},
+    {"type":"inline void","name":"unlock_inode","startline":36,"spanline":4,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}]},
+    {"type":"void","name":"invalidate_inodes","startline":42,"spanline":14,"para":[{"paraType":"int", "paraName":"dev"}]},
+    {"type":"void","name":"sync_inodes","startline":58,"spanline":11,"para":[]},
+    {"type":"int","name":"_bmap","startline":71,"spanline":66,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}, {"paraType":"int", "paraName":"block"}, {"paraType":"int", "paraName":"create"}]},
+    {"type":"int","name":"bmap","startline":139,"spanline":3,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}, {"paraType":"int", "paraName":"block"}]},
+    {"type":"int","name":"create_block","startline":144,"spanline":3,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}, {"paraType":"int", "paraName":"block"}]},
+    {"type":"void","name":"iput","startline":149,"spanline":42,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}]},
+    {"type":"struct m_inode *","name":"get_empty_inode","startline":193,"spanline":32,"para":[]},
+    {"type":"struct m_inode *","name":"get_pipe_inode","startline":227,"spanline":14,"para":[]},
+    {"type":"struct m_inode *","name":"iget","startline":243,"spanline":48,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"nr"}]},
+    {"type":"void","name":"read_inode","startline":293,"spanline":18,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}]},
+    {"type":"void","name":"write_inode","startline":313,"spanline":24,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}]}
+  ]}

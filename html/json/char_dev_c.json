@@ -1,0 +1,11 @@
+{
+  "file":"char_dev.c",
+  "function":[{"type":" int","name":"rw_ttyx","startline":20,"spanline":4,"para":[{"paraType":"int", "paraName":"rw"}, {"paraType":"unsigned", "paraName":"minor"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}, {"paraType":"off_t *", "paraName":"pos"}]},
+    {"type":"int","name":"rw_tty","startline":26,"spanline":5,"para":[{"paraType":"int", "paraName":"rw"}, {"paraType":"unsigned", "paraName":"minor"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}, {"paraType":"off_t *", "paraName":"pos"}]},
+    {"type":"int","name":"rw_ram","startline":33,"spanline":3,"para":[{"paraType":"int", "paraName":"rw"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}, {"paraType":"off_t *", "paraName":"pos"}]},
+    {"type":"int","name":"rw_mem","startline":38,"spanline":3,"para":[{"paraType":"int", "paraName":"rw"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}, {"paraType":"off_t *", "paraName":"pos"}]},
+    {"type":"int","name":"rw_kmem","startline":43,"spanline":3,"para":[{"paraType":"int", "paraName":"rw"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}, {"paraType":"off_t *", "paraName":"pos"}]},
+    {"type":"int","name":"rw_port","startline":48,"spanline":14,"para":[{"paraType":"int", "paraName":"rw"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}, {"paraType":"off_t *", "paraName":"pos"}]},
+    {"type":"int","name":"rw_memory","startline":64,"spanline":16,"para":[{"paraType":"int", "paraName":"rw"}, {"paraType":"unsigned", "paraName":"minor"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}, {"paraType":"off_t *", "paraName":"pos"}]},
+    {"type":"int","name":"rw_char","startline":94,"spanline":9,"para":[{"paraType":"int", "paraName":"rw"}, {"paraType":"int", "paraName":"dev"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}, {"paraType":"off_t *", "paraName":"pos"}]}
+  ]}

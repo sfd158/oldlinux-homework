@@ -1,0 +1,4 @@
+{
+  "file":"panic.c",
+  "function":[{"type":"void","name":"panic","startline":17,"spanline":8,"para":[{"paraType":"const char *", "paraName":"s"}]}
+  ]}

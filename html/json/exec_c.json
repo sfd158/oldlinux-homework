@@ -1,0 +1,8 @@
+{
+  "file":"exec.c",
+  "function":[{"type":"unsigned long *","name":"create_tables","startline":45,"spanline":24,"para":[{"paraType":"char *", "paraName":"p"}, {"paraType":"int", "paraName":"argc"}, {"paraType":"int", "paraName":"envc"}]},
+    {"type":"int","name":"count","startline":74,"spanline":10,"para":[{"paraType":"char **", "paraName":"argv"}]},
+    {"type":"unsigned long","name":"copy_strings","startline":103,"spanline":48,"para":[{"paraType":"int", "paraName":"argc"}, {"paraType":"char **", "paraName":"argv"}, {"paraType":"unsigned long *", "paraName":"page"}, {"paraType":"unsigned long", "paraName":"p"}, {"paraType":"int", "paraName":"from_kmem"}]},
+      {"type":"unsigned long","name":"change_ldt","startline":153,"spanline":23,"para":[{"paraType":"unsigned long", "paraName":"text_size"}, {"paraType":"unsigned long *", "paraName":"page"}]},
+      {"type":"int","name":"do_execve","startline":181,"spanline":173,"para":[{"paraType":"unsigned long *", "paraName":"eip"}, {"paraType":"long", "paraName":"tmp"}, {"paraType":"char *", "paraName":"filename"}, {"paraType":"char **", "paraName":"argv"}, {"paraType":"char **", "paraName":"envp"}]}
+      ]}

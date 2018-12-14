@@ -1,0 +1,6 @@
+{
+  "file":"pipe.c",
+  "function":[{"type":"int","name":"read_pipe","startline":12,"spanline":26,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}]},
+    {"type":"int","name":"write_pipe","startline":40,"spanline":28,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}]},
+    {"type":"int","name":"sys_pipe","startline":70,"spanline":40,"para":[{"paraType":"unsigned long *", "paraName":"fildes"}]}
+  ]}

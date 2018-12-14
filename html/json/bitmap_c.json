@@ -1,0 +1,7 @@
+{
+  "file":"bitmap.c",
+  "function":[{"type":"void","name":"free_block","startline":46,"spanline":26,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"block"}]},
+    {"type":"int","name":"new_block","startline":74,"spanline":30,"para":[{"paraType":"int", "paraName":"dev"}]},
+    {"type":"void","name":"free_inode","startline":106,"spanline":27,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}]},
+    {"type":"struct m_inode *","name":"new_inode","startline":135,"spanline":32,"para":[{"paraType":"int", "paraName":"dev"}]}
+  ]}

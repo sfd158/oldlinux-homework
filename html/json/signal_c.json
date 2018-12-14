@@ -1,0 +1,10 @@
+{
+  "file":"signal.c",
+  "function":[{"type":"int","name":"sys_sgetmask","startline":14,"spanline":3,"para":[]},
+    {"type":"int","name":"sys_ssetmask","startline":19,"spanline":6,"para":[{"paraType":"int", "paraName":"newmask"}]},
+    {"type":" inline void","name":"save_old","startline":27,"spanline":10,"para":[{"paraType":"char *", "paraName":"from"}, {"paraType":"char *", "paraName":"to"}]},
+    {"type":" inline void","name":"get_new","startline":39,"spanline":6,"para":[{"paraType":"char *", "paraName":"from"}, {"paraType":"char *", "paraName":"to"}]},
+    {"type":"int","name":"sys_signal","startline":47,"spanline":13,"para":[{"paraType":"int", "paraName":"signum"}, {"paraType":"long", "paraName":"handler"}, {"paraType":"long", "paraName":"restorer"}]},
+    {"type":"int","name":"sys_sigaction","startline":62,"spanline":17,"para":[{"paraType":"int", "paraName":"signum"}, {"paraType":"const struct sigaction *", "paraName":"action"}, {"paraType":"struct sigaction *", "paraName":"oldaction"}]},
+      {"type":"void","name":"do_signal","startline":81,"spanline":37,"para":[{"paraType":"long", "paraName":"signr"}, {"paraType":"long", "paraName":"eax"}, {"paraType":"long", "paraName":"ebx"}, {"paraType":"long", "paraName":"ecx"}, {"paraType":"long", "paraName":"edx"}, {"paraType":"long", "paraName":"fs"}, {"paraType":"long", "paraName":"es"}, {"paraType":"long", "paraName":"ds"}, {"paraType":"long", "paraName":"eip"}, {"paraType":"long", "paraName":"cs"}, {"paraType":"long", "paraName":"eflags"}, {"paraType":"unsigned long *", "paraName":"esp"}, {"paraType":"long", "paraName":"ss"}]}
+      ]}

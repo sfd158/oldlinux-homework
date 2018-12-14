@@ -1,0 +1,6 @@
+{
+  "file":"serial.c",
+  "function":[{"type":" void","name":"init","startline":25,"spanline":9,"para":[{"paraType":"int", "paraName":"port"}]},
+    {"type":"void","name":"rs_init","startline":36,"spanline":7,"para":[]},
+    {"type":"void","name":"rs_write","startline":52,"spanline":6,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}]}
+  ]}

@@ -1,0 +1,5 @@
+{
+  "file":"math_emulate.c",
+  "function":[{"type":"void","name":"math_emulate","startline":17,"spanline":17,"para":[{"paraType":"long", "paraName":"edi"}, {"paraType":"long", "paraName":"esi"}, {"paraType":"long", "paraName":"ebp"}, {"paraType":"long", "paraName":"sys_call_ret"}, {"paraType":"long", "paraName":"eax"}, {"paraType":"long", "paraName":"ebx"}, {"paraType":"long", "paraName":"ecx"}, {"paraType":"long", "paraName":"edx"}, {"paraType":"unsigned short", "paraName":"fs"}, {"paraType":"unsigned short", "paraName":"es"}, {"paraType":"unsigned short", "paraName":"ds"}, {"paraType":"unsigned long", "paraName":"eip"}, {"paraType":"unsigned short", "paraName":"cs"}, {"paraType":"unsigned long", "paraName":"eflags"}, {"paraType":"unsigned short", "paraName":"ss"}, {"paraType":"unsigned long", "paraName":"esp"}]},
+    {"type":"void","name":"math_error","startline":36,"spanline":5,"para":[]}
+  ]}

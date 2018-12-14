@@ -1,0 +1,13 @@
+{
+  "file":"tty_io.c",
+  "function":[{"type":"void","name":"tty_init","startline":104,"spanline":4,"para":[]},
+    {"type":"void","name":"tty_intr","startline":110,"spanline":9,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}, {"paraType":"int", "paraName":"mask"}]},
+    {"type":" void","name":"sleep_if_empty","startline":121,"spanline":6,"para":[{"paraType":"struct tty_queue *", "paraName":"queue"}]},
+    {"type":" void","name":"sleep_if_full","startline":129,"spanline":8,"para":[{"paraType":"struct tty_queue *", "paraName":"queue"}]},
+    {"type":"void","name":"wait_for_keypress","startline":139,"spanline":3,"para":[]},
+    {"type":"void","name":"copy_to_cooked","startline":144,"spanline":83,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}]},
+    {"type":"int","name":"tty_read","startline":229,"spanline":59,"para":[{"paraType":"unsigned", "paraName":"channel"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"nr"}]},
+    {"type":"int","name":"tty_write","startline":290,"spanline":36,"para":[{"paraType":"unsigned", "paraName":"channel"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"nr"}]},
+    {"type":"void","name":"do_tty_interrupt","startline":342,"spanline":3,"para":[{"paraType":"int", "paraName":"tty"}]},
+    {"type":"void","name":"chr_dev_init","startline":347,"spanline":2,"para":[]}
+  ]}

@@ -1,0 +1,17 @@
+{
+  "file":"namei.c",
+  "function":[{"type":" int","name":"permission","startline":39,"spanline":14,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}, {"paraType":"int", "paraName":"mask"}]},
+    {"type":" int","name":"match","startline":62,"spanline":15,"para":[{"paraType":"int", "paraName":"len"}, {"paraType":"const char *", "paraName":"name"}, {"paraType":"struct dir_entry *", "paraName":"de"}]},
+    {"type":" struct buffer_head *","name":"find_entry","startline":90,"spanline":62,"para":[{"paraType":"struct m_inode **", "paraName":"dir"}, {"paraType":"const char *", "paraName":"name"}, {"paraType":"int", "paraName":"namelen"}, {"paraType":"struct dir_entry **", "paraName":"res_dir"}]},
+      {"type":" struct buffer_head *","name":"add_entry","startline":164,"spanline":55,"para":[{"paraType":"struct m_inode *", "paraName":"dir"}, {"paraType":"const char *", "paraName":"name"}, {"paraType":"int", "paraName":"namelen"}, {"paraType":"struct dir_entry **", "paraName":"res_dir"}]},
+        {"type":" struct m_inode *","name":"get_dir","startline":227,"spanline":42,"para":[{"paraType":"const char *", "paraName":"pathname"}]},
+        {"type":" struct m_inode *","name":"dir_namei","startline":277,"spanline":16,"para":[{"paraType":"const char *", "paraName":"pathname"}, {"paraType":"int *", "paraName":"namelen"}, {"paraType":"const char **", "paraName":"name"}]},
+          {"type":"struct m_inode *","name":"namei","startline":302,"spanline":27,"para":[{"paraType":"const char *", "paraName":"pathname"}]},
+          {"type":"int","name":"open_namei","startline":336,"spanline":73,"para":[{"paraType":"const char *", "paraName":"pathname"}, {"paraType":"int", "paraName":"flag"}, {"paraType":"int", "paraName":"mode"}, {"paraType":"struct m_inode **", "paraName":"res_inode"}]},
+            {"type":"int","name":"sys_mknod","startline":411,"spanline":49,"para":[{"paraType":"const char *", "paraName":"filename"}, {"paraType":"int", "paraName":"mode"}, {"paraType":"int", "paraName":"dev"}]},
+            {"type":"int","name":"sys_mkdir","startline":462,"spanline":75,"para":[{"paraType":"const char *", "paraName":"pathname"}, {"paraType":"int", "paraName":"mode"}]},
+            {"type":" int","name":"empty_dir","startline":542,"spanline":42,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}]},
+            {"type":"int","name":"sys_rmdir","startline":586,"spanline":74,"para":[{"paraType":"const char *", "paraName":"name"}]},
+            {"type":"int","name":"sys_unlink","startline":662,"spanline":56,"para":[{"paraType":"const char *", "paraName":"name"}]},
+            {"type":"int","name":"sys_link","startline":720,"spanline":57,"para":[{"paraType":"const char *", "paraName":"oldname"}, {"paraType":"const char *", "paraName":"newname"}]}
+          ]}

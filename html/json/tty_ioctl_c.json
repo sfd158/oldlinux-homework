@@ -1,0 +1,12 @@
+{
+  "file":"tty_ioctl.c",
+  "function":[{"type":" void","name":"change_speed","startline":23,"spanline":13,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}]},
+    {"type":"void","name":"flush","startline":38,"spanline":5,"para":[{"paraType":"struct tty_queue *", "paraName":"queue"}]},
+    {"type":"void","name":"wait_until_sent","startline":45,"spanline":3,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}]},
+    {"type":"void","name":"send_break","startline":50,"spanline":3,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}]},
+    {"type":"int","name":"get_termios","startline":55,"spanline":8,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}, {"paraType":"struct termios *", "paraName":"termios"}]},
+    {"type":"int","name":"set_termios","startline":65,"spanline":8,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}, {"paraType":"struct termios *", "paraName":"termios"}]},
+    {"type":"int","name":"get_termio","startline":75,"spanline":16,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}, {"paraType":"struct termio *", "paraName":"termio"}]},
+    {"type":"int","name":"set_termio","startline":96,"spanline":16,"para":[{"paraType":"struct tty_struct *", "paraName":"tty"}, {"paraType":"struct termio *", "paraName":"termio"}]},
+    {"type":"int","name":"tty_ioctl","startline":114,"spanline":89,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"cmd"}, {"paraType":"int", "paraName":"arg"}]}
+  ]}

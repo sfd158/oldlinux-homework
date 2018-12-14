@@ -1,0 +1,6 @@
+{
+  "file":"truncate.c",
+  "function":[{"type":" void","name":"free_ind","startline":10,"spanline":16,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"block"}]},
+    {"type":" void","name":"free_dind","startline":28,"spanline":16,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"block"}]},
+    {"type":"void","name":"truncate","startline":46,"spanline":17,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}]}
+  ]}

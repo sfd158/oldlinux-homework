@@ -1,0 +1,4 @@
+{
+  "file":"ioctl.c",
+  "function":[{"type":"int","name":"sys_ioctl","startline":29,"spanline":16,"para":[{"paraType":"unsigned int", "paraName":"fd"}, {"paraType":"unsigned int", "paraName":"cmd"}, {"paraType":"unsigned long", "paraName":"arg"}]}
+  ]}

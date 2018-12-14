@@ -1,0 +1,12 @@
+{
+  "file":"super.c",
+  "function":[{"type":" void","name":"lock_super","startline":30,"spanline":7,"para":[{"paraType":"struct super_block *", "paraName":"sb"}]},
+    {"type":"void","name":"free_super","startline":39,"spanline":6,"para":[{"paraType":"struct super_block *", "paraName":"sb"}]},
+    {"type":"void","name":"wait_on_super","startline":47,"spanline":6,"para":[{"paraType":"struct super_block *", "paraName":"sb"}]},
+    {"type":"struct super_block *","name":"get_super","startline":55,"spanline":16,"para":[{"paraType":"int", "paraName":"dev"}]},
+    {"type":"void","name":"put_super","startline":73,"spanline":24,"para":[{"paraType":"int", "paraName":"dev"}]},
+    {"type":"struct super_block *","name":"read_super","startline":99,"spanline":65,"para":[{"paraType":"int", "paraName":"dev"}]},
+    {"type":"int","name":"sys_umount","startline":166,"spanline":31,"para":[{"paraType":"char *", "paraName":"dev_name"}]},
+    {"type":"int","name":"sys_mount","startline":199,"spanline":40,"para":[{"paraType":"char *", "paraName":"dev_name"}, {"paraType":"char *", "paraName":"dir_name"}, {"paraType":"int", "paraName":"rw_flag"}]},
+    {"type":"void","name":"mount_root","startline":241,"spanline":39,"para":[]}
+  ]}

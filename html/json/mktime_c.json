@@ -1,0 +1,4 @@
+{
+  "file":"mktime.c",
+  "function":[{"type":"long","name":"kernel_mktime","startline":40,"spanline":19,"para":[{"paraType":"struct tm *", "paraName":"tm"}]}
+  ]}

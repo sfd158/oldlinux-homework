@@ -1,0 +1,5 @@
+{
+  "file":"file_dev.c",
+  "function":[{"type":"int","name":"file_read","startline":16,"spanline":29,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}, {"paraType":"struct file *", "paraName":"filp"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}]},
+    {"type":"int","name":"file_write","startline":47,"spanline":42,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}, {"paraType":"struct file *", "paraName":"filp"}, {"paraType":"char *", "paraName":"buf"}, {"paraType":"int", "paraName":"count"}]}
+  ]}

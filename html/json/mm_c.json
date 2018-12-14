@@ -1,0 +1,18 @@
+{
+  "file":"memory.c",
+  "function":[{"type":"void","name":"oom","startline":32,"spanline":4,"para":[]},
+    {"type":"unsigned long","name":"get_free_page","startline":62,"spanline":20,"para":[]},
+    {"type":"void","name":"free_page","startline":88,"spanline":10,"para":[{"paraType":"unsigned long", "paraName":"addr"}]},
+    {"type":"int","name":"free_page_tables","startline":104,"spanline":26,"para":[{"paraType":"unsigned long", "paraName":"from"}, {"paraType":"unsigned long", "paraName":"size"}]},
+    {"type":"int","name":"copy_page_tables","startline":149,"spanline":39,"para":[{"paraType":"unsigned long", "paraName":"from"}, {"paraType":"unsigned long", "paraName":"to"}, {"paraType":"long", "paraName":"size"}]},
+    {"type":"unsigned long","name":"put_page","startline":196,"spanline":22,"para":[{"paraType":"unsigned long", "paraName":"page"}, {"paraType":"unsigned long", "paraName":"address"}]},
+    {"type":"void","name":"un_wp_page","startline":220,"spanline":17,"para":[{"paraType":"unsigned long *", "paraName":"table_entry"}]},
+    {"type":"void","name":"do_wp_page","startline":246,"spanline":12,"para":[{"paraType":"unsigned long", "paraName":"error_code"}, {"paraType":"unsigned long", "paraName":"address"}]},
+    {"type":"void","name":"write_verify","startline":260,"spanline":11,"para":[{"paraType":"unsigned long", "paraName":"address"}]},
+    {"type":"void","name":"get_empty_page","startline":273,"spanline":8,"para":[{"paraType":"unsigned long", "paraName":"address"}]},
+    {"type":"int","name":"try_to_share","startline":291,"spanline":43,"para":[{"paraType":"unsigned long", "paraName":"address"}, {"paraType":"struct task_struct *", "paraName":"p"}]},
+    {"type":"int","name":"share_page","startline":344,"spanline":19,"para":[{"paraType":"unsigned long", "paraName":"address"}]},
+    {"type":"void","name":"do_no_page","startline":365,"spanline":32,"para":[{"paraType":"unsigned long", "paraName":"error_code"}, {"paraType":"unsigned long", "paraName":"address"}]},
+    {"type":"void","name":"mem_init","startline":399,"spanline":12,"para":[{"paraType":"long", "paraName":"start_mem"}, {"paraType":"long", "paraName":"end_mem"}]},
+    {"type":"void","name":"calc_mem","startline":413,"spanline":17,"para":[]}
+  ]}

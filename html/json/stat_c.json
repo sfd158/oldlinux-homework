@@ -1,0 +1,6 @@
+{
+  "file":"stat.c",
+  "function":[{"type":" void","name":"cp_stat","startline":14,"spanline":19,"para":[{"paraType":"struct m_inode *", "paraName":"inode"}, {"paraType":"struct stat *", "paraName":"statbuf"}]},
+    {"type":"int","name":"sys_stat","startline":35,"spanline":9,"para":[{"paraType":"char *", "paraName":"filename"}, {"paraType":"struct stat *", "paraName":"statbuf"}]},
+    {"type":"int","name":"sys_fstat","startline":46,"spanline":9,"para":[{"paraType":"unsigned int", "paraName":"fd"}, {"paraType":"struct stat *", "paraName":"statbuf"}]}
+  ]}

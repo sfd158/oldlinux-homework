@@ -1,0 +1,4 @@
+{
+  "file":"printk.c",
+  "function":[{"type":"int","name":"printk","startline":20,"spanline":20,"para":[{"paraType":"const char *", "paraName":"fmt"}, {"paraType":"", "paraName":"..."}]}
+  ]}

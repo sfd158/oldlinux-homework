@@ -1,0 +1,17 @@
+{
+  "file":"hd.c",
+  "function":[{"type":"int","name":"sys_setup","startline":70,"spanline":88,"para":[{"paraType":"void *", "paraName":"BIOS"}]},
+    {"type":" int","name":"controller_ready","startline":160,"spanline":6,"para":[]},
+    {"type":" int","name":"win_result","startline":168,"spanline":9,"para":[]},
+    {"type":" void","name":"hd_out","startline":179,"spanline":20,"para":[{"paraType":"unsigned int", "paraName":"drive"}, {"paraType":"unsigned int", "paraName":"nsect"}, {"paraType":"unsigned int", "paraName":"sect"}, {"paraType":"unsigned int", "paraName":"head"}, {"paraType":"unsigned int", "paraName":"cyl"}, {"paraType":"unsigned int", "paraName":"cmd"}, {"paraType":"function pointer", "paraName":"intr_addr"}]},
+      {"type":" int","name":"drive_busy","startline":201,"spanline":13,"para":[]},
+      {"type":" void","name":"reset_controller","startline":216,"spanline":11,"para":[]},
+      {"type":" void","name":"reset_hd","startline":229,"spanline":5,"para":[{"paraType":"int", "paraName":"nr"}]},
+      {"type":"void","name":"unexpected_hd_interrupt","startline":236,"spanline":3,"para":[]},
+      {"type":" void","name":"bad_rw_intr","startline":241,"spanline":6,"para":[]},
+      {"type":" void","name":"read_intr","startline":249,"spanline":17,"para":[]},
+      {"type":" void","name":"write_intr","startline":268,"spanline":16,"para":[]},
+      {"type":" void","name":"recal_intr","startline":286,"spanline":5,"para":[]},
+      {"type":"void","name":"do_hd_request","startline":293,"spanline":47,"para":[]},
+      {"type":"void","name":"hd_init","startline":342,"spanline":6,"para":[]}
+    ]}

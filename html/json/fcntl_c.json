@@ -1,0 +1,7 @@
+{
+  "file":"fcntl.c",
+  "function":[{"type":"int","name":"dupfd","startline":17,"spanline":16,"para":[{"paraType":"unsigned int", "paraName":"fd"}, {"paraType":"unsigned int", "paraName":"arg"}]},
+    {"type":"int","name":"sys_dup2","startline":35,"spanline":4,"para":[{"paraType":"unsigned int", "paraName":"oldfd"}, {"paraType":"unsigned int", "paraName":"newfd"}]},
+    {"type":"int","name":"sys_dup","startline":41,"spanline":3,"para":[{"paraType":"unsigned int", "paraName":"fildes"}]},
+    {"type":"int","name":"sys_fcntl","startline":46,"spanline":28,"para":[{"paraType":"unsigned int", "paraName":"fd"}, {"paraType":"unsigned int", "paraName":"cmd"}, {"paraType":"unsigned long", "paraName":"arg"}]}
+  ]}

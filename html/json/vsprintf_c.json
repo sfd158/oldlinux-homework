@@ -1,0 +1,6 @@
+{
+  "file":"vsprintf.c",
+  "function":[{"type":"int","name":"skip_atoi","startline":17,"spanline":7,"para":[{"paraType":"const char **", "paraName":"s"}]},
+    {"type":"char *","name":"number","startline":39,"spanline":52,"para":[{"paraType":"char *", "paraName":"str"}, {"paraType":"int", "paraName":"num"}, {"paraType":"int", "paraName":"base"}, {"paraType":"int", "paraName":"size"}, {"paraType":"int", "paraName":"precision"}, {"paraType":"int", "paraName":"type"}]},
+      {"type":"int","name":"vsprintf","startline":93,"spanline":145,"para":[{"paraType":"char *", "paraName":"buf"}, {"paraType":"const char *", "paraName":"fmt"}, {"paraType":"va_list", "paraName":"args"}]}
+    ]}

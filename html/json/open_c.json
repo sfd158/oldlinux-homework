@@ -1,0 +1,13 @@
+{
+  "file":"open.c",
+  "function":[{"type":"int","name":"sys_ustat","startline":18,"spanline":3,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"struct ustat *", "paraName":"ubuf"}]},
+    {"type":"int","name":"sys_utime","startline":23,"spanline":17,"para":[{"paraType":"char *", "paraName":"filename"}, {"paraType":"struct utimbuf *", "paraName":"times"}]},
+    {"type":"int","name":"sys_access","startline":46,"spanline":26,"para":[{"paraType":"const char *", "paraName":"filename"}, {"paraType":"int", "paraName":"mode"}]},
+    {"type":"int","name":"sys_chdir","startline":74,"spanline":13,"para":[{"paraType":"const char *", "paraName":"filename"}]},
+    {"type":"int","name":"sys_chroot","startline":89,"spanline":13,"para":[{"paraType":"const char *", "paraName":"filename"}]},
+    {"type":"int","name":"sys_chmod","startline":104,"spanline":14,"para":[{"paraType":"const char *", "paraName":"filename"}, {"paraType":"int", "paraName":"mode"}]},
+    {"type":"int","name":"sys_chown","startline":120,"spanline":15,"para":[{"paraType":"const char *", "paraName":"filename"}, {"paraType":"int", "paraName":"uid"}, {"paraType":"int", "paraName":"gid"}]},
+    {"type":"int","name":"sys_open","startline":137,"spanline":48,"para":[{"paraType":"const char *", "paraName":"filename"}, {"paraType":"int", "paraName":"flag"}, {"paraType":"int", "paraName":"mode"}]},
+    {"type":"int","name":"sys_creat","startline":187,"spanline":3,"para":[{"paraType":"const char *", "paraName":"pathname"}, {"paraType":"int", "paraName":"mode"}]},
+    {"type":"int","name":"sys_close","startline":192,"spanline":16,"para":[{"paraType":"unsigned int", "paraName":"fd"}]}
+  ]}
