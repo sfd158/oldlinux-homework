@@ -1,0 +1,263 @@
+{
+  "memory_c":
+  {
+    "mem_init":[{"callFunc":"main", "callFile":"main_c", "callCnt":1}],
+    "get_free_page":[{"callFunc":"copy_process", "callFile":"fork_c", "callCnt":5},{"callFunc":"copy_page_tables", "callFile":"memory_c", "callCnt":7},{"callFunc":"un_wp_page", "callFile":"memory_c", "callCnt":30},{"callFunc":"copy_strings", "callFile":"exec_c", "callCnt":3},{"callFunc":"put_page", "callFile":"memory_c", "callCnt":6},{"callFunc":"do_no_page", "callFile":"memory_c", "callCnt":106},{"callFunc":"get_empty_page", "callFile":"memory_c", "callCnt":33},{"callFunc":"get_pipe_inode", "callFile":"inode_c", "callCnt":1}],
+    "copy_page_tables":[{"callFunc":"copy_mem", "callFile":"fork_c", "callCnt":5}],
+    "do_wp_page":[{"callFunc":"page_fault", "callFile":"page_s", "callCnt":50}],
+    "un_wp_page":[{"callFunc":"do_wp_page", "callFile":"memory_c", "callCnt":50}],
+    "write_verify":[{"callFunc":"verify_area", "callFile":"fork_c", "callCnt":86}],
+    "free_page_tables":[{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":6},{"callFunc":"do_exit", "callFile":"exit_c", "callCnt":4}],
+    "free_page":[{"callFunc":"free_page_tables", "callFile":"memory_c", "callCnt":512},{"callFunc":"release", "callFile":"exit_c", "callCnt":2},{"callFunc":"iput", "callFile":"inode_c", "callCnt":1}],
+    "put_page":[{"callFunc":"change_ldt", "callFile":"exec_c", "callCnt":3},{"callFunc":"do_no_page", "callFile":"memory_c", "callCnt":106},{"callFunc":"get_empty_page", "callFile":"memory_c", "callCnt":33}],
+    "do_no_page":[{"callFunc":"page_fault", "callFile":"page_s", "callCnt":139}],
+    "share_page":[{"callFunc":"do_no_page", "callFile":"memory_c", "callCnt":106}],
+    "get_empty_page":[{"callFunc":"do_no_page", "callFile":"memory_c", "callCnt":33}],
+    "try_to_share":[{"callFunc":"share_page", "callFile":"memory_c", "callCnt":2}]
+  },
+  "main_c":
+  {
+    "main":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":1}],
+    "time_init":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":19},{"callFunc":"main", "callFile":"main_c", "callCnt":1}],
+    "printf":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":2}]
+  },
+  "fork_c":
+  {
+    "copy_process":[{"callFunc":"sys_fork", "callFile":"system_call_s", "callCnt":5}],
+    "copy_mem":[{"callFunc":"copy_process", "callFile":"fork_c", "callCnt":5}],
+    "verify_area":[{"callFunc":"sys_read", "callFile":"read_write_c", "callCnt":51},{"callFunc":"cp_stat", "callFile":"stat_c", "callCnt":18},{"callFunc":"sys_waitpid", "callFile":"exit_c", "callCnt":3},{"callFunc":"sys_uname", "callFile":"sys_c", "callCnt":2},{"callFunc":"get_termios", "callFile":"tty_ioctl_c", "callCnt":7},{"callFunc":"do_signal", "callFile":"signal_c", "callCnt":1}],
+    "find_empty_process":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":1},{"callFunc":"sys_fork", "callFile":"system_call_s", "callCnt":5}]
+  },
+  "exec_c":
+  {
+    "copy_strings":[{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":6}],
+    "do_execve":[{"callFunc":"sys_execve", "callFile":"system_call_s", "callCnt":3}],
+    "change_ldt":[{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":3}],
+    "count":[{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":6}],
+    "create_tables":[{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":3}]
+  },
+  "exit_c":
+  {
+    "do_exit":[{"callFunc":"sys_exit", "callFile":"exit_c", "callCnt":2}],
+    "release":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":11},{"callFunc":"sys_waitpid", "callFile":"exit_c", "callCnt":2}],
+    "sys_exit":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":2}],
+    "sys_waitpid":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":3}],
+    "send_sig":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":1}],
+    "tell_father":[{"callFunc":"do_exit", "callFile":"exit_c", "callCnt":2}]
+  },
+  "inode_c":
+  {
+    "get_pipe_inode":[{"callFunc":"sys_pipe", "callFile":"pipe_c", "callCnt":1}],
+    "iput":[{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":1},{"callFunc":"do_exit", "callFile":"exit_c", "callCnt":6},{"callFunc":"get_dir", "callFile":"namei_c", "callCnt":39},{"callFunc":"open_namei", "callFile":"namei_c", "callCnt":19},{"callFunc":"namei", "callFile":"namei_c", "callCnt":20},{"callFunc":"iget", "callFile":"inode_c", "callCnt":54},{"callFunc":"sys_close", "callFile":"open_c", "callCnt":15},{"callFunc":"sys_stat", "callFile":"stat_c", "callCnt":15},{"callFunc":"sys_chdir", "callFile":"open_c", "callCnt":7},{"callFunc":"sys_open", "callFile":"open_c", "callCnt":1}],
+    "read_inode":[{"callFunc":"iget", "callFile":"inode_c", "callCnt":20}],
+    "_bmap":[{"callFunc":"bmap", "callFile":"inode_c", "callCnt":463}],
+    "write_inode":[{"callFunc":"iput", "callFile":"inode_c", "callCnt":6},{"callFunc":"sync_inodes", "callFile":"inode_c", "callCnt":5}],
+    "iget":[{"callFunc":"get_dir", "callFile":"namei_c", "callCnt":38},{"callFunc":"open_namei", "callFile":"namei_c", "callCnt":16},{"callFunc":"namei", "callFile":"namei_c", "callCnt":19},{"callFunc":"mount_root", "callFile":"super_c", "callCnt":1}],
+    "get_empty_inode":[{"callFunc":"get_pipe_inode", "callFile":"inode_c", "callCnt":1},{"callFunc":"iget", "callFile":"inode_c", "callCnt":74}],
+    "wait_on_inode":[{"callFunc":"iput", "callFile":"inode_c", "callCnt":183},{"callFunc":"iget", "callFile":"inode_c", "callCnt":54},{"callFunc":"get_empty_inode", "callFile":"inode_c", "callCnt":75},{"callFunc":"sync_inodes", "callFile":"inode_c", "callCnt":64}],
+    "lock_inode":[{"callFunc":"read_inode", "callFile":"inode_c", "callCnt":20},{"callFunc":"write_inode", "callFile":"inode_c", "callCnt":11}],
+    "unlock_inode":[{"callFunc":"read_inode", "callFile":"inode_c", "callCnt":20},{"callFunc":"write_inode", "callFile":"inode_c", "callCnt":11}],
+    "bmap":[{"callFunc":"do_no_page", "callFile":"memory_c", "callCnt":424},{"callFunc":"file_read", "callFile":"file_dev_c", "callCnt":39}],
+    "invalidate_inodes":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":1}],
+    "sync_inodes":[{"callFunc":"sys_sync", "callFile":"buffer_c", "callCnt":2}]
+  },
+  "buffer_c":
+  {
+    "bread":[{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":3},{"callFunc":"rd_load", "callFile":"ramdisk_c", "callCnt":2},{"callFunc":"read_super", "callFile":"super_c", "callCnt":3},{"callFunc":"read_inode", "callFile":"inode_c", "callCnt":20},{"callFunc":"find_entry", "callFile":"namei_c", "callCnt":78},{"callFunc":"_bmap", "callFile":"inode_c", "callCnt":407},{"callFunc":"file_read", "callFile":"file_dev_c", "callCnt":39},{"callFunc":"write_inode", "callFile":"inode_c", "callCnt":11}],
+    "breada":[{"callFunc":"rd_load", "callFile":"ramdisk_c", "callCnt":1023}],
+    "bread_page":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":2},{"callFunc":"do_no_page", "callFile":"memory_c", "callCnt":106}],
+    "brelse":[{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":3},{"callFunc":"rd_load", "callFile":"ramdisk_c", "callCnt":1026},{"callFunc":"read_super", "callFile":"super_c", "callCnt":1},{"callFunc":"read_inode", "callFile":"inode_c", "callCnt":20},{"callFunc":"find_entry", "callFile":"namei_c", "callCnt":5},{"callFunc":"_bmap", "callFile":"inode_c", "callCnt":406},{"callFunc":"file_read", "callFile":"file_dev_c", "callCnt":39},{"callFunc":"write_inode", "callFile":"inode_c", "callCnt":11},{"callFunc":"bread_page", "callFile":"buffer_c", "callCnt":424},{"callFunc":"get_dir", "callFile":"namei_c", "callCnt":38},{"callFunc":"open_namei", "callFile":"namei_c", "callCnt":16},{"callFunc":"namei", "callFile":"namei_c", "callCnt":19}],
+    "buffer_init":[{"callFunc":"main", "callFile":"main_c", "callCnt":1}],
+    "check_disk_change":[{"callFunc":"read_super", "callFile":"super_c", "callCnt":1}],
+    "find_buffer":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":1},{"callFunc":"startup_32", "callFile":"head_s", "callCnt":1},{"callFunc":"get_hash_table", "callFile":"buffer_c", "callCnt":4055},{"callFunc":"getblk", "callFile":"buffer_c", "callCnt":1285},{"callFunc":"ll_rw_block", "callFile":"ll_rw_blk_c", "callCnt":1}],
+    "get_hash_table":[{"callFunc":"getblk", "callFile":"buffer_c", "callCnt":4055}],
+    "getblk":[{"callFunc":"bread", "callFile":"buffer_c", "callCnt":559},{"callFunc":"breada", "callFile":"buffer_c", "callCnt":3069},{"callFunc":"bread_page", "callFile":"buffer_c", "callCnt":424}],
+    "insert_into_queues":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":12},{"callFunc":"getblk", "callFile":"buffer_c", "callCnt":1285},{"callFunc":"pg3", "callFile":"head_s", "callCnt":1},{"callFunc":"pg2", "callFile":"head_s", "callCnt":1}],
+    "remove_from_queues":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":2},{"callFunc":"getblk", "callFile":"buffer_c", "callCnt":1285}],
+    "sys_sync":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":4}],
+    "wait_on_buffer":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":2},{"callFunc":"bread", "callFile":"buffer_c", "callCnt":21},{"callFunc":"breada", "callFile":"buffer_c", "callCnt":1023},{"callFunc":"bread_page", "callFile":"buffer_c", "callCnt":424},{"callFunc":"brelse", "callFile":"buffer_c", "callCnt":2007},{"callFunc":"get_hash_table", "callFile":"buffer_c", "callCnt":2770},{"callFunc":"getblk", "callFile":"buffer_c", "callCnt":1285},{"callFunc":"sys_sync", "callFile":"buffer_c", "callCnt":3893}]
+  },
+  "ramdisk_c":
+  {
+    "rd_load":[{"callFunc":"sys_setup", "callFile":"hd_c", "callCnt":1}],
+    "do_rd_request":[{"callFunc":"add_request", "callFile":"ll_rw_blk_c", "callCnt":264}],
+    "rd_init":[{"callFunc":"main", "callFile":"main_c", "callCnt":1}]
+  },
+  "super_c":
+  {
+    "read_super":[{"callFunc":"mount_root", "callFile":"super_c", "callCnt":1}],
+    "mount_root":[{"callFunc":"sys_setup", "callFile":"hd_c", "callCnt":1}],
+    "get_super":[{"callFunc":"read_super", "callFile":"super_c", "callCnt":1},{"callFunc":"read_inode", "callFile":"inode_c", "callCnt":20},{"callFunc":"write_inode", "callFile":"inode_c", "callCnt":8}],
+    "lock_super":[{"callFunc":"read_super", "callFile":"super_c", "callCnt":1}],
+    "free_super":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":46},{"callFunc":"startup_32", "callFile":"head_s", "callCnt":3},{"callFunc":"read_super", "callFile":"super_c", "callCnt":1},{"callFunc":"pg3", "callFile":"head_s", "callCnt":1},{"callFunc":"interruptible_sleep_on", "callFile":"sched_c", "callCnt":1},{"callFunc":"do_stack_segment", "callFile":"traps_c", "callCnt":1}],
+    "wait_on_super":[{"callFunc":"get_super", "callFile":"super_c", "callCnt":28}],
+    "put_super":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":59},{"callFunc":"startup_32", "callFile":"head_s", "callCnt":3},{"callFunc":"number", "callFile":"vsprintf_c", "callCnt":1},{"callFunc":"sys_kill", "callFile":"exit_c", "callCnt":1},{"callFunc":"pg0", "callFile":"head_s", "callCnt":1},{"callFunc":"pg1", "callFile":"head_s", "callCnt":2}]
+  },
+  "namei_c":
+  {
+    "find_entry":[{"callFunc":"get_dir", "callFile":"namei_c", "callCnt":39},{"callFunc":"open_namei", "callFile":"namei_c", "callCnt":19},{"callFunc":"namei", "callFile":"namei_c", "callCnt":20}],
+    "get_dir":[{"callFunc":"dir_namei", "callFile":"namei_c", "callCnt":46}],
+    "open_namei":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":3},{"callFunc":"sys_open", "callFile":"open_c", "callCnt":19}],
+    "namei":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":3},{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":3},{"callFunc":"sys_stat", "callFile":"stat_c", "callCnt":17},{"callFunc":"sys_chdir", "callFile":"open_c", "callCnt":7}],
+    "dir_namei":[{"callFunc":"open_namei", "callFile":"namei_c", "callCnt":19},{"callFunc":"namei", "callFile":"namei_c", "callCnt":27}],
+    "permission":[{"callFunc":"get_dir", "callFile":"namei_c", "callCnt":84},{"callFunc":"open_namei", "callFile":"namei_c", "callCnt":16}],
+    "match":[{"callFunc":"find_entry", "callFile":"namei_c", "callCnt":442}],
+    "sys_mkdir":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":7}]
+  },
+  "file_dev_c":
+  {
+    "file_read":[{"callFunc":"sys_read", "callFile":"read_write_c", "callCnt":38}],
+    "file_write":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":2}]
+  },
+  "ll_rw_blk_c":
+  {
+    "ll_rw_block":[{"callFunc":"bread", "callFile":"buffer_c", "callCnt":21},{"callFunc":"breada", "callFile":"buffer_c", "callCnt":1024},{"callFunc":"bread_page", "callFile":"buffer_c", "callCnt":240},{"callFunc":"sys_sync", "callFile":"buffer_c", "callCnt":3}],
+    "add_request":[{"callFunc":"make_request", "callFile":"ll_rw_blk_c", "callCnt":1286}],
+    "make_request":[{"callFunc":"ll_rw_block", "callFile":"ll_rw_blk_c", "callCnt":1286}],
+    "blk_dev_init":[{"callFunc":"main", "callFile":"main_c", "callCnt":1}],
+    "lock_buffer":[{"callFunc":"make_request", "callFile":"ll_rw_blk_c", "callCnt":1286}]
+  },
+  "char_dev_c":
+  {
+    "rw_char":[{"callFunc":"sys_write", "callFile":"read_write_c", "callCnt":4},{"callFunc":"sys_read", "callFile":"read_write_c", "callCnt":1}],
+    "rw_ttyx":[{"callFunc":"rw_char", "callFile":"char_dev_c", "callCnt":5}],
+    "rw_kmem":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":3}]
+  },
+  "read_write_c":
+  {
+    "sys_write":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":9}],
+    "sys_read":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":51}],
+    "sys_lseek":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":3}]
+  },
+  "fcntl_c":
+  {
+    "sys_dup":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":4}],
+    "dupfd":[{"callFunc":"sys_dup", "callFile":"fcntl_c", "callCnt":4},{"callFunc":"sys_fcntl", "callFile":"fcntl_c", "callCnt":1},{"callFunc":"sys_dup2", "callFile":"fcntl_c", "callCnt":3}],
+    "sys_fcntl":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":7}],
+    "sys_dup2":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":3}]
+  },
+  "open_c":
+  {
+    "sys_close":[{"callFunc":"do_execve", "callFile":"exec_c", "callCnt":1},{"callFunc":"do_exit", "callFile":"exit_c", "callCnt":2},{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":63},{"callFunc":"sys_dup2", "callFile":"fcntl_c", "callCnt":3}],
+    "sys_chdir":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":7}],
+    "sys_open":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":19}]
+  },
+  "stat_c":
+  {
+    "sys_stat":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":17}],
+    "cp_stat":[{"callFunc":"sys_stat", "callFile":"stat_c", "callCnt":15},{"callFunc":"sys_fstat", "callFile":"stat_c", "callCnt":3}],
+    "sys_fstat":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":3}]
+  },
+  "pipe_c":
+  {
+    "sys_pipe":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":1}],
+    "write_pipe":[{"callFunc":"sys_write", "callFile":"read_write_c", "callCnt":1}]
+  },
+  "ioctl_c":
+  {
+    "sys_ioctl":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":14}]
+  },
+  "sched_c":
+  {
+    "interruptible_sleep_on":[{"callFunc":"sleep_if_empty", "callFile":"tty_io_c", "callCnt":1}],
+    "add_timer":[{"callFunc":"do_fd_request", "callFile":"floppy_c", "callCnt":1024}],
+    "do_floppy_timer":[{"callFunc":"do_timer", "callFile":"sched_c", "callCnt":2730}],
+    "do_timer":[{"callFunc":"timer_interrupt", "callFile":"system_call_s", "callCnt":2705}],
+    "floppy_off":[{"callFunc":"end_request", "callFile":"blk_h", "callCnt":1024}],
+    "schedule":[{"callFunc":"do_exit", "callFile":"exit_c", "callCnt":2},{"callFunc":"release", "callFile":"exit_c", "callCnt":2},{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":39841},{"callFunc":"interruptible_sleep_on", "callFile":"sched_c", "callCnt":1},{"callFunc":"sys_waitpid", "callFile":"exit_c", "callCnt":2},{"callFunc":"do_timer", "callFile":"sched_c", "callCnt":3},{"callFunc":"sys_pause", "callFile":"sched_c", "callCnt":39845},{"callFunc":"sleep_on", "callFile":"sched_c", "callCnt":1025}],
+    "sys_pause":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":39853}],
+    "sleep_on":[{"callFunc":"wait_on_buffer", "callFile":"buffer_c", "callCnt":1024},{"callFunc":"read_pipe", "callFile":"pipe_c", "callCnt":1}],
+    "sched_init":[{"callFunc":"main", "callFile":"main_c", "callCnt":1}],
+    "sys_alarm":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":2}],
+    "sys_geteuid":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":4}],
+    "sys_getpid":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":3},{"callFunc":"startup_32", "callFile":"head_s", "callCnt":1},{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":3}],
+    "sys_getppid":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":2}],
+    "sys_getuid":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":4}],
+    "ticks_to_floppy_on":[{"callFunc":"do_fd_request", "callFile":"floppy_c", "callCnt":1024}],
+    "wake_up":[{"callFunc":"iput", "callFile":"inode_c", "callCnt":2},{"callFunc":"brelse", "callFile":"buffer_c", "callCnt":2007},{"callFunc":"unlock_inode", "callFile":"inode_c", "callCnt":31},{"callFunc":"write_pipe", "callFile":"pipe_c", "callCnt":1},{"callFunc":"free_super", "callFile":"super_c", "callCnt":1},{"callFunc":"do_floppy_timer", "callFile":"sched_c", "callCnt":1},{"callFunc":"end_request", "callFile":"blk_h", "callCnt":2576},{"callFunc":"read_pipe", "callFile":"pipe_c", "callCnt":12},{"callFunc":"floppy_deselect", "callFile":"floppy_c", "callCnt":1024},{"callFunc":"unlock_buffer", "callFile":"blk_h", "callCnt":1288}]
+  },
+  "vsprintf_c":
+  {
+    "number":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":3},{"callFunc":"vsprintf", "callFile":"vsprintf_c", "callCnt":1031}],
+    "vsprintf":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":2},{"callFunc":"printk", "callFile":"printk_c", "callCnt":1029}],
+    "skip_atoi":[{"callFunc":"vsprintf", "callFile":"vsprintf_c", "callCnt":1024}]
+  },
+  "traps_c":
+  {
+    "trap_init":[{"callFunc":"main", "callFile":"main_c", "callCnt":1}]
+  },
+  "string_h":
+  {
+    "memcpy":[{"callFunc":"rd_load", "callFile":"ramdisk_c", "callCnt":1024},{"callFunc":"do_rd_request", "callFile":"ramdisk_c", "callCnt":264}],
+    "memset":[{"callFunc":"get_empty_inode", "callFile":"inode_c", "callCnt":75}]
+  },
+  "sys_c":
+  {
+    "sys_uname":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":2}],
+    "sys_ulimit":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":2}],
+    "sys_time":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":4}],
+    "sys_getpgrp":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":1}],
+    "sys_setsid":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":1}],
+    "sys_umask":[{"callFunc":"system_call", "callFile":"system_call_s", "callCnt":1}]
+  },
+  "tty_ioctl_c":
+  {
+    "get_termios":[{"callFunc":"tty_ioctl", "callFile":"tty_ioctl_c", "callCnt":7}],
+    "change_speed":[{"callFunc":"set_termios", "callFile":"tty_ioctl_c", "callCnt":1}],
+    "set_termios":[{"callFunc":"tty_ioctl", "callFile":"tty_ioctl_c", "callCnt":1}],
+    "tty_ioctl":[{"callFunc":"sys_ioctl", "callFile":"ioctl_c", "callCnt":10}],
+    "wait_until_sent":[{"callFunc":"tty_ioctl", "callFile":"tty_ioctl_c", "callCnt":1}]
+  },
+  "mktime_c":
+  {
+    "kernel_mktime":[{"callFunc":"time_init", "callFile":"main_c", "callCnt":1}]
+  },
+  "printk_c":
+  {
+    "printk":[{"callFunc":"rd_load", "callFile":"ramdisk_c", "callCnt":1027},{"callFunc":"mount_root", "callFile":"super_c", "callCnt":2}]
+  },
+  "floppy_c":
+  {
+    "do_fd_request":[{"callFunc":"add_request", "callFile":"ll_rw_blk_c", "callCnt":1022},{"callFunc":"rw_interrupt", "callFile":"floppy_c", "callCnt":1024},{"callFunc":"recal_interrupt", "callFile":"floppy_c", "callCnt":1}],
+    "floppy_deselect":[{"callFunc":"rw_interrupt", "callFile":"floppy_c", "callCnt":1024}],
+    "rw_interrupt":[{"callFunc":"floppy_interrupt", "callFile":"system_call_s", "callCnt":1024}],
+    "recal_interrupt":[{"callFunc":"floppy_interrupt", "callFile":"system_call_s", "callCnt":1}],
+    "floppy_init":[{"callFunc":"main", "callFile":"main_c", "callCnt":1}],
+    "floppy_on_interrupt":[{"callFunc":"add_timer", "callFile":"sched_c", "callCnt":1023},{"callFunc":"do_timer", "callFile":"sched_c", "callCnt":1}],
+    "output_byte":[{"callFunc":"recal_interrupt", "callFile":"floppy_c", "callCnt":1},{"callFunc":"unexpected_floppy_interrupt", "callFile":"floppy_c", "callCnt":1},{"callFunc":"transfer", "callFile":"floppy_c", "callCnt":180},{"callFunc":"seek_interrupt", "callFile":"floppy_c", "callCnt":59},{"callFunc":"setup_rw_floppy", "callFile":"floppy_c", "callCnt":9217},{"callFunc":"recalibrate_floppy", "callFile":"floppy_c", "callCnt":2}],
+    "unexpected_floppy_interrupt":[{"callFunc":"floppy_interrupt", "callFile":"system_call_s", "callCnt":1}],
+    "transfer":[{"callFunc":"floppy_on_interrupt", "callFile":"floppy_c", "callCnt":1024}],
+    "seek_interrupt":[{"callFunc":"floppy_interrupt", "callFile":"system_call_s", "callCnt":59}],
+    "setup_rw_floppy":[{"callFunc":"transfer", "callFile":"floppy_c", "callCnt":965},{"callFunc":"seek_interrupt", "callFile":"floppy_c", "callCnt":59}],
+    "recalibrate_floppy":[{"callFunc":"do_fd_request", "callFile":"floppy_c", "callCnt":1}],
+    "result":[{"callFunc":"rw_interrupt", "callFile":"floppy_c", "callCnt":1024},{"callFunc":"recal_interrupt", "callFile":"floppy_c", "callCnt":1},{"callFunc":"unexpected_floppy_interrupt", "callFile":"floppy_c", "callCnt":1},{"callFunc":"seek_interrupt", "callFile":"floppy_c", "callCnt":59}],
+    "setup_DMA":[{"callFunc":"setup_rw_floppy", "callFile":"floppy_c", "callCnt":1024}]
+  },
+  "tty_io_c":
+  {
+    "sleep_if_empty":[{"callFunc":"tty_read", "callFile":"tty_io_c", "callCnt":1}],
+    "chr_dev_init":[{"callFunc":"main", "callFile":"main_c", "callCnt":1}],
+    "copy_to_cooked":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":1}],
+    "tty_read":[{"callFunc":"rw_ttyx", "callFile":"char_dev_c", "callCnt":1}],
+    "sleep_if_full":[{"callFunc":"tty_write", "callFile":"tty_io_c", "callCnt":1033}],
+    "tty_write":[{"callFunc":"rw_ttyx", "callFile":"char_dev_c", "callCnt":4},{"callFunc":"printk", "callFile":"printk_c", "callCnt":1029}],
+    "tty_init":[{"callFunc":"main", "callFile":"main_c", "callCnt":1}]
+  },
+  "console_c":
+  {
+    "con_init":[{"callFunc":"tty_init", "callFile":"tty_io_c", "callCnt":1}],
+    "con_write":[{"callFunc":"tty_write", "callFile":"tty_io_c", "callCnt":1033}],
+    "cr":[{"callFunc":"con_write", "callFile":"console_c", "callCnt":11}],
+    "gotoxy":[{"callFunc":"con_init", "callFile":"console_c", "callCnt":1}],
+    "lf":[{"callFunc":"con_write", "callFile":"console_c", "callCnt":7}],
+    "scrup":[{"callFunc":"lf", "callFile":"console_c", "callCnt":3}],
+    "set_cursor":[{"callFunc":"con_write", "callFile":"console_c", "callCnt":1033}],
+    "set_origin":[{"callFunc":"scrup", "callFile":"console_c", "callCnt":3}]
+  },
+  "serial_c":
+  {
+    "init":[{"callFunc":"startup_32", "callFile":"head_s", "callCnt":1},{"callFunc":"rs_init", "callFile":"serial_c", "callCnt":2}],
+    "rs_init":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":2},{"callFunc":"tty_init", "callFile":"tty_io_c", "callCnt":1}],
+    "rs_write":[{"callFunc":"unknownFunc", "callFile":"unknown", "callCnt":62}]
+  }
+}
