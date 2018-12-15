@@ -1,0 +1,7 @@
+Breakpoint 5, rd_init (mem_start=4194304, length=1049600) at ramdisk.c:53
+53	{
+$2 = "backtrace:"
+#0  rd_init (mem_start=4194304, length=1049600) at ramdisk.c:53
+#1  0x00006879 in main () at main.c:127
+
+

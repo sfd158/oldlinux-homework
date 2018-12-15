@@ -1,0 +1,434 @@
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$2 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$5 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$8 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$11 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$14 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$17 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$20 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$23 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$26 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$29 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$32 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$35 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$38 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$41 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$44 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$47 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$50 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$53 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$56 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$59 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$62 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$65 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$68 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$71 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$74 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$77 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$80 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$83 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$86 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$89 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xd4bce850) at serial.c:54
+54	{
+$92 = "backtrace:"
+#0  rs_write (tty=0xd4bce850) at serial.c:54
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$95 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$98 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$101 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$104 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$107 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$110 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$113 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$116 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$119 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$122 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$125 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$128 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$131 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$134 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$137 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$140 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$143 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$146 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$149 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$152 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$155 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$158 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$161 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$164 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$167 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$170 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$173 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$176 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$179 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$182 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 5, rs_write (tty=0xa95052d2) at serial.c:54
+54	{
+$185 = "backtrace:"
+#0  rs_write (tty=0xa95052d2) at serial.c:54
+#1  0x200fe28e in ?? ()
+
+

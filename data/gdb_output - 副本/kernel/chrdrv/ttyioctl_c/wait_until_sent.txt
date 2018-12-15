@@ -1,0 +1,7 @@
+Breakpoint 5, wait_until_sent (tty=0x234a0 <tty_table>) at tty_ioctl.c:47
+47	{
+$2 = "backtrace:"
+#0  wait_until_sent (tty=0x234a0 <tty_table>) at tty_ioctl.c:47
+#1  0x00019792 in tty_ioctl (dev=0, cmd=21507, arg=67106228) at tty_ioctl.c:131
+
+

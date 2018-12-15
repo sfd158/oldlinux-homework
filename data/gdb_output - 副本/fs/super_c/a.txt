@@ -1,0 +1,1261 @@
+Breakpoint 13, mount_root () at super.c:243
+243	{
+$2 = "backtrace:"
+#0  mount_root () at super.c:243
+#1  0x00015611 in sys_setup (BIOS=0x27f00 <user_stack>) at hd.c:157
+
+
+Breakpoint 10, read_super (dev=257) at super.c:101
+101	{
+$5 = "backtrace:"
+#0  read_super (dev=257) at super.c:101
+#1  0x0000ebc3 in mount_root () at super.c:261
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$8 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000e489 in read_super (dev=257) at super.c:109
+
+
+Breakpoint 5, lock_super (sb=0x293e0 <super_block>) at super.c:32
+32	{
+$11 = "backtrace:"
+#0  lock_super (sb=0x293e0 <super_block>) at super.c:32
+#1  0x0000e526 in read_super (dev=257) at super.c:123
+
+
+Breakpoint 6, free_super (sb=0x293e0 <super_block>) at super.c:41
+41	{
+$14 = "backtrace:"
+#0  free_super (sb=0x293e0 <super_block>) at super.c:41
+#1  0x0000e7ca in read_super (dev=257) at super.c:163
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$17 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x275f8 <inode_table+56>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$20 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$23 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27630 <inode_table+112>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$26 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$29 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27668 <inode_table+168>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$32 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$35 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x276a0 <inode_table+224>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$38 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$41 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x276d8 <inode_table+280>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$44 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$47 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27710 <inode_table+336>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$50 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$53 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27748 <inode_table+392>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$56 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$59 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x277b8 <inode_table+504>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$62 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 6, free_super (sb=0x3ff1c24) at super.c:41
+41	{
+$65 = "backtrace:"
+#0  free_super (sb=0x3ff1c24) at super.c:41
+#1  0x7c81011c in ?? ()
+
+
+Breakpoint 9, put_super (dev=-151) at super.c:75
+75	{
+$68 = "backtrace:"
+#0  put_super (dev=-151) at super.c:75
+#1  0x8e0f0000 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x24448310) at super.c:41
+41	{
+$71 = "backtrace:"
+#0  free_super (sb=0x24448310) at super.c:41
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 9, put_super (dev=67050532) at super.c:75
+75	{
+$74 = "backtrace:"
+#0  put_super (dev=67050532) at super.c:75
+#1  0x7c81011c in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x200fe28e) at super.c:41
+41	{
+$77 = "backtrace:"
+#0  free_super (sb=0x200fe28e) at super.c:41
+#1  0xc28eda8e in ?? ()
+
+
+Breakpoint 9, put_super (dev=-31707) at super.c:75
+75	{
+$80 = "backtrace:"
+#0  put_super (dev=-31707) at super.c:75
+#1  0xa95052d2 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x10 <startup_32+16>) at super.c:41
+41	{
+$83 = "backtrace:"
+#0  free_super (sb=0x10 <startup_32+16>) at super.c:41
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 9, put_super (dev=537911950) at super.c:75
+75	{
+$86 = "backtrace:"
+#0  put_super (dev=537911950) at super.c:75
+#1  0xc28eda8e in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x1e525124) at super.c:41
+41	{
+$89 = "backtrace:"
+#0  free_super (sb=0x1e525124) at super.c:41
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 9, put_super (dev=16) at super.c:75
+75	{
+$92 = "backtrace:"
+#0  put_super (dev=16) at super.c:75
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x28c48390) at super.c:41
+41	{
+$95 = "backtrace:"
+#0  free_super (sb=0x28c48390) at super.c:41
+#1  0xffffff69 in ?? ()
+
+
+Breakpoint 9, put_super (dev=508711204) at super.c:75
+75	{
+$98 = "backtrace:"
+#0  put_super (dev=508711204) at super.c:75
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x200fe28e) at super.c:41
+41	{
+$101 = "backtrace:"
+#0  free_super (sb=0x200fe28e) at super.c:41
+#1  0xc28eda8e in ?? ()
+
+
+Breakpoint 9, put_super (dev=-31707) at super.c:75
+75	{
+$104 = "backtrace:"
+#0  put_super (dev=-31707) at super.c:75
+#1  0xa95052d2 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x10 <startup_32+16>) at super.c:41
+41	{
+$107 = "backtrace:"
+#0  free_super (sb=0x10 <startup_32+16>) at super.c:41
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 9, put_super (dev=537911950) at super.c:75
+75	{
+$110 = "backtrace:"
+#0  put_super (dev=537911950) at super.c:75
+#1  0xc28eda8e in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x1e525124) at super.c:41
+41	{
+$113 = "backtrace:"
+#0  free_super (sb=0x1e525124) at super.c:41
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 9, put_super (dev=16) at super.c:75
+75	{
+$116 = "backtrace:"
+#0  put_super (dev=16) at super.c:75
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xc28eda8e) at super.c:41
+41	{
+$119 = "backtrace:"
+#0  free_super (sb=0xc28eda8e) at super.c:41
+#1  0x00000010 in startup_32 () at head.s:24
+
+
+Breakpoint 9, put_super (dev=8450055) at super.c:75
+75	{
+$122 = "backtrace:"
+#0  put_super (dev=8450055) at super.c:75
+#1  0x0080e007 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x0 <startup_32>) at super.c:41
+41	{
+$125 = "backtrace:"
+#0  free_super (sb=0x0 <startup_32>) at super.c:41
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=0) at super.c:75
+75	{
+$128 = "backtrace:"
+#0  put_super (dev=0) at super.c:75
+#1  0x00c0f007 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-1163915514) at super.c:75
+75	{
+$131 = "backtrace:"
+#0  put_super (dev=-1163915514) at super.c:75
+#1  0x1e525124 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x24448310) at super.c:41
+41	{
+$134 = "backtrace:"
+#0  free_super (sb=0x24448310) at super.c:41
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 9, put_super (dev=67050532) at super.c:75
+75	{
+$137 = "backtrace:"
+#0  put_super (dev=67050532) at super.c:75
+#1  0x7c81011c in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xa95052d2) at super.c:41
+41	{
+$140 = "backtrace:"
+#0  free_super (sb=0xa95052d2) at super.c:41
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 9, put_super (dev=-725817264) at super.c:75
+75	{
+$143 = "backtrace:"
+#0  put_super (dev=-725817264) at super.c:75
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xc28eda8e) at super.c:41
+41	{
+$146 = "backtrace:"
+#0  free_super (sb=0xc28eda8e) at super.c:41
+#1  0x00000010 in startup_32 () at head.s:24
+
+
+Breakpoint 9, put_super (dev=8450055) at super.c:75
+75	{
+$149 = "backtrace:"
+#0  put_super (dev=8450055) at super.c:75
+#1  0x0080e007 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x200fe28e) at super.c:41
+41	{
+$152 = "backtrace:"
+#0  free_super (sb=0x200fe28e) at super.c:41
+#1  0xc28eda8e in ?? ()
+
+
+Breakpoint 9, put_super (dev=-31707) at super.c:75
+75	{
+$155 = "backtrace:"
+#0  put_super (dev=-31707) at super.c:75
+#1  0xa95052d2 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xd4bce850) at super.c:41
+41	{
+$158 = "backtrace:"
+#0  free_super (sb=0xd4bce850) at super.c:41
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 9, put_super (dev=608469776) at super.c:75
+75	{
+$161 = "backtrace:"
+#0  put_super (dev=608469776) at super.c:75
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x24448310) at super.c:41
+41	{
+$164 = "backtrace:"
+#0  free_super (sb=0x24448310) at super.c:41
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 9, put_super (dev=67050532) at super.c:75
+75	{
+$167 = "backtrace:"
+#0  put_super (dev=67050532) at super.c:75
+#1  0x7c81011c in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xbaa00f06) at super.c:41
+41	{
+$170 = "backtrace:"
+#0  free_super (sb=0xbaa00f06) at super.c:41
+#1  0x1e525124 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-1030825330) at super.c:75
+75	{
+$173 = "backtrace:"
+#0  put_super (dev=-1030825330) at super.c:75
+#1  0x00000010 in startup_32 () at head.s:24
+
+
+Breakpoint 6, free_super (sb=0x8027 <do_stack_segment+41>) at super.c:41
+41	{
+$176 = "backtrace:"
+#0  free_super (sb=0x8027 <do_stack_segment+41>) at super.c:41
+#1  0x00007027 in interruptible_sleep_on (p=0x67 <check_x87+13>) at sched.c:176
+
+
+Breakpoint 9, put_super (dev=40999) at super.c:75
+75	{
+$179 = "backtrace:"
+#0  put_super (dev=40999) at super.c:75
+#1  0x00009027 in number (str=0xc027 <sys_open+475> "", num=53287, base=57383, 
+    size=61479, precision=-1962898688, type=157840) at vsprintf.c:62
+
+
+Breakpoint 6, free_super (sb=0xffff8425) at super.c:41
+41	{
+$182 = "backtrace:"
+#0  free_super (sb=0xffff8425) at super.c:41
+#1  0xa95052d2 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-997982209) at super.c:75
+75	{
+$185 = "backtrace:"
+#0  put_super (dev=-997982209) at super.c:75
+#1  0xd4bce850 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x200fe28e) at super.c:41
+41	{
+$188 = "backtrace:"
+#0  free_super (sb=0x200fe28e) at super.c:41
+#1  0xc28eda8e in ?? ()
+
+
+Breakpoint 9, put_super (dev=-31707) at super.c:75
+75	{
+$191 = "backtrace:"
+#0  put_super (dev=-31707) at super.c:75
+#1  0xa95052d2 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x10 <startup_32+16>) at super.c:41
+41	{
+$194 = "backtrace:"
+#0  free_super (sb=0x10 <startup_32+16>) at super.c:41
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 9, put_super (dev=537911950) at super.c:75
+75	{
+$197 = "backtrace:"
+#0  put_super (dev=537911950) at super.c:75
+#1  0xc28eda8e in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xffffff69) at super.c:41
+41	{
+$200 = "backtrace:"
+#0  free_super (sb=0xffffff69) at super.c:41
+#1  0x8e0f0000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=0) at super.c:75
+75	{
+$203 = "backtrace:"
+#0  put_super (dev=0) at super.c:75
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x0 <startup_32>) at super.c:41
+41	{
+$206 = "backtrace:"
+#0  free_super (sb=0x0 <startup_32>) at super.c:41
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=0) at super.c:75
+75	{
+$209 = "backtrace:"
+#0  put_super (dev=0) at super.c:75
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$212 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x278d0 <inode_table+784>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$215 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$218 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27940 <inode_table+896>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$221 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 6, free_super (sb=0xc483ffff) at super.c:41
+41	{
+$224 = "backtrace:"
+#0  free_super (sb=0xc483ffff) at super.c:41
+#1  0xd4bce850 in ?? ()
+
+
+Breakpoint 9, put_super (dev=2088829212) at super.c:75
+75	{
+$227 = "backtrace:"
+#0  put_super (dev=2088829212) at super.c:75
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-1454353710) at super.c:75
+75	{
+$230 = "backtrace:"
+#0  put_super (dev=-1454353710) at super.c:75
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$233 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x279b0 <inode_table+1008>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$236 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$239 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d479 in write_inode (inode=0x27748 <inode_table+392>) at inode.c:325
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$242 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$245 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d479 in write_inode (inode=0x275f8 <inode_table+56>) at inode.c:325
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$248 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$251 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d479 in write_inode (inode=0x279b0 <inode_table+1008>) at inode.c:325
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$254 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 6, free_super (sb=0x24448310) at super.c:41
+41	{
+$257 = "backtrace:"
+#0  free_super (sb=0x24448310) at super.c:41
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 9, put_super (dev=67050532) at super.c:75
+75	{
+$260 = "backtrace:"
+#0  put_super (dev=67050532) at super.c:75
+#1  0x7c81011c in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xa95052d2) at super.c:41
+41	{
+$263 = "backtrace:"
+#0  free_super (sb=0xa95052d2) at super.c:41
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 9, put_super (dev=-725817264) at super.c:75
+75	{
+$266 = "backtrace:"
+#0  put_super (dev=-725817264) at super.c:75
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x1e525124) at super.c:41
+41	{
+$269 = "backtrace:"
+#0  free_super (sb=0x1e525124) at super.c:41
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 9, put_super (dev=16) at super.c:75
+75	{
+$272 = "backtrace:"
+#0  put_super (dev=16) at super.c:75
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x28c48390) at super.c:41
+41	{
+$275 = "backtrace:"
+#0  free_super (sb=0x28c48390) at super.c:41
+#1  0xffffff69 in ?? ()
+
+
+Breakpoint 9, put_super (dev=508711204) at super.c:75
+75	{
+$278 = "backtrace:"
+#0  put_super (dev=508711204) at super.c:75
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x8e0f0000) at super.c:41
+41	{
+$281 = "backtrace:"
+#0  free_super (sb=0x8e0f0000) at super.c:41
+#1  0x03ff1c24 in ?? ()
+
+
+Breakpoint 9, put_super (dev=683967376) at super.c:75
+75	{
+$284 = "backtrace:"
+#0  put_super (dev=683967376) at super.c:75
+#1  0xffffff69 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x7c81011c) at super.c:41
+41	{
+$287 = "backtrace:"
+#0  free_super (sb=0x7c81011c) at super.c:41
+#1  0x24448310 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-1911619584) at super.c:75
+75	{
+$290 = "backtrace:"
+#0  put_super (dev=-1911619584) at super.c:75
+#1  0x03ff1c24 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x1e525124) at super.c:41
+41	{
+$293 = "backtrace:"
+#0  free_super (sb=0x1e525124) at super.c:41
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 9, put_super (dev=16) at super.c:75
+75	{
+$296 = "backtrace:"
+#0  put_super (dev=16) at super.c:75
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x28c48390) at super.c:41
+41	{
+$299 = "backtrace:"
+#0  free_super (sb=0x28c48390) at super.c:41
+#1  0xffffff69 in ?? ()
+
+
+Breakpoint 9, put_super (dev=508711204) at super.c:75
+75	{
+$302 = "backtrace:"
+#0  put_super (dev=508711204) at super.c:75
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x8e0f0000) at super.c:41
+41	{
+$305 = "backtrace:"
+#0  free_super (sb=0x8e0f0000) at super.c:41
+#1  0x03ff1c24 in ?? ()
+
+
+Breakpoint 9, put_super (dev=683967376) at super.c:75
+75	{
+$308 = "backtrace:"
+#0  put_super (dev=683967376) at super.c:75
+#1  0xffffff69 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x487c35b) at super.c:41
+41	{
+$311 = "backtrace:"
+#0  free_super (sb=0x487c35b) at super.c:41
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-1163915514) at super.c:75
+75	{
+$314 = "backtrace:"
+#0  put_super (dev=-1163915514) at super.c:75
+#1  0x1e525124 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x1e525124) at super.c:41
+41	{
+$317 = "backtrace:"
+#0  free_super (sb=0x1e525124) at super.c:41
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 9, put_super (dev=16) at super.c:75
+75	{
+$320 = "backtrace:"
+#0  put_super (dev=16) at super.c:75
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-151) at super.c:75
+75	{
+$323 = "backtrace:"
+#0  put_super (dev=-151) at super.c:75
+#1  0x8e0f0000 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xa95052d2) at super.c:41
+41	{
+$326 = "backtrace:"
+#0  free_super (sb=0xa95052d2) at super.c:41
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 9, put_super (dev=-725817264) at super.c:75
+75	{
+$329 = "backtrace:"
+#0  put_super (dev=-725817264) at super.c:75
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xbaa00f06) at super.c:41
+41	{
+$332 = "backtrace:"
+#0  free_super (sb=0xbaa00f06) at super.c:41
+#1  0x1e525124 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-1030825330) at super.c:75
+75	{
+$335 = "backtrace:"
+#0  put_super (dev=-1030825330) at super.c:75
+#1  0x00000010 in startup_32 () at head.s:24
+
+
+Breakpoint 6, free_super (sb=0x9027 <number+240>) at super.c:41
+41	{
+$338 = "backtrace:"
+#0  free_super (sb=0x9027 <number+240>) at super.c:41
+#1  0x00008027 in do_stack_segment (esp=53287, error_code=57383) at traps.c:167
+
+
+Breakpoint 9, put_super (dev=45095) at super.c:75
+75	{
+$341 = "backtrace:"
+#0  put_super (dev=45095) at super.c:75
+#1  0x0000a027 in sys_kill (pid=4135, sig=8199) at exit.c:67
+
+
+Breakpoint 6, free_super (sb=0x1e525124) at super.c:41
+41	{
+$344 = "backtrace:"
+#0  free_super (sb=0x1e525124) at super.c:41
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 9, put_super (dev=16) at super.c:75
+75	{
+$347 = "backtrace:"
+#0  put_super (dev=16) at super.c:75
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xc28eda8e) at super.c:41
+41	{
+$350 = "backtrace:"
+#0  free_super (sb=0xc28eda8e) at super.c:41
+#1  0x00000010 in startup_32 () at head.s:24
+
+
+Breakpoint 9, put_super (dev=8450055) at super.c:75
+75	{
+$353 = "backtrace:"
+#0  put_super (dev=8450055) at super.c:75
+#1  0x0080e007 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x0 <startup_32>) at super.c:41
+41	{
+$356 = "backtrace:"
+#0  free_super (sb=0x0 <startup_32>) at super.c:41
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=8231) at super.c:75
+75	{
+$359 = "backtrace:"
+#0  put_super (dev=8231) at super.c:75
+#1  0x00001027 in pg0 () at head.s:109
+
+
+Breakpoint 6, free_super (sb=0xffffff69) at super.c:41
+41	{
+$362 = "backtrace:"
+#0  free_super (sb=0xffffff69) at super.c:41
+#1  0x8e0f0000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=0) at super.c:75
+75	{
+$365 = "backtrace:"
+#0  put_super (dev=0) at super.c:75
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x0 <startup_32>) at super.c:41
+41	{
+$368 = "backtrace:"
+#0  free_super (sb=0x0 <startup_32>) at super.c:41
+#1  0x00004027 in pg3 () at head.s:109
+
+
+Breakpoint 9, put_super (dev=0) at super.c:75
+75	{
+$371 = "backtrace:"
+#0  put_super (dev=0) at super.c:75
+#1  0x0002da28 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x10 <startup_32+16>) at super.c:41
+41	{
+$374 = "backtrace:"
+#0  free_super (sb=0x10 <startup_32+16>) at super.c:41
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 9, put_super (dev=537911950) at super.c:75
+75	{
+$377 = "backtrace:"
+#0  put_super (dev=537911950) at super.c:75
+#1  0xc28eda8e in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x1e525124) at super.c:41
+41	{
+$380 = "backtrace:"
+#0  free_super (sb=0x1e525124) at super.c:41
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 9, put_super (dev=16) at super.c:75
+75	{
+$383 = "backtrace:"
+#0  put_super (dev=16) at super.c:75
+#1  0xbaa00f06 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x28c48390) at super.c:41
+41	{
+$386 = "backtrace:"
+#0  free_super (sb=0x28c48390) at super.c:41
+#1  0xffffff69 in ?? ()
+
+
+Breakpoint 9, put_super (dev=508711204) at super.c:75
+75	{
+$389 = "backtrace:"
+#0  put_super (dev=508711204) at super.c:75
+#1  0x0487c35b in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x24448310) at super.c:41
+41	{
+$392 = "backtrace:"
+#0  free_super (sb=0x24448310) at super.c:41
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 9, put_super (dev=67050532) at super.c:75
+75	{
+$395 = "backtrace:"
+#0  put_super (dev=67050532) at super.c:75
+#1  0x7c81011c in ?? ()
+
+
+Breakpoint 6, free_super (sb=0x24448310) at super.c:41
+41	{
+$398 = "backtrace:"
+#0  free_super (sb=0x24448310) at super.c:41
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 9, put_super (dev=67050532) at super.c:75
+75	{
+$401 = "backtrace:"
+#0  put_super (dev=67050532) at super.c:75
+#1  0x7c81011c in ?? ()
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$404 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27c88 <inode_table+1736>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$407 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 9, put_super (dev=-1911619584) at super.c:75
+75	{
+$410 = "backtrace:"
+#0  put_super (dev=-1911619584) at super.c:75
+#1  0x03ff1c24 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xa95052d2) at super.c:41
+41	{
+$413 = "backtrace:"
+#0  free_super (sb=0xa95052d2) at super.c:41
+#1  0x200fe28e in ?? ()
+
+
+Breakpoint 9, put_super (dev=-725817264) at super.c:75
+75	{
+$416 = "backtrace:"
+#0  put_super (dev=-725817264) at super.c:75
+#1  0xffff8425 in ?? ()
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$419 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x275c0 <inode_table>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$422 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$425 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27630 <inode_table+112>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$428 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 6, free_super (sb=0x38 <startup_32+56>) at super.c:41
+41	{
+$431 = "backtrace:"
+#0  free_super (sb=0x38 <startup_32+56>) at super.c:41
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=0) at super.c:75
+75	{
+$434 = "backtrace:"
+#0  put_super (dev=0) at super.c:75
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=0) at super.c:75
+75	{
+$437 = "backtrace:"
+#0  put_super (dev=0) at super.c:75
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=12295) at super.c:75
+75	{
+$440 = "backtrace:"
+#0  put_super (dev=12295) at super.c:75
+#1  0x00002027 in pg1 () at head.s:109
+
+
+Breakpoint 9, put_super (dev=8413191) at super.c:75
+75	{
+$443 = "backtrace:"
+#0  put_super (dev=8413191) at super.c:75
+#1  0x00805007 in ?? ()
+
+
+Breakpoint 9, put_super (dev=0) at super.c:75
+75	{
+$446 = "backtrace:"
+#0  put_super (dev=0) at super.c:75
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=0) at super.c:75
+75	{
+$449 = "backtrace:"
+#0  put_super (dev=0) at super.c:75
+#1  0x00000000 in ?? ()
+
+
+Breakpoint 9, put_super (dev=12295) at super.c:75
+75	{
+$452 = "backtrace:"
+#0  put_super (dev=12295) at super.c:75
+#1  0x00002027 in pg1 () at head.s:109
+
+
+Breakpoint 9, put_super (dev=-31707) at super.c:75
+75	{
+$455 = "backtrace:"
+#0  put_super (dev=-31707) at super.c:75
+#1  0xa95052d2 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-31707) at super.c:75
+75	{
+$458 = "backtrace:"
+#0  put_super (dev=-31707) at super.c:75
+#1  0xa95052d2 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-31707) at super.c:75
+75	{
+$461 = "backtrace:"
+#0  put_super (dev=-31707) at super.c:75
+#1  0xa95052d2 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-997982209) at super.c:75
+75	{
+$464 = "backtrace:"
+#0  put_super (dev=-997982209) at super.c:75
+#1  0xd4bce850 in ?? ()
+
+
+Breakpoint 6, free_super (sb=0xbaa00f06) at super.c:41
+41	{
+$467 = "backtrace:"
+#0  free_super (sb=0xbaa00f06) at super.c:41
+#1  0x1e525124 in ?? ()
+
+
+Breakpoint 9, put_super (dev=-1030825330) at super.c:75
+75	{
+$470 = "backtrace:"
+#0  put_super (dev=-1030825330) at super.c:75
+#1  0x00000010 in startup_32 () at head.s:24
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$473 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x278d0 <inode_table+784>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$476 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$479 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d479 in write_inode (inode=0x278d0 <inode_table+784>) at inode.c:325
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$482 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$485 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d479 in write_inode (inode=0x278d0 <inode_table+784>) at inode.c:325
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$488 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$491 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d479 in write_inode (inode=0x278d0 <inode_table+784>) at inode.c:325
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$494 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$497 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27be0 <inode_table+1568>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$500 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$503 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27c18 <inode_table+1624>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$506 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$509 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x275c0 <inode_table>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$512 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$515 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d479 in write_inode (inode=0x275c0 <inode_table>) at inode.c:325
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$518 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$521 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d479 in write_inode (inode=0x275c0 <inode_table>) at inode.c:325
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$524 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 9, put_super (dev=67050532) at super.c:75
+75	{
+$527 = "backtrace:"
+#0  put_super (dev=67050532) at super.c:75
+#1  0x7c81011c in ?? ()
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$530 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27940 <inode_table+896>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$533 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+
+Breakpoint 8, get_super (dev=257) at super.c:57
+57	{
+$536 = "backtrace:"
+#0  get_super (dev=257) at super.c:57
+#1  0x0000d31c in read_inode (inode=0x27978 <inode_table+952>) at inode.c:301
+
+
+Breakpoint 7, wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+49	{
+$539 = "backtrace:"
+#0  wait_on_super (sb=0x293e0 <super_block>) at super.c:49
+#1  0x0000e302 in get_super (dev=257) at super.c:65
+
+

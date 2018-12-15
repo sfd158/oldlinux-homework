@@ -1,0 +1,21 @@
+Breakpoint 5, scrup () at console.c:108
+108	{
+$2 = "backtrace:"
+#0  scrup () at console.c:108
+#1  0x000177c9 in lf () at console.c:211
+
+
+Breakpoint 5, scrup () at console.c:108
+108	{
+$5 = "backtrace:"
+#0  scrup () at console.c:108
+#1  0x000177c9 in lf () at console.c:211
+
+
+Breakpoint 5, scrup () at console.c:108
+108	{
+$8 = "backtrace:"
+#0  scrup () at console.c:108
+#1  0x000177c9 in lf () at console.c:211
+
+

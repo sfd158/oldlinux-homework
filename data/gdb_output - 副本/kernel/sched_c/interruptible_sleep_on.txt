@@ -1,0 +1,8 @@
+    at sched.c:169
+169	{
+$2 = "backtrace:"
+#0  interruptible_sleep_on (p=0x23cfc <tty_table+2140>) at sched.c:169
+#1  0x0001666e in sleep_if_empty (queue=0x23cf0 <tty_table+2128>)
+    at tty_io.c:126
+
+

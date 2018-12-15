@@ -1,0 +1,18 @@
+Breakpoint 5, sleep_if_empty (queue=0x23cf0 <tty_table+2128>) at tty_io.c:123
+123	{
+$2 = "backtrace:"
+#0  sleep_if_empty (queue=0x23cf0 <tty_table+2128>) at tty_io.c:123
+#1  0x00016f20 in tty_read (channel=0, buf=0x3fff5a0 "mm\001", nr=1)
+    at tty_io.c:258
+#2  0x0000f09c in rw_ttyx (rw=0, minor=0, 
+    buf=0x3fff5a0 <incomplete sequence \360>, count=1, 
+    pos=0x2975c <file_table+28>) at char_dev.c:23
+#3  0x0000f2f2 in rw_char (rw=0, dev=1024, 
+    buf=0x3fff5a0 <incomplete sequence \360>, count=1, 
+    pos=0x2975c <file_table+28>) at char_dev.c:103
+#4  0x0000c45a in sys_read (fd=0, 
+    buf=0x3fff5a0 "-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw-\364\377\377\203\370Gw"..., count=1) at read_write.c:69
+#5  0x00007967 in system_call () at system_call.s:94
+#6  0x00000000 in ?? ()
+
+

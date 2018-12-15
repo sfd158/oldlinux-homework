@@ -1,0 +1,49 @@
+Breakpoint 5, sys_getpid () at sched.c:350
+350	{
+$2 = "backtrace:"
+#0  sys_getpid () at sched.c:350
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_getpid () at sched.c:350
+350	{
+$5 = "backtrace:"
+#0  sys_getpid () at sched.c:350
+#1  0x8e0f0000 in ?? ()
+
+
+Breakpoint 5, sys_getpid () at sched.c:350
+350	{
+$8 = "backtrace:"
+#0  sys_getpid () at sched.c:350
+#1  0x00000010 in startup_32 () at head.s:24
+
+
+Breakpoint 5, sys_getpid () at sched.c:350
+350	{
+$11 = "backtrace:"
+#0  sys_getpid () at sched.c:350
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_getpid () at sched.c:350
+350	{
+$14 = "backtrace:"
+#0  sys_getpid () at sched.c:350
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_getpid () at sched.c:350
+350	{
+$17 = "backtrace:"
+#0  sys_getpid () at sched.c:350
+#1  0xc483ffff in ?? ()
+
+
+Breakpoint 5, sys_getpid () at sched.c:350
+350	{
+$20 = "backtrace:"
+#0  sys_getpid () at sched.c:350
+#1  0x00000000 in ?? ()
+
+

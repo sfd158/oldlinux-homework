@@ -1,0 +1,77 @@
+Breakpoint 5, cr () at console.c:225
+225	{
+$2 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$5 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$8 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$11 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$14 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$17 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$20 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$23 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$26 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$29 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+
+Breakpoint 5, cr () at console.c:225
+225	{
+$32 = "backtrace:"
+#0  cr () at console.c:225
+#1  0x00017f9c in con_write (tty=0x234a0 <tty_table>) at console.c:472
+
+

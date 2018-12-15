@@ -1,0 +1,600 @@
+    at ../include/string.h:396
+396	{
+$2 = "backtrace:"
+#0  memset (s=0x275f8 <inode_table+56>, c=20 '\024', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$5 = "backtrace:"
+#0  memset (s=0x27630 <inode_table+112>, c=-76 '\264', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$8 = "backtrace:"
+#0  memset (s=0x27668 <inode_table+168>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$11 = "backtrace:"
+#0  memset (s=0x276a0 <inode_table+224>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$14 = "backtrace:"
+#0  memset (s=0x276d8 <inode_table+280>, c=-96 '\240', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$17 = "backtrace:"
+#0  memset (s=0x27710 <inode_table+336>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$20 = "backtrace:"
+#0  memset (s=0x27748 <inode_table+392>, c=16 '\020', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$23 = "backtrace:"
+#0  memset (s=0x27780 <inode_table+448>, c=101 'e', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$26 = "backtrace:"
+#0  memset (s=0x277b8 <inode_table+504>, c=-96 '\240', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$29 = "backtrace:"
+#0  memset (s=0x277f0 <inode_table+560>, c=-8 '\370', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$32 = "backtrace:"
+#0  memset (s=0x27828 <inode_table+616>, c=101 'e', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$35 = "backtrace:"
+#0  memset (s=0x27860 <inode_table+672>, c=16 '\020', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$38 = "backtrace:"
+#0  memset (s=0x27898 <inode_table+728>, c=101 'e', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$41 = "backtrace:"
+#0  memset (s=0x278d0 <inode_table+784>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$44 = "backtrace:"
+#0  memset (s=0x27908 <inode_table+840>, c=101 'e', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$47 = "backtrace:"
+#0  memset (s=0x27940 <inode_table+896>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$50 = "backtrace:"
+#0  memset (s=0x27978 <inode_table+952>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$53 = "backtrace:"
+#0  memset (s=0x279b0 <inode_table+1008>, c=-96 '\240', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$56 = "backtrace:"
+#0  memset (s=0x279e8 <inode_table+1064>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$59 = "backtrace:"
+#0  memset (s=0x27a20 <inode_table+1120>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$62 = "backtrace:"
+#0  memset (s=0x27a58 <inode_table+1176>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$65 = "backtrace:"
+#0  memset (s=0x27a90 <inode_table+1232>, c=16 '\020', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$68 = "backtrace:"
+#0  memset (s=0x27ac8 <inode_table+1288>, c=-113 '\217', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$71 = "backtrace:"
+#0  memset (s=0x27b00 <inode_table+1344>, c=-96 '\240', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$74 = "backtrace:"
+#0  memset (s=0x27b38 <inode_table+1400>, c=-8 '\370', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$77 = "backtrace:"
+#0  memset (s=0x27b70 <inode_table+1456>, c=-113 '\217', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$80 = "backtrace:"
+#0  memset (s=0x27ba8 <inode_table+1512>, c=16 '\020', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$83 = "backtrace:"
+#0  memset (s=0x27be0 <inode_table+1568>, c=-113 '\217', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$86 = "backtrace:"
+#0  memset (s=0x27c18 <inode_table+1624>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$89 = "backtrace:"
+#0  memset (s=0x27c50 <inode_table+1680>, c=-113 '\217', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$92 = "backtrace:"
+#0  memset (s=0x27c88 <inode_table+1736>, c=-96 '\240', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$95 = "backtrace:"
+#0  memset (s=0x275c0 <inode_table>, c=101 'e', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$98 = "backtrace:"
+#0  memset (s=0x27630 <inode_table+112>, c=-64 '\300', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$101 = "backtrace:"
+#0  memset (s=0x276a0 <inode_table+224>, c=101 'e', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$104 = "backtrace:"
+#0  memset (s=0x276d8 <inode_table+280>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$107 = "backtrace:"
+#0  memset (s=0x27710 <inode_table+336>, c=-100 '\234', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$110 = "backtrace:"
+#0  memset (s=0x27780 <inode_table+448>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$113 = "backtrace:"
+#0  memset (s=0x277b8 <inode_table+504>, c=71 'G', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$116 = "backtrace:"
+#0  memset (s=0x277f0 <inode_table+560>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$119 = "backtrace:"
+#0  memset (s=0x27828 <inode_table+616>, c=71 'G', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$122 = "backtrace:"
+#0  memset (s=0x27860 <inode_table+672>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$125 = "backtrace:"
+#0  memset (s=0x27898 <inode_table+728>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$128 = "backtrace:"
+#0  memset (s=0x278d0 <inode_table+784>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$131 = "backtrace:"
+#0  memset (s=0x27908 <inode_table+840>, c=71 'G', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$134 = "backtrace:"
+#0  memset (s=0x27940 <inode_table+896>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$137 = "backtrace:"
+#0  memset (s=0x27978 <inode_table+952>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$140 = "backtrace:"
+#0  memset (s=0x279e8 <inode_table+1064>, c=83 'S', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$143 = "backtrace:"
+#0  memset (s=0x27a20 <inode_table+1120>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$146 = "backtrace:"
+#0  memset (s=0x27a58 <inode_table+1176>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$149 = "backtrace:"
+#0  memset (s=0x27a90 <inode_table+1232>, c=71 'G', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$152 = "backtrace:"
+#0  memset (s=0x27ac8 <inode_table+1288>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$155 = "backtrace:"
+#0  memset (s=0x27b00 <inode_table+1344>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$158 = "backtrace:"
+#0  memset (s=0x27b38 <inode_table+1400>, c=71 'G', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$161 = "backtrace:"
+#0  memset (s=0x27b70 <inode_table+1456>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$164 = "backtrace:"
+#0  memset (s=0x27ba8 <inode_table+1512>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$167 = "backtrace:"
+#0  memset (s=0x27be0 <inode_table+1568>, c=71 'G', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$170 = "backtrace:"
+#0  memset (s=0x27c18 <inode_table+1624>, c=-32 '\340', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$173 = "backtrace:"
+#0  memset (s=0x27c50 <inode_table+1680>, c=91 '[', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$176 = "backtrace:"
+#0  memset (s=0x27c88 <inode_table+1736>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$179 = "backtrace:"
+#0  memset (s=0x275c0 <inode_table>, c=48 '0', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$182 = "backtrace:"
+#0  memset (s=0x276a0 <inode_table+224>, c=-64 '\300', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$185 = "backtrace:"
+#0  memset (s=0x276d8 <inode_table+280>, c=-64 '\300', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$188 = "backtrace:"
+#0  memset (s=0x27710 <inode_table+336>, c=-64 '\300', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$191 = "backtrace:"
+#0  memset (s=0x27780 <inode_table+448>, c=-64 '\300', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$194 = "backtrace:"
+#0  memset (s=0x277b8 <inode_table+504>, c=-8 '\370', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$197 = "backtrace:"
+#0  memset (s=0x277f0 <inode_table+560>, c=-8 '\370', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$200 = "backtrace:"
+#0  memset (s=0x27828 <inode_table+616>, c=-8 '\370', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$203 = "backtrace:"
+#0  memset (s=0x27860 <inode_table+672>, c=71 'G', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$206 = "backtrace:"
+#0  memset (s=0x27898 <inode_table+728>, c=-64 '\300', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$209 = "backtrace:"
+#0  memset (s=0x278d0 <inode_table+784>, c=71 'G', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$212 = "backtrace:"
+#0  memset (s=0x27908 <inode_table+840>, c=-32 '\340', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$215 = "backtrace:"
+#0  memset (s=0x27940 <inode_table+896>, c=101 'e', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$218 = "backtrace:"
+#0  memset (s=0x27978 <inode_table+952>, c=64 '@', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$221 = "backtrace:"
+#0  memset (s=0x279e8 <inode_table+1064>, c=71 'G', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+
+    at ../include/string.h:396
+396	{
+$224 = "backtrace:"
+#0  memset (s=0x27a20 <inode_table+1120>, c=0 '\000', count=56)
+    at ../include/string.h:396
+#1  0x0000d060 in get_empty_inode () at inode.c:223
+
+

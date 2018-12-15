@@ -1,0 +1,70 @@
+Breakpoint 5, tty_ioctl (dev=1024, cmd=21505, arg=67108576) at tty_ioctl.c:116
+116	{
+$2 = "backtrace:"
+#0  tty_ioctl (dev=1024, cmd=21505, arg=67108576) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=0, cmd=21505, arg=67108576) at ioctl.c:45
+
+
+Breakpoint 5, tty_ioctl (dev=1024, cmd=21505, arg=67108576) at tty_ioctl.c:116
+116	{
+$5 = "backtrace:"
+#0  tty_ioctl (dev=1024, cmd=21505, arg=67108576) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=1, cmd=21505, arg=67108576) at ioctl.c:45
+
+
+Breakpoint 5, tty_ioctl (dev=1280, cmd=21505, arg=282936) at tty_ioctl.c:116
+116	{
+$8 = "backtrace:"
+#0  tty_ioctl (dev=1280, cmd=21505, arg=282936) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=3, cmd=21505, arg=282936) at ioctl.c:45
+
+
+Breakpoint 5, tty_ioctl (dev=1280, cmd=21505, arg=282936) at tty_ioctl.c:116
+116	{
+$11 = "backtrace:"
+#0  tty_ioctl (dev=1280, cmd=21505, arg=282936) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=3, cmd=21505, arg=282936) at ioctl.c:45
+
+
+Breakpoint 5, tty_ioctl (dev=1280, cmd=21505, arg=282936) at tty_ioctl.c:116
+116	{
+$14 = "backtrace:"
+#0  tty_ioctl (dev=1280, cmd=21505, arg=282936) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=3, cmd=21505, arg=282936) at ioctl.c:45
+
+
+Breakpoint 5, tty_ioctl (dev=1024, cmd=21523, arg=67106232) at tty_ioctl.c:116
+116	{
+$17 = "backtrace:"
+#0  tty_ioctl (dev=1024, cmd=21523, arg=67106232) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=0, cmd=21523, arg=67106232) at ioctl.c:45
+
+
+Breakpoint 5, tty_ioctl (dev=1024, cmd=21505, arg=67106212) at tty_ioctl.c:116
+116	{
+$20 = "backtrace:"
+#0  tty_ioctl (dev=1024, cmd=21505, arg=67106212) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=0, cmd=21505, arg=67106212) at ioctl.c:45
+
+
+Breakpoint 5, tty_ioctl (dev=1024, cmd=21505, arg=67106228) at tty_ioctl.c:116
+116	{
+$23 = "backtrace:"
+#0  tty_ioctl (dev=1024, cmd=21505, arg=67106228) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=0, cmd=21505, arg=67106228) at ioctl.c:45
+
+
+Breakpoint 5, tty_ioctl (dev=1024, cmd=21507, arg=67106228) at tty_ioctl.c:116
+116	{
+$26 = "backtrace:"
+#0  tty_ioctl (dev=1024, cmd=21507, arg=67106228) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=0, cmd=21507, arg=67106228) at ioctl.c:45
+
+
+Breakpoint 5, tty_ioctl (dev=1024, cmd=21514, arg=1) at tty_ioctl.c:116
+116	{
+$29 = "backtrace:"
+#0  tty_ioctl (dev=1024, cmd=21514, arg=1) at tty_ioctl.c:116
+#1  0x00013a50 in sys_ioctl (fd=0, cmd=21514, arg=1) at ioctl.c:45
+
+

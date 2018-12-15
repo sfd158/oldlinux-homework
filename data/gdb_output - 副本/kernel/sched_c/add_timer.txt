@@ -1,0 +1,7168 @@
+    at sched.c:274
+274	{
+$2 = "backtrace:"
+#0  add_timer (jiffies=50, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$5 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$8 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$11 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$14 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$17 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$20 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$23 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$26 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$29 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$32 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$35 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$38 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$41 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$44 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$47 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$50 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$53 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$56 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$59 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$62 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$65 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$68 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$71 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$74 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$77 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$80 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$83 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$86 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$89 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$92 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$95 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$98 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$101 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$104 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$107 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$110 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$113 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$116 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$119 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$122 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$125 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$128 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$131 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$134 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$137 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$140 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$143 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$146 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$149 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$152 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$155 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$158 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$161 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$164 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$167 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$170 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$173 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$176 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$179 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$182 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$185 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$188 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$191 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$194 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$197 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$200 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$203 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$206 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$209 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$212 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$215 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$218 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$221 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$224 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$227 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$230 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$233 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$236 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$239 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$242 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$245 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$248 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$251 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$254 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$257 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$260 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$263 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$266 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$269 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$272 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$275 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$278 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$281 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$284 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$287 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$290 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$293 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$296 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$299 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$302 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$305 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$308 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$311 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$314 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$317 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$320 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$323 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$326 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$329 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$332 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$335 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$338 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$341 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$344 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$347 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$350 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$353 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$356 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$359 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$362 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$365 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$368 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$371 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$374 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$377 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$380 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$383 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$386 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$389 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$392 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$395 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$398 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$401 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$404 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$407 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$410 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$413 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$416 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$419 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$422 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$425 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$428 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$431 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$434 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$437 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$440 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$443 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$446 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$449 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$452 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$455 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$458 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$461 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$464 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$467 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$470 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$473 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$476 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$479 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$482 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$485 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$488 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$491 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$494 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$497 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$500 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$503 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$506 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$509 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$512 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$515 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$518 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$521 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$524 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$527 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$530 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$533 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$536 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$539 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$542 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$545 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$548 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$551 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$554 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$557 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$560 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$563 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$566 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$569 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$572 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$575 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$578 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$581 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$584 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$587 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$590 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$593 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$596 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$599 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$602 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$605 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$608 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$611 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$614 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$617 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$620 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$623 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$626 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$629 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$632 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$635 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$638 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$641 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$644 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$647 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$650 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$653 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$656 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$659 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$662 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$665 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$668 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$671 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$674 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$677 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$680 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$683 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$686 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$689 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$692 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$695 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$698 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$701 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$704 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$707 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$710 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$713 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$716 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$719 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$722 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$725 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$728 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$731 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$734 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$737 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$740 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$743 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$746 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$749 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$752 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$755 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$758 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$761 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$764 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$767 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$770 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$773 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$776 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$779 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$782 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$785 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$788 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$791 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$794 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$797 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$800 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$803 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$806 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$809 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$812 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$815 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$818 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$821 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$824 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$827 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$830 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$833 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$836 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$839 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$842 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$845 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$848 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$851 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$854 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$857 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$860 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$863 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$866 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$869 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$872 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$875 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$878 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$881 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$884 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$887 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$890 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$893 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$896 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$899 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$902 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$905 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$908 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$911 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$914 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$917 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$920 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$923 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$926 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$929 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$932 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$935 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$938 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$941 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$944 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$947 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$950 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$953 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$956 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$959 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$962 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$965 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$968 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$971 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$974 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$977 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$980 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$983 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$986 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$989 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$992 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$995 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$998 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1001 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1004 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1007 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1010 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1013 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1016 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1019 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1022 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1025 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1028 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1031 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1034 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1037 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1040 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1043 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1046 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1049 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1052 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1055 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1058 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1061 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1064 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1067 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1070 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1073 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1076 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1079 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1082 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1085 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1088 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1091 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1094 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1097 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1100 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1103 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1106 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1109 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1112 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1115 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1118 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1121 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1124 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1127 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1130 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1133 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1136 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1139 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1142 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1145 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1148 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1151 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1154 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1157 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1160 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1163 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1166 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1169 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1172 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1175 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1178 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1181 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1184 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1187 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1190 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1193 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1196 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1199 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1202 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1205 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1208 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1211 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1214 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1217 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1220 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1223 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1226 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1229 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1232 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1235 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1238 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1241 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1244 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1247 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1250 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1253 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1256 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1259 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1262 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1265 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1268 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1271 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1274 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1277 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1280 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1283 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1286 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1289 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1292 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1295 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1298 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1301 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1304 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1307 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1310 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1313 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1316 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1319 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1322 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1325 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1328 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1331 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1334 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1337 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1340 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1343 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1346 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1349 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1352 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1355 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1358 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1361 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1364 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1367 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1370 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1373 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1376 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1379 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1382 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1385 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1388 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1391 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1394 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1397 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1400 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1403 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1406 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1409 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1412 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1415 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1418 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1421 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1424 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1427 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1430 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1433 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1436 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1439 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1442 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1445 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1448 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1451 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1454 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1457 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1460 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1463 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1466 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1469 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1472 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1475 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1478 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1481 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1484 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1487 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1490 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1493 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1496 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1499 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1502 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1505 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1508 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1511 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1514 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1517 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1520 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1523 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1526 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1529 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1532 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1535 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1538 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1541 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1544 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1547 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1550 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1553 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1556 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1559 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1562 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1565 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1568 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1571 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1574 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1577 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1580 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1583 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1586 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1589 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1592 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1595 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1598 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1601 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1604 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1607 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1610 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1613 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1616 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1619 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1622 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1625 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1628 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1631 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1634 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1637 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1640 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1643 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1646 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1649 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1652 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1655 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1658 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1661 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1664 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1667 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1670 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1673 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1676 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1679 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1682 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1685 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1688 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1691 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1694 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1697 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1700 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1703 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1706 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1709 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1712 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1715 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1718 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1721 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1724 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1727 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1730 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1733 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1736 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1739 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1742 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1745 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1748 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1751 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1754 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1757 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1760 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1763 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1766 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1769 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1772 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1775 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1778 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1781 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1784 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1787 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1790 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1793 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1796 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1799 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1802 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1805 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1808 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1811 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1814 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1817 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1820 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1823 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1826 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1829 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1832 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1835 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1838 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1841 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1844 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1847 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1850 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1853 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1856 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1859 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1862 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1865 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1868 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1871 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1874 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1877 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1880 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1883 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1886 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1889 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1892 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1895 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1898 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1901 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1904 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1907 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1910 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1913 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1916 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1919 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1922 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1925 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1928 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1931 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1934 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1937 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1940 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1943 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1946 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1949 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1952 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1955 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1958 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1961 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1964 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1967 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1970 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1973 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1976 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1979 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1982 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1985 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1988 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1991 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1994 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$1997 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2000 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2003 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2006 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2009 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2012 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2015 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2018 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2021 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2024 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2027 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2030 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2033 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2036 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2039 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2042 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2045 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2048 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2051 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2054 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2057 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2060 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2063 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2066 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2069 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2072 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2075 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2078 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2081 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2084 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2087 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2090 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2093 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2096 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2099 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2102 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2105 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2108 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2111 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2114 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2117 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2120 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2123 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2126 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2129 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2132 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2135 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2138 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2141 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2144 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2147 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2150 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2153 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2156 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2159 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2162 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2165 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2168 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2171 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2174 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2177 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2180 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2183 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2186 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2189 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2192 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2195 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2198 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2201 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2204 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2207 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2210 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2213 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2216 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2219 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2222 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2225 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2228 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2231 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2234 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2237 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2240 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2243 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2246 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2249 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2252 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2255 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2258 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2261 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2264 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2267 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2270 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2273 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2276 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2279 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2282 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2285 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2288 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2291 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2294 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2297 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2300 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2303 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2306 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2309 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2312 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2315 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2318 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2321 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2324 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2327 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2330 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2333 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2336 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2339 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2342 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2345 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2348 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2351 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2354 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2357 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2360 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2363 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2366 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2369 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2372 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2375 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2378 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2381 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2384 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2387 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2390 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2393 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2396 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2399 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2402 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2405 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2408 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2411 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2414 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2417 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2420 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2423 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2426 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2429 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2432 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2435 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2438 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2441 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2444 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2447 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2450 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2453 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2456 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2459 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2462 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2465 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2468 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2471 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2474 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2477 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2480 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2483 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2486 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2489 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2492 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2495 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2498 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2501 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2504 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2507 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2510 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2513 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2516 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2519 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2522 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2525 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2528 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2531 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2534 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2537 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2540 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2543 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2546 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2549 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2552 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2555 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2558 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2561 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2564 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2567 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2570 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2573 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2576 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2579 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2582 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2585 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2588 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2591 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2594 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2597 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2600 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2603 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2606 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2609 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2612 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2615 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2618 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2621 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2624 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2627 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2630 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2633 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2636 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2639 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2642 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2645 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2648 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2651 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2654 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2657 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2660 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2663 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2666 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2669 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2672 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2675 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2678 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2681 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2684 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2687 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2690 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2693 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2696 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2699 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2702 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2705 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2708 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2711 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2714 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2717 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2720 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2723 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2726 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2729 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2732 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2735 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2738 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2741 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2744 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2747 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2750 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2753 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2756 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2759 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2762 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2765 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2768 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2771 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2774 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2777 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2780 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2783 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2786 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2789 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2792 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2795 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2798 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2801 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2804 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2807 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2810 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2813 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2816 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2819 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2822 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2825 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2828 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2831 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2834 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2837 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2840 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2843 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2846 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2849 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2852 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2855 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2858 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2861 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2864 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2867 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2870 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2873 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2876 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2879 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2882 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2885 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2888 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2891 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2894 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2897 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2900 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2903 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2906 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2909 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2912 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2915 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2918 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2921 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2924 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2927 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2930 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2933 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2936 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2939 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2942 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2945 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2948 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2951 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2954 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2957 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2960 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2963 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2966 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2969 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2972 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2975 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2978 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2981 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2984 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2987 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2990 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2993 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2996 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$2999 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3002 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3005 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3008 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3011 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3014 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3017 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3020 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3023 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3026 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3029 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3032 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3035 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3038 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3041 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3044 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3047 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3050 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3053 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3056 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3059 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3062 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3065 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3068 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+
+    at sched.c:274
+274	{
+$3071 = "backtrace:"
+#0  add_timer (jiffies=0, fn=0x14d63 <floppy_on_interrupt>) at sched.c:274
+#1  0x00015062 in do_fd_request () at floppy.c:455
+
+

@@ -1,0 +1,7 @@
+Breakpoint 5, buffer_init (buffer_end=4194304) at buffer.c:352
+352	{
+$2 = "backtrace:"
+#0  buffer_init (buffer_end=4194304) at buffer.c:352
+#1  0x000068d2 in main () at main.c:136
+
+

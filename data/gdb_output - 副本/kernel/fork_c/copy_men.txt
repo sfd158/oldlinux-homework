@@ -1,0 +1,46 @@
+Breakpoint 5, copy_mem (nr=1, p=0xffe000) at fork.c:41
+41	{
+$2 = "backtrace:"
+#0  copy_mem (nr=1, p=0xffe000) at fork.c:41
+#1  0x00008a44 in copy_process (nr=1, ebp=167656, edi=4092, esi=917504, gs=23, 
+    none=31079, ebx=139264, ecx=21992, edx=33, fs=23, es=23, ds=23, eip=26882, 
+    cs=15, eflags=514, esp=167632, ss=23) at fork.c:120
+
+
+Breakpoint 5, copy_mem (nr=2, p=0xffa000) at fork.c:41
+41	{
+$5 = "backtrace:"
+#0  copy_mem (nr=2, p=0xffa000) at fork.c:41
+#1  0x00008a44 in copy_process (nr=2, ebp=167656, edi=4092, esi=917504, gs=23, 
+    none=31079, ebx=139264, ecx=154400, edx=26, fs=23, es=131095, ds=131095, 
+    eip=27206, cs=15, eflags=514, esp=167600, ss=23) at fork.c:120
+
+
+Breakpoint 5, copy_mem (nr=3, p=0xfbe000) at fork.c:41
+41	{
+$8 = "backtrace:"
+#0  copy_mem (nr=3, p=0xfbe000) at fork.c:41
+#1  0x00008a44 in copy_process (nr=3, ebp=67108216, edi=4092, esi=1, gs=23, 
+    none=31079, ebx=105884, ecx=12, edx=309952, fs=23, es=23, ds=23, 
+    eip=234659, cs=15, eflags=582, esp=67108204, ss=23) at fork.c:120
+
+
+Breakpoint 5, copy_mem (nr=2, p=0xffc000) at fork.c:41
+41	{
+$11 = "backtrace:"
+#0  copy_mem (nr=2, p=0xffc000) at fork.c:41
+#1  0x00008a44 in copy_process (nr=2, ebp=167656, edi=4092, esi=917504, gs=23, 
+    none=31079, ebx=139264, ecx=167600, edx=0, fs=23, es=131095, ds=23, 
+    eip=27389, cs=15, eflags=582, esp=167600, ss=23) at fork.c:120
+
+
+Breakpoint 5, copy_mem (nr=4, p=0xfb1000) at fork.c:41
+41	{
+$14 = "backtrace:"
+#0  copy_mem (nr=4, p=0xfb1000) at fork.c:41
+#1  0x00008a44 in copy_process (nr=4, ebp=67104960, edi=307297, esi=76371, 
+    gs=23, none=31079, ebx=317132, ecx=76350, edx=307456, fs=23, es=23, 
+    ds=131095, eip=234659, cs=15, eflags=582, esp=67104948, ss=23)
+    at fork.c:120
+
+

@@ -1,0 +1,14 @@
+Breakpoint 5, init (port=1016) at serial.c:27
+27	{
+$2 = "backtrace:"
+#0  init (port=1016) at serial.c:27
+#1  0x000191a2 in rs_init () at serial.c:41
+
+
+Breakpoint 5, init (port=760) at serial.c:27
+27	{
+$5 = "backtrace:"
+#0  init (port=760) at serial.c:27
+#1  0x000191b7 in rs_init () at serial.c:42
+
+

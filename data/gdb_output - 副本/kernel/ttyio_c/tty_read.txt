@@ -1,0 +1,10 @@
+    buf=0x3fff5a0 "\264", <incomplete sequence \332>, nr=1) at tty_io.c:231
+231	{
+$2 = "backtrace:"
+#0  tty_read (channel=0, buf=0x3fff5a0 "\264", <incomplete sequence \332>, 
+    nr=1) at tty_io.c:231
+#1  0x0000f09c in rw_ttyx (rw=0, minor=0, 
+    buf=0x3fff5a0 <incomplete sequence \360>, count=1, 
+    pos=0x2975c <file_table+28>) at char_dev.c:23
+
+

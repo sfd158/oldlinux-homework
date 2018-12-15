@@ -1,0 +1,7231 @@
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$5 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$8 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$11 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$14 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$17 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$20 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$23 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$26 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$29 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$32 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$35 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$38 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$41 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$44 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$47 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$50 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$53 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$56 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$59 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$62 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$65 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$68 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$71 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$74 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$77 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$80 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$83 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$86 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$89 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$92 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$95 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$98 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$101 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$104 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$107 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$110 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$113 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$116 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$119 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$122 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$125 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$128 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$131 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$134 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$137 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$140 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$143 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$146 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$149 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$152 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$155 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$158 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$161 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$164 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$167 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$170 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$173 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$176 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$179 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$182 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$185 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$188 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$191 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$194 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$197 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$200 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$203 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$206 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$209 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$212 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$215 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$218 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$221 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$224 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$227 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$230 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$233 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$236 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$239 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$242 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$245 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$248 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$251 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$254 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$257 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$260 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$263 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$266 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$269 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$272 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$275 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$278 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$281 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$284 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$287 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$290 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$293 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$296 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$299 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$302 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$305 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$308 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$311 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$314 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$317 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$320 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$323 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$326 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$329 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$332 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$335 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$338 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$341 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$344 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$347 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$350 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$353 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$356 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$359 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$362 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$365 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$368 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$371 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$374 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$377 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$380 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$383 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$386 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$389 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$392 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$395 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$398 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$401 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$404 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$407 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$410 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$413 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$416 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$419 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$422 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$425 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$428 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$431 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$434 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$437 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$440 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$443 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$446 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$449 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$452 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$455 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$458 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$461 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$464 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$467 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$470 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$473 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$476 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$479 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$482 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$485 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$488 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$491 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$494 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$497 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$500 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$503 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$506 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$509 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$512 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$515 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$518 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$521 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$524 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$527 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$530 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$533 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$536 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$539 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$542 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$545 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$548 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$551 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$554 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$557 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$560 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$563 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$566 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$569 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$572 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$575 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$578 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$581 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$584 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$587 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$590 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$593 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$596 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$599 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$602 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$605 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$608 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$611 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$614 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$617 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$620 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$623 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$626 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$629 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$632 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$635 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$638 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$641 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$644 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$647 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$650 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$653 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$656 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$659 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$662 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$665 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$668 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$671 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$674 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$677 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$680 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$683 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$686 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$689 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$692 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$695 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$698 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$701 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$704 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$707 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$710 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$713 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$716 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$719 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$722 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$725 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$728 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$731 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$734 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$737 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$740 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$743 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$746 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$749 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$752 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$755 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$758 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$761 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$764 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$767 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$770 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$773 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$776 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$779 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$782 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$785 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$788 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$791 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$794 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$797 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$800 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$803 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$806 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$809 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$812 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$815 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$818 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$821 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$824 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$827 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$830 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$833 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$836 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$839 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$842 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$845 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$848 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$851 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$854 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$857 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$860 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$863 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$866 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$869 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$872 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$875 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$878 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$881 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$884 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$887 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$890 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$893 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$896 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$899 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$902 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$905 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$908 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$911 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$914 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$917 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$920 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$923 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$926 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$929 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$932 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$935 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$938 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$941 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$944 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$947 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$950 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$953 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$956 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$959 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$962 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$965 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$968 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$971 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$974 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$977 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$980 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$983 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$986 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$989 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$992 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$995 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$998 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1001 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1004 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1007 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1010 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1013 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1016 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1019 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1022 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1025 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1028 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1031 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1034 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1037 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1040 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1043 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1046 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1049 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1052 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1055 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1058 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1061 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1064 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1067 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1070 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1073 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1076 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1079 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1082 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1085 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1088 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1091 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1094 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1097 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1100 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1103 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1106 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1109 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1112 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1115 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1118 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1121 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1124 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1127 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1130 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1133 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1136 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1139 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1142 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1145 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1148 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1151 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1154 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1157 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1160 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1163 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1166 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1169 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1172 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1175 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1178 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1181 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1184 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1187 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1190 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1193 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1196 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1199 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1202 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1205 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1208 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1211 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1214 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1217 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1220 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1223 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1226 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1229 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1232 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1235 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1238 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1241 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1244 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1247 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1250 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1253 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1256 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1259 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1262 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1265 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1268 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1271 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1274 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1277 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1280 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1283 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1286 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1289 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1292 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1295 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1298 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1301 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1304 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1307 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1310 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1313 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1316 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1319 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1322 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1325 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1328 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1331 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1334 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1337 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1340 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1343 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1346 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1349 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1352 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1355 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1358 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1361 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1364 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1367 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1370 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1373 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1376 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1379 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1382 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1385 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1388 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1391 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1394 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1397 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1400 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1403 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1406 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1409 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1412 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1415 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1418 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1421 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1424 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1427 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1430 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1433 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1436 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1439 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1442 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1445 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1448 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1451 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1454 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1457 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1460 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1463 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1466 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1469 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1472 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1475 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1478 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1481 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1484 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1487 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1490 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1493 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1496 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1499 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1502 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1505 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1508 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1511 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1514 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1517 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1520 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1523 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1526 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1529 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1532 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1535 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1538 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1541 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1544 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1547 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1550 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1553 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1556 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1559 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1562 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1565 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1568 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1571 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1574 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1577 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1580 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1583 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1586 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1589 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1592 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1595 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1598 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1601 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1604 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1607 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1610 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1613 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1616 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1619 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1622 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1625 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1628 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1631 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1634 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1637 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1640 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1643 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1646 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1649 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1652 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1655 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1658 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1661 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1664 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1667 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1670 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1673 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1676 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1679 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1682 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1685 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1688 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1691 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1694 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1697 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1700 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1703 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1706 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1709 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1712 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1715 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1718 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1721 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1724 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1727 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1730 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1733 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1736 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1739 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1742 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1745 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1748 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1751 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1754 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1757 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1760 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1763 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1766 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1769 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1772 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1775 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1778 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1781 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1784 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1787 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1790 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1793 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1796 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1799 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1802 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1805 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1808 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1811 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1814 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1817 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1820 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1823 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1826 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1829 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1832 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1835 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1838 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1841 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1844 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1847 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1850 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1853 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1856 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1859 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1862 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1865 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1868 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1871 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1874 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1877 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1880 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1883 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1886 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1889 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1892 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1895 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1898 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1901 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1904 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1907 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1910 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1913 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1916 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1919 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1922 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1925 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1928 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1931 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1934 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1937 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1940 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1943 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1946 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1949 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1952 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1955 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1958 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1961 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1964 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1967 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1970 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1973 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1976 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1979 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1982 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1985 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1988 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1991 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1994 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$1997 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2000 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2003 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2006 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2009 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2012 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2015 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2018 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2021 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2024 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2027 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2030 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2033 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2036 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2039 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2042 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2045 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2048 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2051 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2054 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2057 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2060 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2063 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2066 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2069 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2072 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2075 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2078 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2081 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2084 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2087 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2090 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2093 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2096 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2099 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2102 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2105 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2108 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2111 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2114 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2117 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2120 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2123 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2126 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2129 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2132 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2135 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2138 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2141 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2144 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2147 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2150 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2153 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2156 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2159 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2162 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2165 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2168 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2171 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2174 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2177 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2180 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2183 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2186 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2189 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2192 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2195 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2198 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2201 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2204 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2207 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2210 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2213 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2216 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2219 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2222 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2225 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2228 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2231 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2234 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2237 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2240 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2243 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2246 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2249 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2252 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2255 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2258 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2261 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2264 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2267 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2270 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2273 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2276 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2279 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2282 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2285 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2288 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2291 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2294 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2297 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2300 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2303 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2306 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2309 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2312 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2315 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2318 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2321 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2324 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2327 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2330 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2333 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2336 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2339 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2342 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2345 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2348 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2351 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2354 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2357 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2360 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2363 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2366 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2369 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2372 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2375 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2378 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2381 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2384 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2387 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2390 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2393 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2396 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2399 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2402 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2405 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2408 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2411 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2414 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2417 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2420 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2423 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2426 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2429 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2432 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2435 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2438 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2441 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2444 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2447 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2450 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2453 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2456 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2459 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2462 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2465 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2468 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2471 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2474 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2477 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2480 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2483 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2486 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2489 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2492 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2495 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2498 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2501 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2504 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2507 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2510 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2513 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2516 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2519 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2522 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2525 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2528 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2531 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2534 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2537 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2540 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2543 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2546 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2549 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2552 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2555 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2558 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2561 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2564 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2567 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2570 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2573 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2576 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2579 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2582 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2585 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2588 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2591 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2594 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2597 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2600 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2603 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2606 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2609 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2612 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2615 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2618 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2621 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2624 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2627 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2630 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2633 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2636 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2639 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2642 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2645 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2648 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2651 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2654 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2657 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2660 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2663 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2666 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2669 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2672 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2675 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2678 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2681 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2684 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2687 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2690 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2693 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2696 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2699 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2702 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2705 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2708 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2711 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2714 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2717 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2720 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2723 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2726 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2729 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2732 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2735 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2738 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2741 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2744 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2747 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2750 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2753 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2756 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2759 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2762 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2765 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2768 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2771 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2774 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2777 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2780 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2783 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2786 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2789 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2792 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2795 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2798 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2801 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2804 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2807 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2810 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2813 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2816 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2819 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2822 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2825 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2828 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2831 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2834 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2837 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2840 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2843 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2846 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2849 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2852 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2855 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2858 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2861 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2864 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2867 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2870 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2873 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2876 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2879 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2882 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2885 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2888 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2891 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2894 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2897 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2900 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2903 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2906 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2909 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2912 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2915 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2918 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2921 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2924 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2927 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2930 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2933 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2936 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2939 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2942 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2945 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2948 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2951 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2954 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2957 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2960 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2963 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2966 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2969 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2972 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2975 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2978 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2981 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2984 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2987 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2990 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2993 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2996 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$2999 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3002 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3005 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3008 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3011 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3014 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3017 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3020 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3023 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3026 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3029 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3032 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3035 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3038 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3041 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3044 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3047 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3050 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3053 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3056 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3059 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3062 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3065 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3068 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3071 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3074 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3077 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3080 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3083 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3086 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3089 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3092 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3095 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
+Breakpoint 5, set_cursor () at console.c:314
+314	{
+$3098 = "backtrace:"
+#0  set_cursor () at console.c:314
+#1  0x000185a4 in con_write (tty=0x234a0 <tty_table>) at console.c:604
+
+
