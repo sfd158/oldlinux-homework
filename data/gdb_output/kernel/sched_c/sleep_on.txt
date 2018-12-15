@@ -1,0 +1,7176 @@
+Breakpoint 5, sleep_on (p=0x29fdc) at sched.c:152
+152	{
+$2 = "backtrace:"
+#0  sleep_on (p=0x29fdc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x29fcc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a000) at sched.c:152
+152	{
+$5 = "backtrace:"
+#0  sleep_on (p=0x2a000) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x29ff0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a024) at sched.c:152
+152	{
+$8 = "backtrace:"
+#0  sleep_on (p=0x2a024) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a014) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a048) at sched.c:152
+152	{
+$11 = "backtrace:"
+#0  sleep_on (p=0x2a048) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a038) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a06c) at sched.c:152
+152	{
+$14 = "backtrace:"
+#0  sleep_on (p=0x2a06c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a05c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a090) at sched.c:152
+152	{
+$17 = "backtrace:"
+#0  sleep_on (p=0x2a090) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a080) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a0b4) at sched.c:152
+152	{
+$20 = "backtrace:"
+#0  sleep_on (p=0x2a0b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a0a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a0d8) at sched.c:152
+152	{
+$23 = "backtrace:"
+#0  sleep_on (p=0x2a0d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a0c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a0fc) at sched.c:152
+152	{
+$26 = "backtrace:"
+#0  sleep_on (p=0x2a0fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a0ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a120) at sched.c:152
+152	{
+$29 = "backtrace:"
+#0  sleep_on (p=0x2a120) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a110) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a144) at sched.c:152
+152	{
+$32 = "backtrace:"
+#0  sleep_on (p=0x2a144) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a134) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a168) at sched.c:152
+152	{
+$35 = "backtrace:"
+#0  sleep_on (p=0x2a168) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a158) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a18c) at sched.c:152
+152	{
+$38 = "backtrace:"
+#0  sleep_on (p=0x2a18c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a17c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a1b0) at sched.c:152
+152	{
+$41 = "backtrace:"
+#0  sleep_on (p=0x2a1b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a1a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a1d4) at sched.c:152
+152	{
+$44 = "backtrace:"
+#0  sleep_on (p=0x2a1d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a1c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a1f8) at sched.c:152
+152	{
+$47 = "backtrace:"
+#0  sleep_on (p=0x2a1f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a1e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a21c) at sched.c:152
+152	{
+$50 = "backtrace:"
+#0  sleep_on (p=0x2a21c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a20c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a240) at sched.c:152
+152	{
+$53 = "backtrace:"
+#0  sleep_on (p=0x2a240) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a230) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a264) at sched.c:152
+152	{
+$56 = "backtrace:"
+#0  sleep_on (p=0x2a264) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a254) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a288) at sched.c:152
+152	{
+$59 = "backtrace:"
+#0  sleep_on (p=0x2a288) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a278) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a2ac) at sched.c:152
+152	{
+$62 = "backtrace:"
+#0  sleep_on (p=0x2a2ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a29c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a2d0) at sched.c:152
+152	{
+$65 = "backtrace:"
+#0  sleep_on (p=0x2a2d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a2c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a2f4) at sched.c:152
+152	{
+$68 = "backtrace:"
+#0  sleep_on (p=0x2a2f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a2e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a318) at sched.c:152
+152	{
+$71 = "backtrace:"
+#0  sleep_on (p=0x2a318) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a308) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a33c) at sched.c:152
+152	{
+$74 = "backtrace:"
+#0  sleep_on (p=0x2a33c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a32c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a360) at sched.c:152
+152	{
+$77 = "backtrace:"
+#0  sleep_on (p=0x2a360) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a350) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a384) at sched.c:152
+152	{
+$80 = "backtrace:"
+#0  sleep_on (p=0x2a384) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a374) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a3a8) at sched.c:152
+152	{
+$83 = "backtrace:"
+#0  sleep_on (p=0x2a3a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a398) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a3cc) at sched.c:152
+152	{
+$86 = "backtrace:"
+#0  sleep_on (p=0x2a3cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a3bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a3f0) at sched.c:152
+152	{
+$89 = "backtrace:"
+#0  sleep_on (p=0x2a3f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a3e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a414) at sched.c:152
+152	{
+$92 = "backtrace:"
+#0  sleep_on (p=0x2a414) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a404) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a438) at sched.c:152
+152	{
+$95 = "backtrace:"
+#0  sleep_on (p=0x2a438) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a428) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a45c) at sched.c:152
+152	{
+$98 = "backtrace:"
+#0  sleep_on (p=0x2a45c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a44c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a480) at sched.c:152
+152	{
+$101 = "backtrace:"
+#0  sleep_on (p=0x2a480) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a470) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a4a4) at sched.c:152
+152	{
+$104 = "backtrace:"
+#0  sleep_on (p=0x2a4a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a494) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a4c8) at sched.c:152
+152	{
+$107 = "backtrace:"
+#0  sleep_on (p=0x2a4c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a4b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a4ec) at sched.c:152
+152	{
+$110 = "backtrace:"
+#0  sleep_on (p=0x2a4ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a4dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a510) at sched.c:152
+152	{
+$113 = "backtrace:"
+#0  sleep_on (p=0x2a510) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a500) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a534) at sched.c:152
+152	{
+$116 = "backtrace:"
+#0  sleep_on (p=0x2a534) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a524) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a558) at sched.c:152
+152	{
+$119 = "backtrace:"
+#0  sleep_on (p=0x2a558) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a548) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a57c) at sched.c:152
+152	{
+$122 = "backtrace:"
+#0  sleep_on (p=0x2a57c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a56c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a5a0) at sched.c:152
+152	{
+$125 = "backtrace:"
+#0  sleep_on (p=0x2a5a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a590) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a5c4) at sched.c:152
+152	{
+$128 = "backtrace:"
+#0  sleep_on (p=0x2a5c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a5b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a5e8) at sched.c:152
+152	{
+$131 = "backtrace:"
+#0  sleep_on (p=0x2a5e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a5d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a60c) at sched.c:152
+152	{
+$134 = "backtrace:"
+#0  sleep_on (p=0x2a60c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a5fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a630) at sched.c:152
+152	{
+$137 = "backtrace:"
+#0  sleep_on (p=0x2a630) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a620) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a654) at sched.c:152
+152	{
+$140 = "backtrace:"
+#0  sleep_on (p=0x2a654) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a644) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a678) at sched.c:152
+152	{
+$143 = "backtrace:"
+#0  sleep_on (p=0x2a678) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a668) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a69c) at sched.c:152
+152	{
+$146 = "backtrace:"
+#0  sleep_on (p=0x2a69c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a68c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a6c0) at sched.c:152
+152	{
+$149 = "backtrace:"
+#0  sleep_on (p=0x2a6c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a6b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a6e4) at sched.c:152
+152	{
+$152 = "backtrace:"
+#0  sleep_on (p=0x2a6e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a6d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a708) at sched.c:152
+152	{
+$155 = "backtrace:"
+#0  sleep_on (p=0x2a708) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a6f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a72c) at sched.c:152
+152	{
+$158 = "backtrace:"
+#0  sleep_on (p=0x2a72c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a71c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a750) at sched.c:152
+152	{
+$161 = "backtrace:"
+#0  sleep_on (p=0x2a750) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a740) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a774) at sched.c:152
+152	{
+$164 = "backtrace:"
+#0  sleep_on (p=0x2a774) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a764) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a798) at sched.c:152
+152	{
+$167 = "backtrace:"
+#0  sleep_on (p=0x2a798) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a788) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a7bc) at sched.c:152
+152	{
+$170 = "backtrace:"
+#0  sleep_on (p=0x2a7bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a7ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a7e0) at sched.c:152
+152	{
+$173 = "backtrace:"
+#0  sleep_on (p=0x2a7e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a7d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a804) at sched.c:152
+152	{
+$176 = "backtrace:"
+#0  sleep_on (p=0x2a804) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a7f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a828) at sched.c:152
+152	{
+$179 = "backtrace:"
+#0  sleep_on (p=0x2a828) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a818) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a84c) at sched.c:152
+152	{
+$182 = "backtrace:"
+#0  sleep_on (p=0x2a84c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a83c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a870) at sched.c:152
+152	{
+$185 = "backtrace:"
+#0  sleep_on (p=0x2a870) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a860) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a894) at sched.c:152
+152	{
+$188 = "backtrace:"
+#0  sleep_on (p=0x2a894) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a884) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a8b8) at sched.c:152
+152	{
+$191 = "backtrace:"
+#0  sleep_on (p=0x2a8b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a8a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a8dc) at sched.c:152
+152	{
+$194 = "backtrace:"
+#0  sleep_on (p=0x2a8dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a8cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a900) at sched.c:152
+152	{
+$197 = "backtrace:"
+#0  sleep_on (p=0x2a900) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a8f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a924) at sched.c:152
+152	{
+$200 = "backtrace:"
+#0  sleep_on (p=0x2a924) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a914) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a948) at sched.c:152
+152	{
+$203 = "backtrace:"
+#0  sleep_on (p=0x2a948) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a938) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a96c) at sched.c:152
+152	{
+$206 = "backtrace:"
+#0  sleep_on (p=0x2a96c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a95c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a990) at sched.c:152
+152	{
+$209 = "backtrace:"
+#0  sleep_on (p=0x2a990) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a980) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a9b4) at sched.c:152
+152	{
+$212 = "backtrace:"
+#0  sleep_on (p=0x2a9b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a9a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a9d8) at sched.c:152
+152	{
+$215 = "backtrace:"
+#0  sleep_on (p=0x2a9d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a9c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2a9fc) at sched.c:152
+152	{
+$218 = "backtrace:"
+#0  sleep_on (p=0x2a9fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2a9ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aa20) at sched.c:152
+152	{
+$221 = "backtrace:"
+#0  sleep_on (p=0x2aa20) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aa10) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aa44) at sched.c:152
+152	{
+$224 = "backtrace:"
+#0  sleep_on (p=0x2aa44) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aa34) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aa68) at sched.c:152
+152	{
+$227 = "backtrace:"
+#0  sleep_on (p=0x2aa68) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aa58) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aa8c) at sched.c:152
+152	{
+$230 = "backtrace:"
+#0  sleep_on (p=0x2aa8c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aa7c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aab0) at sched.c:152
+152	{
+$233 = "backtrace:"
+#0  sleep_on (p=0x2aab0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aaa0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aad4) at sched.c:152
+152	{
+$236 = "backtrace:"
+#0  sleep_on (p=0x2aad4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aac4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aaf8) at sched.c:152
+152	{
+$239 = "backtrace:"
+#0  sleep_on (p=0x2aaf8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aae8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ab1c) at sched.c:152
+152	{
+$242 = "backtrace:"
+#0  sleep_on (p=0x2ab1c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ab0c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ab40) at sched.c:152
+152	{
+$245 = "backtrace:"
+#0  sleep_on (p=0x2ab40) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ab30) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ab64) at sched.c:152
+152	{
+$248 = "backtrace:"
+#0  sleep_on (p=0x2ab64) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ab54) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ab88) at sched.c:152
+152	{
+$251 = "backtrace:"
+#0  sleep_on (p=0x2ab88) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ab78) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2abac) at sched.c:152
+152	{
+$254 = "backtrace:"
+#0  sleep_on (p=0x2abac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ab9c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2abd0) at sched.c:152
+152	{
+$257 = "backtrace:"
+#0  sleep_on (p=0x2abd0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2abc0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2abf4) at sched.c:152
+152	{
+$260 = "backtrace:"
+#0  sleep_on (p=0x2abf4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2abe4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ac18) at sched.c:152
+152	{
+$263 = "backtrace:"
+#0  sleep_on (p=0x2ac18) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ac08) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ac3c) at sched.c:152
+152	{
+$266 = "backtrace:"
+#0  sleep_on (p=0x2ac3c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ac2c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ac60) at sched.c:152
+152	{
+$269 = "backtrace:"
+#0  sleep_on (p=0x2ac60) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ac50) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ac84) at sched.c:152
+152	{
+$272 = "backtrace:"
+#0  sleep_on (p=0x2ac84) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ac74) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aca8) at sched.c:152
+152	{
+$275 = "backtrace:"
+#0  sleep_on (p=0x2aca8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ac98) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2accc) at sched.c:152
+152	{
+$278 = "backtrace:"
+#0  sleep_on (p=0x2accc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2acbc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2acf0) at sched.c:152
+152	{
+$281 = "backtrace:"
+#0  sleep_on (p=0x2acf0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ace0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ad14) at sched.c:152
+152	{
+$284 = "backtrace:"
+#0  sleep_on (p=0x2ad14) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ad04) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ad38) at sched.c:152
+152	{
+$287 = "backtrace:"
+#0  sleep_on (p=0x2ad38) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ad28) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ad5c) at sched.c:152
+152	{
+$290 = "backtrace:"
+#0  sleep_on (p=0x2ad5c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ad4c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ad80) at sched.c:152
+152	{
+$293 = "backtrace:"
+#0  sleep_on (p=0x2ad80) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ad70) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ada4) at sched.c:152
+152	{
+$296 = "backtrace:"
+#0  sleep_on (p=0x2ada4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ad94) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2adc8) at sched.c:152
+152	{
+$299 = "backtrace:"
+#0  sleep_on (p=0x2adc8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2adb8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2adec) at sched.c:152
+152	{
+$302 = "backtrace:"
+#0  sleep_on (p=0x2adec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2addc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ae10) at sched.c:152
+152	{
+$305 = "backtrace:"
+#0  sleep_on (p=0x2ae10) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ae00) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ae34) at sched.c:152
+152	{
+$308 = "backtrace:"
+#0  sleep_on (p=0x2ae34) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ae24) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ae58) at sched.c:152
+152	{
+$311 = "backtrace:"
+#0  sleep_on (p=0x2ae58) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ae48) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ae7c) at sched.c:152
+152	{
+$314 = "backtrace:"
+#0  sleep_on (p=0x2ae7c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ae6c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aea0) at sched.c:152
+152	{
+$317 = "backtrace:"
+#0  sleep_on (p=0x2aea0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ae90) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aec4) at sched.c:152
+152	{
+$320 = "backtrace:"
+#0  sleep_on (p=0x2aec4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aeb4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2aee8) at sched.c:152
+152	{
+$323 = "backtrace:"
+#0  sleep_on (p=0x2aee8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aed8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2af0c) at sched.c:152
+152	{
+$326 = "backtrace:"
+#0  sleep_on (p=0x2af0c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aefc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2af30) at sched.c:152
+152	{
+$329 = "backtrace:"
+#0  sleep_on (p=0x2af30) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2af20) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2af54) at sched.c:152
+152	{
+$332 = "backtrace:"
+#0  sleep_on (p=0x2af54) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2af44) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2af78) at sched.c:152
+152	{
+$335 = "backtrace:"
+#0  sleep_on (p=0x2af78) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2af68) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2af9c) at sched.c:152
+152	{
+$338 = "backtrace:"
+#0  sleep_on (p=0x2af9c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2af8c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2afc0) at sched.c:152
+152	{
+$341 = "backtrace:"
+#0  sleep_on (p=0x2afc0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2afb0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2afe4) at sched.c:152
+152	{
+$344 = "backtrace:"
+#0  sleep_on (p=0x2afe4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2afd4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b008) at sched.c:152
+152	{
+$347 = "backtrace:"
+#0  sleep_on (p=0x2b008) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2aff8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b02c) at sched.c:152
+152	{
+$350 = "backtrace:"
+#0  sleep_on (p=0x2b02c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b01c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b050) at sched.c:152
+152	{
+$353 = "backtrace:"
+#0  sleep_on (p=0x2b050) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b040) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b074) at sched.c:152
+152	{
+$356 = "backtrace:"
+#0  sleep_on (p=0x2b074) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b064) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b098) at sched.c:152
+152	{
+$359 = "backtrace:"
+#0  sleep_on (p=0x2b098) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b088) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b0bc) at sched.c:152
+152	{
+$362 = "backtrace:"
+#0  sleep_on (p=0x2b0bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b0ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b0e0) at sched.c:152
+152	{
+$365 = "backtrace:"
+#0  sleep_on (p=0x2b0e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b0d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b104) at sched.c:152
+152	{
+$368 = "backtrace:"
+#0  sleep_on (p=0x2b104) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b0f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b128) at sched.c:152
+152	{
+$371 = "backtrace:"
+#0  sleep_on (p=0x2b128) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b118) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b14c) at sched.c:152
+152	{
+$374 = "backtrace:"
+#0  sleep_on (p=0x2b14c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b13c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b170) at sched.c:152
+152	{
+$377 = "backtrace:"
+#0  sleep_on (p=0x2b170) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b160) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b194) at sched.c:152
+152	{
+$380 = "backtrace:"
+#0  sleep_on (p=0x2b194) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b184) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b1b8) at sched.c:152
+152	{
+$383 = "backtrace:"
+#0  sleep_on (p=0x2b1b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b1a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b1dc) at sched.c:152
+152	{
+$386 = "backtrace:"
+#0  sleep_on (p=0x2b1dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b1cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b200) at sched.c:152
+152	{
+$389 = "backtrace:"
+#0  sleep_on (p=0x2b200) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b1f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b224) at sched.c:152
+152	{
+$392 = "backtrace:"
+#0  sleep_on (p=0x2b224) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b214) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b248) at sched.c:152
+152	{
+$395 = "backtrace:"
+#0  sleep_on (p=0x2b248) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b238) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b26c) at sched.c:152
+152	{
+$398 = "backtrace:"
+#0  sleep_on (p=0x2b26c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b25c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b290) at sched.c:152
+152	{
+$401 = "backtrace:"
+#0  sleep_on (p=0x2b290) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b280) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b2b4) at sched.c:152
+152	{
+$404 = "backtrace:"
+#0  sleep_on (p=0x2b2b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b2a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b2d8) at sched.c:152
+152	{
+$407 = "backtrace:"
+#0  sleep_on (p=0x2b2d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b2c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b2fc) at sched.c:152
+152	{
+$410 = "backtrace:"
+#0  sleep_on (p=0x2b2fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b2ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b320) at sched.c:152
+152	{
+$413 = "backtrace:"
+#0  sleep_on (p=0x2b320) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b310) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b344) at sched.c:152
+152	{
+$416 = "backtrace:"
+#0  sleep_on (p=0x2b344) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b334) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b368) at sched.c:152
+152	{
+$419 = "backtrace:"
+#0  sleep_on (p=0x2b368) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b358) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b38c) at sched.c:152
+152	{
+$422 = "backtrace:"
+#0  sleep_on (p=0x2b38c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b37c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b3b0) at sched.c:152
+152	{
+$425 = "backtrace:"
+#0  sleep_on (p=0x2b3b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b3a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b3d4) at sched.c:152
+152	{
+$428 = "backtrace:"
+#0  sleep_on (p=0x2b3d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b3c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b3f8) at sched.c:152
+152	{
+$431 = "backtrace:"
+#0  sleep_on (p=0x2b3f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b3e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b41c) at sched.c:152
+152	{
+$434 = "backtrace:"
+#0  sleep_on (p=0x2b41c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b40c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b440) at sched.c:152
+152	{
+$437 = "backtrace:"
+#0  sleep_on (p=0x2b440) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b430) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b464) at sched.c:152
+152	{
+$440 = "backtrace:"
+#0  sleep_on (p=0x2b464) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b454) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b488) at sched.c:152
+152	{
+$443 = "backtrace:"
+#0  sleep_on (p=0x2b488) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b478) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b4ac) at sched.c:152
+152	{
+$446 = "backtrace:"
+#0  sleep_on (p=0x2b4ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b49c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b4d0) at sched.c:152
+152	{
+$449 = "backtrace:"
+#0  sleep_on (p=0x2b4d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b4c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b4f4) at sched.c:152
+152	{
+$452 = "backtrace:"
+#0  sleep_on (p=0x2b4f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b4e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b518) at sched.c:152
+152	{
+$455 = "backtrace:"
+#0  sleep_on (p=0x2b518) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b508) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b53c) at sched.c:152
+152	{
+$458 = "backtrace:"
+#0  sleep_on (p=0x2b53c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b52c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b560) at sched.c:152
+152	{
+$461 = "backtrace:"
+#0  sleep_on (p=0x2b560) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b550) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b584) at sched.c:152
+152	{
+$464 = "backtrace:"
+#0  sleep_on (p=0x2b584) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b574) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b5a8) at sched.c:152
+152	{
+$467 = "backtrace:"
+#0  sleep_on (p=0x2b5a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b598) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b5cc) at sched.c:152
+152	{
+$470 = "backtrace:"
+#0  sleep_on (p=0x2b5cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b5bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b5f0) at sched.c:152
+152	{
+$473 = "backtrace:"
+#0  sleep_on (p=0x2b5f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b5e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b614) at sched.c:152
+152	{
+$476 = "backtrace:"
+#0  sleep_on (p=0x2b614) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b604) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b638) at sched.c:152
+152	{
+$479 = "backtrace:"
+#0  sleep_on (p=0x2b638) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b628) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b65c) at sched.c:152
+152	{
+$482 = "backtrace:"
+#0  sleep_on (p=0x2b65c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b64c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b680) at sched.c:152
+152	{
+$485 = "backtrace:"
+#0  sleep_on (p=0x2b680) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b670) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b6a4) at sched.c:152
+152	{
+$488 = "backtrace:"
+#0  sleep_on (p=0x2b6a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b694) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b6c8) at sched.c:152
+152	{
+$491 = "backtrace:"
+#0  sleep_on (p=0x2b6c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b6b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b6ec) at sched.c:152
+152	{
+$494 = "backtrace:"
+#0  sleep_on (p=0x2b6ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b6dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b710) at sched.c:152
+152	{
+$497 = "backtrace:"
+#0  sleep_on (p=0x2b710) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b700) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b734) at sched.c:152
+152	{
+$500 = "backtrace:"
+#0  sleep_on (p=0x2b734) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b724) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b758) at sched.c:152
+152	{
+$503 = "backtrace:"
+#0  sleep_on (p=0x2b758) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b748) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b77c) at sched.c:152
+152	{
+$506 = "backtrace:"
+#0  sleep_on (p=0x2b77c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b76c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b7a0) at sched.c:152
+152	{
+$509 = "backtrace:"
+#0  sleep_on (p=0x2b7a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b790) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b7c4) at sched.c:152
+152	{
+$512 = "backtrace:"
+#0  sleep_on (p=0x2b7c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b7b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b7e8) at sched.c:152
+152	{
+$515 = "backtrace:"
+#0  sleep_on (p=0x2b7e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b7d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b80c) at sched.c:152
+152	{
+$518 = "backtrace:"
+#0  sleep_on (p=0x2b80c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b7fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b830) at sched.c:152
+152	{
+$521 = "backtrace:"
+#0  sleep_on (p=0x2b830) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b820) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b854) at sched.c:152
+152	{
+$524 = "backtrace:"
+#0  sleep_on (p=0x2b854) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b844) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b878) at sched.c:152
+152	{
+$527 = "backtrace:"
+#0  sleep_on (p=0x2b878) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b868) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b89c) at sched.c:152
+152	{
+$530 = "backtrace:"
+#0  sleep_on (p=0x2b89c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b88c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b8c0) at sched.c:152
+152	{
+$533 = "backtrace:"
+#0  sleep_on (p=0x2b8c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b8b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b8e4) at sched.c:152
+152	{
+$536 = "backtrace:"
+#0  sleep_on (p=0x2b8e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b8d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b908) at sched.c:152
+152	{
+$539 = "backtrace:"
+#0  sleep_on (p=0x2b908) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b8f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b92c) at sched.c:152
+152	{
+$542 = "backtrace:"
+#0  sleep_on (p=0x2b92c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b91c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b950) at sched.c:152
+152	{
+$545 = "backtrace:"
+#0  sleep_on (p=0x2b950) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b940) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b974) at sched.c:152
+152	{
+$548 = "backtrace:"
+#0  sleep_on (p=0x2b974) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b964) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b998) at sched.c:152
+152	{
+$551 = "backtrace:"
+#0  sleep_on (p=0x2b998) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b988) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b9bc) at sched.c:152
+152	{
+$554 = "backtrace:"
+#0  sleep_on (p=0x2b9bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b9ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2b9e0) at sched.c:152
+152	{
+$557 = "backtrace:"
+#0  sleep_on (p=0x2b9e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b9d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ba04) at sched.c:152
+152	{
+$560 = "backtrace:"
+#0  sleep_on (p=0x2ba04) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2b9f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ba28) at sched.c:152
+152	{
+$563 = "backtrace:"
+#0  sleep_on (p=0x2ba28) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ba18) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ba4c) at sched.c:152
+152	{
+$566 = "backtrace:"
+#0  sleep_on (p=0x2ba4c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ba3c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ba70) at sched.c:152
+152	{
+$569 = "backtrace:"
+#0  sleep_on (p=0x2ba70) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ba60) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ba94) at sched.c:152
+152	{
+$572 = "backtrace:"
+#0  sleep_on (p=0x2ba94) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ba84) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bab8) at sched.c:152
+152	{
+$575 = "backtrace:"
+#0  sleep_on (p=0x2bab8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2baa8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2badc) at sched.c:152
+152	{
+$578 = "backtrace:"
+#0  sleep_on (p=0x2badc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bacc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bb00) at sched.c:152
+152	{
+$581 = "backtrace:"
+#0  sleep_on (p=0x2bb00) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2baf0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bb24) at sched.c:152
+152	{
+$584 = "backtrace:"
+#0  sleep_on (p=0x2bb24) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bb14) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bb48) at sched.c:152
+152	{
+$587 = "backtrace:"
+#0  sleep_on (p=0x2bb48) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bb38) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bb6c) at sched.c:152
+152	{
+$590 = "backtrace:"
+#0  sleep_on (p=0x2bb6c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bb5c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bb90) at sched.c:152
+152	{
+$593 = "backtrace:"
+#0  sleep_on (p=0x2bb90) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bb80) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bbb4) at sched.c:152
+152	{
+$596 = "backtrace:"
+#0  sleep_on (p=0x2bbb4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bba4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bbd8) at sched.c:152
+152	{
+$599 = "backtrace:"
+#0  sleep_on (p=0x2bbd8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bbc8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bbfc) at sched.c:152
+152	{
+$602 = "backtrace:"
+#0  sleep_on (p=0x2bbfc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bbec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bc20) at sched.c:152
+152	{
+$605 = "backtrace:"
+#0  sleep_on (p=0x2bc20) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bc10) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bc44) at sched.c:152
+152	{
+$608 = "backtrace:"
+#0  sleep_on (p=0x2bc44) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bc34) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bc68) at sched.c:152
+152	{
+$611 = "backtrace:"
+#0  sleep_on (p=0x2bc68) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bc58) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bc8c) at sched.c:152
+152	{
+$614 = "backtrace:"
+#0  sleep_on (p=0x2bc8c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bc7c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bcb0) at sched.c:152
+152	{
+$617 = "backtrace:"
+#0  sleep_on (p=0x2bcb0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bca0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bcd4) at sched.c:152
+152	{
+$620 = "backtrace:"
+#0  sleep_on (p=0x2bcd4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bcc4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bcf8) at sched.c:152
+152	{
+$623 = "backtrace:"
+#0  sleep_on (p=0x2bcf8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bce8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bd1c) at sched.c:152
+152	{
+$626 = "backtrace:"
+#0  sleep_on (p=0x2bd1c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bd0c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bd40) at sched.c:152
+152	{
+$629 = "backtrace:"
+#0  sleep_on (p=0x2bd40) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bd30) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bd64) at sched.c:152
+152	{
+$632 = "backtrace:"
+#0  sleep_on (p=0x2bd64) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bd54) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bd88) at sched.c:152
+152	{
+$635 = "backtrace:"
+#0  sleep_on (p=0x2bd88) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bd78) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bdac) at sched.c:152
+152	{
+$638 = "backtrace:"
+#0  sleep_on (p=0x2bdac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bd9c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bdd0) at sched.c:152
+152	{
+$641 = "backtrace:"
+#0  sleep_on (p=0x2bdd0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bdc0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bdf4) at sched.c:152
+152	{
+$644 = "backtrace:"
+#0  sleep_on (p=0x2bdf4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bde4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2be18) at sched.c:152
+152	{
+$647 = "backtrace:"
+#0  sleep_on (p=0x2be18) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2be08) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2be3c) at sched.c:152
+152	{
+$650 = "backtrace:"
+#0  sleep_on (p=0x2be3c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2be2c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2be60) at sched.c:152
+152	{
+$653 = "backtrace:"
+#0  sleep_on (p=0x2be60) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2be50) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2be84) at sched.c:152
+152	{
+$656 = "backtrace:"
+#0  sleep_on (p=0x2be84) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2be74) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bea8) at sched.c:152
+152	{
+$659 = "backtrace:"
+#0  sleep_on (p=0x2bea8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2be98) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2becc) at sched.c:152
+152	{
+$662 = "backtrace:"
+#0  sleep_on (p=0x2becc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bebc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bef0) at sched.c:152
+152	{
+$665 = "backtrace:"
+#0  sleep_on (p=0x2bef0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bee0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bf14) at sched.c:152
+152	{
+$668 = "backtrace:"
+#0  sleep_on (p=0x2bf14) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bf04) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bf38) at sched.c:152
+152	{
+$671 = "backtrace:"
+#0  sleep_on (p=0x2bf38) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bf28) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bf5c) at sched.c:152
+152	{
+$674 = "backtrace:"
+#0  sleep_on (p=0x2bf5c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bf4c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bf80) at sched.c:152
+152	{
+$677 = "backtrace:"
+#0  sleep_on (p=0x2bf80) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bf70) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bfa4) at sched.c:152
+152	{
+$680 = "backtrace:"
+#0  sleep_on (p=0x2bfa4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bf94) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bfc8) at sched.c:152
+152	{
+$683 = "backtrace:"
+#0  sleep_on (p=0x2bfc8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bfb8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2bfec) at sched.c:152
+152	{
+$686 = "backtrace:"
+#0  sleep_on (p=0x2bfec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2bfdc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c010) at sched.c:152
+152	{
+$689 = "backtrace:"
+#0  sleep_on (p=0x2c010) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c000) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c034) at sched.c:152
+152	{
+$692 = "backtrace:"
+#0  sleep_on (p=0x2c034) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c024) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c058) at sched.c:152
+152	{
+$695 = "backtrace:"
+#0  sleep_on (p=0x2c058) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c048) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c07c) at sched.c:152
+152	{
+$698 = "backtrace:"
+#0  sleep_on (p=0x2c07c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c06c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c0a0) at sched.c:152
+152	{
+$701 = "backtrace:"
+#0  sleep_on (p=0x2c0a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c090) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c0c4) at sched.c:152
+152	{
+$704 = "backtrace:"
+#0  sleep_on (p=0x2c0c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c0b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c0e8) at sched.c:152
+152	{
+$707 = "backtrace:"
+#0  sleep_on (p=0x2c0e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c0d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c10c) at sched.c:152
+152	{
+$710 = "backtrace:"
+#0  sleep_on (p=0x2c10c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c0fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c130) at sched.c:152
+152	{
+$713 = "backtrace:"
+#0  sleep_on (p=0x2c130) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c120) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c154) at sched.c:152
+152	{
+$716 = "backtrace:"
+#0  sleep_on (p=0x2c154) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c144) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c178) at sched.c:152
+152	{
+$719 = "backtrace:"
+#0  sleep_on (p=0x2c178) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c168) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c19c) at sched.c:152
+152	{
+$722 = "backtrace:"
+#0  sleep_on (p=0x2c19c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c18c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c1c0) at sched.c:152
+152	{
+$725 = "backtrace:"
+#0  sleep_on (p=0x2c1c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c1b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c1e4) at sched.c:152
+152	{
+$728 = "backtrace:"
+#0  sleep_on (p=0x2c1e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c1d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c208) at sched.c:152
+152	{
+$731 = "backtrace:"
+#0  sleep_on (p=0x2c208) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c1f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c22c) at sched.c:152
+152	{
+$734 = "backtrace:"
+#0  sleep_on (p=0x2c22c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c21c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c250) at sched.c:152
+152	{
+$737 = "backtrace:"
+#0  sleep_on (p=0x2c250) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c240) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c274) at sched.c:152
+152	{
+$740 = "backtrace:"
+#0  sleep_on (p=0x2c274) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c264) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c298) at sched.c:152
+152	{
+$743 = "backtrace:"
+#0  sleep_on (p=0x2c298) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c288) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c2bc) at sched.c:152
+152	{
+$746 = "backtrace:"
+#0  sleep_on (p=0x2c2bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c2ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c2e0) at sched.c:152
+152	{
+$749 = "backtrace:"
+#0  sleep_on (p=0x2c2e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c2d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c304) at sched.c:152
+152	{
+$752 = "backtrace:"
+#0  sleep_on (p=0x2c304) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c2f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c328) at sched.c:152
+152	{
+$755 = "backtrace:"
+#0  sleep_on (p=0x2c328) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c318) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c34c) at sched.c:152
+152	{
+$758 = "backtrace:"
+#0  sleep_on (p=0x2c34c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c33c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c370) at sched.c:152
+152	{
+$761 = "backtrace:"
+#0  sleep_on (p=0x2c370) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c360) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c394) at sched.c:152
+152	{
+$764 = "backtrace:"
+#0  sleep_on (p=0x2c394) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c384) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c3b8) at sched.c:152
+152	{
+$767 = "backtrace:"
+#0  sleep_on (p=0x2c3b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c3a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c3dc) at sched.c:152
+152	{
+$770 = "backtrace:"
+#0  sleep_on (p=0x2c3dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c3cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c400) at sched.c:152
+152	{
+$773 = "backtrace:"
+#0  sleep_on (p=0x2c400) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c3f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c424) at sched.c:152
+152	{
+$776 = "backtrace:"
+#0  sleep_on (p=0x2c424) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c414) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c448) at sched.c:152
+152	{
+$779 = "backtrace:"
+#0  sleep_on (p=0x2c448) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c438) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c46c) at sched.c:152
+152	{
+$782 = "backtrace:"
+#0  sleep_on (p=0x2c46c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c45c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c490) at sched.c:152
+152	{
+$785 = "backtrace:"
+#0  sleep_on (p=0x2c490) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c480) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c4b4) at sched.c:152
+152	{
+$788 = "backtrace:"
+#0  sleep_on (p=0x2c4b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c4a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c4d8) at sched.c:152
+152	{
+$791 = "backtrace:"
+#0  sleep_on (p=0x2c4d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c4c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c4fc) at sched.c:152
+152	{
+$794 = "backtrace:"
+#0  sleep_on (p=0x2c4fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c4ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c520) at sched.c:152
+152	{
+$797 = "backtrace:"
+#0  sleep_on (p=0x2c520) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c510) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c544) at sched.c:152
+152	{
+$800 = "backtrace:"
+#0  sleep_on (p=0x2c544) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c534) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c568) at sched.c:152
+152	{
+$803 = "backtrace:"
+#0  sleep_on (p=0x2c568) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c558) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c58c) at sched.c:152
+152	{
+$806 = "backtrace:"
+#0  sleep_on (p=0x2c58c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c57c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c5b0) at sched.c:152
+152	{
+$809 = "backtrace:"
+#0  sleep_on (p=0x2c5b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c5a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c5d4) at sched.c:152
+152	{
+$812 = "backtrace:"
+#0  sleep_on (p=0x2c5d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c5c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c5f8) at sched.c:152
+152	{
+$815 = "backtrace:"
+#0  sleep_on (p=0x2c5f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c5e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c61c) at sched.c:152
+152	{
+$818 = "backtrace:"
+#0  sleep_on (p=0x2c61c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c60c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c640) at sched.c:152
+152	{
+$821 = "backtrace:"
+#0  sleep_on (p=0x2c640) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c630) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c664) at sched.c:152
+152	{
+$824 = "backtrace:"
+#0  sleep_on (p=0x2c664) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c654) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c688) at sched.c:152
+152	{
+$827 = "backtrace:"
+#0  sleep_on (p=0x2c688) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c678) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c6ac) at sched.c:152
+152	{
+$830 = "backtrace:"
+#0  sleep_on (p=0x2c6ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c69c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c6d0) at sched.c:152
+152	{
+$833 = "backtrace:"
+#0  sleep_on (p=0x2c6d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c6c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c6f4) at sched.c:152
+152	{
+$836 = "backtrace:"
+#0  sleep_on (p=0x2c6f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c6e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c718) at sched.c:152
+152	{
+$839 = "backtrace:"
+#0  sleep_on (p=0x2c718) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c708) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c73c) at sched.c:152
+152	{
+$842 = "backtrace:"
+#0  sleep_on (p=0x2c73c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c72c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c760) at sched.c:152
+152	{
+$845 = "backtrace:"
+#0  sleep_on (p=0x2c760) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c750) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c784) at sched.c:152
+152	{
+$848 = "backtrace:"
+#0  sleep_on (p=0x2c784) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c774) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c7a8) at sched.c:152
+152	{
+$851 = "backtrace:"
+#0  sleep_on (p=0x2c7a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c798) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c7cc) at sched.c:152
+152	{
+$854 = "backtrace:"
+#0  sleep_on (p=0x2c7cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c7bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c7f0) at sched.c:152
+152	{
+$857 = "backtrace:"
+#0  sleep_on (p=0x2c7f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c7e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c814) at sched.c:152
+152	{
+$860 = "backtrace:"
+#0  sleep_on (p=0x2c814) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c804) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c838) at sched.c:152
+152	{
+$863 = "backtrace:"
+#0  sleep_on (p=0x2c838) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c828) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c85c) at sched.c:152
+152	{
+$866 = "backtrace:"
+#0  sleep_on (p=0x2c85c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c84c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c880) at sched.c:152
+152	{
+$869 = "backtrace:"
+#0  sleep_on (p=0x2c880) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c870) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c8a4) at sched.c:152
+152	{
+$872 = "backtrace:"
+#0  sleep_on (p=0x2c8a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c894) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c8c8) at sched.c:152
+152	{
+$875 = "backtrace:"
+#0  sleep_on (p=0x2c8c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c8b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c8ec) at sched.c:152
+152	{
+$878 = "backtrace:"
+#0  sleep_on (p=0x2c8ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c8dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c910) at sched.c:152
+152	{
+$881 = "backtrace:"
+#0  sleep_on (p=0x2c910) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c900) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c934) at sched.c:152
+152	{
+$884 = "backtrace:"
+#0  sleep_on (p=0x2c934) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c924) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c958) at sched.c:152
+152	{
+$887 = "backtrace:"
+#0  sleep_on (p=0x2c958) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c948) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c97c) at sched.c:152
+152	{
+$890 = "backtrace:"
+#0  sleep_on (p=0x2c97c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c96c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c9a0) at sched.c:152
+152	{
+$893 = "backtrace:"
+#0  sleep_on (p=0x2c9a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c990) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c9c4) at sched.c:152
+152	{
+$896 = "backtrace:"
+#0  sleep_on (p=0x2c9c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c9b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2c9e8) at sched.c:152
+152	{
+$899 = "backtrace:"
+#0  sleep_on (p=0x2c9e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c9d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ca0c) at sched.c:152
+152	{
+$902 = "backtrace:"
+#0  sleep_on (p=0x2ca0c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2c9fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ca30) at sched.c:152
+152	{
+$905 = "backtrace:"
+#0  sleep_on (p=0x2ca30) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ca20) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ca54) at sched.c:152
+152	{
+$908 = "backtrace:"
+#0  sleep_on (p=0x2ca54) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ca44) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ca78) at sched.c:152
+152	{
+$911 = "backtrace:"
+#0  sleep_on (p=0x2ca78) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ca68) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ca9c) at sched.c:152
+152	{
+$914 = "backtrace:"
+#0  sleep_on (p=0x2ca9c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ca8c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cac0) at sched.c:152
+152	{
+$917 = "backtrace:"
+#0  sleep_on (p=0x2cac0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cab0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cae4) at sched.c:152
+152	{
+$920 = "backtrace:"
+#0  sleep_on (p=0x2cae4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cad4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cb08) at sched.c:152
+152	{
+$923 = "backtrace:"
+#0  sleep_on (p=0x2cb08) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2caf8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cb2c) at sched.c:152
+152	{
+$926 = "backtrace:"
+#0  sleep_on (p=0x2cb2c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cb1c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cb50) at sched.c:152
+152	{
+$929 = "backtrace:"
+#0  sleep_on (p=0x2cb50) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cb40) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cb74) at sched.c:152
+152	{
+$932 = "backtrace:"
+#0  sleep_on (p=0x2cb74) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cb64) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cb98) at sched.c:152
+152	{
+$935 = "backtrace:"
+#0  sleep_on (p=0x2cb98) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cb88) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cbbc) at sched.c:152
+152	{
+$938 = "backtrace:"
+#0  sleep_on (p=0x2cbbc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cbac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cbe0) at sched.c:152
+152	{
+$941 = "backtrace:"
+#0  sleep_on (p=0x2cbe0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cbd0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cc04) at sched.c:152
+152	{
+$944 = "backtrace:"
+#0  sleep_on (p=0x2cc04) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cbf4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cc28) at sched.c:152
+152	{
+$947 = "backtrace:"
+#0  sleep_on (p=0x2cc28) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cc18) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cc4c) at sched.c:152
+152	{
+$950 = "backtrace:"
+#0  sleep_on (p=0x2cc4c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cc3c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cc70) at sched.c:152
+152	{
+$953 = "backtrace:"
+#0  sleep_on (p=0x2cc70) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cc60) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cc94) at sched.c:152
+152	{
+$956 = "backtrace:"
+#0  sleep_on (p=0x2cc94) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cc84) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ccb8) at sched.c:152
+152	{
+$959 = "backtrace:"
+#0  sleep_on (p=0x2ccb8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cca8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ccdc) at sched.c:152
+152	{
+$962 = "backtrace:"
+#0  sleep_on (p=0x2ccdc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cccc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cd00) at sched.c:152
+152	{
+$965 = "backtrace:"
+#0  sleep_on (p=0x2cd00) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ccf0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cd24) at sched.c:152
+152	{
+$968 = "backtrace:"
+#0  sleep_on (p=0x2cd24) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cd14) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cd48) at sched.c:152
+152	{
+$971 = "backtrace:"
+#0  sleep_on (p=0x2cd48) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cd38) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cd6c) at sched.c:152
+152	{
+$974 = "backtrace:"
+#0  sleep_on (p=0x2cd6c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cd5c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cd90) at sched.c:152
+152	{
+$977 = "backtrace:"
+#0  sleep_on (p=0x2cd90) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cd80) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cdb4) at sched.c:152
+152	{
+$980 = "backtrace:"
+#0  sleep_on (p=0x2cdb4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cda4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cdd8) at sched.c:152
+152	{
+$983 = "backtrace:"
+#0  sleep_on (p=0x2cdd8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cdc8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cdfc) at sched.c:152
+152	{
+$986 = "backtrace:"
+#0  sleep_on (p=0x2cdfc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cdec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ce20) at sched.c:152
+152	{
+$989 = "backtrace:"
+#0  sleep_on (p=0x2ce20) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ce10) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ce44) at sched.c:152
+152	{
+$992 = "backtrace:"
+#0  sleep_on (p=0x2ce44) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ce34) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ce68) at sched.c:152
+152	{
+$995 = "backtrace:"
+#0  sleep_on (p=0x2ce68) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ce58) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ce8c) at sched.c:152
+152	{
+$998 = "backtrace:"
+#0  sleep_on (p=0x2ce8c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ce7c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ceb0) at sched.c:152
+152	{
+$1001 = "backtrace:"
+#0  sleep_on (p=0x2ceb0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cea0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ced4) at sched.c:152
+152	{
+$1004 = "backtrace:"
+#0  sleep_on (p=0x2ced4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cec4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cef8) at sched.c:152
+152	{
+$1007 = "backtrace:"
+#0  sleep_on (p=0x2cef8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cee8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cf1c) at sched.c:152
+152	{
+$1010 = "backtrace:"
+#0  sleep_on (p=0x2cf1c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cf0c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cf40) at sched.c:152
+152	{
+$1013 = "backtrace:"
+#0  sleep_on (p=0x2cf40) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cf30) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cf64) at sched.c:152
+152	{
+$1016 = "backtrace:"
+#0  sleep_on (p=0x2cf64) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cf54) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cf88) at sched.c:152
+152	{
+$1019 = "backtrace:"
+#0  sleep_on (p=0x2cf88) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cf78) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cfac) at sched.c:152
+152	{
+$1022 = "backtrace:"
+#0  sleep_on (p=0x2cfac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cf9c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cfd0) at sched.c:152
+152	{
+$1025 = "backtrace:"
+#0  sleep_on (p=0x2cfd0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cfc0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2cff4) at sched.c:152
+152	{
+$1028 = "backtrace:"
+#0  sleep_on (p=0x2cff4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2cfe4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d018) at sched.c:152
+152	{
+$1031 = "backtrace:"
+#0  sleep_on (p=0x2d018) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d008) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d03c) at sched.c:152
+152	{
+$1034 = "backtrace:"
+#0  sleep_on (p=0x2d03c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d02c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d060) at sched.c:152
+152	{
+$1037 = "backtrace:"
+#0  sleep_on (p=0x2d060) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d050) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d084) at sched.c:152
+152	{
+$1040 = "backtrace:"
+#0  sleep_on (p=0x2d084) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d074) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d0a8) at sched.c:152
+152	{
+$1043 = "backtrace:"
+#0  sleep_on (p=0x2d0a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d098) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d0cc) at sched.c:152
+152	{
+$1046 = "backtrace:"
+#0  sleep_on (p=0x2d0cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d0bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d0f0) at sched.c:152
+152	{
+$1049 = "backtrace:"
+#0  sleep_on (p=0x2d0f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d0e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d114) at sched.c:152
+152	{
+$1052 = "backtrace:"
+#0  sleep_on (p=0x2d114) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d104) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d138) at sched.c:152
+152	{
+$1055 = "backtrace:"
+#0  sleep_on (p=0x2d138) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d128) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d15c) at sched.c:152
+152	{
+$1058 = "backtrace:"
+#0  sleep_on (p=0x2d15c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d14c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d180) at sched.c:152
+152	{
+$1061 = "backtrace:"
+#0  sleep_on (p=0x2d180) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d170) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d1a4) at sched.c:152
+152	{
+$1064 = "backtrace:"
+#0  sleep_on (p=0x2d1a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d194) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d1c8) at sched.c:152
+152	{
+$1067 = "backtrace:"
+#0  sleep_on (p=0x2d1c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d1b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d1ec) at sched.c:152
+152	{
+$1070 = "backtrace:"
+#0  sleep_on (p=0x2d1ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d1dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d210) at sched.c:152
+152	{
+$1073 = "backtrace:"
+#0  sleep_on (p=0x2d210) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d200) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d234) at sched.c:152
+152	{
+$1076 = "backtrace:"
+#0  sleep_on (p=0x2d234) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d224) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d258) at sched.c:152
+152	{
+$1079 = "backtrace:"
+#0  sleep_on (p=0x2d258) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d248) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d27c) at sched.c:152
+152	{
+$1082 = "backtrace:"
+#0  sleep_on (p=0x2d27c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d26c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d2a0) at sched.c:152
+152	{
+$1085 = "backtrace:"
+#0  sleep_on (p=0x2d2a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d290) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d2c4) at sched.c:152
+152	{
+$1088 = "backtrace:"
+#0  sleep_on (p=0x2d2c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d2b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d2e8) at sched.c:152
+152	{
+$1091 = "backtrace:"
+#0  sleep_on (p=0x2d2e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d2d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d30c) at sched.c:152
+152	{
+$1094 = "backtrace:"
+#0  sleep_on (p=0x2d30c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d2fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d330) at sched.c:152
+152	{
+$1097 = "backtrace:"
+#0  sleep_on (p=0x2d330) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d320) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d354) at sched.c:152
+152	{
+$1100 = "backtrace:"
+#0  sleep_on (p=0x2d354) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d344) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d378) at sched.c:152
+152	{
+$1103 = "backtrace:"
+#0  sleep_on (p=0x2d378) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d368) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d39c) at sched.c:152
+152	{
+$1106 = "backtrace:"
+#0  sleep_on (p=0x2d39c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d38c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d3c0) at sched.c:152
+152	{
+$1109 = "backtrace:"
+#0  sleep_on (p=0x2d3c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d3b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d3e4) at sched.c:152
+152	{
+$1112 = "backtrace:"
+#0  sleep_on (p=0x2d3e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d3d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d408) at sched.c:152
+152	{
+$1115 = "backtrace:"
+#0  sleep_on (p=0x2d408) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d3f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d42c) at sched.c:152
+152	{
+$1118 = "backtrace:"
+#0  sleep_on (p=0x2d42c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d41c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d450) at sched.c:152
+152	{
+$1121 = "backtrace:"
+#0  sleep_on (p=0x2d450) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d440) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d474) at sched.c:152
+152	{
+$1124 = "backtrace:"
+#0  sleep_on (p=0x2d474) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d464) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d498) at sched.c:152
+152	{
+$1127 = "backtrace:"
+#0  sleep_on (p=0x2d498) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d488) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d4bc) at sched.c:152
+152	{
+$1130 = "backtrace:"
+#0  sleep_on (p=0x2d4bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d4ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d4e0) at sched.c:152
+152	{
+$1133 = "backtrace:"
+#0  sleep_on (p=0x2d4e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d4d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d504) at sched.c:152
+152	{
+$1136 = "backtrace:"
+#0  sleep_on (p=0x2d504) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d4f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d528) at sched.c:152
+152	{
+$1139 = "backtrace:"
+#0  sleep_on (p=0x2d528) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d518) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d54c) at sched.c:152
+152	{
+$1142 = "backtrace:"
+#0  sleep_on (p=0x2d54c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d53c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d570) at sched.c:152
+152	{
+$1145 = "backtrace:"
+#0  sleep_on (p=0x2d570) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d560) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d594) at sched.c:152
+152	{
+$1148 = "backtrace:"
+#0  sleep_on (p=0x2d594) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d584) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d5b8) at sched.c:152
+152	{
+$1151 = "backtrace:"
+#0  sleep_on (p=0x2d5b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d5a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d5dc) at sched.c:152
+152	{
+$1154 = "backtrace:"
+#0  sleep_on (p=0x2d5dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d5cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d600) at sched.c:152
+152	{
+$1157 = "backtrace:"
+#0  sleep_on (p=0x2d600) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d5f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d624) at sched.c:152
+152	{
+$1160 = "backtrace:"
+#0  sleep_on (p=0x2d624) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d614) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d648) at sched.c:152
+152	{
+$1163 = "backtrace:"
+#0  sleep_on (p=0x2d648) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d638) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d66c) at sched.c:152
+152	{
+$1166 = "backtrace:"
+#0  sleep_on (p=0x2d66c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d65c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d690) at sched.c:152
+152	{
+$1169 = "backtrace:"
+#0  sleep_on (p=0x2d690) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d680) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d6b4) at sched.c:152
+152	{
+$1172 = "backtrace:"
+#0  sleep_on (p=0x2d6b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d6a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d6d8) at sched.c:152
+152	{
+$1175 = "backtrace:"
+#0  sleep_on (p=0x2d6d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d6c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d6fc) at sched.c:152
+152	{
+$1178 = "backtrace:"
+#0  sleep_on (p=0x2d6fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d6ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d720) at sched.c:152
+152	{
+$1181 = "backtrace:"
+#0  sleep_on (p=0x2d720) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d710) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d744) at sched.c:152
+152	{
+$1184 = "backtrace:"
+#0  sleep_on (p=0x2d744) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d734) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d768) at sched.c:152
+152	{
+$1187 = "backtrace:"
+#0  sleep_on (p=0x2d768) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d758) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d78c) at sched.c:152
+152	{
+$1190 = "backtrace:"
+#0  sleep_on (p=0x2d78c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d77c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d7b0) at sched.c:152
+152	{
+$1193 = "backtrace:"
+#0  sleep_on (p=0x2d7b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d7a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d7d4) at sched.c:152
+152	{
+$1196 = "backtrace:"
+#0  sleep_on (p=0x2d7d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d7c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d7f8) at sched.c:152
+152	{
+$1199 = "backtrace:"
+#0  sleep_on (p=0x2d7f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d7e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d81c) at sched.c:152
+152	{
+$1202 = "backtrace:"
+#0  sleep_on (p=0x2d81c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d80c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d840) at sched.c:152
+152	{
+$1205 = "backtrace:"
+#0  sleep_on (p=0x2d840) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d830) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d864) at sched.c:152
+152	{
+$1208 = "backtrace:"
+#0  sleep_on (p=0x2d864) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d854) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d888) at sched.c:152
+152	{
+$1211 = "backtrace:"
+#0  sleep_on (p=0x2d888) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d878) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d8ac) at sched.c:152
+152	{
+$1214 = "backtrace:"
+#0  sleep_on (p=0x2d8ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d89c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d8d0) at sched.c:152
+152	{
+$1217 = "backtrace:"
+#0  sleep_on (p=0x2d8d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d8c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d8f4) at sched.c:152
+152	{
+$1220 = "backtrace:"
+#0  sleep_on (p=0x2d8f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d8e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d918) at sched.c:152
+152	{
+$1223 = "backtrace:"
+#0  sleep_on (p=0x2d918) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d908) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d93c) at sched.c:152
+152	{
+$1226 = "backtrace:"
+#0  sleep_on (p=0x2d93c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d92c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d960) at sched.c:152
+152	{
+$1229 = "backtrace:"
+#0  sleep_on (p=0x2d960) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d950) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d984) at sched.c:152
+152	{
+$1232 = "backtrace:"
+#0  sleep_on (p=0x2d984) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d974) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d9a8) at sched.c:152
+152	{
+$1235 = "backtrace:"
+#0  sleep_on (p=0x2d9a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d998) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d9cc) at sched.c:152
+152	{
+$1238 = "backtrace:"
+#0  sleep_on (p=0x2d9cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d9bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2d9f0) at sched.c:152
+152	{
+$1241 = "backtrace:"
+#0  sleep_on (p=0x2d9f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2d9e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2da14) at sched.c:152
+152	{
+$1244 = "backtrace:"
+#0  sleep_on (p=0x2da14) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2da04) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2da38) at sched.c:152
+152	{
+$1247 = "backtrace:"
+#0  sleep_on (p=0x2da38) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2da28) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2da5c) at sched.c:152
+152	{
+$1250 = "backtrace:"
+#0  sleep_on (p=0x2da5c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2da4c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2da80) at sched.c:152
+152	{
+$1253 = "backtrace:"
+#0  sleep_on (p=0x2da80) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2da70) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2daa4) at sched.c:152
+152	{
+$1256 = "backtrace:"
+#0  sleep_on (p=0x2daa4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2da94) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dac8) at sched.c:152
+152	{
+$1259 = "backtrace:"
+#0  sleep_on (p=0x2dac8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dab8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2daec) at sched.c:152
+152	{
+$1262 = "backtrace:"
+#0  sleep_on (p=0x2daec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dadc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2db10) at sched.c:152
+152	{
+$1265 = "backtrace:"
+#0  sleep_on (p=0x2db10) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2db00) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2db34) at sched.c:152
+152	{
+$1268 = "backtrace:"
+#0  sleep_on (p=0x2db34) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2db24) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2db58) at sched.c:152
+152	{
+$1271 = "backtrace:"
+#0  sleep_on (p=0x2db58) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2db48) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2db7c) at sched.c:152
+152	{
+$1274 = "backtrace:"
+#0  sleep_on (p=0x2db7c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2db6c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dba0) at sched.c:152
+152	{
+$1277 = "backtrace:"
+#0  sleep_on (p=0x2dba0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2db90) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dbc4) at sched.c:152
+152	{
+$1280 = "backtrace:"
+#0  sleep_on (p=0x2dbc4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dbb4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dbe8) at sched.c:152
+152	{
+$1283 = "backtrace:"
+#0  sleep_on (p=0x2dbe8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dbd8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dc0c) at sched.c:152
+152	{
+$1286 = "backtrace:"
+#0  sleep_on (p=0x2dc0c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dbfc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dc30) at sched.c:152
+152	{
+$1289 = "backtrace:"
+#0  sleep_on (p=0x2dc30) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dc20) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dc54) at sched.c:152
+152	{
+$1292 = "backtrace:"
+#0  sleep_on (p=0x2dc54) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dc44) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dc78) at sched.c:152
+152	{
+$1295 = "backtrace:"
+#0  sleep_on (p=0x2dc78) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dc68) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dc9c) at sched.c:152
+152	{
+$1298 = "backtrace:"
+#0  sleep_on (p=0x2dc9c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dc8c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dcc0) at sched.c:152
+152	{
+$1301 = "backtrace:"
+#0  sleep_on (p=0x2dcc0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dcb0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dce4) at sched.c:152
+152	{
+$1304 = "backtrace:"
+#0  sleep_on (p=0x2dce4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dcd4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dd08) at sched.c:152
+152	{
+$1307 = "backtrace:"
+#0  sleep_on (p=0x2dd08) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dcf8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dd2c) at sched.c:152
+152	{
+$1310 = "backtrace:"
+#0  sleep_on (p=0x2dd2c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dd1c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dd50) at sched.c:152
+152	{
+$1313 = "backtrace:"
+#0  sleep_on (p=0x2dd50) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dd40) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dd74) at sched.c:152
+152	{
+$1316 = "backtrace:"
+#0  sleep_on (p=0x2dd74) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dd64) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dd98) at sched.c:152
+152	{
+$1319 = "backtrace:"
+#0  sleep_on (p=0x2dd98) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dd88) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ddbc) at sched.c:152
+152	{
+$1322 = "backtrace:"
+#0  sleep_on (p=0x2ddbc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ddac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dde0) at sched.c:152
+152	{
+$1325 = "backtrace:"
+#0  sleep_on (p=0x2dde0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ddd0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2de04) at sched.c:152
+152	{
+$1328 = "backtrace:"
+#0  sleep_on (p=0x2de04) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ddf4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2de28) at sched.c:152
+152	{
+$1331 = "backtrace:"
+#0  sleep_on (p=0x2de28) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2de18) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2de4c) at sched.c:152
+152	{
+$1334 = "backtrace:"
+#0  sleep_on (p=0x2de4c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2de3c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2de70) at sched.c:152
+152	{
+$1337 = "backtrace:"
+#0  sleep_on (p=0x2de70) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2de60) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2de94) at sched.c:152
+152	{
+$1340 = "backtrace:"
+#0  sleep_on (p=0x2de94) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2de84) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2deb8) at sched.c:152
+152	{
+$1343 = "backtrace:"
+#0  sleep_on (p=0x2deb8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dea8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dedc) at sched.c:152
+152	{
+$1346 = "backtrace:"
+#0  sleep_on (p=0x2dedc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2decc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2df00) at sched.c:152
+152	{
+$1349 = "backtrace:"
+#0  sleep_on (p=0x2df00) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2def0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2df24) at sched.c:152
+152	{
+$1352 = "backtrace:"
+#0  sleep_on (p=0x2df24) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2df14) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2df48) at sched.c:152
+152	{
+$1355 = "backtrace:"
+#0  sleep_on (p=0x2df48) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2df38) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2df6c) at sched.c:152
+152	{
+$1358 = "backtrace:"
+#0  sleep_on (p=0x2df6c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2df5c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2df90) at sched.c:152
+152	{
+$1361 = "backtrace:"
+#0  sleep_on (p=0x2df90) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2df80) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dfb4) at sched.c:152
+152	{
+$1364 = "backtrace:"
+#0  sleep_on (p=0x2dfb4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dfa4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dfd8) at sched.c:152
+152	{
+$1367 = "backtrace:"
+#0  sleep_on (p=0x2dfd8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dfc8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2dffc) at sched.c:152
+152	{
+$1370 = "backtrace:"
+#0  sleep_on (p=0x2dffc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2dfec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e020) at sched.c:152
+152	{
+$1373 = "backtrace:"
+#0  sleep_on (p=0x2e020) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e010) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e044) at sched.c:152
+152	{
+$1376 = "backtrace:"
+#0  sleep_on (p=0x2e044) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e034) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e068) at sched.c:152
+152	{
+$1379 = "backtrace:"
+#0  sleep_on (p=0x2e068) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e058) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e08c) at sched.c:152
+152	{
+$1382 = "backtrace:"
+#0  sleep_on (p=0x2e08c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e07c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e0b0) at sched.c:152
+152	{
+$1385 = "backtrace:"
+#0  sleep_on (p=0x2e0b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e0a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e0d4) at sched.c:152
+152	{
+$1388 = "backtrace:"
+#0  sleep_on (p=0x2e0d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e0c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e0f8) at sched.c:152
+152	{
+$1391 = "backtrace:"
+#0  sleep_on (p=0x2e0f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e0e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e11c) at sched.c:152
+152	{
+$1394 = "backtrace:"
+#0  sleep_on (p=0x2e11c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e10c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e140) at sched.c:152
+152	{
+$1397 = "backtrace:"
+#0  sleep_on (p=0x2e140) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e130) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e164) at sched.c:152
+152	{
+$1400 = "backtrace:"
+#0  sleep_on (p=0x2e164) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e154) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e188) at sched.c:152
+152	{
+$1403 = "backtrace:"
+#0  sleep_on (p=0x2e188) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e178) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e1ac) at sched.c:152
+152	{
+$1406 = "backtrace:"
+#0  sleep_on (p=0x2e1ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e19c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e1d0) at sched.c:152
+152	{
+$1409 = "backtrace:"
+#0  sleep_on (p=0x2e1d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e1c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e1f4) at sched.c:152
+152	{
+$1412 = "backtrace:"
+#0  sleep_on (p=0x2e1f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e1e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e218) at sched.c:152
+152	{
+$1415 = "backtrace:"
+#0  sleep_on (p=0x2e218) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e208) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e23c) at sched.c:152
+152	{
+$1418 = "backtrace:"
+#0  sleep_on (p=0x2e23c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e22c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e260) at sched.c:152
+152	{
+$1421 = "backtrace:"
+#0  sleep_on (p=0x2e260) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e250) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e284) at sched.c:152
+152	{
+$1424 = "backtrace:"
+#0  sleep_on (p=0x2e284) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e274) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e2a8) at sched.c:152
+152	{
+$1427 = "backtrace:"
+#0  sleep_on (p=0x2e2a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e298) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e2cc) at sched.c:152
+152	{
+$1430 = "backtrace:"
+#0  sleep_on (p=0x2e2cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e2bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e2f0) at sched.c:152
+152	{
+$1433 = "backtrace:"
+#0  sleep_on (p=0x2e2f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e2e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e314) at sched.c:152
+152	{
+$1436 = "backtrace:"
+#0  sleep_on (p=0x2e314) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e304) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e338) at sched.c:152
+152	{
+$1439 = "backtrace:"
+#0  sleep_on (p=0x2e338) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e328) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e35c) at sched.c:152
+152	{
+$1442 = "backtrace:"
+#0  sleep_on (p=0x2e35c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e34c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e380) at sched.c:152
+152	{
+$1445 = "backtrace:"
+#0  sleep_on (p=0x2e380) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e370) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e3a4) at sched.c:152
+152	{
+$1448 = "backtrace:"
+#0  sleep_on (p=0x2e3a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e394) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e3c8) at sched.c:152
+152	{
+$1451 = "backtrace:"
+#0  sleep_on (p=0x2e3c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e3b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e3ec) at sched.c:152
+152	{
+$1454 = "backtrace:"
+#0  sleep_on (p=0x2e3ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e3dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e410) at sched.c:152
+152	{
+$1457 = "backtrace:"
+#0  sleep_on (p=0x2e410) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e400) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e434) at sched.c:152
+152	{
+$1460 = "backtrace:"
+#0  sleep_on (p=0x2e434) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e424) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e458) at sched.c:152
+152	{
+$1463 = "backtrace:"
+#0  sleep_on (p=0x2e458) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e448) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e47c) at sched.c:152
+152	{
+$1466 = "backtrace:"
+#0  sleep_on (p=0x2e47c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e46c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e4a0) at sched.c:152
+152	{
+$1469 = "backtrace:"
+#0  sleep_on (p=0x2e4a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e490) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e4c4) at sched.c:152
+152	{
+$1472 = "backtrace:"
+#0  sleep_on (p=0x2e4c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e4b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e4e8) at sched.c:152
+152	{
+$1475 = "backtrace:"
+#0  sleep_on (p=0x2e4e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e4d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e50c) at sched.c:152
+152	{
+$1478 = "backtrace:"
+#0  sleep_on (p=0x2e50c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e4fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e530) at sched.c:152
+152	{
+$1481 = "backtrace:"
+#0  sleep_on (p=0x2e530) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e520) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e554) at sched.c:152
+152	{
+$1484 = "backtrace:"
+#0  sleep_on (p=0x2e554) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e544) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e578) at sched.c:152
+152	{
+$1487 = "backtrace:"
+#0  sleep_on (p=0x2e578) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e568) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e59c) at sched.c:152
+152	{
+$1490 = "backtrace:"
+#0  sleep_on (p=0x2e59c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e58c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e5c0) at sched.c:152
+152	{
+$1493 = "backtrace:"
+#0  sleep_on (p=0x2e5c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e5b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e5e4) at sched.c:152
+152	{
+$1496 = "backtrace:"
+#0  sleep_on (p=0x2e5e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e5d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e608) at sched.c:152
+152	{
+$1499 = "backtrace:"
+#0  sleep_on (p=0x2e608) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e5f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e62c) at sched.c:152
+152	{
+$1502 = "backtrace:"
+#0  sleep_on (p=0x2e62c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e61c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e650) at sched.c:152
+152	{
+$1505 = "backtrace:"
+#0  sleep_on (p=0x2e650) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e640) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e674) at sched.c:152
+152	{
+$1508 = "backtrace:"
+#0  sleep_on (p=0x2e674) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e664) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e698) at sched.c:152
+152	{
+$1511 = "backtrace:"
+#0  sleep_on (p=0x2e698) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e688) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e6bc) at sched.c:152
+152	{
+$1514 = "backtrace:"
+#0  sleep_on (p=0x2e6bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e6ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e6e0) at sched.c:152
+152	{
+$1517 = "backtrace:"
+#0  sleep_on (p=0x2e6e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e6d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e704) at sched.c:152
+152	{
+$1520 = "backtrace:"
+#0  sleep_on (p=0x2e704) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e6f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e728) at sched.c:152
+152	{
+$1523 = "backtrace:"
+#0  sleep_on (p=0x2e728) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e718) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e74c) at sched.c:152
+152	{
+$1526 = "backtrace:"
+#0  sleep_on (p=0x2e74c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e73c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e770) at sched.c:152
+152	{
+$1529 = "backtrace:"
+#0  sleep_on (p=0x2e770) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e760) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e794) at sched.c:152
+152	{
+$1532 = "backtrace:"
+#0  sleep_on (p=0x2e794) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e784) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e7b8) at sched.c:152
+152	{
+$1535 = "backtrace:"
+#0  sleep_on (p=0x2e7b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e7a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e7dc) at sched.c:152
+152	{
+$1538 = "backtrace:"
+#0  sleep_on (p=0x2e7dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e7cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e800) at sched.c:152
+152	{
+$1541 = "backtrace:"
+#0  sleep_on (p=0x2e800) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e7f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e824) at sched.c:152
+152	{
+$1544 = "backtrace:"
+#0  sleep_on (p=0x2e824) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e814) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e848) at sched.c:152
+152	{
+$1547 = "backtrace:"
+#0  sleep_on (p=0x2e848) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e838) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e86c) at sched.c:152
+152	{
+$1550 = "backtrace:"
+#0  sleep_on (p=0x2e86c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e85c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e890) at sched.c:152
+152	{
+$1553 = "backtrace:"
+#0  sleep_on (p=0x2e890) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e880) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e8b4) at sched.c:152
+152	{
+$1556 = "backtrace:"
+#0  sleep_on (p=0x2e8b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e8a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e8d8) at sched.c:152
+152	{
+$1559 = "backtrace:"
+#0  sleep_on (p=0x2e8d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e8c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e8fc) at sched.c:152
+152	{
+$1562 = "backtrace:"
+#0  sleep_on (p=0x2e8fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e8ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e920) at sched.c:152
+152	{
+$1565 = "backtrace:"
+#0  sleep_on (p=0x2e920) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e910) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e944) at sched.c:152
+152	{
+$1568 = "backtrace:"
+#0  sleep_on (p=0x2e944) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e934) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e968) at sched.c:152
+152	{
+$1571 = "backtrace:"
+#0  sleep_on (p=0x2e968) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e958) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e98c) at sched.c:152
+152	{
+$1574 = "backtrace:"
+#0  sleep_on (p=0x2e98c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e97c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e9b0) at sched.c:152
+152	{
+$1577 = "backtrace:"
+#0  sleep_on (p=0x2e9b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e9a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e9d4) at sched.c:152
+152	{
+$1580 = "backtrace:"
+#0  sleep_on (p=0x2e9d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e9c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2e9f8) at sched.c:152
+152	{
+$1583 = "backtrace:"
+#0  sleep_on (p=0x2e9f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2e9e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ea1c) at sched.c:152
+152	{
+$1586 = "backtrace:"
+#0  sleep_on (p=0x2ea1c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ea0c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ea40) at sched.c:152
+152	{
+$1589 = "backtrace:"
+#0  sleep_on (p=0x2ea40) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ea30) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ea64) at sched.c:152
+152	{
+$1592 = "backtrace:"
+#0  sleep_on (p=0x2ea64) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ea54) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ea88) at sched.c:152
+152	{
+$1595 = "backtrace:"
+#0  sleep_on (p=0x2ea88) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ea78) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eaac) at sched.c:152
+152	{
+$1598 = "backtrace:"
+#0  sleep_on (p=0x2eaac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ea9c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ead0) at sched.c:152
+152	{
+$1601 = "backtrace:"
+#0  sleep_on (p=0x2ead0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eac0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eaf4) at sched.c:152
+152	{
+$1604 = "backtrace:"
+#0  sleep_on (p=0x2eaf4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eae4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eb18) at sched.c:152
+152	{
+$1607 = "backtrace:"
+#0  sleep_on (p=0x2eb18) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eb08) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eb3c) at sched.c:152
+152	{
+$1610 = "backtrace:"
+#0  sleep_on (p=0x2eb3c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eb2c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eb60) at sched.c:152
+152	{
+$1613 = "backtrace:"
+#0  sleep_on (p=0x2eb60) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eb50) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eb84) at sched.c:152
+152	{
+$1616 = "backtrace:"
+#0  sleep_on (p=0x2eb84) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eb74) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eba8) at sched.c:152
+152	{
+$1619 = "backtrace:"
+#0  sleep_on (p=0x2eba8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eb98) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ebcc) at sched.c:152
+152	{
+$1622 = "backtrace:"
+#0  sleep_on (p=0x2ebcc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ebbc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ebf0) at sched.c:152
+152	{
+$1625 = "backtrace:"
+#0  sleep_on (p=0x2ebf0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ebe0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ec14) at sched.c:152
+152	{
+$1628 = "backtrace:"
+#0  sleep_on (p=0x2ec14) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ec04) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ec38) at sched.c:152
+152	{
+$1631 = "backtrace:"
+#0  sleep_on (p=0x2ec38) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ec28) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ec5c) at sched.c:152
+152	{
+$1634 = "backtrace:"
+#0  sleep_on (p=0x2ec5c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ec4c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ec80) at sched.c:152
+152	{
+$1637 = "backtrace:"
+#0  sleep_on (p=0x2ec80) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ec70) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eca4) at sched.c:152
+152	{
+$1640 = "backtrace:"
+#0  sleep_on (p=0x2eca4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ec94) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ecc8) at sched.c:152
+152	{
+$1643 = "backtrace:"
+#0  sleep_on (p=0x2ecc8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ecb8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ecec) at sched.c:152
+152	{
+$1646 = "backtrace:"
+#0  sleep_on (p=0x2ecec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ecdc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ed10) at sched.c:152
+152	{
+$1649 = "backtrace:"
+#0  sleep_on (p=0x2ed10) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ed00) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ed34) at sched.c:152
+152	{
+$1652 = "backtrace:"
+#0  sleep_on (p=0x2ed34) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ed24) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ed58) at sched.c:152
+152	{
+$1655 = "backtrace:"
+#0  sleep_on (p=0x2ed58) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ed48) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ed7c) at sched.c:152
+152	{
+$1658 = "backtrace:"
+#0  sleep_on (p=0x2ed7c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ed6c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eda0) at sched.c:152
+152	{
+$1661 = "backtrace:"
+#0  sleep_on (p=0x2eda0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ed90) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2edc4) at sched.c:152
+152	{
+$1664 = "backtrace:"
+#0  sleep_on (p=0x2edc4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2edb4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ede8) at sched.c:152
+152	{
+$1667 = "backtrace:"
+#0  sleep_on (p=0x2ede8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2edd8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ee0c) at sched.c:152
+152	{
+$1670 = "backtrace:"
+#0  sleep_on (p=0x2ee0c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2edfc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ee30) at sched.c:152
+152	{
+$1673 = "backtrace:"
+#0  sleep_on (p=0x2ee30) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ee20) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ee54) at sched.c:152
+152	{
+$1676 = "backtrace:"
+#0  sleep_on (p=0x2ee54) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ee44) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ee78) at sched.c:152
+152	{
+$1679 = "backtrace:"
+#0  sleep_on (p=0x2ee78) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ee68) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ee9c) at sched.c:152
+152	{
+$1682 = "backtrace:"
+#0  sleep_on (p=0x2ee9c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ee8c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eec0) at sched.c:152
+152	{
+$1685 = "backtrace:"
+#0  sleep_on (p=0x2eec0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eeb0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2eee4) at sched.c:152
+152	{
+$1688 = "backtrace:"
+#0  sleep_on (p=0x2eee4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eed4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ef08) at sched.c:152
+152	{
+$1691 = "backtrace:"
+#0  sleep_on (p=0x2ef08) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eef8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ef2c) at sched.c:152
+152	{
+$1694 = "backtrace:"
+#0  sleep_on (p=0x2ef2c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ef1c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ef50) at sched.c:152
+152	{
+$1697 = "backtrace:"
+#0  sleep_on (p=0x2ef50) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ef40) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ef74) at sched.c:152
+152	{
+$1700 = "backtrace:"
+#0  sleep_on (p=0x2ef74) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ef64) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ef98) at sched.c:152
+152	{
+$1703 = "backtrace:"
+#0  sleep_on (p=0x2ef98) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ef88) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2efbc) at sched.c:152
+152	{
+$1706 = "backtrace:"
+#0  sleep_on (p=0x2efbc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2efac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2efe0) at sched.c:152
+152	{
+$1709 = "backtrace:"
+#0  sleep_on (p=0x2efe0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2efd0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f004) at sched.c:152
+152	{
+$1712 = "backtrace:"
+#0  sleep_on (p=0x2f004) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2eff4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f028) at sched.c:152
+152	{
+$1715 = "backtrace:"
+#0  sleep_on (p=0x2f028) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f018) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f04c) at sched.c:152
+152	{
+$1718 = "backtrace:"
+#0  sleep_on (p=0x2f04c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f03c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f070) at sched.c:152
+152	{
+$1721 = "backtrace:"
+#0  sleep_on (p=0x2f070) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f060) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f094) at sched.c:152
+152	{
+$1724 = "backtrace:"
+#0  sleep_on (p=0x2f094) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f084) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f0b8) at sched.c:152
+152	{
+$1727 = "backtrace:"
+#0  sleep_on (p=0x2f0b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f0a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f0dc) at sched.c:152
+152	{
+$1730 = "backtrace:"
+#0  sleep_on (p=0x2f0dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f0cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f100) at sched.c:152
+152	{
+$1733 = "backtrace:"
+#0  sleep_on (p=0x2f100) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f0f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f124) at sched.c:152
+152	{
+$1736 = "backtrace:"
+#0  sleep_on (p=0x2f124) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f114) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f148) at sched.c:152
+152	{
+$1739 = "backtrace:"
+#0  sleep_on (p=0x2f148) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f138) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f16c) at sched.c:152
+152	{
+$1742 = "backtrace:"
+#0  sleep_on (p=0x2f16c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f15c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f190) at sched.c:152
+152	{
+$1745 = "backtrace:"
+#0  sleep_on (p=0x2f190) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f180) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f1b4) at sched.c:152
+152	{
+$1748 = "backtrace:"
+#0  sleep_on (p=0x2f1b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f1a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f1d8) at sched.c:152
+152	{
+$1751 = "backtrace:"
+#0  sleep_on (p=0x2f1d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f1c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f1fc) at sched.c:152
+152	{
+$1754 = "backtrace:"
+#0  sleep_on (p=0x2f1fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f1ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f220) at sched.c:152
+152	{
+$1757 = "backtrace:"
+#0  sleep_on (p=0x2f220) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f210) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f244) at sched.c:152
+152	{
+$1760 = "backtrace:"
+#0  sleep_on (p=0x2f244) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f234) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f268) at sched.c:152
+152	{
+$1763 = "backtrace:"
+#0  sleep_on (p=0x2f268) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f258) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f28c) at sched.c:152
+152	{
+$1766 = "backtrace:"
+#0  sleep_on (p=0x2f28c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f27c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f2b0) at sched.c:152
+152	{
+$1769 = "backtrace:"
+#0  sleep_on (p=0x2f2b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f2a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f2d4) at sched.c:152
+152	{
+$1772 = "backtrace:"
+#0  sleep_on (p=0x2f2d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f2c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f2f8) at sched.c:152
+152	{
+$1775 = "backtrace:"
+#0  sleep_on (p=0x2f2f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f2e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f31c) at sched.c:152
+152	{
+$1778 = "backtrace:"
+#0  sleep_on (p=0x2f31c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f30c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f340) at sched.c:152
+152	{
+$1781 = "backtrace:"
+#0  sleep_on (p=0x2f340) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f330) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f364) at sched.c:152
+152	{
+$1784 = "backtrace:"
+#0  sleep_on (p=0x2f364) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f354) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f388) at sched.c:152
+152	{
+$1787 = "backtrace:"
+#0  sleep_on (p=0x2f388) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f378) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f3ac) at sched.c:152
+152	{
+$1790 = "backtrace:"
+#0  sleep_on (p=0x2f3ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f39c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f3d0) at sched.c:152
+152	{
+$1793 = "backtrace:"
+#0  sleep_on (p=0x2f3d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f3c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f3f4) at sched.c:152
+152	{
+$1796 = "backtrace:"
+#0  sleep_on (p=0x2f3f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f3e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f418) at sched.c:152
+152	{
+$1799 = "backtrace:"
+#0  sleep_on (p=0x2f418) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f408) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f43c) at sched.c:152
+152	{
+$1802 = "backtrace:"
+#0  sleep_on (p=0x2f43c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f42c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f460) at sched.c:152
+152	{
+$1805 = "backtrace:"
+#0  sleep_on (p=0x2f460) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f450) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f484) at sched.c:152
+152	{
+$1808 = "backtrace:"
+#0  sleep_on (p=0x2f484) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f474) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f4a8) at sched.c:152
+152	{
+$1811 = "backtrace:"
+#0  sleep_on (p=0x2f4a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f498) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f4cc) at sched.c:152
+152	{
+$1814 = "backtrace:"
+#0  sleep_on (p=0x2f4cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f4bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f4f0) at sched.c:152
+152	{
+$1817 = "backtrace:"
+#0  sleep_on (p=0x2f4f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f4e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f514) at sched.c:152
+152	{
+$1820 = "backtrace:"
+#0  sleep_on (p=0x2f514) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f504) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f538) at sched.c:152
+152	{
+$1823 = "backtrace:"
+#0  sleep_on (p=0x2f538) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f528) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f55c) at sched.c:152
+152	{
+$1826 = "backtrace:"
+#0  sleep_on (p=0x2f55c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f54c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f580) at sched.c:152
+152	{
+$1829 = "backtrace:"
+#0  sleep_on (p=0x2f580) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f570) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f5a4) at sched.c:152
+152	{
+$1832 = "backtrace:"
+#0  sleep_on (p=0x2f5a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f594) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f5c8) at sched.c:152
+152	{
+$1835 = "backtrace:"
+#0  sleep_on (p=0x2f5c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f5b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f5ec) at sched.c:152
+152	{
+$1838 = "backtrace:"
+#0  sleep_on (p=0x2f5ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f5dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f610) at sched.c:152
+152	{
+$1841 = "backtrace:"
+#0  sleep_on (p=0x2f610) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f600) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f634) at sched.c:152
+152	{
+$1844 = "backtrace:"
+#0  sleep_on (p=0x2f634) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f624) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f658) at sched.c:152
+152	{
+$1847 = "backtrace:"
+#0  sleep_on (p=0x2f658) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f648) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f67c) at sched.c:152
+152	{
+$1850 = "backtrace:"
+#0  sleep_on (p=0x2f67c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f66c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f6a0) at sched.c:152
+152	{
+$1853 = "backtrace:"
+#0  sleep_on (p=0x2f6a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f690) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f6c4) at sched.c:152
+152	{
+$1856 = "backtrace:"
+#0  sleep_on (p=0x2f6c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f6b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f6e8) at sched.c:152
+152	{
+$1859 = "backtrace:"
+#0  sleep_on (p=0x2f6e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f6d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f70c) at sched.c:152
+152	{
+$1862 = "backtrace:"
+#0  sleep_on (p=0x2f70c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f6fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f730) at sched.c:152
+152	{
+$1865 = "backtrace:"
+#0  sleep_on (p=0x2f730) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f720) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f754) at sched.c:152
+152	{
+$1868 = "backtrace:"
+#0  sleep_on (p=0x2f754) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f744) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f778) at sched.c:152
+152	{
+$1871 = "backtrace:"
+#0  sleep_on (p=0x2f778) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f768) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f79c) at sched.c:152
+152	{
+$1874 = "backtrace:"
+#0  sleep_on (p=0x2f79c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f78c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f7c0) at sched.c:152
+152	{
+$1877 = "backtrace:"
+#0  sleep_on (p=0x2f7c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f7b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f7e4) at sched.c:152
+152	{
+$1880 = "backtrace:"
+#0  sleep_on (p=0x2f7e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f7d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f808) at sched.c:152
+152	{
+$1883 = "backtrace:"
+#0  sleep_on (p=0x2f808) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f7f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f82c) at sched.c:152
+152	{
+$1886 = "backtrace:"
+#0  sleep_on (p=0x2f82c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f81c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f850) at sched.c:152
+152	{
+$1889 = "backtrace:"
+#0  sleep_on (p=0x2f850) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f840) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f874) at sched.c:152
+152	{
+$1892 = "backtrace:"
+#0  sleep_on (p=0x2f874) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f864) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f898) at sched.c:152
+152	{
+$1895 = "backtrace:"
+#0  sleep_on (p=0x2f898) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f888) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f8bc) at sched.c:152
+152	{
+$1898 = "backtrace:"
+#0  sleep_on (p=0x2f8bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f8ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f8e0) at sched.c:152
+152	{
+$1901 = "backtrace:"
+#0  sleep_on (p=0x2f8e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f8d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f904) at sched.c:152
+152	{
+$1904 = "backtrace:"
+#0  sleep_on (p=0x2f904) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f8f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f928) at sched.c:152
+152	{
+$1907 = "backtrace:"
+#0  sleep_on (p=0x2f928) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f918) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f94c) at sched.c:152
+152	{
+$1910 = "backtrace:"
+#0  sleep_on (p=0x2f94c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f93c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f970) at sched.c:152
+152	{
+$1913 = "backtrace:"
+#0  sleep_on (p=0x2f970) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f960) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f994) at sched.c:152
+152	{
+$1916 = "backtrace:"
+#0  sleep_on (p=0x2f994) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f984) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f9b8) at sched.c:152
+152	{
+$1919 = "backtrace:"
+#0  sleep_on (p=0x2f9b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f9a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2f9dc) at sched.c:152
+152	{
+$1922 = "backtrace:"
+#0  sleep_on (p=0x2f9dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f9cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fa00) at sched.c:152
+152	{
+$1925 = "backtrace:"
+#0  sleep_on (p=0x2fa00) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2f9f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fa24) at sched.c:152
+152	{
+$1928 = "backtrace:"
+#0  sleep_on (p=0x2fa24) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fa14) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fa48) at sched.c:152
+152	{
+$1931 = "backtrace:"
+#0  sleep_on (p=0x2fa48) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fa38) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fa6c) at sched.c:152
+152	{
+$1934 = "backtrace:"
+#0  sleep_on (p=0x2fa6c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fa5c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fa90) at sched.c:152
+152	{
+$1937 = "backtrace:"
+#0  sleep_on (p=0x2fa90) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fa80) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fab4) at sched.c:152
+152	{
+$1940 = "backtrace:"
+#0  sleep_on (p=0x2fab4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2faa4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fad8) at sched.c:152
+152	{
+$1943 = "backtrace:"
+#0  sleep_on (p=0x2fad8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fac8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fafc) at sched.c:152
+152	{
+$1946 = "backtrace:"
+#0  sleep_on (p=0x2fafc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2faec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fb20) at sched.c:152
+152	{
+$1949 = "backtrace:"
+#0  sleep_on (p=0x2fb20) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fb10) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fb44) at sched.c:152
+152	{
+$1952 = "backtrace:"
+#0  sleep_on (p=0x2fb44) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fb34) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fb68) at sched.c:152
+152	{
+$1955 = "backtrace:"
+#0  sleep_on (p=0x2fb68) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fb58) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fb8c) at sched.c:152
+152	{
+$1958 = "backtrace:"
+#0  sleep_on (p=0x2fb8c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fb7c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fbb0) at sched.c:152
+152	{
+$1961 = "backtrace:"
+#0  sleep_on (p=0x2fbb0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fba0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fbd4) at sched.c:152
+152	{
+$1964 = "backtrace:"
+#0  sleep_on (p=0x2fbd4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fbc4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fbf8) at sched.c:152
+152	{
+$1967 = "backtrace:"
+#0  sleep_on (p=0x2fbf8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fbe8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fc1c) at sched.c:152
+152	{
+$1970 = "backtrace:"
+#0  sleep_on (p=0x2fc1c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fc0c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fc40) at sched.c:152
+152	{
+$1973 = "backtrace:"
+#0  sleep_on (p=0x2fc40) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fc30) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fc64) at sched.c:152
+152	{
+$1976 = "backtrace:"
+#0  sleep_on (p=0x2fc64) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fc54) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fc88) at sched.c:152
+152	{
+$1979 = "backtrace:"
+#0  sleep_on (p=0x2fc88) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fc78) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fcac) at sched.c:152
+152	{
+$1982 = "backtrace:"
+#0  sleep_on (p=0x2fcac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fc9c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fcd0) at sched.c:152
+152	{
+$1985 = "backtrace:"
+#0  sleep_on (p=0x2fcd0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fcc0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fcf4) at sched.c:152
+152	{
+$1988 = "backtrace:"
+#0  sleep_on (p=0x2fcf4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fce4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fd18) at sched.c:152
+152	{
+$1991 = "backtrace:"
+#0  sleep_on (p=0x2fd18) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fd08) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fd3c) at sched.c:152
+152	{
+$1994 = "backtrace:"
+#0  sleep_on (p=0x2fd3c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fd2c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fd60) at sched.c:152
+152	{
+$1997 = "backtrace:"
+#0  sleep_on (p=0x2fd60) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fd50) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fd84) at sched.c:152
+152	{
+$2000 = "backtrace:"
+#0  sleep_on (p=0x2fd84) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fd74) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fda8) at sched.c:152
+152	{
+$2003 = "backtrace:"
+#0  sleep_on (p=0x2fda8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fd98) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fdcc) at sched.c:152
+152	{
+$2006 = "backtrace:"
+#0  sleep_on (p=0x2fdcc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fdbc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fdf0) at sched.c:152
+152	{
+$2009 = "backtrace:"
+#0  sleep_on (p=0x2fdf0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fde0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fe14) at sched.c:152
+152	{
+$2012 = "backtrace:"
+#0  sleep_on (p=0x2fe14) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fe04) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fe38) at sched.c:152
+152	{
+$2015 = "backtrace:"
+#0  sleep_on (p=0x2fe38) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fe28) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fe5c) at sched.c:152
+152	{
+$2018 = "backtrace:"
+#0  sleep_on (p=0x2fe5c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fe4c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fe80) at sched.c:152
+152	{
+$2021 = "backtrace:"
+#0  sleep_on (p=0x2fe80) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fe70) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fea4) at sched.c:152
+152	{
+$2024 = "backtrace:"
+#0  sleep_on (p=0x2fea4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fe94) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2fec8) at sched.c:152
+152	{
+$2027 = "backtrace:"
+#0  sleep_on (p=0x2fec8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2feb8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2feec) at sched.c:152
+152	{
+$2030 = "backtrace:"
+#0  sleep_on (p=0x2feec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fedc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ff10) at sched.c:152
+152	{
+$2033 = "backtrace:"
+#0  sleep_on (p=0x2ff10) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ff00) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ff34) at sched.c:152
+152	{
+$2036 = "backtrace:"
+#0  sleep_on (p=0x2ff34) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ff24) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ff58) at sched.c:152
+152	{
+$2039 = "backtrace:"
+#0  sleep_on (p=0x2ff58) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ff48) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ff7c) at sched.c:152
+152	{
+$2042 = "backtrace:"
+#0  sleep_on (p=0x2ff7c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ff6c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ffa0) at sched.c:152
+152	{
+$2045 = "backtrace:"
+#0  sleep_on (p=0x2ffa0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ff90) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ffc4) at sched.c:152
+152	{
+$2048 = "backtrace:"
+#0  sleep_on (p=0x2ffc4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ffb4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x2ffe8) at sched.c:152
+152	{
+$2051 = "backtrace:"
+#0  sleep_on (p=0x2ffe8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2ffd8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3000c) at sched.c:152
+152	{
+$2054 = "backtrace:"
+#0  sleep_on (p=0x3000c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x2fffc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30030) at sched.c:152
+152	{
+$2057 = "backtrace:"
+#0  sleep_on (p=0x30030) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30020) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30054) at sched.c:152
+152	{
+$2060 = "backtrace:"
+#0  sleep_on (p=0x30054) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30044) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30078) at sched.c:152
+152	{
+$2063 = "backtrace:"
+#0  sleep_on (p=0x30078) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30068) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3009c) at sched.c:152
+152	{
+$2066 = "backtrace:"
+#0  sleep_on (p=0x3009c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3008c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x300c0) at sched.c:152
+152	{
+$2069 = "backtrace:"
+#0  sleep_on (p=0x300c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x300b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x300e4) at sched.c:152
+152	{
+$2072 = "backtrace:"
+#0  sleep_on (p=0x300e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x300d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30108) at sched.c:152
+152	{
+$2075 = "backtrace:"
+#0  sleep_on (p=0x30108) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x300f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3012c) at sched.c:152
+152	{
+$2078 = "backtrace:"
+#0  sleep_on (p=0x3012c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3011c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30150) at sched.c:152
+152	{
+$2081 = "backtrace:"
+#0  sleep_on (p=0x30150) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30140) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30174) at sched.c:152
+152	{
+$2084 = "backtrace:"
+#0  sleep_on (p=0x30174) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30164) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30198) at sched.c:152
+152	{
+$2087 = "backtrace:"
+#0  sleep_on (p=0x30198) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30188) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x301bc) at sched.c:152
+152	{
+$2090 = "backtrace:"
+#0  sleep_on (p=0x301bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x301ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x301e0) at sched.c:152
+152	{
+$2093 = "backtrace:"
+#0  sleep_on (p=0x301e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x301d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30204) at sched.c:152
+152	{
+$2096 = "backtrace:"
+#0  sleep_on (p=0x30204) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x301f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30228) at sched.c:152
+152	{
+$2099 = "backtrace:"
+#0  sleep_on (p=0x30228) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30218) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3024c) at sched.c:152
+152	{
+$2102 = "backtrace:"
+#0  sleep_on (p=0x3024c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3023c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30270) at sched.c:152
+152	{
+$2105 = "backtrace:"
+#0  sleep_on (p=0x30270) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30260) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30294) at sched.c:152
+152	{
+$2108 = "backtrace:"
+#0  sleep_on (p=0x30294) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30284) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x302b8) at sched.c:152
+152	{
+$2111 = "backtrace:"
+#0  sleep_on (p=0x302b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x302a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x302dc) at sched.c:152
+152	{
+$2114 = "backtrace:"
+#0  sleep_on (p=0x302dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x302cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30300) at sched.c:152
+152	{
+$2117 = "backtrace:"
+#0  sleep_on (p=0x30300) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x302f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30324) at sched.c:152
+152	{
+$2120 = "backtrace:"
+#0  sleep_on (p=0x30324) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30314) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30348) at sched.c:152
+152	{
+$2123 = "backtrace:"
+#0  sleep_on (p=0x30348) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30338) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3036c) at sched.c:152
+152	{
+$2126 = "backtrace:"
+#0  sleep_on (p=0x3036c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3035c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30390) at sched.c:152
+152	{
+$2129 = "backtrace:"
+#0  sleep_on (p=0x30390) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30380) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x303b4) at sched.c:152
+152	{
+$2132 = "backtrace:"
+#0  sleep_on (p=0x303b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x303a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x303d8) at sched.c:152
+152	{
+$2135 = "backtrace:"
+#0  sleep_on (p=0x303d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x303c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x303fc) at sched.c:152
+152	{
+$2138 = "backtrace:"
+#0  sleep_on (p=0x303fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x303ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30420) at sched.c:152
+152	{
+$2141 = "backtrace:"
+#0  sleep_on (p=0x30420) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30410) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30444) at sched.c:152
+152	{
+$2144 = "backtrace:"
+#0  sleep_on (p=0x30444) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30434) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30468) at sched.c:152
+152	{
+$2147 = "backtrace:"
+#0  sleep_on (p=0x30468) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30458) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3048c) at sched.c:152
+152	{
+$2150 = "backtrace:"
+#0  sleep_on (p=0x3048c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3047c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x304b0) at sched.c:152
+152	{
+$2153 = "backtrace:"
+#0  sleep_on (p=0x304b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x304a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x304d4) at sched.c:152
+152	{
+$2156 = "backtrace:"
+#0  sleep_on (p=0x304d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x304c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x304f8) at sched.c:152
+152	{
+$2159 = "backtrace:"
+#0  sleep_on (p=0x304f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x304e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3051c) at sched.c:152
+152	{
+$2162 = "backtrace:"
+#0  sleep_on (p=0x3051c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3050c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30540) at sched.c:152
+152	{
+$2165 = "backtrace:"
+#0  sleep_on (p=0x30540) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30530) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30564) at sched.c:152
+152	{
+$2168 = "backtrace:"
+#0  sleep_on (p=0x30564) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30554) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30588) at sched.c:152
+152	{
+$2171 = "backtrace:"
+#0  sleep_on (p=0x30588) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30578) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x305ac) at sched.c:152
+152	{
+$2174 = "backtrace:"
+#0  sleep_on (p=0x305ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3059c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x305d0) at sched.c:152
+152	{
+$2177 = "backtrace:"
+#0  sleep_on (p=0x305d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x305c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x305f4) at sched.c:152
+152	{
+$2180 = "backtrace:"
+#0  sleep_on (p=0x305f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x305e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30618) at sched.c:152
+152	{
+$2183 = "backtrace:"
+#0  sleep_on (p=0x30618) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30608) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3063c) at sched.c:152
+152	{
+$2186 = "backtrace:"
+#0  sleep_on (p=0x3063c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3062c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30660) at sched.c:152
+152	{
+$2189 = "backtrace:"
+#0  sleep_on (p=0x30660) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30650) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30684) at sched.c:152
+152	{
+$2192 = "backtrace:"
+#0  sleep_on (p=0x30684) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30674) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x306a8) at sched.c:152
+152	{
+$2195 = "backtrace:"
+#0  sleep_on (p=0x306a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30698) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x306cc) at sched.c:152
+152	{
+$2198 = "backtrace:"
+#0  sleep_on (p=0x306cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x306bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x306f0) at sched.c:152
+152	{
+$2201 = "backtrace:"
+#0  sleep_on (p=0x306f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x306e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30714) at sched.c:152
+152	{
+$2204 = "backtrace:"
+#0  sleep_on (p=0x30714) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30704) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30738) at sched.c:152
+152	{
+$2207 = "backtrace:"
+#0  sleep_on (p=0x30738) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30728) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3075c) at sched.c:152
+152	{
+$2210 = "backtrace:"
+#0  sleep_on (p=0x3075c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3074c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30780) at sched.c:152
+152	{
+$2213 = "backtrace:"
+#0  sleep_on (p=0x30780) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30770) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x307a4) at sched.c:152
+152	{
+$2216 = "backtrace:"
+#0  sleep_on (p=0x307a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30794) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x307c8) at sched.c:152
+152	{
+$2219 = "backtrace:"
+#0  sleep_on (p=0x307c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x307b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x307ec) at sched.c:152
+152	{
+$2222 = "backtrace:"
+#0  sleep_on (p=0x307ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x307dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30810) at sched.c:152
+152	{
+$2225 = "backtrace:"
+#0  sleep_on (p=0x30810) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30800) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30834) at sched.c:152
+152	{
+$2228 = "backtrace:"
+#0  sleep_on (p=0x30834) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30824) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30858) at sched.c:152
+152	{
+$2231 = "backtrace:"
+#0  sleep_on (p=0x30858) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30848) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3087c) at sched.c:152
+152	{
+$2234 = "backtrace:"
+#0  sleep_on (p=0x3087c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3086c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x308a0) at sched.c:152
+152	{
+$2237 = "backtrace:"
+#0  sleep_on (p=0x308a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30890) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x308c4) at sched.c:152
+152	{
+$2240 = "backtrace:"
+#0  sleep_on (p=0x308c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x308b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x308e8) at sched.c:152
+152	{
+$2243 = "backtrace:"
+#0  sleep_on (p=0x308e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x308d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3090c) at sched.c:152
+152	{
+$2246 = "backtrace:"
+#0  sleep_on (p=0x3090c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x308fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30930) at sched.c:152
+152	{
+$2249 = "backtrace:"
+#0  sleep_on (p=0x30930) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30920) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30954) at sched.c:152
+152	{
+$2252 = "backtrace:"
+#0  sleep_on (p=0x30954) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30944) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30978) at sched.c:152
+152	{
+$2255 = "backtrace:"
+#0  sleep_on (p=0x30978) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30968) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3099c) at sched.c:152
+152	{
+$2258 = "backtrace:"
+#0  sleep_on (p=0x3099c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3098c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x309c0) at sched.c:152
+152	{
+$2261 = "backtrace:"
+#0  sleep_on (p=0x309c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x309b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x309e4) at sched.c:152
+152	{
+$2264 = "backtrace:"
+#0  sleep_on (p=0x309e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x309d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30a08) at sched.c:152
+152	{
+$2267 = "backtrace:"
+#0  sleep_on (p=0x30a08) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x309f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30a2c) at sched.c:152
+152	{
+$2270 = "backtrace:"
+#0  sleep_on (p=0x30a2c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30a1c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30a50) at sched.c:152
+152	{
+$2273 = "backtrace:"
+#0  sleep_on (p=0x30a50) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30a40) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30a74) at sched.c:152
+152	{
+$2276 = "backtrace:"
+#0  sleep_on (p=0x30a74) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30a64) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30a98) at sched.c:152
+152	{
+$2279 = "backtrace:"
+#0  sleep_on (p=0x30a98) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30a88) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30abc) at sched.c:152
+152	{
+$2282 = "backtrace:"
+#0  sleep_on (p=0x30abc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30aac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30ae0) at sched.c:152
+152	{
+$2285 = "backtrace:"
+#0  sleep_on (p=0x30ae0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30ad0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30b04) at sched.c:152
+152	{
+$2288 = "backtrace:"
+#0  sleep_on (p=0x30b04) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30af4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30b28) at sched.c:152
+152	{
+$2291 = "backtrace:"
+#0  sleep_on (p=0x30b28) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30b18) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30b4c) at sched.c:152
+152	{
+$2294 = "backtrace:"
+#0  sleep_on (p=0x30b4c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30b3c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30b70) at sched.c:152
+152	{
+$2297 = "backtrace:"
+#0  sleep_on (p=0x30b70) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30b60) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30b94) at sched.c:152
+152	{
+$2300 = "backtrace:"
+#0  sleep_on (p=0x30b94) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30b84) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30bb8) at sched.c:152
+152	{
+$2303 = "backtrace:"
+#0  sleep_on (p=0x30bb8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30ba8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30bdc) at sched.c:152
+152	{
+$2306 = "backtrace:"
+#0  sleep_on (p=0x30bdc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30bcc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30c00) at sched.c:152
+152	{
+$2309 = "backtrace:"
+#0  sleep_on (p=0x30c00) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30bf0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30c24) at sched.c:152
+152	{
+$2312 = "backtrace:"
+#0  sleep_on (p=0x30c24) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30c14) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30c48) at sched.c:152
+152	{
+$2315 = "backtrace:"
+#0  sleep_on (p=0x30c48) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30c38) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30c6c) at sched.c:152
+152	{
+$2318 = "backtrace:"
+#0  sleep_on (p=0x30c6c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30c5c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30c90) at sched.c:152
+152	{
+$2321 = "backtrace:"
+#0  sleep_on (p=0x30c90) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30c80) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30cb4) at sched.c:152
+152	{
+$2324 = "backtrace:"
+#0  sleep_on (p=0x30cb4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30ca4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30cd8) at sched.c:152
+152	{
+$2327 = "backtrace:"
+#0  sleep_on (p=0x30cd8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30cc8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30cfc) at sched.c:152
+152	{
+$2330 = "backtrace:"
+#0  sleep_on (p=0x30cfc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30cec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30d20) at sched.c:152
+152	{
+$2333 = "backtrace:"
+#0  sleep_on (p=0x30d20) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30d10) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30d44) at sched.c:152
+152	{
+$2336 = "backtrace:"
+#0  sleep_on (p=0x30d44) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30d34) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30d68) at sched.c:152
+152	{
+$2339 = "backtrace:"
+#0  sleep_on (p=0x30d68) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30d58) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30d8c) at sched.c:152
+152	{
+$2342 = "backtrace:"
+#0  sleep_on (p=0x30d8c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30d7c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30db0) at sched.c:152
+152	{
+$2345 = "backtrace:"
+#0  sleep_on (p=0x30db0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30da0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30dd4) at sched.c:152
+152	{
+$2348 = "backtrace:"
+#0  sleep_on (p=0x30dd4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30dc4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30df8) at sched.c:152
+152	{
+$2351 = "backtrace:"
+#0  sleep_on (p=0x30df8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30de8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30e1c) at sched.c:152
+152	{
+$2354 = "backtrace:"
+#0  sleep_on (p=0x30e1c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30e0c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30e40) at sched.c:152
+152	{
+$2357 = "backtrace:"
+#0  sleep_on (p=0x30e40) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30e30) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30e64) at sched.c:152
+152	{
+$2360 = "backtrace:"
+#0  sleep_on (p=0x30e64) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30e54) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30e88) at sched.c:152
+152	{
+$2363 = "backtrace:"
+#0  sleep_on (p=0x30e88) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30e78) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30eac) at sched.c:152
+152	{
+$2366 = "backtrace:"
+#0  sleep_on (p=0x30eac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30e9c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30ed0) at sched.c:152
+152	{
+$2369 = "backtrace:"
+#0  sleep_on (p=0x30ed0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30ec0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30ef4) at sched.c:152
+152	{
+$2372 = "backtrace:"
+#0  sleep_on (p=0x30ef4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30ee4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30f18) at sched.c:152
+152	{
+$2375 = "backtrace:"
+#0  sleep_on (p=0x30f18) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30f08) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30f3c) at sched.c:152
+152	{
+$2378 = "backtrace:"
+#0  sleep_on (p=0x30f3c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30f2c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30f60) at sched.c:152
+152	{
+$2381 = "backtrace:"
+#0  sleep_on (p=0x30f60) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30f50) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30f84) at sched.c:152
+152	{
+$2384 = "backtrace:"
+#0  sleep_on (p=0x30f84) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30f74) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30fa8) at sched.c:152
+152	{
+$2387 = "backtrace:"
+#0  sleep_on (p=0x30fa8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30f98) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30fcc) at sched.c:152
+152	{
+$2390 = "backtrace:"
+#0  sleep_on (p=0x30fcc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30fbc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x30ff0) at sched.c:152
+152	{
+$2393 = "backtrace:"
+#0  sleep_on (p=0x30ff0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x30fe0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31014) at sched.c:152
+152	{
+$2396 = "backtrace:"
+#0  sleep_on (p=0x31014) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31004) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31038) at sched.c:152
+152	{
+$2399 = "backtrace:"
+#0  sleep_on (p=0x31038) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31028) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3105c) at sched.c:152
+152	{
+$2402 = "backtrace:"
+#0  sleep_on (p=0x3105c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3104c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31080) at sched.c:152
+152	{
+$2405 = "backtrace:"
+#0  sleep_on (p=0x31080) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31070) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x310a4) at sched.c:152
+152	{
+$2408 = "backtrace:"
+#0  sleep_on (p=0x310a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31094) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x310c8) at sched.c:152
+152	{
+$2411 = "backtrace:"
+#0  sleep_on (p=0x310c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x310b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x310ec) at sched.c:152
+152	{
+$2414 = "backtrace:"
+#0  sleep_on (p=0x310ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x310dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31110) at sched.c:152
+152	{
+$2417 = "backtrace:"
+#0  sleep_on (p=0x31110) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31100) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31134) at sched.c:152
+152	{
+$2420 = "backtrace:"
+#0  sleep_on (p=0x31134) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31124) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31158) at sched.c:152
+152	{
+$2423 = "backtrace:"
+#0  sleep_on (p=0x31158) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31148) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3117c) at sched.c:152
+152	{
+$2426 = "backtrace:"
+#0  sleep_on (p=0x3117c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3116c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x311a0) at sched.c:152
+152	{
+$2429 = "backtrace:"
+#0  sleep_on (p=0x311a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31190) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x311c4) at sched.c:152
+152	{
+$2432 = "backtrace:"
+#0  sleep_on (p=0x311c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x311b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x311e8) at sched.c:152
+152	{
+$2435 = "backtrace:"
+#0  sleep_on (p=0x311e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x311d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3120c) at sched.c:152
+152	{
+$2438 = "backtrace:"
+#0  sleep_on (p=0x3120c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x311fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31230) at sched.c:152
+152	{
+$2441 = "backtrace:"
+#0  sleep_on (p=0x31230) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31220) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31254) at sched.c:152
+152	{
+$2444 = "backtrace:"
+#0  sleep_on (p=0x31254) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31244) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31278) at sched.c:152
+152	{
+$2447 = "backtrace:"
+#0  sleep_on (p=0x31278) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31268) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3129c) at sched.c:152
+152	{
+$2450 = "backtrace:"
+#0  sleep_on (p=0x3129c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3128c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x312c0) at sched.c:152
+152	{
+$2453 = "backtrace:"
+#0  sleep_on (p=0x312c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x312b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x312e4) at sched.c:152
+152	{
+$2456 = "backtrace:"
+#0  sleep_on (p=0x312e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x312d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31308) at sched.c:152
+152	{
+$2459 = "backtrace:"
+#0  sleep_on (p=0x31308) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x312f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3132c) at sched.c:152
+152	{
+$2462 = "backtrace:"
+#0  sleep_on (p=0x3132c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3131c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31350) at sched.c:152
+152	{
+$2465 = "backtrace:"
+#0  sleep_on (p=0x31350) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31340) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31374) at sched.c:152
+152	{
+$2468 = "backtrace:"
+#0  sleep_on (p=0x31374) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31364) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31398) at sched.c:152
+152	{
+$2471 = "backtrace:"
+#0  sleep_on (p=0x31398) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31388) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x313bc) at sched.c:152
+152	{
+$2474 = "backtrace:"
+#0  sleep_on (p=0x313bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x313ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x313e0) at sched.c:152
+152	{
+$2477 = "backtrace:"
+#0  sleep_on (p=0x313e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x313d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31404) at sched.c:152
+152	{
+$2480 = "backtrace:"
+#0  sleep_on (p=0x31404) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x313f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31428) at sched.c:152
+152	{
+$2483 = "backtrace:"
+#0  sleep_on (p=0x31428) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31418) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3144c) at sched.c:152
+152	{
+$2486 = "backtrace:"
+#0  sleep_on (p=0x3144c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3143c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31470) at sched.c:152
+152	{
+$2489 = "backtrace:"
+#0  sleep_on (p=0x31470) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31460) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31494) at sched.c:152
+152	{
+$2492 = "backtrace:"
+#0  sleep_on (p=0x31494) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31484) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x314b8) at sched.c:152
+152	{
+$2495 = "backtrace:"
+#0  sleep_on (p=0x314b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x314a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x314dc) at sched.c:152
+152	{
+$2498 = "backtrace:"
+#0  sleep_on (p=0x314dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x314cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31500) at sched.c:152
+152	{
+$2501 = "backtrace:"
+#0  sleep_on (p=0x31500) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x314f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31524) at sched.c:152
+152	{
+$2504 = "backtrace:"
+#0  sleep_on (p=0x31524) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31514) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31548) at sched.c:152
+152	{
+$2507 = "backtrace:"
+#0  sleep_on (p=0x31548) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31538) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3156c) at sched.c:152
+152	{
+$2510 = "backtrace:"
+#0  sleep_on (p=0x3156c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3155c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31590) at sched.c:152
+152	{
+$2513 = "backtrace:"
+#0  sleep_on (p=0x31590) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31580) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x315b4) at sched.c:152
+152	{
+$2516 = "backtrace:"
+#0  sleep_on (p=0x315b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x315a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x315d8) at sched.c:152
+152	{
+$2519 = "backtrace:"
+#0  sleep_on (p=0x315d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x315c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x315fc) at sched.c:152
+152	{
+$2522 = "backtrace:"
+#0  sleep_on (p=0x315fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x315ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31620) at sched.c:152
+152	{
+$2525 = "backtrace:"
+#0  sleep_on (p=0x31620) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31610) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31644) at sched.c:152
+152	{
+$2528 = "backtrace:"
+#0  sleep_on (p=0x31644) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31634) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31668) at sched.c:152
+152	{
+$2531 = "backtrace:"
+#0  sleep_on (p=0x31668) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31658) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3168c) at sched.c:152
+152	{
+$2534 = "backtrace:"
+#0  sleep_on (p=0x3168c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3167c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x316b0) at sched.c:152
+152	{
+$2537 = "backtrace:"
+#0  sleep_on (p=0x316b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x316a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x316d4) at sched.c:152
+152	{
+$2540 = "backtrace:"
+#0  sleep_on (p=0x316d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x316c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x316f8) at sched.c:152
+152	{
+$2543 = "backtrace:"
+#0  sleep_on (p=0x316f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x316e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3171c) at sched.c:152
+152	{
+$2546 = "backtrace:"
+#0  sleep_on (p=0x3171c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3170c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31740) at sched.c:152
+152	{
+$2549 = "backtrace:"
+#0  sleep_on (p=0x31740) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31730) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31764) at sched.c:152
+152	{
+$2552 = "backtrace:"
+#0  sleep_on (p=0x31764) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31754) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31788) at sched.c:152
+152	{
+$2555 = "backtrace:"
+#0  sleep_on (p=0x31788) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31778) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x317ac) at sched.c:152
+152	{
+$2558 = "backtrace:"
+#0  sleep_on (p=0x317ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3179c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x317d0) at sched.c:152
+152	{
+$2561 = "backtrace:"
+#0  sleep_on (p=0x317d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x317c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x317f4) at sched.c:152
+152	{
+$2564 = "backtrace:"
+#0  sleep_on (p=0x317f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x317e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31818) at sched.c:152
+152	{
+$2567 = "backtrace:"
+#0  sleep_on (p=0x31818) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31808) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3183c) at sched.c:152
+152	{
+$2570 = "backtrace:"
+#0  sleep_on (p=0x3183c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3182c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31860) at sched.c:152
+152	{
+$2573 = "backtrace:"
+#0  sleep_on (p=0x31860) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31850) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31884) at sched.c:152
+152	{
+$2576 = "backtrace:"
+#0  sleep_on (p=0x31884) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31874) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x318a8) at sched.c:152
+152	{
+$2579 = "backtrace:"
+#0  sleep_on (p=0x318a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31898) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x318cc) at sched.c:152
+152	{
+$2582 = "backtrace:"
+#0  sleep_on (p=0x318cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x318bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x318f0) at sched.c:152
+152	{
+$2585 = "backtrace:"
+#0  sleep_on (p=0x318f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x318e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31914) at sched.c:152
+152	{
+$2588 = "backtrace:"
+#0  sleep_on (p=0x31914) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31904) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31938) at sched.c:152
+152	{
+$2591 = "backtrace:"
+#0  sleep_on (p=0x31938) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31928) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3195c) at sched.c:152
+152	{
+$2594 = "backtrace:"
+#0  sleep_on (p=0x3195c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3194c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31980) at sched.c:152
+152	{
+$2597 = "backtrace:"
+#0  sleep_on (p=0x31980) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31970) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x319a4) at sched.c:152
+152	{
+$2600 = "backtrace:"
+#0  sleep_on (p=0x319a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31994) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x319c8) at sched.c:152
+152	{
+$2603 = "backtrace:"
+#0  sleep_on (p=0x319c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x319b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x319ec) at sched.c:152
+152	{
+$2606 = "backtrace:"
+#0  sleep_on (p=0x319ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x319dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31a10) at sched.c:152
+152	{
+$2609 = "backtrace:"
+#0  sleep_on (p=0x31a10) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31a00) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31a34) at sched.c:152
+152	{
+$2612 = "backtrace:"
+#0  sleep_on (p=0x31a34) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31a24) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31a58) at sched.c:152
+152	{
+$2615 = "backtrace:"
+#0  sleep_on (p=0x31a58) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31a48) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31a7c) at sched.c:152
+152	{
+$2618 = "backtrace:"
+#0  sleep_on (p=0x31a7c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31a6c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31aa0) at sched.c:152
+152	{
+$2621 = "backtrace:"
+#0  sleep_on (p=0x31aa0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31a90) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31ac4) at sched.c:152
+152	{
+$2624 = "backtrace:"
+#0  sleep_on (p=0x31ac4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31ab4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31ae8) at sched.c:152
+152	{
+$2627 = "backtrace:"
+#0  sleep_on (p=0x31ae8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31ad8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31b0c) at sched.c:152
+152	{
+$2630 = "backtrace:"
+#0  sleep_on (p=0x31b0c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31afc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31b30) at sched.c:152
+152	{
+$2633 = "backtrace:"
+#0  sleep_on (p=0x31b30) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31b20) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31b54) at sched.c:152
+152	{
+$2636 = "backtrace:"
+#0  sleep_on (p=0x31b54) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31b44) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31b78) at sched.c:152
+152	{
+$2639 = "backtrace:"
+#0  sleep_on (p=0x31b78) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31b68) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31b9c) at sched.c:152
+152	{
+$2642 = "backtrace:"
+#0  sleep_on (p=0x31b9c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31b8c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31bc0) at sched.c:152
+152	{
+$2645 = "backtrace:"
+#0  sleep_on (p=0x31bc0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31bb0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31be4) at sched.c:152
+152	{
+$2648 = "backtrace:"
+#0  sleep_on (p=0x31be4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31bd4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31c08) at sched.c:152
+152	{
+$2651 = "backtrace:"
+#0  sleep_on (p=0x31c08) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31bf8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31c2c) at sched.c:152
+152	{
+$2654 = "backtrace:"
+#0  sleep_on (p=0x31c2c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31c1c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31c50) at sched.c:152
+152	{
+$2657 = "backtrace:"
+#0  sleep_on (p=0x31c50) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31c40) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31c74) at sched.c:152
+152	{
+$2660 = "backtrace:"
+#0  sleep_on (p=0x31c74) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31c64) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31c98) at sched.c:152
+152	{
+$2663 = "backtrace:"
+#0  sleep_on (p=0x31c98) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31c88) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31cbc) at sched.c:152
+152	{
+$2666 = "backtrace:"
+#0  sleep_on (p=0x31cbc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31cac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31ce0) at sched.c:152
+152	{
+$2669 = "backtrace:"
+#0  sleep_on (p=0x31ce0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31cd0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31d04) at sched.c:152
+152	{
+$2672 = "backtrace:"
+#0  sleep_on (p=0x31d04) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31cf4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31d28) at sched.c:152
+152	{
+$2675 = "backtrace:"
+#0  sleep_on (p=0x31d28) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31d18) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31d4c) at sched.c:152
+152	{
+$2678 = "backtrace:"
+#0  sleep_on (p=0x31d4c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31d3c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31d70) at sched.c:152
+152	{
+$2681 = "backtrace:"
+#0  sleep_on (p=0x31d70) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31d60) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31d94) at sched.c:152
+152	{
+$2684 = "backtrace:"
+#0  sleep_on (p=0x31d94) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31d84) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31db8) at sched.c:152
+152	{
+$2687 = "backtrace:"
+#0  sleep_on (p=0x31db8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31da8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31ddc) at sched.c:152
+152	{
+$2690 = "backtrace:"
+#0  sleep_on (p=0x31ddc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31dcc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31e00) at sched.c:152
+152	{
+$2693 = "backtrace:"
+#0  sleep_on (p=0x31e00) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31df0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31e24) at sched.c:152
+152	{
+$2696 = "backtrace:"
+#0  sleep_on (p=0x31e24) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31e14) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31e48) at sched.c:152
+152	{
+$2699 = "backtrace:"
+#0  sleep_on (p=0x31e48) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31e38) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31e6c) at sched.c:152
+152	{
+$2702 = "backtrace:"
+#0  sleep_on (p=0x31e6c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31e5c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31e90) at sched.c:152
+152	{
+$2705 = "backtrace:"
+#0  sleep_on (p=0x31e90) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31e80) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31eb4) at sched.c:152
+152	{
+$2708 = "backtrace:"
+#0  sleep_on (p=0x31eb4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31ea4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31ed8) at sched.c:152
+152	{
+$2711 = "backtrace:"
+#0  sleep_on (p=0x31ed8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31ec8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31efc) at sched.c:152
+152	{
+$2714 = "backtrace:"
+#0  sleep_on (p=0x31efc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31eec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31f20) at sched.c:152
+152	{
+$2717 = "backtrace:"
+#0  sleep_on (p=0x31f20) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31f10) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31f44) at sched.c:152
+152	{
+$2720 = "backtrace:"
+#0  sleep_on (p=0x31f44) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31f34) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31f68) at sched.c:152
+152	{
+$2723 = "backtrace:"
+#0  sleep_on (p=0x31f68) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31f58) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31f8c) at sched.c:152
+152	{
+$2726 = "backtrace:"
+#0  sleep_on (p=0x31f8c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31f7c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31fb0) at sched.c:152
+152	{
+$2729 = "backtrace:"
+#0  sleep_on (p=0x31fb0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31fa0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31fd4) at sched.c:152
+152	{
+$2732 = "backtrace:"
+#0  sleep_on (p=0x31fd4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31fc4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x31ff8) at sched.c:152
+152	{
+$2735 = "backtrace:"
+#0  sleep_on (p=0x31ff8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x31fe8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3201c) at sched.c:152
+152	{
+$2738 = "backtrace:"
+#0  sleep_on (p=0x3201c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3200c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32040) at sched.c:152
+152	{
+$2741 = "backtrace:"
+#0  sleep_on (p=0x32040) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32030) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32064) at sched.c:152
+152	{
+$2744 = "backtrace:"
+#0  sleep_on (p=0x32064) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32054) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32088) at sched.c:152
+152	{
+$2747 = "backtrace:"
+#0  sleep_on (p=0x32088) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32078) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x320ac) at sched.c:152
+152	{
+$2750 = "backtrace:"
+#0  sleep_on (p=0x320ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3209c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x320d0) at sched.c:152
+152	{
+$2753 = "backtrace:"
+#0  sleep_on (p=0x320d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x320c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x320f4) at sched.c:152
+152	{
+$2756 = "backtrace:"
+#0  sleep_on (p=0x320f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x320e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32118) at sched.c:152
+152	{
+$2759 = "backtrace:"
+#0  sleep_on (p=0x32118) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32108) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3213c) at sched.c:152
+152	{
+$2762 = "backtrace:"
+#0  sleep_on (p=0x3213c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3212c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32160) at sched.c:152
+152	{
+$2765 = "backtrace:"
+#0  sleep_on (p=0x32160) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32150) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32184) at sched.c:152
+152	{
+$2768 = "backtrace:"
+#0  sleep_on (p=0x32184) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32174) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x321a8) at sched.c:152
+152	{
+$2771 = "backtrace:"
+#0  sleep_on (p=0x321a8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32198) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x321cc) at sched.c:152
+152	{
+$2774 = "backtrace:"
+#0  sleep_on (p=0x321cc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x321bc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x321f0) at sched.c:152
+152	{
+$2777 = "backtrace:"
+#0  sleep_on (p=0x321f0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x321e0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32214) at sched.c:152
+152	{
+$2780 = "backtrace:"
+#0  sleep_on (p=0x32214) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32204) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32238) at sched.c:152
+152	{
+$2783 = "backtrace:"
+#0  sleep_on (p=0x32238) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32228) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3225c) at sched.c:152
+152	{
+$2786 = "backtrace:"
+#0  sleep_on (p=0x3225c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3224c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32280) at sched.c:152
+152	{
+$2789 = "backtrace:"
+#0  sleep_on (p=0x32280) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32270) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x322a4) at sched.c:152
+152	{
+$2792 = "backtrace:"
+#0  sleep_on (p=0x322a4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32294) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x322c8) at sched.c:152
+152	{
+$2795 = "backtrace:"
+#0  sleep_on (p=0x322c8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x322b8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x322ec) at sched.c:152
+152	{
+$2798 = "backtrace:"
+#0  sleep_on (p=0x322ec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x322dc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32310) at sched.c:152
+152	{
+$2801 = "backtrace:"
+#0  sleep_on (p=0x32310) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32300) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32334) at sched.c:152
+152	{
+$2804 = "backtrace:"
+#0  sleep_on (p=0x32334) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32324) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32358) at sched.c:152
+152	{
+$2807 = "backtrace:"
+#0  sleep_on (p=0x32358) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32348) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3237c) at sched.c:152
+152	{
+$2810 = "backtrace:"
+#0  sleep_on (p=0x3237c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3236c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x323a0) at sched.c:152
+152	{
+$2813 = "backtrace:"
+#0  sleep_on (p=0x323a0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32390) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x323c4) at sched.c:152
+152	{
+$2816 = "backtrace:"
+#0  sleep_on (p=0x323c4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x323b4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x323e8) at sched.c:152
+152	{
+$2819 = "backtrace:"
+#0  sleep_on (p=0x323e8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x323d8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3240c) at sched.c:152
+152	{
+$2822 = "backtrace:"
+#0  sleep_on (p=0x3240c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x323fc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32430) at sched.c:152
+152	{
+$2825 = "backtrace:"
+#0  sleep_on (p=0x32430) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32420) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32454) at sched.c:152
+152	{
+$2828 = "backtrace:"
+#0  sleep_on (p=0x32454) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32444) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32478) at sched.c:152
+152	{
+$2831 = "backtrace:"
+#0  sleep_on (p=0x32478) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32468) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3249c) at sched.c:152
+152	{
+$2834 = "backtrace:"
+#0  sleep_on (p=0x3249c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3248c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x324c0) at sched.c:152
+152	{
+$2837 = "backtrace:"
+#0  sleep_on (p=0x324c0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x324b0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x324e4) at sched.c:152
+152	{
+$2840 = "backtrace:"
+#0  sleep_on (p=0x324e4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x324d4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32508) at sched.c:152
+152	{
+$2843 = "backtrace:"
+#0  sleep_on (p=0x32508) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x324f8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3252c) at sched.c:152
+152	{
+$2846 = "backtrace:"
+#0  sleep_on (p=0x3252c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3251c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32550) at sched.c:152
+152	{
+$2849 = "backtrace:"
+#0  sleep_on (p=0x32550) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32540) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32574) at sched.c:152
+152	{
+$2852 = "backtrace:"
+#0  sleep_on (p=0x32574) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32564) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32598) at sched.c:152
+152	{
+$2855 = "backtrace:"
+#0  sleep_on (p=0x32598) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32588) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x325bc) at sched.c:152
+152	{
+$2858 = "backtrace:"
+#0  sleep_on (p=0x325bc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x325ac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x325e0) at sched.c:152
+152	{
+$2861 = "backtrace:"
+#0  sleep_on (p=0x325e0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x325d0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32604) at sched.c:152
+152	{
+$2864 = "backtrace:"
+#0  sleep_on (p=0x32604) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x325f4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32628) at sched.c:152
+152	{
+$2867 = "backtrace:"
+#0  sleep_on (p=0x32628) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32618) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3264c) at sched.c:152
+152	{
+$2870 = "backtrace:"
+#0  sleep_on (p=0x3264c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3263c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32670) at sched.c:152
+152	{
+$2873 = "backtrace:"
+#0  sleep_on (p=0x32670) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32660) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32694) at sched.c:152
+152	{
+$2876 = "backtrace:"
+#0  sleep_on (p=0x32694) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32684) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x326b8) at sched.c:152
+152	{
+$2879 = "backtrace:"
+#0  sleep_on (p=0x326b8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x326a8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x326dc) at sched.c:152
+152	{
+$2882 = "backtrace:"
+#0  sleep_on (p=0x326dc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x326cc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32700) at sched.c:152
+152	{
+$2885 = "backtrace:"
+#0  sleep_on (p=0x32700) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x326f0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32724) at sched.c:152
+152	{
+$2888 = "backtrace:"
+#0  sleep_on (p=0x32724) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32714) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32748) at sched.c:152
+152	{
+$2891 = "backtrace:"
+#0  sleep_on (p=0x32748) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32738) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3276c) at sched.c:152
+152	{
+$2894 = "backtrace:"
+#0  sleep_on (p=0x3276c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3275c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32790) at sched.c:152
+152	{
+$2897 = "backtrace:"
+#0  sleep_on (p=0x32790) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32780) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x327b4) at sched.c:152
+152	{
+$2900 = "backtrace:"
+#0  sleep_on (p=0x327b4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x327a4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x327d8) at sched.c:152
+152	{
+$2903 = "backtrace:"
+#0  sleep_on (p=0x327d8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x327c8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x327fc) at sched.c:152
+152	{
+$2906 = "backtrace:"
+#0  sleep_on (p=0x327fc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x327ec) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32820) at sched.c:152
+152	{
+$2909 = "backtrace:"
+#0  sleep_on (p=0x32820) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32810) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32844) at sched.c:152
+152	{
+$2912 = "backtrace:"
+#0  sleep_on (p=0x32844) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32834) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32868) at sched.c:152
+152	{
+$2915 = "backtrace:"
+#0  sleep_on (p=0x32868) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32858) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3288c) at sched.c:152
+152	{
+$2918 = "backtrace:"
+#0  sleep_on (p=0x3288c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3287c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x328b0) at sched.c:152
+152	{
+$2921 = "backtrace:"
+#0  sleep_on (p=0x328b0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x328a0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x328d4) at sched.c:152
+152	{
+$2924 = "backtrace:"
+#0  sleep_on (p=0x328d4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x328c4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x328f8) at sched.c:152
+152	{
+$2927 = "backtrace:"
+#0  sleep_on (p=0x328f8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x328e8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x3291c) at sched.c:152
+152	{
+$2930 = "backtrace:"
+#0  sleep_on (p=0x3291c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3290c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32940) at sched.c:152
+152	{
+$2933 = "backtrace:"
+#0  sleep_on (p=0x32940) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32930) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32964) at sched.c:152
+152	{
+$2936 = "backtrace:"
+#0  sleep_on (p=0x32964) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32954) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32988) at sched.c:152
+152	{
+$2939 = "backtrace:"
+#0  sleep_on (p=0x32988) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32978) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x329ac) at sched.c:152
+152	{
+$2942 = "backtrace:"
+#0  sleep_on (p=0x329ac) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x3299c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x329d0) at sched.c:152
+152	{
+$2945 = "backtrace:"
+#0  sleep_on (p=0x329d0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x329c0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x329f4) at sched.c:152
+152	{
+$2948 = "backtrace:"
+#0  sleep_on (p=0x329f4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x329e4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32a18) at sched.c:152
+152	{
+$2951 = "backtrace:"
+#0  sleep_on (p=0x32a18) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32a08) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32a3c) at sched.c:152
+152	{
+$2954 = "backtrace:"
+#0  sleep_on (p=0x32a3c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32a2c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32a60) at sched.c:152
+152	{
+$2957 = "backtrace:"
+#0  sleep_on (p=0x32a60) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32a50) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32a84) at sched.c:152
+152	{
+$2960 = "backtrace:"
+#0  sleep_on (p=0x32a84) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32a74) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32aa8) at sched.c:152
+152	{
+$2963 = "backtrace:"
+#0  sleep_on (p=0x32aa8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32a98) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32acc) at sched.c:152
+152	{
+$2966 = "backtrace:"
+#0  sleep_on (p=0x32acc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32abc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32af0) at sched.c:152
+152	{
+$2969 = "backtrace:"
+#0  sleep_on (p=0x32af0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32ae0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32b14) at sched.c:152
+152	{
+$2972 = "backtrace:"
+#0  sleep_on (p=0x32b14) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32b04) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32b38) at sched.c:152
+152	{
+$2975 = "backtrace:"
+#0  sleep_on (p=0x32b38) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32b28) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32b5c) at sched.c:152
+152	{
+$2978 = "backtrace:"
+#0  sleep_on (p=0x32b5c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32b4c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32b80) at sched.c:152
+152	{
+$2981 = "backtrace:"
+#0  sleep_on (p=0x32b80) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32b70) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32ba4) at sched.c:152
+152	{
+$2984 = "backtrace:"
+#0  sleep_on (p=0x32ba4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32b94) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32bc8) at sched.c:152
+152	{
+$2987 = "backtrace:"
+#0  sleep_on (p=0x32bc8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32bb8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32bec) at sched.c:152
+152	{
+$2990 = "backtrace:"
+#0  sleep_on (p=0x32bec) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32bdc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32c10) at sched.c:152
+152	{
+$2993 = "backtrace:"
+#0  sleep_on (p=0x32c10) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32c00) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32c34) at sched.c:152
+152	{
+$2996 = "backtrace:"
+#0  sleep_on (p=0x32c34) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32c24) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32c58) at sched.c:152
+152	{
+$2999 = "backtrace:"
+#0  sleep_on (p=0x32c58) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32c48) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32c7c) at sched.c:152
+152	{
+$3002 = "backtrace:"
+#0  sleep_on (p=0x32c7c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32c6c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32ca0) at sched.c:152
+152	{
+$3005 = "backtrace:"
+#0  sleep_on (p=0x32ca0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32c90) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32cc4) at sched.c:152
+152	{
+$3008 = "backtrace:"
+#0  sleep_on (p=0x32cc4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32cb4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32ce8) at sched.c:152
+152	{
+$3011 = "backtrace:"
+#0  sleep_on (p=0x32ce8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32cd8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32d0c) at sched.c:152
+152	{
+$3014 = "backtrace:"
+#0  sleep_on (p=0x32d0c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32cfc) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32d30) at sched.c:152
+152	{
+$3017 = "backtrace:"
+#0  sleep_on (p=0x32d30) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32d20) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32d54) at sched.c:152
+152	{
+$3020 = "backtrace:"
+#0  sleep_on (p=0x32d54) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32d44) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32d78) at sched.c:152
+152	{
+$3023 = "backtrace:"
+#0  sleep_on (p=0x32d78) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32d68) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32d9c) at sched.c:152
+152	{
+$3026 = "backtrace:"
+#0  sleep_on (p=0x32d9c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32d8c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32dc0) at sched.c:152
+152	{
+$3029 = "backtrace:"
+#0  sleep_on (p=0x32dc0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32db0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32de4) at sched.c:152
+152	{
+$3032 = "backtrace:"
+#0  sleep_on (p=0x32de4) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32dd4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32e08) at sched.c:152
+152	{
+$3035 = "backtrace:"
+#0  sleep_on (p=0x32e08) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32df8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32e2c) at sched.c:152
+152	{
+$3038 = "backtrace:"
+#0  sleep_on (p=0x32e2c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32e1c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32e50) at sched.c:152
+152	{
+$3041 = "backtrace:"
+#0  sleep_on (p=0x32e50) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32e40) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32e74) at sched.c:152
+152	{
+$3044 = "backtrace:"
+#0  sleep_on (p=0x32e74) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32e64) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32e98) at sched.c:152
+152	{
+$3047 = "backtrace:"
+#0  sleep_on (p=0x32e98) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32e88) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32ebc) at sched.c:152
+152	{
+$3050 = "backtrace:"
+#0  sleep_on (p=0x32ebc) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32eac) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32ee0) at sched.c:152
+152	{
+$3053 = "backtrace:"
+#0  sleep_on (p=0x32ee0) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32ed0) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32f04) at sched.c:152
+152	{
+$3056 = "backtrace:"
+#0  sleep_on (p=0x32f04) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32ef4) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32f28) at sched.c:152
+152	{
+$3059 = "backtrace:"
+#0  sleep_on (p=0x32f28) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32f18) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32f4c) at sched.c:152
+152	{
+$3062 = "backtrace:"
+#0  sleep_on (p=0x32f4c) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32f3c) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32f70) at sched.c:152
+152	{
+$3065 = "backtrace:"
+#0  sleep_on (p=0x32f70) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32f60) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32f94) at sched.c:152
+152	{
+$3068 = "backtrace:"
+#0  sleep_on (p=0x32f94) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32f84) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x32fb8) at sched.c:152
+152	{
+$3071 = "backtrace:"
+#0  sleep_on (p=0x32fb8) at sched.c:152
+#1  0x0000d5a8 in wait_on_buffer (bh=0x32fa8) at buffer.c:43
+
+
+Breakpoint 5, sleep_on (p=0x27c70 <inode_table+1712>) at sched.c:152
+152	{
+$3074 = "backtrace:"
+#0  sleep_on (p=0x27c70 <inode_table+1712>) at sched.c:152
+#1  0x00010b27 in read_pipe (inode=0x27c50 <inode_table+1680>, 
+    buf=0x3fff0bc "\332\n\001", count=1) at pipe.c:22
+
+

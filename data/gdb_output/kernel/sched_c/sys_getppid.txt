@@ -1,0 +1,14 @@
+Breakpoint 5, sys_getppid () at sched.c:355
+355	{
+$2 = "backtrace:"
+#0  sys_getppid () at sched.c:355
+#1  0x00007967 in system_call () at system_call.s:94
+
+
+Breakpoint 5, sys_getppid () at sched.c:355
+355	{
+$5 = "backtrace:"
+#0  sys_getppid () at sched.c:355
+#1  0x00007967 in system_call () at system_call.s:94
+
+
