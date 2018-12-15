@@ -1,0 +1,7168 @@
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$5 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$8 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$11 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$14 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$17 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$20 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$23 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$26 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$29 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$32 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$35 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$38 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$41 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$44 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$47 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$50 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$53 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$56 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$59 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$62 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$65 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$68 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$71 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$74 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$77 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$80 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$83 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$86 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$89 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$92 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$95 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$98 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$101 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$104 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$107 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$110 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$113 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$116 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$119 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$122 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$125 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$128 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$131 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$134 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$137 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$140 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$143 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$146 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$149 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$152 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$155 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$158 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$161 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$164 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$167 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$170 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$173 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$176 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$179 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$182 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$185 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$188 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$191 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$194 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$197 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$200 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$203 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$206 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$209 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$212 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$215 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$218 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$221 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$224 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$227 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$230 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$233 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$236 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$239 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$242 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$245 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$248 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$251 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$254 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$257 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$260 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$263 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$266 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$269 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$272 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$275 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$278 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$281 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$284 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$287 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$290 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$293 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$296 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$299 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$302 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$305 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$308 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$311 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$314 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$317 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$320 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$323 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$326 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$329 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$332 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$335 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$338 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$341 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$344 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$347 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$350 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$353 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$356 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$359 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$362 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$365 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$368 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$371 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$374 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$377 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$380 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$383 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$386 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$389 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$392 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$395 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$398 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$401 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$404 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$407 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$410 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$413 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$416 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$419 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$422 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$425 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$428 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$431 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$434 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$437 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$440 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$443 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$446 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$449 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$452 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$455 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$458 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$461 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$464 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$467 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$470 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$473 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$476 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$479 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$482 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$485 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$488 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$491 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$494 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$497 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$500 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$503 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$506 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$509 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$512 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$515 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$518 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$521 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$524 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$527 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$530 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$533 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$536 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$539 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$542 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$545 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$548 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$551 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$554 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$557 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$560 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$563 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$566 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$569 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$572 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$575 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$578 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$581 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$584 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$587 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$590 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$593 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$596 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$599 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$602 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$605 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$608 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$611 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$614 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$617 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$620 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$623 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$626 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$629 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$632 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$635 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$638 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$641 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$644 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$647 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$650 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$653 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$656 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$659 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$662 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$665 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$668 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$671 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$674 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$677 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$680 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$683 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$686 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$689 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$692 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$695 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$698 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$701 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$704 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$707 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$710 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$713 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$716 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$719 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$722 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$725 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$728 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$731 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$734 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$737 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$740 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$743 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$746 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$749 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$752 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$755 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$758 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$761 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$764 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$767 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$770 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$773 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$776 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$779 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$782 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$785 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$788 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$791 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$794 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$797 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$800 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$803 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$806 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$809 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$812 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$815 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$818 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$821 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$824 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$827 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$830 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$833 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$836 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$839 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$842 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$845 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$848 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$851 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$854 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$857 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$860 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$863 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$866 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$869 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$872 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$875 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$878 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$881 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$884 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$887 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$890 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$893 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$896 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$899 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$902 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$905 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$908 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$911 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$914 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$917 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$920 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$923 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$926 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$929 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$932 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$935 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$938 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$941 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$944 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$947 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$950 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$953 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$956 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$959 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$962 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$965 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$968 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$971 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$974 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$977 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$980 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$983 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$986 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$989 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$992 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$995 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$998 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1001 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1004 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1007 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1010 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1013 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1016 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1019 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1022 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1025 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1028 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1031 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1034 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1037 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1040 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1043 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1046 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1049 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1052 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1055 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1058 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1061 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1064 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1067 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1070 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1073 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1076 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1079 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1082 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1085 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1088 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1091 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1094 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1097 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1100 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1103 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1106 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1109 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1112 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1115 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1118 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1121 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1124 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1127 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1130 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1133 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1136 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1139 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1142 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1145 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1148 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1151 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1154 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1157 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1160 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1163 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1166 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1169 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1172 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1175 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1178 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1181 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1184 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1187 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1190 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1193 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1196 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1199 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1202 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1205 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1208 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1211 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1214 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1217 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1220 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1223 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1226 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1229 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1232 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1235 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1238 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1241 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1244 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1247 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1250 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1253 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1256 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1259 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1262 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1265 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1268 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1271 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1274 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1277 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1280 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1283 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1286 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1289 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1292 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1295 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1298 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1301 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1304 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1307 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1310 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1313 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1316 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1319 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1322 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1325 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1328 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1331 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1334 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1337 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1340 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1343 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1346 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1349 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1352 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1355 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1358 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1361 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1364 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1367 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1370 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1373 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1376 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1379 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1382 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1385 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1388 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1391 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1394 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1397 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1400 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1403 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1406 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1409 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1412 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1415 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1418 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1421 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1424 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1427 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1430 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1433 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1436 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1439 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1442 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1445 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1448 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1451 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1454 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1457 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1460 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1463 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1466 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1469 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1472 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1475 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1478 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1481 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1484 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1487 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1490 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1493 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1496 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1499 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1502 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1505 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1508 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1511 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1514 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1517 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1520 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1523 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1526 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1529 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1532 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1535 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1538 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1541 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1544 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1547 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1550 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1553 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1556 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1559 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1562 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1565 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1568 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1571 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1574 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1577 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1580 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1583 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1586 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1589 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1592 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1595 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1598 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1601 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1604 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1607 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1610 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1613 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1616 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1619 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1622 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1625 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1628 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1631 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1634 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1637 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1640 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1643 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1646 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1649 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1652 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1655 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1658 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1661 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1664 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1667 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1670 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1673 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1676 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1679 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1682 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1685 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1688 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1691 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1694 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1697 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1700 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1703 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1706 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1709 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1712 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1715 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1718 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1721 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1724 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1727 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1730 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1733 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1736 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1739 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1742 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1745 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1748 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1751 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1754 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1757 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1760 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1763 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1766 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1769 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1772 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1775 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1778 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1781 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1784 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1787 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1790 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1793 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1796 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1799 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1802 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1805 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1808 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1811 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1814 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1817 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1820 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1823 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1826 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1829 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1832 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1835 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1838 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1841 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1844 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1847 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1850 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1853 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1856 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1859 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1862 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1865 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1868 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1871 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1874 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1877 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1880 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1883 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1886 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1889 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1892 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1895 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1898 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1901 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1904 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1907 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1910 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1913 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1916 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1919 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1922 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1925 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1928 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1931 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1934 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1937 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1940 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1943 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1946 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1949 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1952 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1955 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1958 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1961 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1964 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1967 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1970 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1973 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1976 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1979 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1982 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1985 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1988 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1991 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1994 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$1997 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2000 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2003 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2006 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2009 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2012 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2015 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2018 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2021 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2024 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2027 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2030 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2033 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2036 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2039 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2042 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2045 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2048 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2051 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2054 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2057 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2060 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2063 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2066 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2069 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2072 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2075 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2078 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2081 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2084 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2087 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2090 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2093 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2096 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2099 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2102 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2105 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2108 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2111 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2114 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2117 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2120 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2123 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2126 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2129 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2132 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2135 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2138 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2141 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2144 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2147 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2150 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2153 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2156 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2159 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2162 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2165 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2168 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2171 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2174 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2177 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2180 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2183 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2186 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2189 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2192 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2195 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2198 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2201 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2204 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2207 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2210 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2213 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2216 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2219 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2222 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2225 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2228 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2231 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2234 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2237 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2240 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2243 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2246 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2249 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2252 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2255 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2258 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2261 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2264 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2267 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2270 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2273 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2276 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2279 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2282 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2285 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2288 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2291 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2294 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2297 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2300 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2303 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2306 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2309 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2312 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2315 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2318 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2321 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2324 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2327 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2330 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2333 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2336 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2339 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2342 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2345 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2348 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2351 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2354 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2357 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2360 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2363 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2366 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2369 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2372 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2375 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2378 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2381 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2384 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2387 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2390 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2393 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2396 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2399 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2402 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2405 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2408 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2411 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2414 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2417 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2420 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2423 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2426 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2429 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2432 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2435 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2438 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2441 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2444 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2447 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2450 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2453 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2456 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2459 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2462 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2465 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2468 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2471 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2474 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2477 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2480 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2483 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2486 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2489 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2492 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2495 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2498 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2501 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2504 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2507 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2510 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2513 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2516 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2519 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2522 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2525 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2528 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2531 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2534 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2537 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2540 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2543 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2546 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2549 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2552 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2555 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2558 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2561 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2564 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2567 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2570 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2573 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2576 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2579 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2582 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2585 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2588 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2591 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2594 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2597 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2600 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2603 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2606 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2609 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2612 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2615 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2618 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2621 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2624 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2627 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2630 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2633 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2636 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2639 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2642 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2645 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2648 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2651 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2654 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2657 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2660 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2663 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2666 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2669 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2672 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2675 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2678 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2681 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2684 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2687 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2690 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2693 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2696 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2699 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2702 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2705 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2708 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2711 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2714 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2717 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2720 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2723 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2726 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2729 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2732 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2735 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2738 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2741 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2744 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2747 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2750 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2753 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2756 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2759 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2762 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2765 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2768 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2771 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2774 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2777 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2780 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2783 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2786 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2789 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2792 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2795 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2798 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2801 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2804 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2807 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2810 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2813 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2816 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2819 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2822 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2825 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2828 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2831 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2834 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2837 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2840 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2843 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2846 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2849 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2852 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2855 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2858 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2861 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2864 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2867 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2870 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2873 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2876 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2879 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2882 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2885 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2888 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2891 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2894 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2897 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2900 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2903 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2906 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2909 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2912 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2915 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2918 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2921 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2924 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2927 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2930 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2933 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2936 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2939 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2942 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2945 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2948 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2951 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2954 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2957 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2960 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2963 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2966 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2969 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2972 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2975 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2978 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2981 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2984 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2987 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2990 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2993 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2996 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$2999 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3002 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3005 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3008 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3011 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3014 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3017 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3020 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3023 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3026 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3029 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3032 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3035 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3038 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3041 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3044 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3047 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3050 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3053 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3056 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3059 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3062 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3065 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3068 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+
+Breakpoint 5, rw_interrupt () at floppy.c:251
+251	{
+$3071 = "backtrace:"
+#0  rw_interrupt () at floppy.c:251
+#1  0x00007ae2 in floppy_interrupt () at system_call.s:271
+
+

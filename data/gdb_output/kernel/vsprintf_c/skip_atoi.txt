@@ -276,7 +276,7 @@ Breakpoint 5, skip_atoi (s=0xffeed8) at vsprintf.c:19
 $104 = "backtrace:"
 #0  skip_atoi (s=0xffeed8) at vsprintf.c:19
 #1  0x00009288 in vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b  34k", 
-    fmt=0x1af4c "4dk", args=0xffef08 "#") at vsprintf.c:130
+    fmt=0x1af4c "4dk", args=0xffef08 "") at vsprintf.c:130
 
 
 Breakpoint 5, skip_atoi (s=0xffeed8) at vsprintf.c:19
@@ -2384,7 +2384,7 @@ Breakpoint 5, skip_atoi (s=0xffeed8) at vsprintf.c:19
 $872 = "backtrace:"
 #0  skip_atoi (s=0xffeed8) at vsprintf.c:19
 #1  0x00009288 in vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b 290k", 
-    fmt=0x1af4c "4dk", args=0xffef08 "#\001") at vsprintf.c:130
+    fmt=0x1af4c "4dk", args=0xffef08 "\001") at vsprintf.c:130
 
 
 Breakpoint 5, skip_atoi (s=0xffeed8) at vsprintf.c:19
@@ -4432,7 +4432,7 @@ Breakpoint 5, skip_atoi (s=0xffeed8) at vsprintf.c:19
 $1640 = "backtrace:"
 #0  skip_atoi (s=0xffeed8) at vsprintf.c:19
 #1  0x00009288 in vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b 546k", 
-    fmt=0x1af4c "4dk", args=0xffef08 "#\002") at vsprintf.c:130
+    fmt=0x1af4c "4dk", args=0xffef08 "\002") at vsprintf.c:130
 
 
 Breakpoint 5, skip_atoi (s=0xffeed8) at vsprintf.c:19
@@ -6480,7 +6480,7 @@ Breakpoint 5, skip_atoi (s=0xffeed8) at vsprintf.c:19
 $2408 = "backtrace:"
 #0  skip_atoi (s=0xffeed8) at vsprintf.c:19
 #1  0x00009288 in vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b 802k", 
-    fmt=0x1af4c "4dk", args=0xffef08 "#\003") at vsprintf.c:130
+    fmt=0x1af4c "4dk", args=0xffef08 "\003") at vsprintf.c:130
 
 
 Breakpoint 5, skip_atoi (s=0xffeed8) at vsprintf.c:19

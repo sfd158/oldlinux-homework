@@ -1,0 +1,169 @@
+Breakpoint 2, main () at main.c:107
+107	{			/* The startup routine assumes (well, ...) this */
+$2 = "backtrace:"
+#0  main () at main.c:107
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$5 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x000068be in main () at main.c:134
+
+
+Breakpoint 8, init () at main.c:172
+172	{
+$8 = "backtrace:"
+#0  init () at main.c:172
+#1  0x00000017 in startup_32 () at head.s:25
+
+
+    fmt=0x7a49 ) at main.c:155
+155	{
+$11 = "backtrace:"
+#0  printf (
+    fmt=0x7a49 ) at main.c:155
+#1  0x00022000 in ?? ()
+
+
+   ) at main.c:155
+155	{
+$14 = "backtrace:"
+#0  printf (
+    fmt=0x7a49 <timer_interrupt+47> "\203\304\004\351'\377\377\377\220\215D$\034P\350\027\205") at main.c:155
+#1  0x00022000 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$17 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x8e0f0000 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$20 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x8e0f0000 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$23 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x8e0f0000 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$26 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$29 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$32 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$35 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$38 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$41 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$44 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$47 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$50 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$53 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$56 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$59 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$62 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$65 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$68 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x28c48390 in ?? ()
+
+
+Breakpoint 5, time_init () at main.c:79
+79	{
+$71 = "backtrace:"
+#0  time_init () at main.c:79
+#1  0x0487c35b in ?? ()
+
+

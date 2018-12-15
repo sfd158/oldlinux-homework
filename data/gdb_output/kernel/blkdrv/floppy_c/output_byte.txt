@@ -24281,10 +24281,10 @@ $10406 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10409 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24344,10 +24344,10 @@ $10433 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10436 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24407,10 +24407,10 @@ $10460 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10463 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24470,10 +24470,10 @@ $10487 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10490 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24533,10 +24533,10 @@ $10514 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10517 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24596,10 +24596,10 @@ $10541 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10544 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24659,10 +24659,10 @@ $10568 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10571 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24722,10 +24722,10 @@ $10595 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10598 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24785,10 +24785,10 @@ $10622 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10625 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24848,10 +24848,10 @@ $10649 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10652 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24911,10 +24911,10 @@ $10676 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10679 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -24974,10 +24974,10 @@ $10703 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10706 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -25037,10 +25037,10 @@ $10730 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10733 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -25100,10 +25100,10 @@ $10757 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10760 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -25163,10 +25163,10 @@ $10784 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10787 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -25226,10 +25226,10 @@ $10811 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10814 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -25289,10 +25289,10 @@ $10838 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10841 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 
@@ -25352,10 +25352,10 @@ $10865 = "backtrace:"
 #1  0x000148bf in setup_rw_floppy () at floppy.c:275
 
 
-Breakpoint 5, output_byte (byte=35 '#') at floppy.c:195
+Breakpoint 5, output_byte (byte=35 '') at floppy.c:195
 195	{
 $10868 = "backtrace:"
-#0  output_byte (byte=35 '#') at floppy.c:195
+#0  output_byte (byte=35 '') at floppy.c:195
 #1  0x000148d5 in setup_rw_floppy () at floppy.c:276
 
 

@@ -2,7 +2,7 @@
 public class callMessage 
 {
 	public final String callFunc;
-	public final String callFile;
+	public String callFile;
 	public final int callLine;
 	public callMessage(final String _callFunc, final String _callFile, final int _callLine)
 	{
@@ -13,6 +13,6 @@ public class callMessage
 	@Override
 	public String toString()
 	{
-		return "Call Func:" + callFunc + " Call File:" + callFile + " Call Line:" + callLine;
+		return "CallFunc:" + callFunc + ",CallFile:" + callFile + ",CallLine:" + callLine;
 	}
 }

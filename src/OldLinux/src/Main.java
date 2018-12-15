@@ -1,15 +1,25 @@
 import java.io.File;
 import java.util.ArrayList;
+
 public class Main 
 {
-	static final String srcf = "C:\\Users\\SDU\\Documents\\GitHub\\oldlinux-homework\\";
-	public static void main(String[] args) 
+	static final String srcf = "D:\\song\\document\\GitHub\\oldlinux-homework\\html\\",
+	//fpath = "D:\\song\\document\\GitHub\\oldlinux-homework\\data\\gdb_output\\fs\\";
+	fpath = "D:\\song\\document\\GitHub\\oldlinux-homework\\data\\gdb_output\\";
+	public static void main(String[] args) throws Exception 
 	{
 		//StatReader.ReadFolder(srcf + "data\\gdb_output");
-		//ArrayList<ArrayList<callMessage>> ans = StatReader.ReadLogFile(new File("D:\\song\\document\\GitHub\\oldlinux-homework\\data\\gdb_output\\fs\\chardev_c\\a.txt"));
+		StatReader stat = new StatReader();
+		stat.ReadFolder(fpath,1);
+		//System.out.println(stat.fnameTbl.size());
+		stat.calcXCNT();
+		//System.out.println(stat.funcToFile.size());
+		//stat.handle();
 		//System.out.println(ans);
-		StatReader.ReadSourceFile(new File(srcf+"0.11\\kernel\\sched.c"));
 		
+		
+		//srcReader srcR = new srcReader(srcf+"0.11\\mm\\memory.c", false);
+		//System.out.println(srcR.outputStr());
 	}
 
 }

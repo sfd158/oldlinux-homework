@@ -1,0 +1,7 @@
+Breakpoint 5, floppy_init () at floppy.c:459
+459	{
+$2 = "backtrace:"
+#0  floppy_init () at floppy.c:459
+#1  0x000068df in main () at main.c:138
+
+

@@ -36,7 +36,7 @@ $11 = "backtrace:"
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "\003") at vsprintf.c:95
+     at vsprintf.c:95
 95	{
 $14 = "backtrace:"
 #0  vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b   2k", 
@@ -296,7 +296,7 @@ $107 = "backtrace:"
 95	{
 $110 = "backtrace:"
 #0  vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b  34k", 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "#") at vsprintf.c:95
+    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "") at vsprintf.c:95
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
 
@@ -987,22 +987,18 @@ $368 = "backtrace:"
     fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "y") at vsprintf.c:95
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
-
     fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "z") at vsprintf.c:95
 95	{
 $371 = "backtrace:"
-#0  vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b 121k", 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "z") at vsprintf.c:95
-#1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
+#0  vsprintf ( ) at vsprintf.c:95
+#1  0x00008e76 in printk ( ) at printk.c:27
 
-
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "{") at vsprintf.c:95
+    fmt=0x1af46 "\b\b\b\b\b%4dk") at vsprintf.c:95
 95	{
 $374 = "backtrace:"
 #0  vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b 122k", 
     fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "{") at vsprintf.c:95
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
-
 
     fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "|") at vsprintf.c:95
 95	{
@@ -2400,11 +2396,11 @@ $875 = "backtrace:"
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "#\001") at vsprintf.c:95
+    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "\001") at vsprintf.c:95
 95	{
 $878 = "backtrace:"
 #0  vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b 290k", 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "#\001") at vsprintf.c:95
+    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "\001") at vsprintf.c:95
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
 
@@ -3103,14 +3099,11 @@ $1139 = "backtrace:"
     fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "z\001") at vsprintf.c:95
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
-
     fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "{\001") at vsprintf.c:95
 95	{
 $1142 = "backtrace:"
-#0  vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b 378k", 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "{\001") at vsprintf.c:95
+#0  vsprintf ( ) at vsprintf.c:95
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
-
 
     fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "|\001") at vsprintf.c:95
 95	{
@@ -4448,11 +4441,11 @@ $1643 = "backtrace:"
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "#\002") at vsprintf.c:95
+    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "\002") at vsprintf.c:95
 95	{
 $1646 = "backtrace:"
 #0  vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b 546k", 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "#\002") at vsprintf.c:95
+    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "\002") at vsprintf.c:95
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
 
@@ -6496,11 +6489,11 @@ $2411 = "backtrace:"
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "#\003") at vsprintf.c:95
+    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "\003") at vsprintf.c:95
 95	{
 $2414 = "backtrace:"
 #0  vsprintf (buf=0x262a0 <buf> "\b\b\b\b\b 802k", 
-    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "#\003") at vsprintf.c:95
+    fmt=0x1af46 "\b\b\b\b\b%4dk", args=0xffef08 "\003") at vsprintf.c:95
 #1  0x00008e76 in printk (fmt=0x1af46 "\b\b\b\b\b%4dk") at printk.c:27
 
 

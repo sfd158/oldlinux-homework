@@ -1,0 +1,7168 @@
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$5 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$8 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$11 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$14 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$17 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$20 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$23 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$26 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$29 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$32 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$35 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$38 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$41 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$44 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$47 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$50 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$53 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$56 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$59 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$62 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$65 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$68 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$71 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$74 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$77 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$80 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$83 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$86 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$89 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$92 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$95 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$98 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$101 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$104 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$107 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$110 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$113 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$116 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$119 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$122 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$125 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$128 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$131 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$134 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$137 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$140 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$143 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$146 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$149 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$152 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$155 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$158 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$161 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$164 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$167 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$170 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$173 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$176 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$179 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$182 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$185 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$188 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$191 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$194 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$197 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$200 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$203 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$206 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$209 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$212 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$215 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$218 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$221 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$224 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$227 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$230 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$233 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$236 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$239 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$242 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$245 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$248 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$251 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$254 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$257 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$260 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$263 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$266 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$269 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$272 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$275 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$278 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$281 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$284 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$287 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$290 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$293 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$296 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$299 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$302 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$305 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$308 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$311 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$314 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$317 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$320 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$323 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$326 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$329 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$332 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$335 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$338 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$341 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$344 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$347 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$350 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$353 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$356 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$359 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$362 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$365 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$368 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$371 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$374 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$377 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$380 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$383 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$386 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$389 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$392 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$395 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$398 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$401 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$404 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$407 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$410 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$413 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$416 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$419 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$422 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$425 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$428 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$431 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$434 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$437 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$440 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$443 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$446 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$449 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$452 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$455 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$458 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$461 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$464 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$467 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$470 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$473 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$476 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$479 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$482 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$485 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$488 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$491 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$494 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$497 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$500 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$503 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$506 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$509 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$512 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$515 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$518 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$521 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$524 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$527 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$530 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$533 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$536 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$539 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$542 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$545 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$548 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$551 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$554 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$557 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$560 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$563 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$566 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$569 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$572 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$575 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$578 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$581 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$584 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$587 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$590 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$593 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$596 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$599 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$602 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$605 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$608 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$611 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$614 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$617 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$620 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$623 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$626 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$629 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$632 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$635 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$638 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$641 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$644 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$647 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$650 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$653 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$656 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$659 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$662 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$665 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$668 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$671 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$674 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$677 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$680 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$683 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$686 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$689 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$692 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$695 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$698 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$701 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$704 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$707 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$710 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$713 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$716 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$719 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$722 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$725 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$728 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$731 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$734 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$737 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$740 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$743 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$746 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$749 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$752 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$755 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$758 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$761 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$764 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$767 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$770 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$773 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$776 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$779 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$782 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$785 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$788 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$791 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$794 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$797 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$800 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$803 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$806 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$809 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$812 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$815 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$818 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$821 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$824 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$827 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$830 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$833 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$836 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$839 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$842 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$845 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$848 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$851 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$854 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$857 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$860 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$863 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$866 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$869 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$872 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$875 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$878 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$881 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$884 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$887 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$890 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$893 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$896 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$899 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$902 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$905 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$908 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$911 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$914 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$917 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$920 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$923 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$926 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$929 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$932 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$935 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$938 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$941 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$944 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$947 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$950 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$953 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$956 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$959 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$962 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$965 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$968 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$971 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$974 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$977 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$980 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$983 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$986 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$989 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$992 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$995 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$998 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1001 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1004 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1007 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1010 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1013 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1016 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1019 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1022 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1025 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1028 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1031 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1034 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1037 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1040 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1043 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1046 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1049 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1052 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1055 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1058 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1061 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1064 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1067 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1070 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1073 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1076 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1079 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1082 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1085 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1088 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1091 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1094 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1097 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1100 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1103 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1106 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1109 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1112 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1115 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1118 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1121 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1124 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1127 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1130 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1133 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1136 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1139 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1142 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1145 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1148 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1151 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1154 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1157 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1160 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1163 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1166 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1169 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1172 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1175 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1178 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1181 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1184 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1187 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1190 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1193 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1196 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1199 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1202 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1205 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1208 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1211 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1214 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1217 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1220 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1223 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1226 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1229 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1232 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1235 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1238 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1241 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1244 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1247 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1250 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1253 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1256 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1259 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1262 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1265 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1268 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1271 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1274 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1277 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1280 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1283 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1286 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1289 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1292 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1295 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1298 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1301 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1304 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1307 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1310 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1313 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1316 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1319 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1322 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1325 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1328 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1331 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1334 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1337 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1340 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1343 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1346 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1349 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1352 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1355 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1358 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1361 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1364 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1367 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1370 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1373 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1376 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1379 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1382 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1385 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1388 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1391 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1394 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1397 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1400 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1403 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1406 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1409 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1412 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1415 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1418 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1421 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1424 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1427 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1430 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1433 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1436 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1439 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1442 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1445 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1448 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1451 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1454 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1457 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1460 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1463 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1466 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1469 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1472 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1475 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1478 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1481 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1484 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1487 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1490 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1493 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1496 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1499 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1502 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1505 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1508 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1511 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1514 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1517 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1520 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1523 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1526 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1529 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1532 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1535 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1538 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1541 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1544 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1547 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1550 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1553 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1556 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1559 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1562 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1565 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1568 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1571 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1574 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1577 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1580 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1583 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1586 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1589 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1592 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1595 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1598 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1601 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1604 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1607 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1610 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1613 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1616 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1619 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1622 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1625 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1628 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1631 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1634 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1637 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1640 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1643 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1646 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1649 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1652 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1655 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1658 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1661 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1664 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1667 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1670 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1673 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1676 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1679 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1682 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1685 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1688 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1691 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1694 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1697 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1700 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1703 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1706 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1709 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1712 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1715 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1718 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1721 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1724 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1727 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1730 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1733 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1736 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1739 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1742 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1745 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1748 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1751 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1754 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1757 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1760 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1763 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1766 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1769 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1772 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1775 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1778 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1781 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1784 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1787 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1790 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1793 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1796 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1799 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1802 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1805 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1808 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1811 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1814 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1817 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1820 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1823 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1826 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1829 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1832 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1835 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1838 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1841 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1844 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1847 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1850 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1853 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1856 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1859 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1862 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1865 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1868 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1871 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1874 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1877 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1880 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1883 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1886 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1889 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1892 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1895 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1898 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1901 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1904 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1907 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1910 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1913 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1916 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1919 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1922 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1925 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1928 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1931 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1934 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1937 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1940 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1943 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1946 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1949 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1952 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1955 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1958 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1961 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1964 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1967 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1970 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1973 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1976 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1979 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1982 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1985 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1988 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1991 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1994 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$1997 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2000 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2003 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2006 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2009 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2012 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2015 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2018 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2021 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2024 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2027 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2030 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2033 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2036 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2039 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2042 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2045 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2048 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2051 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2054 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2057 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2060 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2063 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2066 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2069 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2072 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2075 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2078 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2081 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2084 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2087 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2090 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2093 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2096 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2099 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2102 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2105 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2108 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2111 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2114 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2117 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2120 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2123 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2126 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2129 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2132 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2135 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2138 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2141 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2144 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2147 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2150 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2153 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2156 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2159 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2162 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2165 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2168 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2171 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2174 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2177 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2180 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2183 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2186 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2189 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2192 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2195 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2198 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2201 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2204 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2207 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2210 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2213 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2216 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2219 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2222 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2225 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2228 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2231 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2234 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2237 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2240 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2243 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2246 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2249 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2252 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2255 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2258 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2261 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2264 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2267 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2270 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2273 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2276 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2279 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2282 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2285 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2288 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2291 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2294 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2297 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2300 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2303 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2306 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2309 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2312 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2315 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2318 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2321 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2324 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2327 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2330 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2333 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2336 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2339 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2342 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2345 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2348 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2351 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2354 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2357 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2360 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2363 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2366 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2369 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2372 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2375 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2378 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2381 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2384 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2387 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2390 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2393 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2396 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2399 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2402 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2405 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2408 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2411 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2414 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2417 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2420 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2423 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2426 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2429 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2432 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2435 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2438 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2441 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2444 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2447 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2450 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2453 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2456 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2459 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2462 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2465 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2468 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2471 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2474 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2477 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2480 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2483 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2486 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2489 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2492 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2495 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2498 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2501 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2504 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2507 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2510 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2513 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2516 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2519 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2522 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2525 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2528 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2531 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2534 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2537 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2540 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2543 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2546 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2549 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2552 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2555 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2558 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2561 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2564 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2567 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2570 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2573 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2576 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2579 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2582 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2585 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2588 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2591 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2594 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2597 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2600 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2603 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2606 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2609 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2612 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2615 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2618 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2621 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2624 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2627 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2630 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2633 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2636 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2639 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2642 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2645 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2648 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2651 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2654 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2657 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2660 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2663 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2666 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2669 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2672 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2675 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2678 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2681 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2684 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2687 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2690 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2693 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2696 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2699 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2702 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2705 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2708 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2711 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2714 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2717 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2720 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2723 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2726 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2729 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2732 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2735 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2738 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2741 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2744 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2747 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2750 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2753 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2756 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2759 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2762 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2765 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2768 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2771 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2774 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2777 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2780 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2783 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2786 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2789 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2792 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2795 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2798 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2801 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2804 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2807 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2810 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2813 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2816 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2819 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2822 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2825 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2828 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2831 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2834 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2837 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2840 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2843 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2846 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2849 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2852 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2855 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2858 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2861 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2864 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2867 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2870 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2873 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2876 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2879 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2882 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2885 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2888 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2891 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2894 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2897 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2900 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2903 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2906 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2909 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2912 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2915 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2918 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2921 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2924 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2927 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2930 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2933 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2936 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2939 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2942 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2945 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2948 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2951 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2954 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2957 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2960 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2963 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2966 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2969 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2972 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2975 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2978 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2981 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2984 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2987 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2990 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2993 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2996 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$2999 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3002 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3005 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3008 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3011 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3014 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3017 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3020 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3023 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3026 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3029 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3032 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3035 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3038 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3041 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3044 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3047 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3050 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3053 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3056 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3059 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3062 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3065 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3068 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
+Breakpoint 5, floppy_deselect (nr=0) at floppy.c:126
+126	{
+$3071 = "backtrace:"
+#0  floppy_deselect (nr=0) at floppy.c:126
+#1  0x00014836 in rw_interrupt () at floppy.c:264
+
+
