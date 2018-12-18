@@ -1,0 +1,12 @@
+Booting from Floppy...
+
+Loading system ...
+
+Ram disk: 1049600 bytes, starting at 0x400000
+Loading 1048576 bytes into ram disk... done
+4/1024 free blocks
+285/341 free inodes
+3423 buffers = 3505152 bytes buffer space
+Free mem: 11533312 bytes
+=== Ok.
+[/usr/root]#

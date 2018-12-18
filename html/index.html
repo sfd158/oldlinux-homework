@@ -5,6 +5,7 @@
 <title>操作系统课程设计</title>
 <link rel="icon" type="image/x-icon" href="img/linuxicon.png"/>
 <link rel="stylesheet" href="index.css" type="text/css" />
+<link rel="stylesheet" href="rightMyExecute.css" type="text/css" />
 <link rel="stylesheet" href="tooltip.css" type="text/css" />
 <link rel="stylesheet" href="tooltipl.css" type="text/css" />
 <link rel="stylesheet" href="RightWindowDropDown.css" type="text/css" />
@@ -12,37 +13,46 @@
 <link rel="stylesheet" href="myfiletree.css" type="text/css" />
 <script src="jquery-3.3.1.js"></script>
 <script>
-	var funclist = {}, src = {};
-	let explains = $.getJSON("explains.json", function(jn)
-	{
-		$.each(jn,function(idx,obj){
-			if(obj["folder"] != undefined && obj["folder"] == true)
+	//let funclist = {}, src = {};
+	let initCall,initCalled, explains;
+	let nowClicked;
+	initCall = $.getJSON("json/initCall/call.json", function(jncall){
+		initCalled = $.getJSON("json/initCall/called.json", function(jncalled){
+			explains = $.getJSON("explains.json", function(jn)
 			{
-				//console.log(idx);
-				$("#"+idx+"Word").click(function(){
-					$("div#"+idx+"Component").toggle();
-					outExplain(idx);
+				$.each(jn,function(idx,obj){
+					if(obj["folder"] != undefined && obj["folder"] == true)
+					{
+						//console.log(idx);
+						$("#"+idx+"Word").click(function(){
+							$("div#"+idx+"Component").toggle();
+							outExplain(idx);
+						});
+					}
+					else
+					{
+						$("#"+idx).click( function() {
+							outExplain(idx);
+							if(idx[idx.length-1] == 's')return;
+							$.getJSON("json/"+idx+".json",function(jn0){
+								$.ajax({url:obj["src"],dataType:"text",success:function(srcfile){
+										addFunc(jn0,srcfile,idx);
+									}});
+							});
+						});
+					}
 				});
-			}
-			else
-			{
-				$("#"+idx).click( function() {outExplain(idx)});
-				if(idx != "sched_c")return;
-				//TODO: 产生所有C程序的json列表
-
-				funclist[idx] = $.getJSON("json/"+idx+".json",function(jn0){
-					src[idx] = $.ajax({url:obj["src"],dataType:"text",success:function(srcfile){
-						addFunc(jn0,srcfile,idx);
-					}});
-				});
-			}
+			});
 		});
-
 	});
+
 
 	function outExplain(name)
 	{
 		$("#DetailedExplain").html(explains.responseJSON[name]["detailed"]);
+		$("a#nowFileName").text(name.slice(0,name.length-2) + "." + name[name.length-1]);
+		$("div#srcSubstance").html("");
+		nowClicked =name;
 		/*if($("input#showSrcExplain").get(0).checked)
 		{
 			$("span#explainShowPos").html(explains.responseJSON[name]["brief"]);
@@ -51,8 +61,7 @@
 
 	function addFunc(jn,srcfile,fileN)
 	{
-		$("a#nowFileName").text(jn["file"]);
-		$("div#srcSubstance").html("");
+		//$("a#nowFileName").text(jn["file"]);
 		let srcArr = srcfile.split('\n');
 		$.each(jn["function"], function(idx,obj)
 		{
@@ -89,24 +98,29 @@
 		});
 	}
 
-	function updateConsole(s)
-	{
-		let t = $("div#myScreenWindowOutput").html("");
-		let arr = s.split('\n');
-		$.each(arr,function(index)
-		{
-			t.append($("<code></code>").addClass("myConsoleItem").html(arr[index]));
-			t.append($("<br/>"));
-		});
-	}
-
 	$(document).ready(
 		function()
 		{
-			//addFunc();
+			//window.open("drawCalled.html");
 
-			updateConsole("abcd efg\n abcdefg \n add \n");
-
+			$("a#fileCallButton").click(
+			function()
+			{
+				window.open("drawCalled.html");
+			}
+			);
+			$("a#funcCallButton").click(
+			function()
+			{
+				window.open("drawCalledMaxFunc.html?drawcnt=20");
+			}
+			);
+			$("a#nowFileCallButton").click(
+			function()
+			{
+				window.open("drawCalledFunc.html?filename="+nowClicked);
+			}
+			);
 
 		}
 	);
@@ -121,547 +135,32 @@
 					<div style="width: 150px; height: 20px; border-right: 2px black solid; float:left; display:inline;">
 						<a id="nowFileName"></a>
 					</div>
-					<div class="dropdownl" style="margin-left: -300px;">
+					<div class="dropdownl" style="margin-left: -50px;">
 						<div class="dropbtnl">文件简介</div>
 						<div class="dropdown-contentl">
 							<a id="DetailedExplain"></a>
 						</div>
 					</div>
-					<div class="dropdownl">
-						<div class="dropbtnl">调用情况</div>
-						<div class="dropdown-contentl">
-							<a id="fileInfo"></a>
+					<div class="dropdown" style="margin-left:250px;">
+						<div class="dropbtn">调用情况</div>
+						<div class="dropdown-content">
+							<a id="fileCallButton">全局文件调用</a>
+							<a id="funcCallButton">全局函数调用</a>
+							<a id="nowFileCallButton">本文件函数调用</a>
+							<a>本文件调用外部</a>
 						</div>
 					</div>
 				</header>
-				<div id="srcList">
 
-					<div class="ListFolder" id="linux0.11">
-						<div id="linux0_11Word" class="List0">
-							<img src="img/linuxicon.png" class="ListPng" alt="Linux:"/>
-							<a class="fileName">linux 0.11</a>
-
-						</div>
-						<div id="linux0_11Component" class="ListComponent0">
-							<div class="ListFolder" id="boot">
-								<div id="bootWord" class="List1">
-									<img src="img/folder.png" class="ListPng" alt="folder:"/>
-									<a class="fileName">boot</a>
-								</div>
-								<div id="bootComponent" class="ListComponent1">
-									<div class="List2 ListS" id="bootsect_s">
-										<img src="img/assmble.png" class="ListPng" alt="asm:"/>
-										<a class="fileName">bootsect.s</a>
-									</div>
-									<div class="List2" id="head_s">
-										<img src="img/assmble.png" class="ListPng" alt="asm:"/>
-										<a class="fileName">head.s</a>
-									</div>
-									<div class="List2" id="setup_s">
-										<img src="img/assmble.png" class="ListPng" alt="asm:"/>
-										<a class="fileName">setup.s</a>
-									</div>
-								</div>
-							</div>
-							<div class="ListFolder" id="fs">
-								<div class="List1" id="fsWord">
-									<img src="img/folder.png" class="ListPng" alt="asm:"/>
-									<a class="fileName">fs</a>
-								</div>
-								<div id="fsComponent" class="ListComponent1">
-									<div class="List2 ListC" id="bitmap_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">bitmap.c</a>
-									</div>
-									<div class="List2 ListC" id="block_dev_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">block_dev.c</a>
-									</div>
-									<div class="List2 ListC" id="buffer_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">buffer.c</a>
-									</div>
-									<div class="List2 ListC" id="char_dev_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">char_dev.c</a>
-									</div>
-									<div class="List2 ListC" id="exec_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">exec.c</a>
-									</div>
-									<div class="List2 ListC" id="fcntl_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">fcntl.c</a>
-									</div>
-									<div class="List2 ListC" id="file_dev_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">file_dev.c</a>
-									</div>
-									<div class="List2 ListC" id="file_table_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">file_table.c</a>
-									</div>
-									<div class="List2 ListC" id="inode_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">inode.c</a>
-									</div>
-									<div class="List2 ListC" id="namei_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">namei.c</a>
-									</div>
-									<div class="List2 ListC" id="open_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">open.c</a>
-									</div>
-									<div class="List2 ListC" id="pipe_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">pipe.c</a>
-									</div>
-									<div class="List2 ListC" id="read_write_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">read_write.c</a>
-									</div>
-									<div class="List2 ListC" id="stat_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">stat.c</a>
-									</div>
-									<div class="List2 ListC" id="super_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">super.c</a>
-									</div>
-									<div class="List2 ListC" id="truncate_c">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">truncate.c</a>
-									</div>
-								</div>
-							</div>
-							<div class="ListFolder" id="include">
-								<div id="includeWord" class="List1">
-									<img src="img/folder.png" class="ListPng" alt="folder:"/>
-									<a class="fileName">include</a>
-								</div>
-								<div id="includeComponent" class="ListComponent1">
-									<div id="asm" class="ListFolder">
-										<div id="asmWord" class="List2 ListFolder">
-											<img src="img/folder.png" class="ListPng" alt="hfile:"/>
-											<a class="fileName">asm</a>
-										</div>
-										<div id="asmComponent" class="ListComponent2">
-											<div id="io_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">io.h</a>
-											</div>
-											<div id="memory_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">memory.h</a>
-											</div>
-											<div id="segment_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">segment.h</a>
-											</div>
-											<div id="system_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">system.h</a>
-											</div>
-										</div>
-									</div>
-									<div id="linux" class="ListFolder">
-										<div id="linuxWord" class="List2 ListFolder">
-											<img src="img/folder.png" class="ListPng" alt="folder:"/>
-											<a class="fileName">linux</a>
-										</div>
-										<div id="linuxComponent" class="ListComponent2">
-											<div id="config_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">config.h</a>
-											</div>
-											<div id="fdreg_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">fdreg.h</a>
-											</div>
-											<div id="fs_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">fs.h</a>
-											</div>
-											<div id="hdreg_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">hdreg.h</a>
-											</div>
-											<div id="head_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">head.h</a>
-											</div>
-											<div id="kernel_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">kernel.h</a>
-											</div>
-											<div id="mm_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">mm.h</a>
-											</div>
-											<div id="sched_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">sched.h</a>
-											</div>
-											<div id="sys_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">sys.h</a>
-											</div>
-											<div id="tty_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">tty.h</a>
-											</div>
-										</div>
-									</div>
-									<div id="sys" class="ListFolder">
-										<div class="List2" id="sysWord">
-											<img src="img/folder.png" class="ListPng" alt="folder:"/>
-											<a class="fileName">sys</a>
-										</div>
-										<div id="sysComponent" class="ListComponent2">
-											<div id="stat_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">stat.h</a>
-											</div>
-											<div id="times_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">times.h</a>
-											</div>
-											<div id="types_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">types.h</a>
-											</div>
-											<div id="utsname_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">utsname.h</a>
-											</div>
-											<div id="wait_h" class="List3 ListH">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">wait.h</a>
-											</div>
-										</div>
-									</div>
-									<div id="a_out_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">a.out.h</a>
-									</div>
-									<div id="const_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">const.h</a>
-									</div>
-									<div id="ctype_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">ctype.h</a>
-									</div>
-									<div id="errno_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">errno.h</a>
-									</div>
-									<div id="fcntl_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">fcntl.h</a>
-									</div>
-									<div id="signal_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">signal.h</a>
-									</div>
-									<div id="stdarg_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">stdarg.h</a>
-									</div>
-									<div id="stddef_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">stddef.h</a>
-									</div>
-									<div id="string_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">string.h</a>
-									</div>
-									<div id="termios_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">termios.h</a>
-									</div>
-									<div id="time_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">time.h</a>
-									</div>
-									<div id="unistd_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">unistd.h</a>
-									</div>
-									<div id="utime_h" class="List2 ListH">
-										<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-										<a class="fileName">utime.h</a>
-									</div>
-								</div>
-							</div>
-							<div class="ListFolder" id="init">
-								<div class="List1" id="initWord">
-									<img src="img/folder.png" class="ListPng" alt="folder:"/>
-									<a class="fileName">init</a>
-								</div>
-								<div id="initComponent" class="ListComponent1">
-									<div id="main_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">main.c</a>
-									</div>
-								</div>
-							</div>
-							<div class="ListFolder" id="kernel">
-								<div class="List1" id="kernelWord">
-									<img src="img/folder.png" class="ListPng" alt="folder:"/>
-									<a class="fileName">kernel</a>
-								</div>
-								<div id="kernelComponent" class="ListComponent1">
-									<div class="ListFolder" id="blk_drv">
-										<div id="blk_drvWord" class="List2">
-											<img src="img/folder.png" class="ListPng" alt="folder:"/>
-											<a class="fileName">blk_drv</a>
-										</div>
-										<div id="blk_drvComponent" class="ListComponent2">
-											<div id="blk_h" class="List3 ListC">
-												<img src="img/hfile.png" class="ListPng" alt="hfile:"/>
-												<a class="fileName">blk.h</a>
-											</div>
-											<div id="floppy_c" class="List3 ListC">
-												<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-												<a class="fileName">floppy.c</a>
-											</div>
-											<div id="hd_c" class="List3 ListC">
-												<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-												<a class="fileName">hd.c</a>
-											</div>
-											<div id="ll_rw_blk_c" class="List3 ListC">
-												<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-												<a class="fileName">ll_rw_blk.c</a>
-											</div>
-											<div id="ramdisk_c" class="List3 ListC">
-												<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-												<a class="fileName">ramdisk.c</a>
-											</div>
-										</div>
-									</div>
-									<div class="ListFolder" id="chr_drv">
-										<div id="chr_drvWord" class="List2">
-											<img src="img/folder.png" class="ListPng" alt="folder:"/>
-											<a class="fileName">blk_drv</a>
-										</div>
-										<div id="chr_drvComponent" class="ListComponent2">
-											<div id="console_c" class="List3 ListC">
-												<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-												<a class="fileName">console.c</a>
-											</div>
-											<div id="Kb_s" class="List3 ListC">
-												<img src="img/assmble.png" class="ListPng" alt="asm:"/>
-												<a class="fileName">Kb.s</a>
-											</div>
-											<div id="rs_io_s" class="List3 ListC">
-												<img src="img/assmble.png" class="ListPng" alt="asm:"/>
-												<a class="fileName">rs_io.s</a>
-											</div>
-											<div id="serial_c" class="List3 ListC">
-												<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-												<a class="fileName">serial.c</a>
-											</div>
-											<div id="tty_io_c" class="List3 ListC">
-												<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-												<a class="fileName">tty_io.c</a>
-											</div>
-											<div id="tty_ioctl_c" class="List3 ListC">
-												<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-												<a class="fileName">tty_ioctl.c</a>
-											</div>
-										</div>
-									</div>
-
-									<div class="ListFolder" id="kernelmath">
-										<div id="kernelmathWord" class="List2">
-											<img src="img/folder.png" class="ListPng" alt="folder:"/>
-											<a class="fileName">math</a>
-										</div>
-										<div id="kernelmathComponent" class="ListComponent2">
-											<div id="math_emulate_c" class="List3 ListC">
-												<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-												<a class="fileName">math_emul.c</a>
-											</div>
-										</div>
-									</div>
-									<div id="asm_s" class="List2 ListC">
-										<img src="img/assmble.png" class="ListPng" alt="asm:"/>
-										<a class="fileName">asm.s</a>
-									</div>
-									<div id="exit_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">exit.c</a>
-									</div>
-									<div id="fork_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">fork.c</a>
-									</div>
-									<div id="mktime_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">mktime.c</a>
-									</div>
-									<div id="panic_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">panic.c</a>
-									</div>
-									<div id="printk_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">printk.c</a>
-									</div>
-									<div id="sched_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">sched.c</a>
-									</div>
-									<div id="signal_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">signal.c</a>
-									</div>
-									<div id="sys_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">sys.c</a>
-									</div>
-									<div id="system_call_s" class="List2 ListC">
-										<img src="img/assmble.png" class="ListPng" alt="asm:"/>
-										<a class="fileName">system_call.s</a>
-									</div>
-									<div id="traps_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">traps.c</a>
-									</div>
-									<div id="vsprintf_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">vsprintf.c</a>
-									</div>
-								</div>
-							</div>
-							<div class="ListFolder" id="lib">
-								<div class="List1" id="libWord">
-									<img src="img/folder.png" class="ListPng" alt="folder:"/>
-									<a class="fileName">lib</a>
-
-								</div>
-								<div id="libComponent" class="ListComponent1">
-									<div id="_exit_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">_exit.c</a>
-									</div>
-									<div id="close_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">close.c</a>
-									</div>
-									<div id="ctype_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">ctype.c</a>
-									</div>
-									<div id="dup_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">dup.c</a>
-									</div>
-									<div id="errno_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">errno.c</a>
-									</div>
-									<div id="execve_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">execve.c</a>
-									</div>
-									<div id="malloc_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">malloc.c</a>
-									</div>
-									<div id="lib-open_c" class="List2 ListC">
-										<!-- TODO-->
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">open.c</a>
-									</div>
-									<div id="setsid_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">setsid.c</a>
-									</div>
-									<div id="string_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">string.c</a>
-									</div>
-									<div id="wait_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">wait.c</a>
-									</div>
-									<div id="write_c" class="List2 ListC">
-										<img src="img/cfile.png" class="ListPng" alt="cfile:"/>
-										<a class="fileName">write.c</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
+				<script src="srcList.js"></script>
 				<div id="srcSubstance" style="height: 400px; background-color: white; overflow-y: auto;">
 
 				</div>
 
 			</div>
-			<div id="myMemory">
-				<header>
-					<a>内存使用状态</a>
-					<span style="float:right;">
-						<a>正在执行地址: <span>0x0000000</span></a>
-						<a>内存读写地址: <span>0x0000000</span></a>
-					</span>
-					
-				</header>
-				<div id="memoryBar">
-					<div id="memoryCore" style="width: 50px; height:70px; float:left;" class="tooltip">
-						<div style="width: 50px; height: 50px; background-color: pink; float:top;"></div>
-						<div style="float:top">
-							<a style="float:left;">0</a>
-							<a style="float:right;">end</a>
-						</div>
-						<span class="tooltiptext">内核模块</span>
-					</div>
-					<div id="memoryBuffer0" style="width: 50px; height:70px; float:left;" class="tooltip">
-						<div style="width: 50px; height: 50px; background-color: yellowgreen; float:top;"></div>
-						<div style="float:top">
-							<a style="float:right;">640K</a>
-						</div>
-						<span class="tooltiptext">高速缓冲</span>
-					</div>
-					<div id="videoCardANDBios" style="width: 50px; height:70px; float:left;" class="tooltip">
-						<div style="width: 50px; height: 50px; background-color: deepskyblue; float:top;"></div>
-						<div style="float:top">
-							<a style="float:right;">1M</a>
-						</div>
-						<span class="tooltiptext">显存和BIOS ROM</span>
-					</div>
-					<div id="memoryBuffer1" style="width: 50px; height:70px; float:left;" class="tooltip">
-						<div style="width: 50px; height: 50px; background-color: yellowgreen; float:top;"></div>
-						<div style="float:top">
-							<a style="float:right;">4M</a>
-						</div>
-						<span class="tooltiptext">高速缓冲</span>
-					</div>
-					<div id="memoryVdisk" style="width: 50px; height:70px; float:left;" class="tooltip">
-						<div style="width: 50px; height: 50px; background-color: purple; float:top;"></div>
-						<div style="float:top">
-							<a style="float:right;">4.5M</a>
-						</div>
-						<span class="tooltiptext">虚拟盘</span>
-					</div>
-					<div id="memoryMain" style="width: 50px; height:70px; float:left;" class="tooltip">
-						<div style="width: 50px; height: 50px; background-color: yellow; float:top;"></div>
-						<div style="float:top">
-							<a style="float:right;">16M</a>
-						</div>
-						<span class="tooltiptext">主内存区</span>
-						<!-- B8000以后，显示地址，在某个变量里-->
-					</div>
-				</div>
-			</div>
+			<script src="memory.js"></script>
 		</div>
 		<div id="myExecute">
-
 			<div id="myLogWindow">
 				<header id="myLogHeader">
 					<img class="myIcon" src="img/logheader.png" alt="Log"/>
@@ -670,79 +169,47 @@
 						<div class="dropdown">
 							<div class="dropbtn">选项</div>
 							<div class="dropdown-content">
-								<a>选项1</a>
-								<a>选项2</a>
-								<a>选项3</a>
+								<a href="drawVis.html">导入字符数据</a>
 							</div>
 						</div>
 					</div>
 				</header>
 				<div id="myLogButtonBar">
 					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px;" src="img/starticon.png" alt="start">
+						<img class="myIcon" style="margin-left:5px" src="img/starticon.png" alt="start">
 						<span class="tooltiptext">开始</span>
 					</div>
 					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px;" src="img/pauseicon.png" alt="pause">
+						<img class="myIcon" style="margin-left:5px" src="img/pauseicon.png" alt="pause">
 						<span class="tooltiptext">暂停</span>
 					</div>
 					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px;" src="img/stopicon.png" alt="stop">
+						<img class="myIcon" style="margin-left:5px" src="img/stopicon.png" alt="stop">
 						<span class="tooltiptext">停止</span>
 					</div>
 					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px;" src="img/rewinddown.png" alt="rewind">
+						<img class="myIcon" style="margin-left:5px" src="img/rewinddown.png" alt="rewind">
 						<span class="tooltiptext">后退</span>
 					</div>
 					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px;" src="img/speedicon.png" alt="speed">
+						<img class="myIcon" style="margin-left:5px" src="img/speedicon.png" alt="speed">
 						<span class="tooltiptext">前进</span>
 					</div>
 				</div>
 				<div id="myLogWindowOutput">
-				
+					<!--
 					<div class="myLogItem">
 						Debug Log Message.
-					</div>
-					<div class="myLogItem">
-						Debug Log Message.
-					</div>
-					<div class="myLogItem">
-						Debug Log Message.
-					</div> 
-					<div class="myLogItem">
-						Debug Log Message.
-					</div> 
-					<div class="myLogItem">
-						Debug Log Message.
-					</div> 
-					<div class="myLogItem">
-						Debug Log Message.
-					</div>
-					<div class="myLogItem">
-						Debug Log Message.
-					</div>
-					<div class="myLogItem">
-						Debug Log Message.
-					</div>
+					</div> -->
+
 				</div>
 			</div>
-			<div id="myScreenWindow" class="myRightWindow">
-				<header id="myScreenWindowHeader">
-					<img class="myIcon" src="img/console.png" alt="Con"/>
-					Console Output
-					<div class="myRightMenu">
-						<a id="consoleClearBtn">清空</a>
-						<a>输出</a>
-					</div>
-				</header>
-				<div id="myScreenWindowOutput">
-				</div>
-			</div>
+
+			<script src="rightConsole.js"></script>
 		</div>
 	</div>
 	<footer>
-		linux0.11运行可视化 Created by 宋振华、陈宇翔
+		linux0.11运行可视化 Created by 宋振华、陈宇翔. 指导老师：杨兴强
 	</footer>
 </body>
 </html>

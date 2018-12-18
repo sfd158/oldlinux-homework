@@ -1,0 +1,74 @@
+body div#myMainBody div#myExecute{
+    margin-left: 610px;
+    width: 400px;
+    height: 600px;
+}
+
+div#myLogWindow{
+    height: 300px;
+}
+
+div#myLogButtonBar{
+    height: 20px;
+    border-top: 0.5px solid black;
+    background-color: #F4F4F4;
+    border-bottom: 0.5px solid black;
+}
+
+div#myLogWindowOutput{
+    background-color: #F4F4F4;
+    overflow-y: auto;
+    height: 255px;
+}
+
+div.myLogItem{
+    background-color: #FAFAD2;
+    box-shadow: 2px 2px 5px #bbb;
+    height: 35px;
+    margin-top: 2px;
+    margin-left: 5px;
+}
+
+.myIcon{
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+
+div#myScreenWindow{
+    height: 300px;
+    border: 2px solid black;
+}
+
+div#myExecute div header{
+    background-color: #F0FFFF;
+    user-select: none;
+    height: 20px;
+}
+
+textarea#myScreenWindowOutput{
+    overflow-y: auto;
+    background-color: black;
+    height: 275px;
+    width: 385px;
+    border: 2px solid white;
+    color: white;
+}
+
+.myConsoleItem{
+    float:left;
+    text-align: left;
+    color: white;
+    font-size: 10px;
+}
+
+.myRightMenu{
+    display: inline;
+    float: right;
+}
+
+/*
+code{
+    margin-top: -2px;
+    font-size: 10px;
+}*/

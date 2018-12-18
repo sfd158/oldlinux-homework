@@ -1,0 +1,83 @@
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <title>调用次数最多函数</title>
+    <link rel="icon" type="image/x-icon" href="img/linuxicon.png"/>
+    <link rel="stylesheet" href="drawCalled.css" type="text/css" />
+    <script src="jquery-3.3.1.js"></script>
+    <script src="d3.v3.min.js" charset="utf-8"></script>
+    <script src="initDrawBar.js" charset="utf-8"></script>
+    <script src="getUrlParam.js" charset="utf-8"></script>
+</head>
+
+<body>
+
+<script>
+    const drawCnt = getUrlParam('drawcnt');
+    let initCalled = $.getJSON("json/initCall/called.json", function(jn) {
+        let dataset = [], rawData = [];
+        let tpCntArr = [];
+        $.each(jn, function(idx, obj){
+            $.each(obj, function (idx1, obj1) {
+                let tpcnt = 0;
+                $.each(obj1, function(idx2, obj2){
+                    tpcnt += obj2["callCnt"];
+                });
+                tpCntArr.push([idx1, idx, tpcnt]);
+            });
+        });
+        tpCntArr.sort(function(a,b){
+            return b[2] - a[2];
+        });
+        for(let i=0; i<drawCnt; i++)
+        {
+            dataset.push(Math.log10(tpCntArr[i][2]));
+            rawData.push(tpCntArr[i][2]);
+            if(i % 4 == 0)
+            {
+                $("table#drawMessList").append($("<tr></tr>"));
+            }
+            $("table#drawMessList tr:last").append($("<td></td>").html(i))
+                .append($("<td></td>").html(tpCntArr[i][0]).attr({"barcnt":i}).hover(
+                    function()
+                    {
+                        $(this).addClass("hovered");
+                        $("body svg rect").eq($(this).attr("barcnt")).addClass("hovered");
+                    },
+                    function()
+                    {
+                        $(this).removeClass("hovered");
+                        $("body svg rect").eq($(this).attr("barcnt")).removeClass("hovered");
+                    }
+                )).append($("<td></td>").html(tpCntArr[i][1].slice(0,tpCntArr[i][1].length-2)+"."+tpCntArr[i][1][tpCntArr[i][1].length-1]));
+        }
+
+        initDraw(dataset, rawData, 40*drawCnt, 400);
+        $("body svg rect").each(
+            function(idx)
+            {
+                $(this).hover(
+                    function()
+                    {
+                        $(this).addClass("hovered");
+                        $("table#drawMessList td[barcnt="+idx+"]").addClass("hovered");
+                    },
+                    function()
+                    {
+                        $(this).removeClass("hovered");
+                        $("table#drawMessList td[barcnt="+idx+"]").removeClass("hovered");
+                    }
+                );
+            }
+        );
+    });
+
+</script>
+<h4>被调用次数最多函数</h4>
+<svg id="drawPanel"></svg>
+<table id="drawMessList" style="text-align: left;
+	    font-size: 12px; border: 1px solid black;">
+
+</table>
+</body>
+</html>

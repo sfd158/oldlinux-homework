@@ -1,0 +1,30 @@
+.axis path,
+.axis line{
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+
+.MyRect {
+    fill: lightblue;
+}
+
+.MyText {
+    font-size: 10px;
+    color: black;
+}
+
+.hovered{
+    background-color: lightgreen;
+    fill: lightgreen;
+}
+
+.clicked{
+    background-color: palevioletred;
+    fill: palevioletred;
+}

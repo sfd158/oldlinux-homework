@@ -1,0 +1,170 @@
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <title>调用情况统计图</title>
+    <link rel="icon" type="image/x-icon" href="img/linuxicon.png"/>
+    <link rel="stylesheet" href="drawCalled.css" type="text/css" />
+    <script src="jquery-3.3.1.js"></script>
+    <script src="d3.v3.min.js" charset="utf-8"></script>
+    <script src="initDrawBar.js" charset="utf-8"></script>
+    <script src="getUrlParam.js" charset="utf-8"></script>
+</head>
+
+<body>
+
+<script>
+    const idx = getUrlParam('filename');
+
+    let initCalled = $.getJSON("json/initCall/called.json", function(jn) {
+        const obj = jn[idx];
+        let dataset = [], rawData = [];
+        $.each(obj, function(idx1, obj1){
+            let fcnt = 0;
+            $.each(obj1, function(idx2, obj2){
+                //console.log(obj2);
+                fcnt += obj2["callCnt"];
+            });
+            if(fcnt > 0)
+            {
+                rawData.push(fcnt);
+                dataset.push(Math.log10(fcnt));
+                if((rawData.length-1) % 4 == 0)
+                {
+                    //console.log("fuck");
+                    $("table#drawMessList").append($("<tr></tr>"));
+                }
+                $("table#drawMessList tr:last").append($("<td></td>").html(rawData.length-1))
+                    .append($("<td></td>").html(idx1).attr({"barcnt":rawData.length-1}).hover(
+                        function()
+                        {
+                            $(this).addClass("hovered");
+                            $("svg#drawPanel rect").eq($(this).attr("barcnt")).addClass("hovered");
+                        },
+                        function()
+                        {
+                            $(this).removeClass("hovered");
+                            $("svg#drawPanel rect").eq($(this).attr("barcnt")).removeClass("hovered");
+                        }
+                    )).click(function() {
+                        //$("svg#drawPanel rect").eq($(this).attr("barcnt")).click();
+                    //TODO: 加入点击文本也能交互的功能
+                    }
+                );
+            }
+        });
+
+        initDraw(dataset, rawData, 800, 300);
+        $("body svg#drawPanel rect").each(
+            function(idxD)
+            {
+                $(this).attr({"funcName":$("table#drawMessList td[barcnt="+idxD+"]").text()}).hover(
+                    function()
+                    {
+                        $(this).addClass("hovered");
+                        $("table#drawMessList td[barcnt="+idxD+"]").addClass("hovered");
+                    },
+                    function()
+                    {
+                        $(this).removeClass("hovered");
+                        $("table#drawMessList td[barcnt="+idxD+"]").removeClass("hovered");
+                    }
+                ).click(
+                    function()
+                    {
+                        console.log("fuck");
+
+                        const funcName = $(this).attr("funcName");
+                        const obj1 = initCalled.responseJSON[idx][funcName];
+                        $("table#drawMessList td").removeClass("clicked");
+                        $("body svg#drawPanel rect").removeClass("clicked");
+                        $("table#drawMessList td[barcnt="+idxD+"]").addClass("clicked");
+                        $(this).addClass("clicked");
+                        let dataSetF = [], rawDataF = [];
+                        //console.log(obj1);
+                        $("table#backList").html("");
+                        $.each(obj1, function(idx2, obj2){
+                            const fcnt = obj2["callCnt"];
+                            //console.log(idx2 + obj2);
+                            rawDataF.push(fcnt);
+                            dataSetF.push(Math.log10(fcnt));
+                            if((rawDataF.length-1) % 3 == 0)
+                            {
+                                $("table#backList").append($("<tr></tr>"));
+                            }
+                            $("table#backList tr:last").append($("<td></td>").html(rawDataF.length-1))
+                                .append($("<td></td>").html(obj2["callFunc"]).attr({"barcnt":rawDataF.length-1}).hover(
+                                    function()
+                                    {
+                                        $(this).addClass("hovered");
+                                        $("body svg#drawBack rect").eq($(this).attr("barcnt")).addClass("hovered");
+                                    },
+                                    function()
+                                    {
+                                        $(this).removeClass("hovered");
+                                        $("body svg#drawBack rect").eq($(this).attr("barcnt")).removeClass("hovered");
+                                    }
+                                )).click(function() {
+
+                                }
+                            ).append($("<td></td>").html(obj2["callFile"].slice(0,obj2["callFile"].length-2)+"."+obj2["callFile"][obj2["callFile"].length-1]));
+                        });
+                        initDraw(dataSetF, rawDataF, 300, 200, "drawBack");
+                        $("svg#drawBack rect").each(
+                            function(idxD)
+                            {
+                                $(this).hover(
+                                    function()
+                                    {
+                                        $(this).addClass("hovered");
+                                        $("table#backList td[barcnt="+idxD+"]").addClass("hovered");
+                                    },
+                                    function()
+                                    {
+                                        $(this).removeClass("hovered");
+                                        $("table#backList td[barcnt="+idxD+"]").removeClass("hovered");
+                                    }
+                                );
+                            }
+                        );
+
+
+                    }
+                );
+                //console.log($(this).attr("funcName"));
+            }
+        );
+    });
+
+    $(document).ready(
+      function()
+      {
+          $("a#FileName").html(idx);
+      }
+    );
+
+</script>
+<h4><a>本文件函数被调用情况</a><a id="FileName"></a></h4>
+<svg id="drawPanel"></svg>
+<div>
+    <div style="float:left;">
+        <h4 style="margin-top:-10px;">本文件调用情况</h4>
+        <table id="drawMessList" style="text-align: left; margin-top:-15px;
+	    font-size: 12px; border: 1px solid black; width: 500px; height: 90px; overflow-y: auto;">
+        </table>
+        <h4 style="margin-top: 0px;">调用字</h4>
+        <table id="backList" style="text-align:left; font-size:12px; border: 1px solid black;
+            width: 500px; height: 90px; margin-top: -10px;">
+            <tr>
+                <td></td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <h4>调用字</h4>
+        <svg id="drawBack" style="width: 300px; height:200px;"></svg>
+    </div>
+    <!-- TODO: 调用字滑动时，要同时对应上函数名和对应文件，然后再加一下分隔符-->
+</div>
+
+</body>
+</html>

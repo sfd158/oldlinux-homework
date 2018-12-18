@@ -1,0 +1,18 @@
+{
+  "file":"buffer.c",
+  "function":[{"type":"void","name":"wait_on_buffer","startline":38,"spanline":6,"para":[{"paraType":"struct buffer_head *", "paraName":"bh"}]},
+    {"type":"int","name":"sys_sync","startline":46,"spanline":13,"para":[]},
+    {"type":"int","name":"sync_dev","startline":61,"spanline":23,"para":[{"paraType":"int", "paraName":"dev"}]},
+    {"type":"void","name":"invalidate_buffers","startline":86,"spanline":13,"para":[{"paraType":"int", "paraName":"dev"}]},
+    {"type":"void","name":"check_disk_change","startline":115,"spanline":13,"para":[{"paraType":"int", "paraName":"dev"}]},
+    {"type":"void","name":"remove_from_queues","startline":133,"spanline":16,"para":[{"paraType":"struct buffer_head *", "paraName":"bh"}]},
+    {"type":"void","name":"insert_into_queues","startline":151,"spanline":15,"para":[{"paraType":"struct buffer_head *", "paraName":"bh"}]},
+    {"type":"struct buffer_head *","name":"find_buffer","startline":168,"spanline":8,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"block"}]},
+    {"type":"struct buffer_head *","name":"get_hash_table","startline":185,"spanline":13,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"block"}]},
+    {"type":"struct buffer_head *","name":"getblk","startline":208,"spanline":45,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"block"}]},
+    {"type":"void","name":"brelse","startline":255,"spanline":8,"para":[{"paraType":"struct buffer_head *", "paraName":"buf"}]},
+    {"type":"struct buffer_head *","name":"bread","startline":269,"spanline":14,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"block"}]},
+    {"type":"void","name":"bread_page","startline":298,"spanline":19,"para":[{"paraType":"unsigned long", "paraName":"address"}, {"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"b[4]"}]},
+    {"type":"struct buffer_head *","name":"breada","startline":324,"spanline":24,"para":[{"paraType":"int", "paraName":"dev"}, {"paraType":"int", "paraName":"first"}, {"paraType":"", "paraName":"..."}]},
+    {"type":"void","name":"buffer_init","startline":350,"spanline":33,"para":[{"paraType":"long", "paraName":"buffer_end"}]}
+  ]}
