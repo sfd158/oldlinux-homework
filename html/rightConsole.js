@@ -3,12 +3,8 @@ document.writeln(`
 				<header id="myScreenWindowHeader">
 					<img class="myIcon" src="img/console.png" alt="Con"/>
 					Console Output
-					<div class="myRightMenu">
-						<a onclick="$('textarea#myScreenWindowOutput').html('');">清空</a>
-						<a>输出</a>
-					</div>
 				</header>
-				<textarea id="myScreenWindowOutput" spellcheck="false">
+				<textarea id="myScreenWindowOutput" spellcheck="false" readonly="readonly" style="font-size:10px; resize: horizontal;">
 				</textarea>
 			</div>
     `);

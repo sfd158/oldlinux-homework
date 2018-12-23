@@ -34,13 +34,20 @@
 						$("#"+idx).click( function() {
 							outExplain(idx);
 							if(idx[idx.length-1] == 's')return;
-							$.getJSON("json/"+idx+".json",function(jn0){
+							$.getJSON("json/cfile/"+idx+".json",function(jn0){
 								$.ajax({url:obj["src"],dataType:"text",success:function(srcfile){
 										addFunc(jn0,srcfile,idx);
 									}});
 							});
 						});
 					}
+				});
+
+				outExplain("sched_c");
+				$.getJSON("json/cfile/sched_c.json",function(jn0){
+					$.ajax({url:jn["sched_c"]["src"],dataType:"text",success:function(srcfile){
+							addFunc(jn0,srcfile,"sched_c");
+						}});
 				});
 			});
 		});
@@ -102,7 +109,6 @@
 		function()
 		{
 			//window.open("drawCalled.html");
-
 			$("a#fileCallButton").click(
 			function()
 			{
@@ -147,7 +153,6 @@
 							<a id="fileCallButton">全局文件调用</a>
 							<a id="funcCallButton">全局函数调用</a>
 							<a id="nowFileCallButton">本文件函数调用</a>
-							<a>本文件调用外部</a>
 						</div>
 					</div>
 				</header>
@@ -174,38 +179,12 @@
 						</div>
 					</div>
 				</header>
-				<div id="myLogButtonBar">
-					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px" src="img/starticon.png" alt="start">
-						<span class="tooltiptext">开始</span>
-					</div>
-					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px" src="img/pauseicon.png" alt="pause">
-						<span class="tooltiptext">暂停</span>
-					</div>
-					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px" src="img/stopicon.png" alt="stop">
-						<span class="tooltiptext">停止</span>
-					</div>
-					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px" src="img/rewinddown.png" alt="rewind">
-						<span class="tooltiptext">后退</span>
-					</div>
-					<div class="tooltip">
-						<img class="myIcon" style="margin-left:5px" src="img/speedicon.png" alt="speed">
-						<span class="tooltiptext">前进</span>
-					</div>
-				</div>
-				<div id="myLogWindowOutput">
-					<!--
-					<div class="myLogItem">
-						Debug Log Message.
-					</div> -->
-
-				</div>
+				<script src="logBtnBar.js"></script>
+				<div id="myLogWindowOutput"></div>
 			</div>
 
 			<script src="rightConsole.js"></script>
+			<script>$("textarea#myScreenWindowOutput").attr({"style":"font-size: 10px; resize: none;"});</script>
 		</div>
 	</div>
 	<footer>

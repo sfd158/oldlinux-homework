@@ -7,141 +7,230 @@
     <link rel="stylesheet" href="rightMyExecute.css" type="text/css" />
     <link rel="stylesheet" href="tooltip.css" type="text/css" />
     <link rel="stylesheet" href="RightWindowDropDown.css" type="text/css" />
+    <link rel="stylesheet" href="chrSvg.css" type="text/css" />
     <script src="jquery-3.3.1.js"></script>
+    <link rel="stylesheet" href="jquery-ui-1.12.1/jquery-ui.min.css"/>
+    <script src="jquery-ui-1.12.1/jquery-ui.min.js"></script>
+    <style>
+        div.statTabItem{
+            width: 100px;
+            font-size: 10px;
+            display: inline;
+        }
+    </style>
     <script>
-        $(document).ready(
+        let nowLogItem = 0, logScrollSpeed = 100, lastLogState = 0;
+        let funcTypeOK = false;
+        let chrFuncType, funcType = $.getJSON("json/chrdrvCall/funcType.json",
             function()
             {
-
+                chrFuncType = $.getJSON("json/chrdrvCall/chrFuncType.json", function(){
+                    funcTypeOK = true;
+                });
             }
         );
 
+        //这里有个同步问题。。
+        function initJsonLog(jn)
+        {
+            $.ajax({url:"initConsole.txt", "dataType":"text",success:function(txt)
+                {
+                    $("textarea#myScreenWindowOutput").html(txt);
+                }});
+            if(!funcTypeOK) return;
+            lastLogState = 0;
+            nowFile = jn;
+            nowLogItem = 0;
+            let p = $("div#myLogWindowOutput").html("");
+            $.each(jn, function(idx, obj){
+                let t = $("<div></div>").addClass("myLogItem");
+                if(obj[0]["funcName"] != undefined)
+                {
+                    t.append($("<div></div>").text(idx + " Func: " + obj[0]["funcName"]));
+                    t.append($("<div></div>").attr({"style":"margin-left: 200px; margin-top: -10px;"}).text("File: " + obj[0]["fileName"]));
+                }
+                else
+                {
+                    t.append($("<div></div>").text(idx + " outputScreen"));
+                }
+                p.append(t);
+            });
+        }
+
+
+        let echoFile, AoutFile, nowFile;
+
+        function drawNow(isAdd)
+        {
+            $("rect").each(
+                function()
+                {
+                    $(this).removeClass("nowRect");
+                }
+            );
+            if(nowLogItem < 0) return;
+            const scr = nowFile[nowLogItem][0]["screen"];
+            const func = nowFile[nowLogItem][0]["funcName"];
+            if(scr != undefined)
+            {
+                $("textarea#myScreenWindowOutput").html(scr);
+            }
+            if(func != undefined)
+            {
+                const tpe = funcType.responseJSON[func];
+                $("rect#global" + tpe).addClass("nowRect");
+
+                const cpe = chrFuncType.responseJSON[func];
+                if(cpe != undefined)
+                {
+                    $("rect#local" + cpe).addClass("nowRect");
+                }
+
+                let cnt1 = $("#Tbl" + tpe);
+                let cnt2 = $("#TTbl" + cpe);
+
+                cnt1.html(parseInt(cnt1.text())+isAdd);
+
+                cnt2.html(parseInt(cnt2.text())+isAdd);
+            }
+            else
+            {
+
+            }
+        }
+
+        $(document).ready(
+            function()
+            {
+                $("a#aoutCallLog").hide();
+                $("a#echoCallLog").hide();
+                echoFile = $.getJSON("json/chrdrvCall/echo.json", function(jn){
+                    $("a#echoCallLog").show();
+                });
+
+                AoutFile = $.getJSON("json/chrdrvCall/a.out.json",function(jn){
+                    $("a#aoutCallLog").show();
+                });
+
+                $("a#echoCallLog").click(
+                    function()
+                    {
+                        initJsonLog(echoFile.responseJSON);
+                    }
+                );
+
+                $("a#aoutCallLog").click(
+                function()
+                {
+                    initJsonLog(AoutFile.responseJSON);
+                }
+                );
+
+                $("img#forwardBtn").click(
+                    function()
+                    {
+                        if(nowLogItem < 0)nowLogItem = 0;
+                        if(nowLogItem >= nowFile.length)return;
+                        $("div#myLogWindowOutput").animate(
+                            {scrollTop: (++nowLogItem) * 37},0);
+                        drawNow(1);
+                        //37: height + margin-top(懒得写了)
+                    }
+                );
+
+                $("img#backBtn").click(
+                    function()
+                    {
+                        if(nowLogItem > nowFile.length)nowLogItem = nowFile.length;
+                        if(nowLogItem <= 0)return;
+                        drawNow(-1);
+                        $("div#myLogWindowOutput").animate(
+                            {scrollTop: (--nowLogItem) * 37},0);
+                        drawNow(0);
+                        for(i=nowLogItem; i>=0; i--)
+                        {
+                            const scr = nowFile[i][0]["screen"];
+                            if(scr != undefined)
+                            {
+                                $("textarea#myScreenWindowOutput").html(scr);
+                                break;
+                            }
+                        }
+                    }
+                );
+
+                $("img#startBtn").click(
+                    function()
+                    {
+                        if(lastLogState == 0)
+                        {
+                            nowLogItem = 0;
+                        }
+                        const itemCnt = nowFile.length;
+                        function aniBackFunc(isForward)
+                        {
+                            if(nowLogItem >= itemCnt) return;
+                            drawNow(1);
+                            nowLogItem++;
+                            $("div#myLogWindowOutput").animate(
+                                    {scrollTop: nowLogItem * 37},logScrollSpeed, aniBackFunc);
+                        }
+
+                        $("div#myLogWindowOutput").animate(
+                            {scrollTop: nowLogItem * 37},logScrollSpeed, aniBackFunc);
+                    }
+                );
+
+                $("img#pauseBtn").click(
+                    function ()
+                    {
+                        $("div#myLogWindowOutput").stop();
+                        lastLogState = 1;
+                    }
+                );
+
+                $("img#stopBtn").click(
+                    function()
+                    {
+                        $("div#myLogWindowOutput").stop();
+                        lastLogState = 0;
+                    }
+                );
+
+                $("a#mySetting").click(
+                    function()
+                    {
+                        const barmax = 150;
+                        function refreshSwatch()
+                        {
+                            logScrollSpeed = barmax + 1 - $("#slider").slider( "value");
+                            //console.log(logScrollSpeed);
+                        }
+
+                        $("#slider").slider({
+                            orientation: "horizontal",
+                            range: "min",
+                            max: barmax,
+                            value: barmax + 1 - logScrollSpeed,
+                            slide: refreshSwatch,
+                            change: refreshSwatch
+                        });
+                        $("#dialog").dialog();
+                    }
+                );
+            }
+        );
 
     </script>
 </head>
 <body>
 
 <div style="transform: scale(0.67,0.67); position: absolute; margin-top:-100px; margin-left:-100px; x:0; y:0; user-select:none;">
-    <svg width="600" height="600" style=" ">
-        <rect id="globalHardware" height="32" width="494" y="453.139484" x="12.774119" stroke-width="1.5" stroke="#000" fill="#FFB27C"/>
-        <rect stroke="#000" id="globalHardwareCtrl" height="29" width="490" y="396.886425" x="14.183766" stroke-width="1.5" fill="#CE7975"/>
-        <rect stroke="#000" id="globalDeviceCtrl" height="70" width="190" y="309.219756" x="22.228943" stroke-opacity="null" stroke-width="1.5" fill="#9ACEE6"/>
-        <rect stroke="#000" id="globalFileSystem" height="70.40965" width="190" y="215.605284" x="22.340352" stroke-opacity="null" stroke-width="1.5" fill="#CBFFFF"/>
-        <rect id="globalProcessCtrl" height="167" width="245" y="217.219756" x="248.978943" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFAAB8"/>
-        <rect id="globalSystemCallIntf" height="34" width="490" y="163.219756" x="9.978943" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFAFCC"/>
-        <rect id="globalFuncLib" height="35" width="203.615219" y="97.715097" x="271.686632" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#DDDDDD"/>
-        <rect id="globalUserProg" height="35" width="180.723567" y="44.702851" x="163.252492" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#A4FFFF"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="144.703224" x2="557.024119" y1="147.112871" x1="10.024119" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="436.270579" x2="557" y1="433.860931" x1="10" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <rect stroke="#000" id="globalManageProg" height="39.759185" width="121.6872" y="282.469756" x="356.048238" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" id="globalProcessComm" height="39.759185" width="120.482375" y="225.469756" x="356.228943" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" id="globalMemoryManage" height="38.554361" width="119.277563" y="341.892712" x="358.433937" stroke-opacity="null" stroke-width="1.5" fill="#B9FFCE"/>
-        <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="478.037803" x="217.469562" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">硬件</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="421.411084" x="200.602028" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">硬件控制</text>
-        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" y="520.206637" x="506.204823" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">硬件级</text>
-        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" y="412.977322" x="517.470684" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">内核级</text>
-        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" y="128.638897" x="510.241748" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">用户级</text>
-        <rect stroke="#000" id="globalBuffer" height="32.530242" width="103.61485" y="250.326104" x="105.420946" stroke-opacity="null" stroke-width="1.5" fill="#EEFF9F"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="275.627408" x="117.469189" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">高速缓冲</text>
-        <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="245.506814" x="42.770113" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">文件子系统</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="186.470461" x="186.144143" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">系统调用接口</text>
-        <rect stroke="#000" id="globalCharDrv" height="31.325498" width="85" y="312.615514" x="29.517057" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" id="globalBlockDrv" height="30" width="85" y="314.181768" x="121.083659" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="333.458951" x="28.312226" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">字符设备</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="334.663774" x="133.131897" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">块设备</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="370.808494" x="53.613528" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">设备驱动程序</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="367.194012" x="374.096658" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">内存管理</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="309.362475" x="375.301472" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">调度程序</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="253.940584" x="362.04841" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">进程间通信</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="121.409975" x="345.180888" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">函数库</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="69.602531" x="211.445443" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">用户程序</text>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="217.469756" x2="116.264364" y1="197.469756" x1="116.264364" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="310.567299" x2="62.047294" y1="285.265999" x1="62.047294" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="309.362475" x2="163.252492" y1="282.856352" x1="163.252492" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="397.314611" x2="119.878836" y1="378.03743" x1="119.878836" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="238.277872" x2="247.228943" y1="238.277872" x1="211.445443" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="220.205515" x2="370.482182" y1="197.313863" x1="370.482182" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="397.469756" x2="310.240993" y1="382.469756" x1="310.240993" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="397.314611" x2="418.675133" y1="379.242254" x1="418.675133" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <rect stroke="#000" height="25.301298" width="13.253062" y="426.23038" x="228.312976" stroke-opacity="null" stroke-width="1.5" fill="#729C62"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="164.27718" x2="209" y1="79.27718" x1="209.035786" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="96.911883" x2="310.240984" y1="77.634702" x1="310.240984" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="164.382014" x2="369.277349" y1="134.27718" x1="369.277349" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="283.659572" x="258.433563" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">进程控制</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="310.165706" x="269.276977" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">子系统</text>
-    </svg>
+    <script src="chrdrvGlobalSvg.js"></script>
 </div>
 
 <div style="transform:scale(0.67, 0.67);position:absolute; margin-top:-100px; margin-left: 350px; user-select:none;">
-    <svg width="300" height="600">
-        <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="445.908369" x="25.301435" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">终端显示器</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="447.11318" x="165.060213" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">终端键盘</text>
-        <rect stroke="#000" id="localMonitor" height="33.734857" width="116.867259" y="421.812025" x="19.277342" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" id="localKeyboard" height="34.93968" width="102.409452" y="420" x="157.831307" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" height="109.638352" width="286.746454" y="20.607934" x="7" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" height="28.915607" width="203.614097" y="25.427213" x="15.662894" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="48.31873" x="16.867712" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">系统调用</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="48.318739" x="97.590459" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">read</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="47.113921" x="153.01204" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">write</text>
-        <rect stroke="#000" id="localCharDrvIntf" height="27.710793" width="199.999624" y="73.619896" x="20.482172" stroke-opacity="null" stroke-width="1.5" fill="#EDFFFF"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="70.005444" x="114.457896" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">read_write.c</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="45" x="270" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">文</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="70" x="270" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">件</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="95" x="269.879293" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">系</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="22" y="120" x="270" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">统</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="119.402943" x="132.530153" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">char_dev.c</text>
-        <rect stroke="#000" id="localSecondary" height="24.096343" width="121.686523" y="167.194014" x="107.228995" stroke-width="1.5" fill="#84D3DB"/>
-        <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="157.555481" x="144.578323" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">tty_read()</text>
-        <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" y2="164.784384" x2="121.686799" y1="102.133896" x1="121.686799" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" id="localwrite_queue" height="27.710798" width="106.023903" y="322.615414" x="39.75924" stroke-width="1.5" fill="#84D3DB"/>
-        <rect stroke="#000" id="localread_queue" height="26.505979" width="133.734688" y="231" x="120.481987" stroke-opacity="null" stroke-width="1.5" fill="#84D3DB"/>
-        <rect stroke="#000" id="svg_34" height="24.096341" width="102.40945" y="166.999998" x="119.277165" stroke-width="1.5" fill="#7DD8B5"/>
-        <rect height="26.505975" width="86.746828" y="323.000002" x="51.80741" stroke-width="1.5" stroke="#000" fill="#7DD8B5"/>
-        <rect stroke="#000" height="27" width="101.204632" y="231.000002" x="134.939785" stroke-opacity="null" stroke-width="1.5" fill="#7DD8B5"/>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="228.639687" x2="134.939787" y1="192.495176" x1="134.939787" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="204.543334" x="140.963866" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">copy_to_</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="181.651817" x="13.253267" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">tty_</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="204.543325" x="13.253261" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">write()</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="373.217736" x="59.036312" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">con_</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="392.494808" x="60.241128" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">write()</text>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="420.205601" x2="53.012227" y1="351.531028" x1="54.217044" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="286.470898" x="121.686793" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">回显</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="308.157608" x="124.096431" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">echo</text>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="321.410601" x2="90.361556" y1="100.929079" x1="89.156739" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" y2="321.410606" x2="106.024182" y1="259.964934" x1="124.096438" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="222.615591" x="142.168689" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">cooked()</text>
-        <line stroke-linecap="null" stroke-linejoin="null" y2="420" x2="187.951738" y1="258.760114" x1="189.156555" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="341.892484" x="195.180638" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">put_</text>
-        <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" y2="73.218286" x2="93.024086" y1="52.736396" x1="92.77118" fill-opacity="null" stroke-opacity="null" fill="none"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="363.579192" x="192.771004" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">queue()</text>
-        <rect height="267.469388" width="287" y="137.073596" x="7.229187" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <rect stroke="#000" height="71.084206" width="287" y="415.386328" x="7" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" stroke-dasharray="5,5" id="localtty_write" height="46.987864" width="73.493839" y="167.194008" x="12.048447" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" id="localcon_write" height="39.758963" width="93.97573" y="356.35029" x="57.831495" fill-opacity="null" stroke-opacity="null" stroke-dasharray="5,5" stroke-width="1.5" fill="none"/>
-        <rect id="localput_queue" height="46.987865" width="78.313109" y="326.229865" x="192.771005" fill-opacity="null" stroke-opacity="null" stroke-dasharray="5,5" stroke-width="1.5" stroke="#000" fill="none"/>
-        <rect stroke="#000" id="localtty_read" height="18.07221" width="110.843172" y="143.097791" x="142.168689" fill-opacity="null" stroke-opacity="null" stroke-dasharray="5,5" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" id="localcopy_to_cooked" height="33.734886" width="91.566101" y="192.495181" x="142.168688" fill-opacity="null" stroke-opacity="null" stroke-dasharray="5,5" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" id="localreadcall" height="22.891514" width="49.3975" y="28.640034" x="98.795273" fill-opacity="null" stroke-opacity="null" stroke-dasharray="5,5" stroke-width="1.5" fill="none"/>
-        <rect stroke="#000" id="localwritecall" height="24.09634" width="61.445668" y="28.640065" x="153.012041" fill-opacity="null" stroke-opacity="null" stroke-dasharray="5,5" stroke-width="1.5" fill="none"/>
-        <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="245" x="14" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">字</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="265" x="14" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">符</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="285" x="14" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">设</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="305" x="14" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">备</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="325" x="14" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">驱</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="345" x="14" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">动</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="365" x="14" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">程</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="385" x="14" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">序</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="480.446453" x="120.481981" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">控制台终端设备</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="16" y="515.386148" x="12" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">备注: con_write()在console.c中</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="16" y="535" x="12" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">put_queue()在kb.s中</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="16" y="555" x="12" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">copy_to_cooked(),tty_read(),</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="16" y="575" x="12" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">tty_write()在tty_io.c中</text>
-        <rect stroke-dasharray="5,5" id="localecho" height="46.987865" width="54.216768" y="268.398651" x="121.686799" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="250.326395" x="151.807226" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">read_q</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="184.061456" x="124.096432" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">secondary</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="18" y="341.892492" x="60.241129" stroke-width="0" stroke="#000" fill="#000000">write_q</text>
-        <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="20" y="96.109811" x="60.241131" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">字符设备接口</text>
-    </svg>
+    <script src="chrdrvSvg.js"></script>
 </div>
 <div id="myExecute" style="position:absolute; margin-left: 600px;">
     <div id="myLogWindow">
@@ -152,61 +241,16 @@
                 <div class="dropdown">
                     <div class="dropbtn">选项</div>
                     <div class="dropdown-content">
-                        <a>选项1</a>
-                        <a>选项2</a>
-                        <a>选项3</a>
+                        <a id="aoutCallLog">a.out执行记录</a>
+                        <a id="echoCallLog">echo执行记录</a>
+                        <a id="mySetting">设置</a>
                     </div>
                 </div>
             </div>
         </header>
-        <div id="myLogButtonBar">
-            <div class="tooltip">
-                <img class="myIcon" style="margin-left:5px" src="img/starticon.png" alt="start">
-                <span class="tooltiptext">开始</span>
-            </div>
-            <div class="tooltip">
-                <img class="myIcon" style="margin-left:5px" src="img/pauseicon.png" alt="pause">
-                <span class="tooltiptext">暂停</span>
-            </div>
-            <div class="tooltip">
-                <img class="myIcon" style="margin-left:5px" src="img/stopicon.png" alt="stop">
-                <span class="tooltiptext">停止</span>
-            </div>
-            <div class="tooltip">
-                <img class="myIcon" style="margin-left:5px" src="img/rewinddown.png" alt="rewind">
-                <span class="tooltiptext">后退</span>
-            </div>
-            <div class="tooltip">
-                <img class="myIcon" style="margin-left:5px" src="img/speedicon.png" alt="speed">
-                <span class="tooltiptext">前进</span>
-            </div>
-        </div>
+        <script src="logBtnBar.js"></script>
         <div id="myLogWindowOutput">
 
-            <div class="myLogItem">
-                Debug Log Message.
-            </div>
-            <div class="myLogItem">
-                Debug Log Message.
-            </div>
-            <div class="myLogItem">
-                Debug Log Message.
-            </div>
-            <div class="myLogItem">
-                Debug Log Message.
-            </div>
-            <div class="myLogItem">
-                Debug Log Message.
-            </div>
-            <div class="myLogItem">
-                Debug Log Message.
-            </div>
-            <div class="myLogItem">
-                Debug Log Message.
-            </div>
-            <div class="myLogItem">
-                Debug Log Message.
-            </div>
         </div>
     </div>
 
@@ -214,9 +258,85 @@
 </div>
 
 <div style="position:absolute; margin-top: 430px;">
-    <script src="memory.js"></script>
+
 </div>
 
+<div id="dialog" title="设置" style="display:none;">
+    <p>执行速度</p>
+    <div id="slider"></div>
+    <div><a sytle="float:left;">慢</a><a style="float:right;">快</a></div>
+</div>
+
+<!--
+2: "globalDeviceCtrl"
+4: "globalProcessCtrl"
+8: "globalManageProg" -->
+
+<table style="position: absolute; margin-top:400px; font-size: 12px;" id="globalTable">
+    <tr>
+        <td id="TblTFuncLib">函数库</td>
+        <td id="TblFuncLib" style="width:50px;">0</td>
+        <td id="TblTSystemCallIntf">系统调用接口</td>
+        <td id="TblSystemCallIntf" style="width:50px;">0</td>
+    </tr>
+    <tr>
+        <td id="TblTFileSystem" >文件子系统</td>
+        <td id="TblFileSystem" style="width:50px;">0</td>
+        <td id="TblTBuffer">高速缓冲</td>
+        <td id="TblBuffer" style="width:50px;">0</td>
+    </tr>
+    <tr>
+        <td id="TblTCharDrv">字符设备</td>
+        <td id="TblCharDrv" style="width:50px;">0</td>
+        <td id="TblTBlockDrv">块设备</td>
+        <td id="TblBlockDrv" style="width:50px;">0</td>
+    </tr>
+    <tr>
+        <td id="TblTProcessCommunicate">进程间通信</td>
+        <!-- ProcessComm名称要改。。-->
+        <td id="TblProcessCommunicate" style="width:50px;">0</td>
+        <td id="TblTManageProg">调度程序</td>
+        <td id="TblManageProg" style="width:50px;">0</td>
+    </tr>
+    <tr>
+        <td id="TblTMemoryManage">内存管理</td>
+        <td id="TblMemoryManage" style="width:50px;">0</td>
+        <td id="TblTHardwareCtrl">硬件控制</td>
+        <td id="TblHardwareCtrl" style="width:50px;">0</td>
+    </tr>
+</table>
+
+<!--
+2: "localCharDrvIntf"
+6: "localCharDrv"
+-->
+<table style="position: absolute; margin-top:400px; margin-left: 300px; font-size: 12px;" id="localTable">
+    <tr>
+        <td>read</td>
+        <td id="TTblreadcall" style="width:50px;">0</td>
+        <td>write</td>
+        <td id="TTblwritecall" style="width:50px;">0</td>
+    </tr>
+    <tr>
+        <td>tty_read</td>
+        <td id="TTbltty_read" style="width:50px;">0</td>
+        <td>tty_write</td>
+        <td id="TTbltty_write" style="width:50px;">0</td>
+    </tr>
+    <tr>
+        <td>copy_to_cooked</td>
+        <td id="TTblcopy_to_cooked" style="width:50px;">0</td>
+        <td>put_queue</td>
+        <td id="TTblput_queue" style="width:50px;">0</td>
+    </tr>
+    <tr>
+        <td>con_write</td>
+        <td id="TTblcon_write" style="width:50px;">0</td>
+        <td>CharDrv</td>
+        <td id="TTblCharDrv" style="width:50px;">0</td>
+    </tr>
+
+</table>
 <footer style="margin-top: 600px; position:absolute;">
     linux0.11运行可视化 Created by 宋振华、陈宇翔. 指导老师：杨兴强
 </footer>

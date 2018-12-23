@@ -2,10 +2,6 @@ document.writeln(`
 <div id="myMemory">
 				<header>
 					<a>内存使用状态</a>
-					<span style="float:right;">
-						<a>正在执行地址: <span>0x0000000</span></a>
-						<a>内存读写地址: <span>0x0000000</span></a>
-					</span>
 					
 				</header>
 				<div id="memoryBar">

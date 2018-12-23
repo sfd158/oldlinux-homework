@@ -1,0 +1,24 @@
+rect{
+    stroke-width:1.5;
+    stroke:#000;
+}
+
+rect.nowRect
+{
+    stroke-width:10;
+    stroke:red;
+}
+
+text{
+    stroke:#000;
+    stroke-width:0;
+    font-family: 'Courier New', Courier, monospace;
+    text-anchor: start;
+    fill:#000000;
+    space:preserve;
+}
+
+line{
+    stroke:#000;
+    fill:#000000;
+}

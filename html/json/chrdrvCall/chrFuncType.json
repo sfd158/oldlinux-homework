@@ -1,0 +1,27 @@
+{
+  "rw_char":"CharDrv",
+  "rw_ttyx":"CharDrv",
+  "tty_read":"tty_read",
+  "put_queue":"put_queue",
+  "do_tty_interrupt":"CharDrv",
+  "copy_to_cooked":"copy_to_cooked",
+  "tty_write":"tty_write",
+  "sleep_if_full":"CharDrv",
+  "con_write":"con_write",
+  "set_cursor":"CharDrv",
+  "cr":"CharDrv",
+  "lf":"CharDrv",
+  "scrup":"CharDrv",
+  "set_origin":"CharDrv",
+  "sys_ioctl":"CharDrvIntf",
+  "tty_ioctl":"CharDrv",
+  "wait_until_sent":"CharDrv",
+  "set_termios":"CharDrv",
+  "change_speed":"CharDrv",
+  "rw_memory":"CharDrv",
+  "set_termio":"CharDrv",
+  "get_termios":"CharDrv",
+  "sys_write":"writecall",
+  "sys_read":"readcall"
+}
+

@@ -8,13 +8,19 @@
     <script src="d3.v3.min.js" charset="utf-8"></script>
     <script src="initDrawBar.js" charset="utf-8"></script>
     <script src="getUrlParam.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="jquery-ui-1.12.1/jquery-ui.min.css"/>
+    <script src="jquery-ui-1.12.1/jquery-ui.min.js"></script>
 </head>
 
 <body>
 
 <script>
-    const drawCnt = getUrlParam('drawcnt');
-    let initCalled = $.getJSON("json/initCall/called.json", function(jn) {
+    let drawCnt = getUrlParam('drawcnt');
+    function initglo(jn)
+    {
+        $("#drawPanel").html("");
+        $("#drawMessList").html("");
+
         let dataset = [], rawData = [];
         let tpCntArr = [];
         $.each(jn, function(idx, obj){
@@ -70,14 +76,52 @@
                 );
             }
         );
+    }
+
+    let initCalled = $.getJSON("json/initCall/called.json", function(jn) {
+        initglo(jn);
     });
 
 </script>
-<h4>被调用次数最多函数</h4>
+<style>
+    a#showCntBtn:hover{
+        color: #003eff;
+    }
+</style>
+<h4 style="user-select: none;">被调用次数最多函数<a id="showCntBtn" style="margin-left: 10px;">显示数量</a></h4>
+<script>
+
+    $("a#showCntBtn").click(
+        function()
+        {
+            function refreshSwatch()
+            {
+                drawCnt = $("#slider").slider( "value");
+                initglo(initCalled.responseJSON);
+            }
+
+            $("#slider").slider({
+                orientation: "horizontal",
+                range: "min",
+                max: 100,
+                min: 10,
+                value: drawCnt,
+                slide: refreshSwatch,
+                change: refreshSwatch
+            });
+            $("#dialog").dialog();
+            $("#dialog").show();
+        }
+    );
+</script>
 <svg id="drawPanel"></svg>
 <table id="drawMessList" style="text-align: left;
 	    font-size: 12px; border: 1px solid black;">
-
 </table>
+<div id="dialog" title="设置" style="display:none;">
+    <p>显示数量</p>
+    <div id="slider"></div>
+    <div><a sytle="float:left;">少</a><a style="float:right;">多</a></div>
+</div>
 </body>
 </html>
