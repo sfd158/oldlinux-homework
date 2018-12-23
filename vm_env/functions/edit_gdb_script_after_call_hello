@@ -1,0 +1,5 @@
+#!/bin/bash
+source header/base_edit_gdb_script
+
+geany gdb_script_aftercall 2> /dev/null
+read -n 1

@@ -1,0 +1,10 @@
+#!/bin/bash
+source header/base
+
+cd ~/linux-0.11-lab
+sudo make hd-mount
+cd ~/linux-0.11-lab/rootfs/_hda
+echo "正常关闭文件管理器时，修改会自动保存。如果不小心关闭了这个终端，执行外面的umount_rootfs_hd脚本也可以保存修改。"
+sudo pcmanfm . 2> /dev/null
+cd ~/linux-0.11-lab
+sudo make hd-umount

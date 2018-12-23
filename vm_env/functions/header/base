@@ -1,0 +1,6 @@
+set -e
+if [[ "$1" != "gui" ]] ; then
+    lxterminal --geometry=100x50 -e "$0" gui
+    exit 0
+fi
+cd ~/linux-0.11-lab

@@ -1,0 +1,19 @@
+#!/bin/bash
+source header/base
+
+#cd ~/linux-0.11-lab
+#make fd-mount
+#cd ~/linux-0.11-lab/rootfs/_flp
+#echo "正常关闭文件管理器时，修改会自动保存。如果不小心关闭了这个终端，执行外面的umount_rootfs_floppy脚本也可以保存修改。"
+#sudo pcmanfm . 2> /dev/null
+#cd ~/linux-0.11-lab
+#make fd-umount
+
+
+cd ~/linux-0.11-lab/rootfs
+mkdir tmp 2> /dev/null || true
+sudo mount rootram.img tmp
+echo "正常关闭文件管理器时，修改会自动保存。如果不小心关闭了这个终端，执行外面的umount_rootfs_floppy脚本也可以保存修改。"
+sudo pcmanfm ./tmp 2> /dev/null
+sudo umount tmp
+rm -r tmp

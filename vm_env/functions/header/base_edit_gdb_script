@@ -1,0 +1,67 @@
+source header/base
+
+mv rootfs/hdc-0.11.img rootfs/hdc-0.11.img.bak 2> /dev/null || true
+mv rootfs/rootimage-0.11 rootfs/rootimage-0.11.bak 2> /dev/null || true
+make distclean
+mv rootfs/hdc-0.11.img.bak rootfs/hdc-0.11.img 2> /dev/null || true
+mv rootfs/rootimage-0.11.bak rootfs/rootimage-0.11 2> /dev/null || true
+echo '说明：
+首先，在保存之前，请不要关闭这个终端窗口
+
+edit_gdb_script_before_boot脚本打开的文件中的断点会在系统启动之前添加。
+edit_gdb_script_after_call_hello脚本打开的文件中的断点会在调用sys_hello()系统调用之后添加。
+
+#代表注释
+
+加断点的格式为(缩进可以随意写，<行号>也可以改成变量名，注意行号是从0开始的)：
+break <文件名>:<行号> [条件]
+  comm
+    start_output
+    <在此处写上你的操作>
+    stop_output
+  end
+
+常用语句：
+echo <内容> 显示一些内容（不会自动换行，但是可以添加\n令其换行）
+print <变量名> 显示变量
+print <表达式> 显示表达式的计算结果
+i locals 显示所有局部变量
+i r <寄存器名> 显示寄存器内容
+i r a 显示所有寄存器
+bt [<最大深度>] 以给定的最大深度显示调用堆栈，不给定则输出全部
+set $<变量名>=<内容> 定义gdb内部变量
+$<变量名> 引用gdb内部变量
+条件分支语句：
+if <条件>
+[else]
+end
+循环语句：
+while <条件>
+end
+
+常用的其他语法：
+
+定义函数：
+define <函数名>
+  [操作1]
+  [操作2]
+  [...]
+end
+函数支持传参数，$arg1是第一个参数的值，$arg2是第二个参数的值...
+调用时直接把函数名写在程序中即可，不需要加括号，参数直接写在后面，以空格分隔
+一个完整的例子：
+define myprint
+  print $arg1
+end
+myprint "this is my print"
+
+调用其他的gdb脚本（可以模块化调试脚本，使其更加简洁优美）：
+source <路径>
+
+注意：
+文件里有一个断点触发操作的例子,gdb还支持值修改触发，特定条件下（如a==b）触发，中断触发等
+调试汇编时，汇编文件中不是所有的行都会执行，比如pushl eax；pushl ebx连接在一起可能在x86机器语言中只有一条指令，这个时候在pushl ebx加断点是无效的，该断点会被跳过
+直接print字符串，gdb会每次生成一个新字符串，时间一长内存消耗极大，建议像第一行一样先定义再输出，定义可以加在任何地方，建议加在11行及以后，输出静态字符串还是建议使用echo
+printstrlable的实际意思是输出一个让过滤器识别的标志，过滤器会从第一次标志出现开始的前2行一直输出到第二次标志出现(标志行不输出)，然后重置过滤器状态等待下一个标志
+
+提示：如果你是第一次查看说明，请滚动到最上方，从头查看。'

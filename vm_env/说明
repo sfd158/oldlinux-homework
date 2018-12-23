@@ -1,0 +1,23 @@
+所有功能都在functions文件夹里。
+每一个文件的功能为：
+clean：清理中间文件（建议加断点前清理一下，免得把中间文件加上断点导致一些奇怪的错误）
+edit_gdb_script_*：编辑gdb脚本（打开会出现详细说明）
+edit_rootfs_floppy：修改软盘启动模式下的文件
+edit_rootfs_hd：修改硬盘启动模式下的文件
+normal_boot_floppy：软盘模式启动
+normal_boot_hd：硬盘模式启动
+run_gdb_script_floppy_console_livedisplay：软盘模式debug启动，将屏幕显示为命令行（影响键盘输入时Linux的行为），实时显示debug输出
+run_gdb_script_floppy_console_redirect：软盘模式debug启动，将屏幕显示为命令行（影响键盘输入时Linux的行为），重定向debug输出到文件
+run_gdb_script_floppy_livedisplay：软盘模式debug启动，正常显示屏幕（无法复制内容），实时显示debug输出
+run_gdb_script_floppy_redirect：软盘模式debug启动，正常显示屏幕（无法复制内容），重定向debug输出到文件
+run_gdb_script_hd_console_livedisplay：硬盘模式debug启动，将屏幕显示为命令行（影响键盘输入时Linux的行为），实时显示debug输出
+run_gdb_script_hd_console_redirect：硬盘模式debug启动，将屏幕显示为命令行（影响键盘输入时Linux的行为），重定向debug输出到文件
+run_gdb_script_hd_livedisplay：硬盘模式debug启动，正常显示屏幕（无法复制内容），实时显示debug输出
+run_gdb_script_hd_redirect：硬盘模式debug启动，正常显示屏幕（无法复制内容），重定向debug输出到文件
+start_debug_floppy：软盘模式debug启动，正常显示屏幕（无法复制内容），打开带图形界面的调试
+start_debug_floppy_console：软盘模式debug启动，将屏幕显示为命令行（影响键盘输入时Linux的行为），打开带图形界面的调试
+start_debug_hd：硬盘模式debug启动，正常显示屏幕（无法复制内容），打开带图形界面的调试
+start_debug_hd_console：硬盘模式debug启动，将屏幕显示为命令行（影响键盘输入时Linux的行为），打开带图形界面的调试
+start_terminal：在linux0.11 lab目录下启动命令行（如果你对linux0.11 lab非常熟悉，这可能会非常有用）
+umount_rootfs_floppy：非法关闭edit_rootfs_floppy后的补救措施
+umount_rootfs_hd：非法关闭edit_rootfs_hd后的补救措施

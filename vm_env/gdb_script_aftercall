@@ -1,0 +1,24 @@
+#These breakpoints will be enable after you
+#call the sys_hello() system call at /usr/root/examples/syscall/syscall
+
+break main.c:116
+  comm
+    start_output
+    echo This message will never be displayed.\n
+    stop_output
+  end
+
+break chr_drv/tty_io.c:wait_for_keypress
+  comm
+    start_output
+    echo Yeah~\n
+    stop_output
+  end
+
+break chr_drv/console.c:gotoxy
+  comm
+    start_output
+    echo 233\n
+#    printscreen
+    stop_output
+  end

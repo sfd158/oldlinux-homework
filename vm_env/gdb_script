@@ -1,0 +1,67 @@
+set $strlable="sdughbiueksuihgiwfiuwfiiuehrgiowihief"
+define printstrlable
+  echo sdughbiueksuihgiwfiuwfiiuehrgiowihief\n
+end
+define start_output
+  printstrlable
+end
+define stop_output
+  printstrlable
+  c
+end
+define printscreen_preboot
+  set $printscreen_i=80
+  set $printscreen_j=25
+  set $printscreen_addr=0xb8000
+  echo --------------------------------------------------------------------------------\n
+  while ($printscreen_j)
+    set $printscreen_j--
+    set $printscreen_i=80
+    while ($printscreen_i)
+      set $printscreen_i--
+      printf "%c",*(char*)$printscreen_addr
+      set $printscreen_addr+=2
+    end
+    echo \n
+  end
+  echo --------------------------------------------------------------------------------\n
+end
+define printscreen
+  set $printscreen_i=80
+  set $printscreen_j=25
+  set $printscreen_addr=origin
+  echo --------------------------------------------------------------------------------\n
+  while ($printscreen_j)
+    set $printscreen_j--
+    set $printscreen_i=80
+    while ($printscreen_i)
+      set $printscreen_i--
+      printf "%c",*(char*)$printscreen_addr
+      set $printscreen_addr+=2
+    end
+    echo \n
+  end
+  echo --------------------------------------------------------------------------------\n
+end
+break head.s:19
+  comm
+    c
+  end
+break page.s:15
+  comm
+    c
+  end
+break sys.c:sys_hello
+  comm
+    echo --------------------------------------------------------------------------------\n
+    echo --------------------------------------------------------------------------------\n
+    start_output
+    echo You just called sys_hello(), additional breakpoints will be loaded.\n
+    start_output
+    source gdb_script_aftercall
+    c
+  end
+source gdb_script_beforeboot
+c
+c
+q

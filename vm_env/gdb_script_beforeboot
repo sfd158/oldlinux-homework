@@ -1,0 +1,11 @@
+#These breakpoints will be enable before boot.
+
+break chr_drv/console.c:108
+  comm
+    start_output
+    printscreen
+#   i locals
+#
+#   print i
+    stop_output
+  end

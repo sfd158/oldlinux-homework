@@ -1,0 +1,5 @@
+#!/bin/bash
+source header/base
+
+cd ~/linux-0.11-lab
+sudo make hd-umount

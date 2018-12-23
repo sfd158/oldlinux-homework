@@ -1,0 +1,12 @@
+#!/bin/bash
+source header/base
+
+mv rootfs/hdc-0.11.img rootfs/hdc-0.11.img.bak 2> /dev/null || true
+mv rootfs/rootimage-0.11 rootfs/rootimage-0.11.bak 2> /dev/null || true
+make distclean
+mv rootfs/hdc-0.11.img.bak rootfs/hdc-0.11.img 2> /dev/null || true
+mv rootfs/rootimage-0.11.bak rootfs/rootimage-0.11 2> /dev/null || true
+
+echo 需要将linux0.11的硬盘软盘恢复到一开始的状态吗？按回车表示需要，否则右上角关闭。
+read
+make distclean

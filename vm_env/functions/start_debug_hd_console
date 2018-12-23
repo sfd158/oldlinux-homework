@@ -1,0 +1,6 @@
+#!/bin/bash
+source header/base
+
+lxterminal --geometry=85x30 -e sudo make debug-hd G=0
+sleep 5s
+nemiver src/kernel.sym

@@ -1,0 +1,7 @@
+#!/bin/bash
+source header/base
+
+lxterminal --geometry=85x30 -e sudo make debug-hd
+sleep 5s
+echo 'q' | gdb -x gdb_script src/kernel.sym | awk 'BEGIN{flag=0;pre="";prepre=""}{if($0~/sdughbiueksuihgiwfiuwfiiuehrgiowihief/){flag=1-flag;if(flag==1){print prepre;print pre}else{print "\n"}}else{if(flag==1){print $0}}prepre=pre;pre=$0}'
+#gdb -x gdb_script src/kernel.sym | cat
